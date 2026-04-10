@@ -1,8 +1,8 @@
 onset_seconds,speaker_id,text
-0.0,1,Bom dia [UNRESOLVED_ENTITY].
+0.0,1,Bom dia [PERSON_F].
 0.0,2,"Bom dia [PERSON_A], tudo bom?"
 3.0,1,Tudo ótimo e você?
-4.0,2,Tudo bem. [UNRESOLVED_ENTITY] já tá entrando aqui. O Mateus não vai conseguir entrar porque ele tá lá na tecnologia era tentando arrumar um. A gente teve um problema técnico com o carregador e ele tá lá tentando resolver.
+4.0,2,Tudo bem. [UNRESOLVED_ENTITY] já tá entrando aqui. O [PERSON_E] não vai conseguir entrar porque ele tá lá na tecnologia era tentando arrumar um. A gente teve um problema técnico com o carregador e ele tá lá tentando resolver.
 24.0,1,escuta só para lembrar como é que tá a tua projeção lá no projeções financeiras
 34.0,2,Bom aqui eu tenho a mais atualizada bom posso até mandar para você.
 42.0,1,Talvez sobrar um tempinho se mostra como é que tá?
@@ -16,12 +16,12 @@ onset_seconds,speaker_id,text
 95.0,1,Mas agora tá melhor. Não sei porque que melhorou. Então falando que até se alimentação sabe menos açúcar e tal dá menos rinite.
 112.0,4,É então diminuir esses alimentos alergênicos.
 119.0,1,"Talvez seja isso que eu melhorei um pouco, mas ainda de vez em quando ataca. Vamos começar então."
-127.0,4,"Vamos lá, tô dando fera aqui já. [UNRESOLVED_ENTITY] é, vamos tentar seguir, né? Agenda mas como assim como nas duas últimas semanas, a gente tá vivendo uma volatilidade. Muito grande aí com relação ao que a gente tem ouvido dos takeholders na [PARTNER_A] e dos [UNRESOLVED_ENTITY]. A gente está tomando para atender os pesados. O começo é notícia boa, né? Então a gente deixa as unhas para depois. Mas de notícia boa, vou trazer umas duas acho que tem depois mais umas duas que o Zé pode trazer."
+127.0,4,"Vamos lá, tô dando fera aqui já. [UNRESOLVED_ENTITY] é, vamos tentar seguir, né? Agenda mas como assim como nas duas últimas semanas, a gente tá vivendo uma volatilidade. Muito grande aí com relação ao que a gente tem ouvido dos takeholders na [PARTNER_A] e dos [UNRESOLVED_ENTITY]. A gente está tomando para atender os pesados. O começo é notícia boa, né? Então a gente deixa as unhas para depois. Mas de notícia boa, vou trazer umas duas acho que tem depois mais umas duas que o [PERSON_F] pode trazer."
 169.0,4,"De começo a reunião que a gente teve com [UNRESOLVED_ENTITY] semana passada foi Espetacular. Que talvez uma das melhores reuniões que a gente tem tido aí desde o início da incubação, ele segue acreditando muito. Ele acha assim que o nosso discurso tem que ser de começar por pesados para que a [PARTNER_A] abrace. Mas que ele falou que enquanto vendas se um cliente que tem caminhão elétrico da [PARTNER_A] quer colocar a nossa infra para carregar uma operação off-road esses cara tem máquina agrícolas. Esse cara tem carro leve elétrico lá tem que carregar tudo."
 205.0,4,"Tem que vender e a gente já viu algumas coisas positivas dele uma delas foi que o nosso projeto tem que continuar não pode morrer agora. E inclusive ele foi um patrocinador aí da ideia de que a gente tem que para [LOCATION_E] apresentar para algumas pessoas. E foi fundamental que vocês apresentam para algumas pessoas lá, ele inclusive começou a acionar uns contatos dele, ele quer que a gente apresente lá no fórum."
 235.0,4,"chamado [UNRESOLVED_ENTITY], né que é um [UNRESOLVED_ENTITY] decisório da área de seios marketing E ele falou se vocês conseguirem esse apoio lá do fórum no bvt global. Ele ganha argumento para absorver a gente. Então foi uma reunião assim muito positiva tanto que o [UNRESOLVED_ENTITY] e o Gabriel estão atuando aí já para Para que ainda hoje a gente tem uma decisão sobre a saída para lá?"
 263.0,1,"Tão rápido assim, que bom."
-265.0,4,"E em paralelo o treino de ser boa que eu quero trazer. Vai ter um monte aí para trazer de matéria. Tudo mas vou trazer que a gente de uma forma completamente orgânica sem colocar dinheiro de marketing propriamente dito. Só com essa exposição na mídia aí com que a gente tem feito do nada surgiram e dois agendamentos. O Mateus tá lá resolvendo problema no carregador. Se tudo der certo hoje à tarde, a gente já tem dois."
+265.0,4,"E em paralelo o treino de ser boa que eu quero trazer. Vai ter um monte aí para trazer de matéria. Tudo mas vou trazer que a gente de uma forma completamente orgânica sem colocar dinheiro de marketing propriamente dito. Só com essa exposição na mídia aí com que a gente tem feito do nada surgiram e dois agendamentos. O [PERSON_E] tá lá resolvendo problema no carregador. Se tudo der certo hoje à tarde, a gente já tem dois."
 293.0,4,dois serviços para realizar
 299.0,1,"Isso que nem é o foco, né? Se fosse."
 301.0,4,Que não botamos energia de forma completamente orgânica.
@@ -34,7 +34,7 @@ onset_seconds,speaker_id,text
 342.0,2,"divulgação, né? Os acessos ao site cresceram muito por conta disso. E aí duas pessoas acabaram comprando e agendando o serviço de recarga que vamos tentar fazer hoje, né? Bom além disso. A gente teve uma a gente retomou um contato semana passada com a Evolution que era um contato que Possivelmente a financiado as operação, né? Mas a gente entra em contato com eles, porque eles têm falta de veículos elétricos, então eles poderiam ser um possível cliente, né? Então a gente chegou pedindo uma carta de intenção e tudo mais eles foram bem abertos. E aparentemente vão ver né? Essa semana se eles vão mandar a carta de intenção para a gente, mas foi foi bem positiva a reunião também."
 410.0,1,Evolution se vier carta carta de intenção assinada.
 411.0,2,e sei
-426.0,4,"Zé foi uma semana muito mais positiva do que Do que negativa mas tem também alguns percalços que a gente fala ali já já no supermercado. Não muda tá [PERSON_A], como a gente ficou focado muito nessas coisas operacionalizar teste para pesado. A gente gastou muita energia com tecnologia aérea essa semana. Card não muda"
+426.0,4,"[PERSON_F] foi uma semana muito mais positiva do que Do que negativa mas tem também alguns percalços que a gente fala ali já já no supermercado. Não muda tá [PERSON_A], como a gente ficou focado muito nessas coisas operacionalizar teste para pesado. A gente gastou muita energia com tecnologia aérea essa semana. Card não muda"
 449.0,1,"É só uma observação discorrer, talvez coloque lá uma eixo de vocês verem se coloca esse número de acessos ao site e tal é bom é bom mostrar né? Então, talvez fosse de colocar ali no score [UNRESOLVED_ENTITY], né? Como é que tá? Como é"
 463.0,4,Boa tá declarada?
 464.0,1,"que está a evolução a matéria da Quatro Rodas depois a matéria da UOL? Que que tá acontecendo, né? Que é uma evidência bonitinha de atração, sabe? Lógico que só Acesso ao site não é a métrica principal, né? A métrica principal é os dois que vocês conseguiram né? Mas é que se a gente mostra"
@@ -44,7 +44,7 @@ onset_seconds,speaker_id,text
 531.0,2,"Bom, acho que não tem muita novidade não, viu a gente. Pos tantas ações estão prontos. Mas e o Live Plus."
 544.0,1,Vamos ver se der tempo bota vamos dar uma passadinha.
 545.0,2,A gente dá uma passada.
-549.0,4,Eu acho que talvez hoje na hora do [UNRESOLVED_ENTITY] seja o principal ponto né? O Zé
+549.0,4,Eu acho que talvez hoje na hora do [UNRESOLVED_ENTITY] seja o principal ponto né? O [PERSON_F]
 554.0,2,A gente passa rapidamente.
 555.0,4,compartilha e a gente dá uma olhada.
 557.0,1,Porque tá na hora de vocês começarem a mostrar né? Ou já estão mostrando é bom dar uma
@@ -53,7 +53,7 @@ onset_seconds,speaker_id,text
 585.0,2,sim é um
 586.0,1,É daí quando o que que entra na despesa a depreciação do investimento que a gente faz em 60 meses no caso aí de [UNRESOLVED_ENTITY].
 593.0,2,"Eu tava tava considerando isso, só que uma coisa que conversando aqui, a gente"
-596.0,4,"Boa validar, conceitualmente que é do Mateus tá um track também a gente tem"
+596.0,4,"Boa validar, conceitualmente que é do [PERSON_E] tá um track também a gente tem"
 598.0,2,"chegou à conclusão também. Tô bagunçando um pouco aqui a ordem, mas só para não esquecer a gente começou a considerar não investir em software, porque já tem muito software de carregamento e a [PARTNER_A] já tem o próprio também lá na [UNRESOLVED_ENTITY], então, talvez a gente nem precisaria de um aplicativo próprio, né?"
 622.0,1,"É mais de qualquer maneira, vocês têm agendamento, né? Vocês têm sorte de agendamento disponível?"
 629.0,2,Então já tem né?
@@ -64,7 +64,7 @@ onset_seconds,speaker_id,text
 681.0,2,beleza
 685.0,4,"aí. A possibilidade bem real de conseguir testar pelo menos a usina de cana antes do fim da incubação. A ideia é que a gente consiga fazer isso semana que vem. É Vai ser muito bom, a gente tem um teste Off Road antes de encerrar essa etapa. As provas de tração também acredito que esteja aí é quase done, na verdade. A gente já tem o interesse aí de seus marketing. A gente já tem o interesse da da lotes que também vamos fazer aí uma poc com eles possivelmente amanhã ou quarta-feira."
 725.0,4,"Que já era para ter acontecido, mas já já a gente fala sobre isso o interesse da [PARTNER_B] ele anda junto com o da [UNRESOLVED_ENTITY], porque lá que a gente vai fazer essa operação. Aí a gente já teve a conversa lá com com se ou ele que nos passou até a estratégia de conseguir o máximo de cartas de intenção possível. Ele não tem o dinheiro agora para absorver a gente mas ele falou que seria um caminho da gente provar. Que tem muita gente. Querendo bancar o negócio."
-756.0,4,"E o interesse da tecnologia era também já existe né? [UNRESOLVED_ENTITY]? Tá lá inclusive nesse momento resolvendo questões técnicas segue. Bem e o item 4 aí que é desenvolver e apresentar os peixes, nós já temos um pit mãe. Também considere praticamente done dia 11, agora a gente tem. um bitcoins [UNRESOLVED_ENTITY] E temos aí também novas rodadas aí para fazer com o harcha com o pessoal de seus marketing global e etc. Com o com o galão essa semana ainda."
+756.0,4,"E o interesse da tecnologia era também já existe né? [PERSON_E]? Tá lá inclusive nesse momento resolvendo questões técnicas segue. Bem e o item 4 aí que é desenvolver e apresentar os peixes, nós já temos um pit mãe. Também considere praticamente done dia 11, agora a gente tem. um bitcoins [UNRESOLVED_ENTITY] E temos aí também novas rodadas aí para fazer com o harcha com o pessoal de seus marketing global e etc. Com o com o galão essa semana ainda."
 795.0,4,"Então tá praticamente done também, vamos esperar só finalizar mesmo a Rock porque aí até lá a gente vai ter feito todos os Beats."
 805.0,1,"Não vai ser tão exigente, mas tem que fazer um mínimo né? Tem que fazer o"
 807.0,4,"É antes da gente proibis. Já trouxe teve gente querendo contratar de notícia, não muito boa, né? A gente na semana passada, se não me falha a memória na quarta-feira, né? A gente tava indo para para [UNRESOLVED_ENTITY] a tecnologia era eu acho que aí houve uma falha. Nossa também eu faço essa autocrítica, já fiz aqui dentro. Eu acho que a gente deveria ter sido um pouco mais duro com a tecnologia era na estratégia do teste. A gente deixou muito solto."
@@ -82,24 +82,24 @@ onset_seconds,speaker_id,text
 1079.0,4,e ainda
 1079.0,1,Também não sei do ponto de vista da aprendizagem uma crise é mais forte.
 1083.0,4,"Não faz parte, né? A gente a gente até a gente já tinha tido uma pequenininha com a com a plugin, né que não funcionou. O carregador rápido no lá na [UNRESOLVED_ENTITY] parte vamos fazer a carga com lento também de uma comidinha no fígado deles. E aí no para fazer a matéria da Quatro Rodas, eles fizeram pré-teste aí. Agora essa com a tecnologia era e como nada, então é tão ruim que não possa dar uma pioradinha."
-1111.0,4,"Quando o veículo voltou e a tecnologia foi atuar para fazer as correções, aí deu um problema no carregador rápido. Que é por isso que Mateus tá lá agora a gente conseguiu aí uma autorizada da [PARTNER_D], essa autorizada tá lá na tecnogera agora para trocar o módulo de potência do carregador a gente acredita. Que isso vai resolver o problema é tanto que a gente. A gente não abriu para esses clientes do agendamento de hoje que tinha um problema a gente como a gente tem um confidente level alto de que esse suporte até as 11 horas da manhã, resolve o problema a gente mantém os agendamentos."
-1149.0,4,A gente Manteve os agendamentos. A ideia é que entre 11 horas e meia o veículo esteja liberado. E aí o Mateus sai de lá junto com o motorista e a gente eu e o Zé a gente pega um Uber vai encontrar eles.
+1111.0,4,"Quando o veículo voltou e a tecnologia foi atuar para fazer as correções, aí deu um problema no carregador rápido. Que é por isso que [PERSON_E] tá lá agora a gente conseguiu aí uma autorizada da [PARTNER_D], essa autorizada tá lá na tecnogera agora para trocar o módulo de potência do carregador a gente acredita. Que isso vai resolver o problema é tanto que a gente. A gente não abriu para esses clientes do agendamento de hoje que tinha um problema a gente como a gente tem um confidente level alto de que esse suporte até as 11 horas da manhã, resolve o problema a gente mantém os agendamentos."
+1149.0,4,A gente Manteve os agendamentos. A ideia é que entre 11 horas e meia o veículo esteja liberado. E aí o [PERSON_E] sai de lá junto com o motorista e a gente eu e o [PERSON_F] a gente pega um Uber vai encontrar eles.
 1164.0,1,Olha o lado bom aprender um monte tão calejado tem argumentos.
 1170.0,4,uma coisa legal que eu trago também dessa experiência toda é que
 1172.0,1,"Para os próximos eventos, né? Uma vamos testar quem que vai junto, né? Vocês já tem argumentos. Que a tecnologia era ou que seja o parceiro que for não vai poder escapar, né?"
-1194.0,4,"O cara que agendou pelo site através da o segundo que agendou através da matéria do álcool é do bairro bem nobre aqui de [LOCATION_B], era um jardim ali perto na região do [UNRESOLVED_ENTITY] que chama [UNRESOLVED_ENTITY] ali é bem de bacana mesmo, né? Ali é público Classe A? Esse cara ele agendou pelo site. E aí ele também acionou a gente pelo WhatsApp, né? Pelo site quem cuida é o Zé pelo WhatsApp sou eu. E aí no WhatsApp, ele falou [UNRESOLVED_ENTITY], eu fiz um agendamento pelo site aqui no [UNRESOLVED_ENTITY]."
+1194.0,4,"O cara que agendou pelo site através da o segundo que agendou através da matéria do álcool é do bairro bem nobre aqui de [LOCATION_B], era um jardim ali perto na região do [UNRESOLVED_ENTITY] que chama [UNRESOLVED_ENTITY] ali é bem de bacana mesmo, né? Ali é público Classe A? Esse cara ele agendou pelo site. E aí ele também acionou a gente pelo WhatsApp, né? Pelo site quem cuida é o [PERSON_F] pelo WhatsApp sou eu. E aí no WhatsApp, ele falou [UNRESOLVED_ENTITY], eu fiz um agendamento pelo site aqui no [UNRESOLVED_ENTITY]."
 1233.0,4,"e Só que eu tenho cara, meu carro tá com a bateria zerada. Eu queria saber se não dá para converter para emergencial. Isso já era sexta-feira quase sete horas da noite tá cortando o cabelo e falando com o cara no WhatsApp. Aí eu tive que dar um sambarilove no cara falei, olha, nós somos uma Startup o nosso equipamento tá em um evento no interior de [LOCATION_B]."
 1259.0,4,"Então, a gente tá lá no showroom carregando alguns veículos lá esse fim de semana a gente não tá operando a emergencial. Por isso você precisa sair com seu carro, porque daí na minha cabeça já tava um negócio não vou ligar para plugin. Se tiver que pagar [UNRESOLVED_ENTITY] 1000 para plugin a gente paga, mas resolve o problema desse cara, né? Eu já tava com a cabeça aqui pensando em Ligar para plugin aí o cara falou não eu não vou sair com o carro eu só tô só posso aproveitar o cara, viu? A gente o cara tratou outra charge."
 1286.0,4,Acho que até pelo estojo tem a marca [PARTNER_A] por trás atua a gente como especialista ele falou então você pode tirar duas dúvidas minhas. Aí o cara começou a tirar dúvida técnica perguntou se deixar o carro dele com a bateria zerada até segunda-feira poderia danificar aí a gente já tem toda uma pesquisa prévia que a gente fez é tranquilizei o cara. Falei que ele pode ficar até 10 dias com a bateria zerada sem nenhum risco de dano.
 1312.0,4,"Aí o cara ficou mais tranquilo, aí ele até me falou que no site ele colocou o número errado que ele colocou que a casa é 152, mas é 153. A gente tem que lembrar na hora de lá o cara ele ficou tranquilo, então, acho que a gente a gente fez um teste aí até de saque, né?"
 1329.0,1,isso
-1334.0,4,"Ele ficou mais o Zé fez um saque também com o primeiro, né, Zé que agendou e a gente está vindo para o [UNRESOLVED_ENTITY], né? Acho que você tá mudo, hein, Zé?"
+1334.0,4,"Ele ficou mais o [PERSON_F] fez um saque também com o primeiro, né, [PERSON_F] que agendou e a gente está vindo para o [UNRESOLVED_ENTITY], né? Acho que você tá mudo, hein, [PERSON_F]?"
 1348.0,2,"No dia que a gente tava indo lá para [UNRESOLVED_ENTITY] a gente na verdade estava em [UNRESOLVED_ENTITY], né? E aí a gente tava naquele embrólio lá de ver se vai não vai se funciona se não funciona e não tava funcionando no caso, né? E aí o cara também apareceu a notificação para você ter um agendamento novo, o cara já tinha pago. E eu falei e tipo assim era 11 horas da manhã. O cara agendou para meio-dia e meio eu falei [UNRESOLVED_ENTITY], nem se a gente quisesse ia dar aí eu aí eu peguei o número dele, mandei no WhatsApp e tipo aí. Mandei um áudio explicando falei a gente é um piloto é uma start que tá começando então estamos aqui numa outra atendimento da gente tava tá no meio da estrada. A gente só tem imunidade e tal e toda a explicação aí o cara respondeu."
 1400.0,2,"Meio bravo assim até dou razão porque o cara tinha pago, né? Aí ele falou [UNRESOLVED_ENTITY], cara. Vocês deixam disponível lá e não tá disponível. Eu paguei e tal não sei o quê. Eu falei não cara. Fica tranquilo, eu já vou te ressarcir porque aí a gente já tinha prova de que ele pagou, né? Então tanto faz então, eu já vou te ressarcir e segunda-feira a gente vai aí fazer a recarga, tudo bem? Falou. Não beleza tudo bem. O cara também é uma [UNRESOLVED_ENTITY], ele tá com um veículo chinês de uma marca que veio para o [LOCATION_A] em 2023, mas [UNRESOLVED_ENTITY] foi embora. Então ele não tem nenhum suporte não tem nada ele comprou no leilão esse dois carros dois furgãozinho."
 1443.0,2,"Para empresa dele e a bateria tá zerada, ele não consegue carregar não tá rolando lá e ele queria um carregamento rápido para ver se o carro volta lá, né? E aí por isso que ele contratou a gente daí eu falei não cara, mas fica tranquilo que segunda-feira tudo certo a gente vai e ele é de [UNRESOLVED_ENTITY]. Então o segundo atendimento que a gente tem hoje, né? A gente."
-1467.0,2,"Dando tudo certo pelo que o Mateus tem falado agora de manhã com a gente tá dando certo, então a gente vai lá no [UNRESOLVED_ENTITY] e depois volta vai aqui em [UNRESOLVED_ENTITY]."
-1477.0,4,"E o que é o que eu fiquei bastante satisfeito com essa que eu aqui eu conduzi o cara não tava p*** o cara já tinha agendado para segunda, ele só foi tentar ver se dava certo emergencial. É o do zé foi mais crise mesmo, porque o cara agendou já dá para atender. E o cara tinha pago eu acho que por mais que o cara tivesse bastante aborrecido no começo."
-1502.0,4,"O Zé conseguiu ali reverter tanto que os eram trouxe um detalhe que ele falou para a gente no dia o cara usar até falou não de idade cortesia. O cara falou não não tem que pagar o serviço, tem que pagar cara. então conseguiu reverter a situação, né [UNRESOLVED_ENTITY] ali ter"
+1467.0,2,"Dando tudo certo pelo que o [PERSON_E] tem falado agora de manhã com a gente tá dando certo, então a gente vai lá no [UNRESOLVED_ENTITY] e depois volta vai aqui em [UNRESOLVED_ENTITY]."
+1477.0,4,"E o que é o que eu fiquei bastante satisfeito com essa que eu aqui eu conduzi o cara não tava p*** o cara já tinha agendado para segunda, ele só foi tentar ver se dava certo emergencial. É o do [PERSON_F] foi mais crise mesmo, porque o cara agendou já dá para atender. E o cara tinha pago eu acho que por mais que o cara tivesse bastante aborrecido no começo."
+1502.0,4,"O [PERSON_F] conseguiu ali reverter tanto que os eram trouxe um detalhe que ele falou para a gente no dia o cara usar até falou não de idade cortesia. O cara falou não não tem que pagar o serviço, tem que pagar cara. então conseguiu reverter a situação, né [UNRESOLVED_ENTITY] ali ter"
 1515.0,2,Eu pago na hora.
 1518.0,4,habilidade de trazer um cara que tava aborrecido trazer ele de volta para próximo
 1524.0,1,Mas faz uma cortesia para ele.
@@ -157,7 +157,7 @@ onset_seconds,speaker_id,text
 1903.0,2,Eu tô com ele aberto.
 1930.0,2,Deixa eu.
 1932.0,1,Tô vendo sim. Oi deu uma falhadinha uma cortada.
-1947.0,2,Você consegue você consegue mudar o Thiago daí? Que eu tô me ouvindo.
+1947.0,2,Você consegue você consegue mudar o [PERSON_G] daí? Que eu tô me ouvindo.
 1955.0,1,Deixa eu ver como é que faz isso.
 1958.0,2,"Se for no na telinha dele, aí você deve conseguir apertar. Porque se é o dono da reunião."
 1967.0,1,Desativar som
@@ -172,7 +172,7 @@ onset_seconds,speaker_id,text
 2102.0,1,São pelo raciocínio bem mais bonito. Uma referência com base na conversa lá com eles fazem atendimento de emergência então.
 2111.0,2,É isso mesmo.
 2111.0,1,Mas mas pode variar.
-2113.0,2,"E aí eu coloquei aqui que o custo né o preço de venda seria r$ 1000 por atendimento. Também é um custo que a gente pegou da tecnologia, eles cobram uns r$ 1000 que nem o [UNRESOLVED_ENTITY] falou, né? Se a gente fosse contratar por uma por um dia aí a plugin provavelmente eles cobrariam uns r$ 1000. Eu acabei colocando esse preço também. Beleza bom, mas também assim esse faturamento aqui como você vai ver ele é bem pequeno, ele é a contribuição menor, né? Porque o que a gente vê que os serviços agendados são o que vão dar mais dinheiro."
+2113.0,2,"E aí eu coloquei aqui que o custo né o preço de venda seria r$ 1000 por atendimento. Também é um custo que a gente pegou da tecnologia, eles cobram uns r$ 1000 que nem o [PERSON_G] falou, né? Se a gente fosse contratar por uma por um dia aí a plugin provavelmente eles cobrariam uns r$ 1000. Eu acabei colocando esse preço também. Beleza bom, mas também assim esse faturamento aqui como você vai ver ele é bem pequeno, ele é a contribuição menor, né? Porque o que a gente vê que os serviços agendados são o que vão dar mais dinheiro."
 2158.0,1,"Mas já estava modelo, né? Se alguém quiser uma sim. Se alguém quiser uma"
 2160.0,2,cada modelo
 2162.0,1,simulação mais otimista ou
@@ -523,7 +523,7 @@ onset_seconds,speaker_id,text
 5824.0,1,"Não e eu tenho em seguida, agora eu tenho a Dair Life, então eu não vou poder continuar."
 5829.0,4,Não tá a gente também precisa resolver a questão que a tecnologia era que eu
 5831.0,2,Sem problema.
-5833.0,4,tô até no paralelo aqui com o Mateus.
+5833.0,4,tô até no paralelo aqui com o [PERSON_E].
 5833.0,1,Tá bom. Vamos encerrar em nota para reunião.
 5837.0,4,Nota 10 falamos foi ótimo.
 5839.0,2,10 também foi bem colocamos em um assunto só mas era necessário.

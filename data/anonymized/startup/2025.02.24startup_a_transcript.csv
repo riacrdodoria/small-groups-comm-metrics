@@ -4,17 +4,17 @@ onset_seconds,speaker_id,text
 4.0,1,"Tudo bom? Os meninos estão um pouquinho atrasados, aí acho que eles vão entrar até pelo celular. Tá um trânsito aqui em [LOCATION_C], não sei o que aconteceu. Como eu venho de moto eu pulo o trânsito né? Mas Tá bem travada, não sei o que aconteceu."
 34.0,2,Eu não olhei tua planilha ainda.
 37.0,1,Não tem problema. Sem problemas.
-41.0,2,"Bom dia [UNRESOLVED_ENTITY], tudo bom?"
+41.0,2,"Bom dia [PERSON_G], tudo bom?"
 67.0,3,"Bom dia pessoal. Tudo já tirando o caos aqui no trânsito, tudo bom? Tô estacionando devo chegar no na sala em 57 minutinhos."
 82.0,2,Tá faltando.
-84.0,1,[UNRESOLVED_ENTITY] ele falou que ia entrar também pelo celular.
+84.0,1,São [PERSON_E] ele falou que ia entrar também pelo celular.
 87.0,2,penalmente um pouquinho para ver se
 92.0,3,"Tá tendo a obra que o BRT aqui de [LOCATION_B] que pega meu caminho para vir aqui para o domo né? Esse fim de semana mudaram a ordem de duas das duas principais [UNRESOLVED_ENTITY] que são fluxo para cá, tá um verdadeiro caos."
 110.0,1,"Pelo pelo passo o passo tá travado mano, tá tudo zoado em volta."
 115.0,3,"Essa mudança a mudança da obra ferrou com tudo, cara."
 120.0,1,"É eu percebi mesmo, tá bem estranho assim. Muito mais trânsito que o normal."
 126.0,3,"É essa reta final de incubação, vou ter que encarar esse transistor."
-136.0,2,"O Mateus já tá aí, bom dia."
+136.0,2,"O [PERSON_E] já tá aí, bom dia."
 140.0,1,Bom vamos lá vamos compartilhar as primeiras notícias aí.
 141.0,4,Bom dia
 142.0,2,Tudo bom? Podemos começar então.
@@ -60,7 +60,7 @@ onset_seconds,speaker_id,text
 662.0,1,"Então, não tem muito que dizer. Bom, acho que é isso, vamos lá próximo."
 665.0,2,Quando muito bem. grandes oportunidades
 675.0,1,score [UNRESOLVED_ENTITY]
-679.0,3,"Score Card, [UNRESOLVED_ENTITY]. Na minha opinião não mudou né da semana passada para cá, o único ponto é que A gente precisa entender se essa intenção da tecnogera. Se ela aumenta alguma coisa para a gente lá em funding, acho que é o único ponto."
+679.0,3,"Score Card, Ô [PERSON_F]. Na minha opinião não mudou né da semana passada para cá, o único ponto é que A gente precisa entender se essa intenção da tecnogera. Se ela aumenta alguma coisa para a gente lá em funding, acho que é o único ponto."
 696.0,2,"Porque vocês têm uma evidência de que tem parceiro interessado no negócio,"
 699.0,1,um pontinho a mais em
 706.0,2,"né? E que tá com possibilidade de trazer dinheiro, então é tudo. Tudo a Ver confundem E até essa da enel hexa e também é a mesma coisa pode ser a mesma coisa."
@@ -91,14 +91,14 @@ onset_seconds,speaker_id,text
 1041.0,1,"Mesmo aqui na [UNRESOLVED_ENTITY] viu, né? Bom essa essas né? Acho que até essas métricas aqui agora a gente tá mais apurado. Vamos acertar também."
 1055.0,2,Então aí é só vamos dizer se tá no trilho fora do trilho se tem
 1055.0,1,E rock review aqui. É bom é aqui do primeiro estudo de viabilidade das possibilidades do MVP. Tá um track só os comentários que eu falei no começo que Tô começando a modelar de forma diferente a ideia da devia aí com a tecnologia era né? Então o estudo tá sendo um pouquinho diferente. Já acabou de falar aqui que tá um track também a parte dele do teste de tração e comercialização.
-1107.0,1,Mateus
+1107.0,1,[PERSON_E]
 1110.0,4,"cara, eu diria que tá um track a questão mais preocupa hoje é o tempo do Que a gente conseguir locar o carregador da tecnologia, mas está o truck."
 1123.0,2,[UNRESOLVED_ENTITY] anotar uma questão aí para isso.
 1129.0,4,"Tem um ponto anotado, né? A gente percebeu que depois aquela reunião que a gente fez essa semana semana passada, aliás. As coisas vão dar uma desbloqueadas por parte da tecnologia. Mas o que mais me preocupe é a questão do prazo mesmo, né? Porque a gente queria não atropelar muito o mês de março inteiro a gente não ficar focado em fazer sendo que a gente teria que fazer outras coisas como da [UNRESOLVED_ENTITY] no final apresentação contactar os últimos e tudo mais."
 1163.0,4,"Mas tem tempo, né? A gente só não queria atropelar muito as últimas semanas da incubação."
-1177.0,1,"No último Aqui também tá com o Thiago a partir desses testes encontrar. um ou mais MVP contração de cliente modelagem de negócios É tá junto tudo um track, né? Beleza."
+1177.0,1,"No último Aqui também tá com o [PERSON_G] a partir desses testes encontrar. um ou mais MVP contração de cliente modelagem de negócios É tá junto tudo um track, né? Beleza."
 1196.0,2,Questão que vocês lembram aí que precisamos.
-1202.0,1,"Vamos lá, agora é incluir redlines. É o Thiago tá até Lembrando aqui, a gente recebeu da plugin. É que foi nosso maior parceiro até então, né? Que a gente fez a quatro rodas e tudo mais é uma cotação de aluguel por um mês daquele veículo estrada. De 80 kilowatt hora só que foi um valor exorbitantes foi 62 mil reais por um mês. A gente tava pensando em pegar né ter ele como possibilidade para fazer MVP por um mês também. Só que nesse preço é loucura, né? Não tem nem como. Hoje tá isso a gente não tem nem esse dinheiro, né? Para falar a verdade."
+1202.0,1,"Vamos lá, agora é incluir redlines. É o [PERSON_G] tá até Lembrando aqui, a gente recebeu da plugin. É que foi nosso maior parceiro até então, né? Que a gente fez a quatro rodas e tudo mais é uma cotação de aluguel por um mês daquele veículo estrada. De 80 kilowatt hora só que foi um valor exorbitantes foi 62 mil reais por um mês. A gente tava pensando em pegar né ter ele como possibilidade para fazer MVP por um mês também. Só que nesse preço é loucura, né? Não tem nem como. Hoje tá isso a gente não tem nem esse dinheiro, né? Para falar a verdade."
 1248.0,1,então
 1250.0,2,E que dinheiro que vocês teriam aí para fazer faz uma contraproposta.
 1254.0,1,Então a gente tem o da tecnologia era mesmo que a gente fechou em 20 mil mas o faturamento Tem que ser algo parecido com isso assim.
@@ -134,7 +134,7 @@ onset_seconds,speaker_id,text
 1628.0,3,Acontecendo né?
 1630.0,1,Então vamos
 1630.0,2,E põe a data e a data de hoje foi tirado hoje. Se quiser pôr conviver com esse
-1630.0,3,"Só pode estar achar ela porque senão perde a ordem dos números, né? E por pegando o gancho do que você tinha falado Mateus. por coincidência"
+1630.0,3,"Só pode estar achar ela porque senão perde a ordem dos números, né? E por pegando o gancho do que você tinha falado [PERSON_E]. por coincidência"
 1647.0,2,"problema não é resolvido, mas"
 1649.0,3,"Por coincidência, eu parei o carro no fim de semana no estacionamento do da [LOCATION_A] [UNRESOLVED_ENTITY]. Daquele clube de poker H2 lá no [UNRESOLVED_ENTITY] perto da [UNRESOLVED_ENTITY] ali. nível nível brazcão os carros que param lá E eles tinham dois carregadores lentos da bioid lá."
 1676.0,1,Então a oportunidade né esse tipo de lugar.
@@ -167,7 +167,7 @@ onset_seconds,speaker_id,text
 2018.0,1,segundo round Beleza bom todos.
 2026.0,3,AIDS
 2031.0,2,E escolher qual que nós vamos resolver hoje?
-2034.0,1,"Beleza, vamos lá? [UNRESOLVED_ENTITY] de cima. não tem um aqui que esse MVP da [UNRESOLVED_ENTITY] a gente escreveu alguma notícia ou Thiago você que tá com"
+2034.0,1,"Beleza, vamos lá? [UNRESOLVED_ENTITY] de cima. não tem um aqui que esse MVP da [UNRESOLVED_ENTITY] a gente escreveu alguma notícia ou [PERSON_G] você que tá com"
 2063.0,3,"Eu não apertei o [UNRESOLVED_ENTITY] ainda por conta da de data, mas eu acho que agora com e-mail que o [UNRESOLVED_ENTITY] colocou na sexta-feira. a gente pode tentar dar uma apertada nele, eu não sei se eles vão ter grandes eventos no fim de semana que vem porque [UNRESOLVED_ENTITY] muita rua ali na região tá fechada. Para bloquinho. Né? Então talvez fique para o pós carnaval, mas eu acho que foi meio do João já dá para apertar o Nosso amigo aí o [UNRESOLVED_ENTITY] lá e eu também atacaria um segundo round no"
 2095.0,1,sim
 2100.0,3,"domo home. Porque o domo a gente consegue entrar. com o veículo da tecnologia era E aí a gente só precisa ter um discurso bem feito lá com O suficiente porque foi a plugin que nos passou o contato dele a gente iria com outro veículo lá, né? Mas é uma estratégia que a gente pode discutir depois."
@@ -198,7 +198,7 @@ onset_seconds,speaker_id,text
 2335.0,1,Eu acho que tá naquele invade lá mano.
 2339.0,3,eu pego lá
 2342.0,1,"Eu tinha mandado e ele não me respondeu tinha mandado na outra semana falando para a gente ir lá, né? Conhecer então."
-2351.0,3,"tem um que não tá quente ainda o Zé mas eu colocaria aí porque Eu já botei aqui nas minhas nas minhas tudos falar ligar para o cara se ele não respondeu e-mail que eu mandei para ele que é o cara lá da kwid. Eu essa kW [PERSON_A] só para te posicionar, ela é uma locadora de longo prazo, ela não é [UNRESOLVED_ENTITY], né? Então ela só aluga, por exemplo você [UNRESOLVED_ENTITY] quer ter um carro elétrico alugado na Frota, você vai lá faz um contrato de 60 meses com eles que é o mais curto."
+2351.0,3,"tem um que não tá quente ainda o [PERSON_F] mas eu colocaria aí porque Eu já botei aqui nas minhas nas minhas tudos falar ligar para o cara se ele não respondeu e-mail que eu mandei para ele que é o cara lá da kwid. Eu essa kW [PERSON_A] só para te posicionar, ela é uma locadora de longo prazo, ela não é [UNRESOLVED_ENTITY], né? Então ela só aluga, por exemplo você [UNRESOLVED_ENTITY] quer ter um carro elétrico alugado na Frota, você vai lá faz um contrato de 60 meses com eles que é o mais curto."
 2383.0,3,"E ele compra o carro a hora que faz o contrato contigo, então, ele faz toda a gestão do ativo, né? Deve não com certeza o lucro dele vem de um ágio em cima da parcela do financiamento, né? E é frotas tanto de veículos comerciais, quanto alguns veículos executivos 100% elétricos. Então a nossa ideia e ele fala pelo menos um site que eles oferecem. Junto com o pacote de aluguel, eles oferece uma espécie de série de orientação onde vai carregar quando vai carregar? E a gente quer de repente fazer uma parceria aí também o MVP falou. Cadê os seus protistas a gente vai carregar o carro deles. Quando eles precisarem de uma recarga móvel, a gente faz essa recarga."
 2432.0,2,"Sim, muito bom esse aí também. É um super parceiro também."
 2443.0,1,Som do dos [UNRESOLVED_ENTITY] aqui acho que os mais quem são esses.
@@ -211,7 +211,7 @@ onset_seconds,speaker_id,text
 2481.0,1,Quem que eu posso colocar Esse agendamento com racha e [UNRESOLVED_ENTITY]?
 2482.0,3,"Acho que são duas coisas separadas também, né? A gente tem que seguir. as conversas com a [PARTNER_A] para o [UNRESOLVED_ENTITY] E destravar o [UNRESOLVED_ENTITY] com na quarta-feira. Cara, eu posso mandar não tem problema não, pode pôr no meu nome aí. Vocês dividem entre vocês que eu sugeri, né um tocar as conversas um ficar na responsa do follop do Eloi outro no follope da [UNRESOLVED_ENTITY]."
 2528.0,1,"Eu vou colocar para mim usar [UNRESOLVED_ENTITY] e para você o delay, beleza?"
-2548.0,3,Boa o Zé o cara bem relacionado lá na luta.
+2548.0,3,Boa o [PERSON_F] o cara bem relacionado lá na luta.
 2557.0,1,Já tô convencendo o [UNRESOLVED_ENTITY] também da gente falar com os diretor lá da loja presencialmente. Vamos ver se ele arranja uma agenda para gente.
 2567.0,3,"Ia ser bom, hein?"
 2570.0,1,Talvez até puxar aquele álbum inglês lá. que tá Beleza mais alguma coisa aqui.
@@ -371,10 +371,10 @@ onset_seconds,speaker_id,text
 4976.0,1,A gente conversa.
 4978.0,2,isso
 4983.0,3,tem essa semana a gente divide com vocês no WhatsApp. E a gente vai trocando uma figurinha por lá.
-4988.0,2,"Também podemos fazer isso ali melhor. Eu tô já com uma incumbência que eu tenho que fazer aqui a planilha né? Então uma conversadinha ali com o Zé ali um pouquinho, né? Então eu vou. Não vai morrer a gente tem que estar fazendo alguma coisa."
+4988.0,2,"Também podemos fazer isso ali melhor. Eu tô já com uma incumbência que eu tenho que fazer aqui a planilha né? Então uma conversadinha ali com o [PERSON_F] ali um pouquinho, né? Então eu vou. Não vai morrer a gente tem que estar fazendo alguma coisa."
 5006.0,3,beleza
 5012.0,1,É que acho que também conforme a gente está tendo mais maturidade e com as
-5015.0,3,"Bora, bora, bora bora eu vou começar dando oito aí pelo transtorno do Mateus termos começado pelo celular e vindo para o computador. as discussões foram muito boas não prejudicou muito mas Para que não aconteça de novo eu vou dar um oito."
+5015.0,3,"Bora, bora, bora bora eu vou começar dando oito aí pelo transtorno do [PERSON_E] termos começado pelo celular e vindo para o computador. as discussões foram muito boas não prejudicou muito mas Para que não aconteça de novo eu vou dar um oito."
 5033.0,2,"Então tá bom, mas você tá muito muito malvado, mas tá bom. Não é para tanto mas"
 5049.0,3,toque
 5052.0,2,Alguma coisinha para melhorar fora essa dourado aí?

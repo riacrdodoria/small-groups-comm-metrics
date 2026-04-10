@@ -1,10 +1,10 @@
 onset_seconds,speaker_id,text
-0.0,1,"Bom dia, Mateus. E [UNRESOLVED_ENTITY], tudo bem certo?"
+0.0,1,"Bom dia, [PERSON_E]. E [UNRESOLVED_ENTITY], tudo bem certo?"
 6.0,2,Tudo bem.
 6.0,1,"Eu tava numa tela, vocês não entravam daí eu desliguei e entrei e deu certo. Não sei o que aconteceu aqui."
 15.0,2,Não tava aparecendo. Quem estava esperando.
-18.0,1,não não aparecia daí O Mateus também já
-27.0,2,O [UNRESOLVED_ENTITY] tá entrando aqui.
+18.0,1,não não aparecia daí O [PERSON_E] também já
+27.0,2,O [PERSON_G] tá entrando aqui.
 31.0,1,Certinho. Bom dia tia.
 47.0,3,"Sim, abrindo já o 21."
 49.0,1,Vamos começar também um pouquinho atrasado. Como é que foram de reflexão ainda? da ok
@@ -48,22 +48,22 @@ onset_seconds,speaker_id,text
 429.0,1,"ficarem com a mesma nota ali no kth, né. Porque vocês estavam indo bem não é um retrocesso não, pode ser um retrocesso na cartela. Senão também o kit de vocês não vai responder às perguntas, né?"
 442.0,3,Eu vou atualizar aqui. Vou colocar uma atualização do scorecard aqui para mim.
 453.0,1,"Porque vocês estavam testando fazer carregamento ver se eu como é que fazia como é que o pessoal entra em contato, como é que vocês atendem, né? Tudo isso vale, né? Então faz Fazer essa ginástica."
-478.0,3,Agora a próxima parte a Rock review. Então Zé primeira rock desenvolver análise de mercado e projeções para pesados.
+478.0,3,Agora a próxima parte a Rock review. Então [PERSON_F] primeira rock desenvolver análise de mercado e projeções para pesados.
 493.0,5,"Tá tudo um track já tem um [UNRESOLVED_ENTITY] aí, principalmente para off-road tem alguma coisa de ter [UNRESOLVED_ENTITY]? E o leve plano cenários também, já já fiz eu acabei dividindo fazendo quatro cenários, né? Com e sem [UNRESOLVED_ENTITY] e fazendo em [UNRESOLVED_ENTITY] fazendo no [UNRESOLVED_ENTITY] e pegando leves e pegando só"
 517.0,3,e pesado
 523.0,5,pesados. Que eu acabei fazendo.
 528.0,1,"E tem off-road também que talvez o possível início, né só."
 533.0,5,"É eu acabei colocando isso meio que nessa no pesado assim, né? Tipo? Coloquei como uma fonte de renda, né de faturamento. Leve que é o que a gente já tinha né? O pesado atendendo emergencial e pesado atendendo agendado. E aí nesse pesado seria tanto a flor de quanto?"
-565.0,3,Beleza a segunda rock Matheus validar conceitualmente operacionalmente o modelo de negócio próprio.
+565.0,3,Beleza a segunda rock [PERSON_E] validar conceitualmente operacionalmente o modelo de negócio próprio.
 577.0,2,Mas depois a gente discute na frente porque?
 582.0,1,Tem alguma questão já para notar aí?
 585.0,2,"Só questão da mineradora [UNRESOLVED_ENTITY], né? A gente ia fazer uma das possibilidades era fazer com um veículo de teste da [PARTNER_A], mas o veículo está manutenção. Então não vai dar para fazer com ele nesse período que a gente tem hoje em abril."
-605.0,3,"É a gente está correndo contra o tempo basicamente o [PERSON_A] essa eixo que o Mateus tá declarando já até vou escrever ela lá. ela vai muito de encontro com A isso que eu vou falar aqui do item 3 que é meu beleza. A gente já conversou com seus marketing, já temos aí um plano de seguir conversando com eles até o último dia. Temos conversa agendada, já temos algumas conversas que já aconteceram com a lotes e temos [UNRESOLVED_ENTITY] hoje, a gente vai falar com uma pessoa que já foi [PARTNER_A] Ventures um Sueco e hoje está na [UNRESOLVED_ENTITY] aqui do [LOCATION_A]. Mas a gente está tendo agora essa briga contra o relógio."
+605.0,3,"É a gente está correndo contra o tempo basicamente o [PERSON_A] essa eixo que o [PERSON_E] tá declarando já até vou escrever ela lá. ela vai muito de encontro com A isso que eu vou falar aqui do item 3 que é meu beleza. A gente já conversou com seus marketing, já temos aí um plano de seguir conversando com eles até o último dia. Temos conversa agendada, já temos algumas conversas que já aconteceram com a lotes e temos [UNRESOLVED_ENTITY] hoje, a gente vai falar com uma pessoa que já foi [PARTNER_A] Ventures um Sueco e hoje está na [UNRESOLVED_ENTITY] aqui do [LOCATION_A]. Mas a gente está tendo agora essa briga contra o relógio."
 645.0,3,"Para conseguir validar operacionalmente porque duas operações [PARTNER_A] tão com os veículos em manutenção e dificilmente. Vão estar aptos aí disponíveis antes do fim da incubação e a gente tá tendo que correr atrás agora de cliente de na verdade de cliente mesmo, né de operador [UNRESOLVED_ENTITY] que tenha de repente. veículo elétrico operando mesmo que seja de concorrente Para a gente tentar fazer uma validação real."
 678.0,1,E tem que ter o business.
 678.0,3,"Mas a gente tá brigando contra o tempo na verdade o problema não é nem carregador. A gente tá a gente tem o veículo da tecnologia era? Para ficar disponível nos próximos dias então tá entrando de instalar os carregadores fisicamente, né no container. O nosso grande problema não sei também se vocês concordam, mas é a briga contra o tempo agora para conseguir viabilizar a operadora logística que queira fazer uma prova de conceito. A gente tem uma esperança um pouco maior com o da [PARTNER_B] caminhões e ônibus que a gente tem uma nova reunião com eles hoje à tarde."
-718.0,3,"E com eles a gente ainda tem uma esperança de acontecer agora os dois da [PARTNER_A], eu te digo que tá 99% descartados. Por uma questão de tempo hábil ambos só vão estar aptos a rodar e ir lá para [UNRESOLVED_ENTITY] meio de Maio, eu acho que com sorte Então acho que essa isso conversa muito com e tem dois e tem três. Que é a gente precisa conseguir veículo para testar? E a gente já tem essa dificuldade na [PARTNER_A]? Vou colocar só para a gente fechar aqui o quatro acho que tá tá um Track, o Zé já rascunhou."
-766.0,3,"É um começo de caminho aqui para isso e como a gente está desenvolvendo o conteúdo aqui no item dois no item um no dois e no três. a gente já tem aí esqueleto para os pitts a gente só precisa alimentar de é o que o Zé já tem até o a primeira versão pronta, né, Zé do"
+718.0,3,"E com eles a gente ainda tem uma esperança de acontecer agora os dois da [PARTNER_A], eu te digo que tá 99% descartados. Por uma questão de tempo hábil ambos só vão estar aptos a rodar e ir lá para [UNRESOLVED_ENTITY] meio de Maio, eu acho que com sorte Então acho que essa isso conversa muito com e tem dois e tem três. Que é a gente precisa conseguir veículo para testar? E a gente já tem essa dificuldade na [PARTNER_A]? Vou colocar só para a gente fechar aqui o quatro acho que tá tá um Track, o [PERSON_F] já rascunhou."
+766.0,3,"É um começo de caminho aqui para isso e como a gente está desenvolvendo o conteúdo aqui no item dois no item um no dois e no três. a gente já tem aí esqueleto para os pitts a gente só precisa alimentar de é o que o [PERSON_F] já tem até o a primeira versão pronta, né, [PERSON_F] do"
 791.0,1,"Na verdade vocês estão validando agora o cliente pesado, né?"
 796.0,3,"Ou então eu vou declarar. Uma [UNRESOLVED_ENTITY] para isso que a gente acabou de falar e talvez essa vai ser na hora do ids a primeira que a gente vai. Ter que enfrentar essa aqui é de tudo, né? financeira Service Vamos colocar ela príncipe. Então como [UNRESOLVED_ENTITY] que seria marketing."
 826.0,1,"Porque eu gosto de que o marketing seja o primeiro sabe? Vocês estão mostrando a preocupação com o cliente, mas é óbvio que para fazer isso operacional vai ter que estar junto, né? E você também nesse MVP tá testando operacional, né? Então poderia ter ser os dois mas Se por um eu priorizo marketing."
@@ -79,7 +79,7 @@ onset_seconds,speaker_id,text
 1079.0,1,"Talvez já vocês colocarem uma Exu aqui, né? planejar os próximos passos Que é quase que é bem assim fazendo vocês tinham que fazer um plano com aquele negócio recursos e o que vocês vão entregar nos próximos 6 9 12 meses aí depende do plano, né dos objetivos e do que dá para fazer, né? Porque isso vai ser uma conversa com os parceiros internos, né? O que que nós vamos fazer? Podemos fazer isso e isso isso, né?"
 1182.0,3,"Bom, vamos para [UNRESOLVED_ENTITY]. Mas eu também tenho muita coisa aqui na tio [UNRESOLVED_ENTITY] virou passado, né? Vamos passar porque tipo não vamos fazer mais mas vamos passar por elas e qualquer coisa a gente descarta."
 1195.0,1,"Vai vai colocando ali de concluída concluída, né concluída conviver com problema ou não tem mais sentido, né?"
-1205.0,3,"Conseguir agenda o mais rápido possível para teste fizemos né, Mateus a gente foi lá né, viu?"
+1205.0,3,"Conseguir agenda o mais rápido possível para teste fizemos né, [PERSON_E] a gente foi lá né, viu?"
 1216.0,2,Até evoluiu. Mas agora está travado em outubro.
 1220.0,3,"Tá mas essa essa aqui a gente fez vou colocar como comida. Chegar aos Big numbers para suportar. Nossa tese de chegada aos pesados. Só que até mudou um pouco a estratégia, né?"
 1250.0,5,"né? Se ele tinha uma ideia de quanto que incentivaria a venda de pesados se a gente tivesse um serviço como nosso. e ou se tivesse mais estrutura que não fosse fixa mesmo é no [LOCATION_A] e ele não tinha esses números basicamente é então, ele falou que ia dar uma olhada ver se tinha alguma coisa pronta mas Eu acho que por enquanto é conviver com essa com essa questão aí."
@@ -152,7 +152,7 @@ onset_seconds,speaker_id,text
 2161.0,2,"Essa da 87 também era aquela reunião com o [UNRESOLVED_ENTITY], né?"
 2166.0,3,"É a gente conseguiu do aluguel pontual, né?"
 2174.0,1,É vocês conseguiram [UNRESOLVED_ENTITY] isso que tá feito.
-2178.0,3,"É mas o que a gente conseguiu foi o do aluguel pontual Mateus sem razão, não"
+2178.0,3,"É mas o que a gente conseguiu foi o do aluguel pontual [PERSON_E] sem razão, não"
 2182.0,1,é mas
 2184.0,3,foi o de. Não foi para eles serem acetauner até porque para a gente tá muito [PARTNER_F] que é plugin não vai se acessar.
 2193.0,5,Não quero.
@@ -163,7 +163,7 @@ onset_seconds,speaker_id,text
 2259.0,1,Como endereçar os insights do Rash já estamos interessando né? mudou
 2263.0,3,"Já estamos interessando a gente fez até o segundo round com ele, né?"
 2266.0,1,"Então já até as rocks tudo quase que foi. A nossa reunião foi para isso, né? Precisamos atingir as mentes. O Lucas você vai usar agora para o dre só o Live Plan?"
-2296.0,3,"Eu acho que tira né, Zé tá modelado já né?"
+2296.0,3,"Eu acho que tira né, [PERSON_F] tá modelado já né?"
 2322.0,1,Ou vai usar o Excel também?
 2323.0,5,Beleza então Até que deu para preencher bem ali.
 2329.0,1,"Não. Se tiver alguma dúvida alguma coisa assim, né? Porque eu passei lá um modelinho para você. Se ficar alguma dúvida avise. É porque ele já tem a mesma estrutura para muito parecido."
@@ -199,7 +199,7 @@ onset_seconds,speaker_id,text
 2930.0,1,"É se vocês estiverem mais uma indicação de uma parceria com a [UNRESOLVED_ENTITY]. É legal é super importante, sabe?"
 2941.0,3,Então já tô colocando aqui.
 2943.0,1,"Porque eu pensava assim, né? Quando eu fiz estágio na [UNRESOLVED_ENTITY] em 1982, tinha um projeto de eletroposto. Na [UNRESOLVED_ENTITY] lá que antes da [UNRESOLVED_ENTITY]. Na verdade agora chegou a vez do [UNRESOLVED_ENTITY] poço, né? 40 anos depois estudando isso naquela época, sabe? Então esse sempre eletroposto é sempre um tema que tá dentro da empresa. Que eles são fornecedor de energia, né? E eles também têm programa de inovação programa descartável, sabe? Então vê. Quais são as Startup deles? Vê se não casa com alguma eu acho que tem muitas possibilidades aí sabe até eu diria assim para ter uma carta de intenção também."
-2995.0,3,Tem que pegar essa você Mateus.
+2995.0,3,Tem que pegar essa você [PERSON_E].
 3000.0,1,"Faz umas conversas para nesse sentido dá para a gente fazer uma carta de intenção para ser mais um parceiro para continuar o projeto. É quase que vocês estão construindo as parcerias internas para continuar. O projeto né? Olha, vocês deram duas exemplos agora de parceria externa. Que dá para continuar o projeto também. é interessante, acho que só só"
 3041.0,3,beleza beleza
 3046.0,1,"Esse tema tudo lá não precisa, tá bom?"
@@ -222,7 +222,7 @@ onset_seconds,speaker_id,text
 3302.0,1,certo
 3304.0,3,Bom Basicamente aquilo que a gente falou [PERSON_A] os veículos [PARTNER_A] que a gente
 3305.0,1,então
-3308.0,3,"tinha como uma bala de prata aí ambos estão com problemas. Desculpa, ambos estão com problemas técnicos que fogem completamente da nossa alçada. Tem um deles que um pack de bateria tá vindo da [LOCATION_E] de navio, então é tempo de água não tem como antecipar não tem para quem está lá. Não vai dar tempo que é esse é o da usina de cana, né, Mateus? O da usina de cana também está fazendo manutenção e também foge um pouco aí do nosso controle."
+3308.0,3,"tinha como uma bala de prata aí ambos estão com problemas. Desculpa, ambos estão com problemas técnicos que fogem completamente da nossa alçada. Tem um deles que um pack de bateria tá vindo da [LOCATION_E] de navio, então é tempo de água não tem como antecipar não tem para quem está lá. Não vai dar tempo que é esse é o da usina de cana, né, [PERSON_E]? O da usina de cana também está fazendo manutenção e também foge um pouco aí do nosso controle."
 3347.0,3,"também não tem muita perspectiva de que aconteça até o final da incubação então esses dois Com certeza a gente já vai tratar no Na eixo 95, né? Que eles vão estar num plano para uma segunda pista de decolagem. Aí o que a gente precisa agora completamente contra o relógio. Eu digo que essa semana ainda a gente precisa nas nossas prospecções aí conseguir caminhar para testar."
 3377.0,1,"Um deles é com a [PARTNER_B], né?"
 3379.0,3,Que a reunião a gente tem reunião hoje é uma data.
@@ -243,7 +243,7 @@ onset_seconds,speaker_id,text
 3558.0,1,isso é
 3563.0,3,"direitinho a gente consegue o contato da [UNRESOLVED_ENTITY], por exemplo. Para carregar um [UNRESOLVED_ENTITY] beleza que seja chassis [PARTNER_A]. Só que o veículo que a gente tem disponível com a tecnologia. Se a capacidade Total dele é 96, eu vou dar um chute aqui que é disponível. Deve ser uns 90 para passar para conta nas perdas."
 3586.0,5,na mesa
-3587.0,3,Então contando as perdas a gente tá falando de fornecer 90 kilowatt hora e um ônibus a gente está falando de uma bateria brincando aí do que Mateus os 500. A gente não vai conseguir dar nenhuma carga cheia nem meio tanque no ônibus seria uma questão muito mais de validar ali que operacionalmente funciona. E até foto.
+3587.0,3,Então contando as perdas a gente tá falando de fornecer 90 kilowatt hora e um ônibus a gente está falando de uma bateria brincando aí do que [PERSON_E] os 500. A gente não vai conseguir dar nenhuma carga cheia nem meio tanque no ônibus seria uma questão muito mais de validar ali que operacionalmente funciona. E até foto.
 3608.0,1,"E a emergência, né?"
 3612.0,5,"É hoje, né?"
 3613.0,1,Uma evidência que você Já conseguiram praticamente né funciona?

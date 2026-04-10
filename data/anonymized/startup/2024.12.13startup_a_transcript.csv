@@ -1,5 +1,5 @@
 onset_seconds,speaker_id,text
-0.0,1,Boa tarde Mateus.
+0.0,1,Boa tarde [PERSON_E].
 3.0,2,"Boa tarde tudo bem? Eu tava quase falando, bom dia que eu toda vez a gente falar de manhã, né?"
 14.0,1,Tudo também.
 14.0,3,"E aí [PERSON_A], tudo bem? E você?"
@@ -18,12 +18,12 @@ onset_seconds,speaker_id,text
 187.0,2,"Aí beleza, ficou decidido dessa forma, só que na quinta-feira uma outra pessoa da [CLIENT_A] fosse assim, ó, a gente não vai fazer MVP enquanto a gente não tiver reunião com as elétrica que vai ser hoje em primeira tarde, né?"
 200.0,3,Vamos ver.
 201.0,2,"E aí a gente não sabe o que que as elétricas vai fazer isso meio parceiros assim, né? A gente não"
-207.0,1,"Tá E daí Mateus. Você abre aí,"
+207.0,1,"Tá E daí [PERSON_E]. Você abre aí,"
 207.0,2,"sabe fazer elétrica. Não não quero eles lá para testar. Vamos ver. O Tiago é [PERSON_A], ele foi no dentista. Eu não sei se ele falou que ia tentar dar uma força para tentar entrar pelo menos online. Mas acho que é melhor a gente não esperava pelo menos no início aqui."
 238.0,1,como é que
 240.0,2,"Sim, eu posso compartilhar aqui."
 243.0,1,"Vamos começar então, eu sei que ele estava esperando ele."
-247.0,2,"para dar um [UNRESOLVED_ENTITY], vamos ver se eu consigo manter o mesmo nível, né? Indo pro segue aí tem alguma coisa para falar Zé?"
+247.0,2,"para dar um [UNRESOLVED_ENTITY], vamos ver se eu consigo manter o mesmo nível, né? Indo pro segue aí tem alguma coisa para falar [PERSON_F]?"
 263.0,3,"Bom eu acho que essa visita Nossa lá na [CLIENT_A] e na [UNRESOLVED_ENTITY], foi bem positiva. Apesar desse dessa outra informação, depois a visita foi muito boa. a gente viu que meu se a gente quiser ter cliente a gente tem que estar em [UNRESOLVED_ENTITY] cada 10 carros. Acho que sei lá três facilmente assim na rua São elétricos é muito carro elétrico mesmo. E o pessoal lá tem muito dinheiro também, então é mais fácil de achar rico disposto a pagar Qualquer preço por comunidade."
 301.0,3,"E na [UNRESOLVED_ENTITY] também foi muito interessante, porque bom assim, apesar de ser estacionamento, né? A gente toda a mesma coisa não é um perfume muito diferente, porque lá eles estão dentro daquela operação, né dentro da TV Gazeta que tem o cinema o teatro a [UNRESOLVED_ENTITY] lá e tem o próprio público da paulista, né de fim de semana, então é uma operação que não funciona."
 329.0,3,"Tão fortemente durante a semana no geral, mas muito forte à noite de quinta sexta-feira e muito forte de fim de semana, o que é excelente porque é mais um buraco que a gente tampa aí do fim de semana é um lugar que a gente conseguiria sei lá ficar durante a semana lá na [UNRESOLVED_ENTITY] par por exemplo que é um prédio comercial. E no fim de semana nesse nessa lá na TV Gazeta, porque e lá não tem carregador não tem nada tem um público muito rotativo lá."
@@ -63,7 +63,7 @@ onset_seconds,speaker_id,text
 793.0,3,Porque eles têm o mesmo problema que a gente não sabe como reportar esse dinheiro.
 797.0,1,E devolve para eles.
 798.0,3,"E aí bom, mas o site resolve isso, né? Ele a gente já fez teste, inclusive de que o cara consegue colocar o cartão pagar no pics qualquer coisa e depois a gente cai o dinheiro, né na conta lá do wix, mas a gente consegue dar [UNRESOLVED_ENTITY] lá e cancelar a compra dele que é o que a gente vai fazer. E aí fica a prova e zero dinheiro com Com a gente e devolve."
-830.0,2,"Talvez a gente até olhado um detalhe semana que vem Zé, mas talvez até suba com três aqui."
+830.0,2,"Talvez a gente até olhado um detalhe semana que vem [PERSON_F], mas talvez até suba com três aqui."
 835.0,3,É talvez sim.
 836.0,2,Tinha ficado dois e meio mas só dá uma olhada demais os outros itens. Eu só vejo eles como uma evolução assim [PERSON_A].
 845.0,1,tá
@@ -75,13 +75,13 @@ onset_seconds,speaker_id,text
 861.0,1,Tá ótimo. então
 870.0,2,e tem é? Vamos para cá? isso
 883.0,3,E aí né?
-886.0,2,"[UNRESOLVED_ENTITY] tem relação e sugeribilidade dos mvps. E aí considerando todos os Tipos de negócio aí, né?"
+886.0,2,"Bom do [PERSON_F] tem relação e sugeribilidade dos mvps. E aí considerando todos os Tipos de negócio aí, né?"
 896.0,3,É um track não tá 100% né? Mas Assim tá um track a gente já fez umas contas aí já sabe. É a taxa de ocupação que tem que ter que não tem que ter já sabe mais ou menos quanto que daria para dar né? Repassar outros estacionamento para 99 algo do tipo. Mas ainda vou oficializar isso.
 922.0,2,boa
 922.0,1,Lembra de mais alguma coisa?
 925.0,2,"É o item tchau a relação a teste de tração de comercialização do estabelecimentos. Bom não vou responder por ele, mas tá caminhando."
 936.0,3,Já respondendo.
-939.0,2,Da minha parte que rezar testes com MVP para mvps com equipamentos parceiros também tá um Track. Estamos com o sino avançar e o último [UNRESOLVED_ENTITY] que é encontrar escolher um mais mpps para trazer negócio para seguir com a Startup. Esse também tá estamos caminhando aí pelo [UNRESOLVED_ENTITY]. Vamos para o próximo item que seria o crescimento. Vamos lá? Se lembra de alguma coisa nada
+939.0,2,Da minha parte que rezar testes com MVP para mvps com equipamentos parceiros também tá um Track. Estamos com o sino avançar e o último [UNRESOLVED_ENTITY] que é encontrar escolher um mais mpps para trazer negócio para seguir com a Startup. Esse também tá estamos caminhando aí pelo [PERSON_G]. Vamos para o próximo item que seria o crescimento. Vamos lá? Se lembra de alguma coisa nada
 999.0,1,Vamos para o próximo?
 1003.0,2,também.
 1005.0,3,Não.
@@ -140,13 +140,13 @@ onset_seconds,speaker_id,text
 1543.0,3,"A gente vai lembrando sempre acho que é uma coisa importante, né?"
 1550.0,2,"34 era do [UNRESOLVED_ENTITY] que era organizar com as metas da segunda rock isso aqui a gente passou lá no Cabanos. Realizar nova reunião com a Irineu isso aqui não foi minha prioridade para ser bem sincero, vai ser só o ano que vem voltamos da foco agora é MVP."
 1571.0,1,Até porque precisa do da 37.
-1573.0,2,Preparar que o Enem para [UNRESOLVED_ENTITY] e se a gente fez né Zé fez essa reunião
+1573.0,2,Preparar que o Enem para [UNRESOLVED_ENTITY] e se a gente fez né [PERSON_F] fez essa reunião
 1578.0,3,Sim. Então na verdade no final das
 1579.0,2,"quarta quinta, né? [UNRESOLVED_ENTITY]."
 1582.0,3,"contas ficou na minha mão, esse aí eu até falei com o [UNRESOLVED_ENTITY] a gente. Fez um Brainstorm de ideias, né? Acho que foi quarta, sei lá algum dia dessa semana. A gente elencou aí umas acho que deu umas 30 perguntas sobre o nosso. Projeto como um todo né? É mas a parte de operação né? Porque a parte inovation [UNRESOLVED_ENTITY] [PARTNER_A] é a [PARTNER_A] que vai fazer. Aí eu tava até dando um tapa nele hoje e eu já tô pedindo uma mão aqui para minha namorada aqui faz isso pela profissão, né? Ela me dá uma ajuda então porque esse fim de semana eu eu mato isso aí."
 1626.0,2,É 37 seria marcar a reunião com 99
 1626.0,3,Eu acho que não rolou ainda.
-1632.0,2,"w para pedir lista de motoristas de elétricos. Esse eu sei que o [UNRESOLVED_ENTITY] tava pesquisando, ele achou duas pessoas dentro da Uber lá que a gente conseguiria conversar e achou um [UNRESOLVED_ENTITY]. Ele mandou mensagem, mas eu não lembro agora se ele teve retorno. A 38 seria realizar pesquisa e mudar proposta para motorista de aplicativos. E você conseguiu fazer né? Essa semana?"
+1632.0,2,"w para pedir lista de motoristas de elétricos. Esse eu sei que o [PERSON_G] tava pesquisando, ele achou duas pessoas dentro da Uber lá que a gente conseguiria conversar e achou um [UNRESOLVED_ENTITY]. Ele mandou mensagem, mas eu não lembro agora se ele teve retorno. A 38 seria realizar pesquisa e mudar proposta para motorista de aplicativos. E você conseguiu fazer né? Essa semana?"
 1665.0,3,"Então não. Esse eu não fiz é assim. Não necessariamente, né? A gente estava tentando bom fazer as perguntinhas, né? Para os motoristas, mas essa questão da proposta a gente pensava muito na questão de preço também para ver se com o volume alto a gente consegue baixar um pouco o preço para o motorista de aplicativo ou não? Então realmente é uma coisa um pouco [UNRESOLVED_ENTITY] ainda pelo menos."
 1702.0,3,Ao meu ver assim se a gente bate o pé nesse preço mesmo e ver quais motoristas a gente. Aceitam né no caso.
 1712.0,1,é você tem que fazer aquela estimativa mais educada e
@@ -168,7 +168,7 @@ onset_seconds,speaker_id,text
 1864.0,1,"Então. Vamos definir os objetivos. Depois a gente pensa se a gente acelera ou até espera, né?"
 1873.0,2,Mas essa gente pode quebrar então aqui muda da proposta para o motorista de aplicativos.
 1878.0,1,"Os objetivos da pesquisa visando né? Você vai fazer uma pesquisa visando modelar uma proposta para manteristas, né? Então, você pode até que isso já é meio que um objetivo, né? Talvez seja o objetivo geral é modelar uma proposta. Quais são os objetivos específicos da pesquisa? Ah vou perguntar do preço, vou perguntar do local, vou perguntar de horário. Sei lá tô chegando aqui, né."
-1914.0,2,E aí o item 39 [UNRESOLVED_ENTITY] marcar reunião de pauta com quatro rodas LC. Esse estado como você descola com Thiago não lembro agora.
+1914.0,2,E aí o item 39 [UNRESOLVED_ENTITY] marcar reunião de pauta com quatro rodas LC. Esse estado como você descola com [PERSON_G] não lembro agora.
 1924.0,3,"Então eu não sei pode pôr meu nome aí. Eu cheguei a mandar mensagem hoje para quatro rodas, mas eles não me responderam ainda. Mas eu acredito que a reunião vai acabar ficando plano no início do ano que vem, né um pouco antes da matéria."
 1941.0,1,certo
 1941.0,3,"Até porque a gente precisa preparar o que o Enem tanto do nosso lado quanto do lado do [PARTNER_A], né? Então eu acredito que não vai ser. Não vai ser semana que vem eu acredito que vai ser talvez na semana a dois."
@@ -202,7 +202,7 @@ onset_seconds,speaker_id,text
 2379.0,1,Vamos fazer 15% desse mercado vai ser eletricidade. Só que em 2034. Daí hoje é zero daí o que que você vai fazer uma curva uma curva S né? Ele chegando em 10 ou 15% do tamanho do mercado lá no final.
 2400.0,2,"É o que talvez a gente também consiga fazer. É pegar alguns estudos, por exemplo. De 100% da frota de veículos daqui 10 anos 70% dessa Frota vai ser de combustão e 30% de elétrico, né? Então vai ter 30%"
 2420.0,1,"Isso então é 30%, então da frota, então é 30% do combustível dá"
-2424.0,2,"Boa deixa com você Zé, mas eu"
+2424.0,2,"Boa deixa com você [PERSON_F], mas eu"
 2425.0,1,"para fazer também. Mas talvez assim para a gente começar a resolver isso e fazer pelo menos uma coisinha. Por semana, né? Eu diria vamos por uma tudo aí ia atrás do mercado tamanho do mercado de combustíveis do [LOCATION_A] e previsão de crescimento. Daí onde vocês aí para e começa a perguntar para o [PARTNER_E] perguntar para o chat?"
 2461.0,3,"Eu já joguei aqui no [PARTNER_E] rapidinho tem eu acho que informação até nogov.br, mas tem informação até 2022 de venda de combustível. Não sei porque é tão."
 2474.0,1,"2022 para a gente mal de 2024 é super fácil, né?"
@@ -238,9 +238,9 @@ onset_seconds,speaker_id,text
 2720.0,3,[UNRESOLVED_ENTITY] e a gente pegou informação de um site assim do governo mesmo é de número de emplacamento.
 2727.0,1,A gente tava eu falei assim uma
 2729.0,3,É isso aí a gente pegou os números
-2730.0,1,"alternativa é pegar o consumo de combustível que parece o mais. O melhor né? A outra alternativa é o crescimento da Frota, só que para que do crescimento da frota daí eu vou ter que ter um monte de número, né? Ah Quanto em média que ele quantos carros tem quanto que eles andam em média? Né para você daí chegar no consumo, né? Então, ele é um pouco mais um pouco é uma continha um pouco mais não digo complicada, né? Mas mais retalhado assim e talvez não seja tão fácil de fazer essa estimativas quanto se a gente achar lá que nem você achou, né, Zé? Você já achou ali 2022, você tem um histórico lá 2010 2022 2012 2022, você já tá excelente."
+2730.0,1,"alternativa é pegar o consumo de combustível que parece o mais. O melhor né? A outra alternativa é o crescimento da Frota, só que para que do crescimento da frota daí eu vou ter que ter um monte de número, né? Ah Quanto em média que ele quantos carros tem quanto que eles andam em média? Né para você daí chegar no consumo, né? Então, ele é um pouco mais um pouco é uma continha um pouco mais não digo complicada, né? Mas mais retalhado assim e talvez não seja tão fácil de fazer essa estimativas quanto se a gente achar lá que nem você achou, né, [PERSON_F]? Você já achou ali 2022, você tem um histórico lá 2010 2022 2012 2022, você já tá excelente."
 2787.0,1,"então, talvez esse aqui não sei se Talvez não agora né? Você não conseguiu o outro talvez ir para esse né? acidente Precisamos do tan sensor Considerando o número de pesar É não sei."
-2809.0,3,"da [UNRESOLVED_ENTITY] lá e a gente consegue fazer uma projeção mais é que a gente sabe que vai ser bem para frente, né? Tipo vai ficar uns dois três anos [UNRESOLVED_ENTITY] pela [PARTNER_A]. E isso daí só vai começar a crescer na frente, mas eles deram uma previsão se eu não me engano até 2029, né, Mateus?"
+2809.0,3,"da [UNRESOLVED_ENTITY] lá e a gente consegue fazer uma projeção mais é que a gente sabe que vai ser bem para frente, né? Tipo vai ficar uns dois três anos [UNRESOLVED_ENTITY] pela [PARTNER_A]. E isso daí só vai começar a crescer na frente, mas eles deram uma previsão se eu não me engano até 2029, né, [PERSON_E]?"
 2834.0,2,foi uma previsão tá aqui grande assim vai pelo menos de uns 6 anos para frente. Buscar aqui no celular aqui rapidinho.
 2842.0,3,"Aí já dá para ter uma curva mais ou menos de quanto que a gente espera que esse mercado de pesados cresça, né que bebe."
 2851.0,2,"Para você ter uma ideia [PERSON_A] 2029/2025, vamos falar assim, né? A previsão são de 50 ônibus elétricos e 35 caminhões. ou seja"
@@ -286,13 +286,13 @@ onset_seconds,speaker_id,text
 3115.0,1,"Então seja tudo isso são Os números que vocês vão conseguir aí com essa pesquisa, né?"
 3126.0,2,Boa mais uma endereçada.
 3126.0,1,"E depois a estratégia lá para frente. Talvez seja vamos se focar só nos leves ou só nos pesados. Já que é o foco da [PARTNER_A], né? Vamos na corda com a estratégia da [PARTNER_A], vamos ver o mercado o som nosso vai ser. Pesar vai ser pesados igual da [PARTNER_A]. Em lógica isso aí Ainda temos Bastante tempo aí para ver outras se vocês querem olhar. outras questões podemos ver aquela dos objetivos da pesquisa juntos agora com os A gente começa lembra os objetivos"
-3209.0,2,Qual foi a última Zé?
+3209.0,2,Qual foi a última [PERSON_F]?
 3213.0,1,"da pesquisa lá de vocês pegarem lá os motoristas do Uber que já são elétrico, né do Uber 99, né? Nós queremos entender ali as maiores preocupações deles, né? Vamos pensar assim sempre no bem [UNRESOLVED_ENTITY] agora é? [UNRESOLVED_ENTITY] qualquer chute, né? E não pode criticar o chute do outro a gente só tem que anotar. Mas a gente pode separar assim. O nosso objetivo agora eu acho que tem que ser primeiro entender bem as dores, né? E o impacto da dor, né? Lembra do deles, né? e Daí seria o segundo seria."
 3266.0,1,"Se a nossa solução resolve o problema deles, né?"
 3273.0,3,"Sim, é eu perguntaria. Para entender a dor. Quantas vezes o cara carrega por dia ou por semana, né? Quanto que ele paga se ele carrega em casa se ele carrega fora, né? Também tem isso."
 3288.0,1,Então não quer ir anotando aí
 3289.0,3,Quanto que ele paga?
-3290.0,1,Mateus. Pega uma folha em branco e anota aí que
+3290.0,1,[PERSON_E]. Pega uma folha em branco e anota aí que
 3315.0,2,"O que número de recargas diárias e semanais? Se possui carregador em casa, ah,"
 3318.0,1,projeta para nós aí
 3320.0,2,não tá vendo perdão.
@@ -424,7 +424,7 @@ onset_seconds,speaker_id,text
 4686.0,1,Talvez o nome o nome mais certo é
 4686.0,2,ver para onde?
 4689.0,1,"entender o dia a dia. Ou a jornada do cliente, lembra é a mesma coisa, né? Entender o dia a dia dessa operação, como é que tá sendo feito? Como é que faz onde ele tem umas limitações? Que que eles gostariam, né? Que você já já tem uma indicação assim e até o [UNRESOLVED_ENTITY] mais longe, mas eu vou arrumar alguém que carrega lá, né?"
-4721.0,2,"Sim, aí eu vou colocar um outro. Um outro aqui só para dar uma quebrada que seria. entender jornada itinerário do caminhão Depois eu traduzo aqui, pera aí. Porque essa quebrada que o [PERSON_A] esse aqui de cima seria os ônibus de teste usando de teste o ônibus e caminhões de teste que a gente fala. São os veículos que acaba indo para mineração acaba indo para estrada em alta altitude, né para fazer os testes mesmo. E lá eles não vão ter infraestrutura então a gente poderia fazer o MVP lá, né? E esse 43 aqui é o que o Zé comentou que a gente tem um caminhão bem pesado elétrico que atende uma rota menor."
+4721.0,2,"Sim, aí eu vou colocar um outro. Um outro aqui só para dar uma quebrada que seria. entender jornada itinerário do caminhão Depois eu traduzo aqui, pera aí. Porque essa quebrada que o [PERSON_A] esse aqui de cima seria os ônibus de teste usando de teste o ônibus e caminhões de teste que a gente fala. São os veículos que acaba indo para mineração acaba indo para estrada em alta altitude, né para fazer os testes mesmo. E lá eles não vão ter infraestrutura então a gente poderia fazer o MVP lá, né? E esse 43 aqui é o que o [PERSON_F] comentou que a gente tem um caminhão bem pesado elétrico que atende uma rota menor."
 4789.0,2,"Mas ele poderia ir para uma rota maior, mas essa rota maior precisa de uma ponto de recarga. Então a gente consegue atender ela"
 4796.0,1,certo
 4797.0,2,"também, então, talvez entendeu? [UNRESOLVED_ENTITY] velho. E aí sim descobrir a oportunidade. A gente não consegue levar ela para [UNRESOLVED_ENTITY], já que a gente vai ter uma recarga no meio do caminho a gente faz um teste."
@@ -435,7 +435,7 @@ onset_seconds,speaker_id,text
 4877.0,1,Vamos dar uma olhadinha na tudo
 4877.0,3,Já tem bastante coisa?
 4881.0,1,"então já para ir para o encerramento, né? Dá uma olhadinha para tudo se a gente exagerou. Talvez seja até de Alguma coisa sabe?"
-4892.0,2,"Deixa eu pegar por divisão por players aqui. Ó, eu tenho uma que tá aqui para cima. duas aqui de bombeiro, mas aquele bombeiro Nem gasta energia então uma [UNRESOLVED_ENTITY] também já posso deixar marcado duas três quatro. O Zé tá com uma duas três quatro. Com essa do que Enem aqui praticamente finalizada, né?"
+4892.0,2,"Deixa eu pegar por divisão por players aqui. Ó, eu tenho uma que tá aqui para cima. duas aqui de bombeiro, mas aquele bombeiro Nem gasta energia então uma [UNRESOLVED_ENTITY] também já posso deixar marcado duas três quatro. O [PERSON_F] tá com uma duas três quatro. Com essa do que Enem aqui praticamente finalizada, né?"
 4921.0,3,"Sim, acho que é isso."
 4922.0,2,"E o [UNRESOLVED_ENTITY] ficou com uma duas. Três tá bom? não, tá"
 4930.0,1,"É aparentemente não tá sobrecarregando, né?"
@@ -464,7 +464,7 @@ onset_seconds,speaker_id,text
 5122.0,2,fechou
 5123.0,1,Um bom final de semana para vocês também.
 5124.0,3,Bom fim de semana [PERSON_A].
-5126.0,2,Bom final de semana o [PERSON_A] o Zé tem uma pergunta para você.
+5126.0,2,Bom final de semana o [PERSON_A] o [PERSON_F] tem uma pergunta para você.
 5130.0,3,Ah é. E aí tomou a cerveja ou não?
 5130.0,1,Diga.
 5134.0,3,Tomaram né? Não tô mentira.

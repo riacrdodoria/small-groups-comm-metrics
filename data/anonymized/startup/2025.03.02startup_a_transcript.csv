@@ -1,12 +1,12 @@
 onset_seconds,speaker_id,text
-0.0,1,Bom dia Thiago.
+0.0,1,Bom dia [PERSON_G].
 2.0,2,"Bom dia [PERSON_A], tudo bem?"
 3.0,1,Tudo ótimo e você?
-5.0,2,"Tudo bem também, graças a [UNRESOLVED_ENTITY]. O [UNRESOLVED_ENTITY] tá entrando. Nossa tá um caos Aqui chovendo de novo."
+5.0,2,"Tudo bem também, graças a [UNRESOLVED_ENTITY]. O [PERSON_F] tá entrando. Nossa tá um caos Aqui chovendo de novo."
 12.0,1,É muita chuva.
 15.0,2,"Hoje acabou de começar o dia 3 de fevereiro, né a notícias de agora de manhã é que já choveu quase 70% do previsto por mês aqui em [LOCATION_B]."
-28.0,1,Alguém tá pedindo? O [UNRESOLVED_ENTITY] tá entrando.
-35.0,2,"O Mateus ainda não apareceu a gente com o Mateus, vem de ele mora muito perto da minha do trólebus que tem aqui, né? Para aqui na porta também. Então ele vende drogas não vem de carro. E a gente acha que Talvez possa ser alguma coisa com a chuva, porque ele geralmente é o primeiro a chegar."
+28.0,1,Alguém tá pedindo? O [PERSON_F] tá entrando.
+35.0,2,"O [PERSON_E] ainda não apareceu a gente com o [PERSON_E], vem de ele mora muito perto da minha do trólebus que tem aqui, né? Para aqui na porta também. Então ele vende drogas não vem de carro. E a gente acha que Talvez possa ser alguma coisa com a chuva, porque ele geralmente é o primeiro a chegar."
 54.0,3,"ele mandou um recado aqui no WhatsApp falando que Vai chegar atrasado mesmo, mas aí a gente começa aqui."
 62.0,2,para compartilhar
 73.0,3,E você tá bem?
@@ -51,7 +51,7 @@ onset_seconds,speaker_id,text
 655.0,3,E o negócio que eu tô querendo colocar já. É isso aí vamos lá só para Fechar o Segue. A gente teve uma. Plot Twist aí bem interessante na sexta-feira por conta do efeito da matéria dispositivos aí. a plugin mudou de
 681.0,2,"A gente teve uma reunião com um dos sócios da plugin na sexta-feira que é o [UNRESOLVED_ENTITY] e a pulguinha acenou agora que toparia discutir números com a gente para ser investidor. Para entrar com motorista com equipamento porque antes eles tinham uma postura até um pouco conservadora demais, não nos negócio é vender se arrumar alguém para comprar a gente vende vocês operam serviço com eles, não cria nem alugar o carro para gente por um mês agora, eles já abriram a possibilidade de alugar o veículo e colocaram para gente que topariam discutir números para serem investidor para serem o dono do lacete. E a gente se a plataforma."
 724.0,1,"Então se veja vocês estão virando percebem o paralelo com [UNRESOLVED_ENTITY]. Estão virando, né? Porque se vocês têm eles podem ser a localiza, né? Tocar que pega o cara que vai alugar para sair fazendo carga, né?"
-743.0,2,"É hoje, eles têm mais de 10 motoristas lá que trabalham para eles a princípio eles topariam pelo pelo que o [UNRESOLVED_ENTITY] falou né, Zé até"
+743.0,2,"É hoje, eles têm mais de 10 motoristas lá que trabalham para eles a princípio eles topariam pelo pelo que o [UNRESOLVED_ENTITY] falou né, [PERSON_F] até"
 749.0,1,e cada um
 750.0,2,eles mesmos operadores.
 752.0,1,"É cada motorista você transforma num [UNRESOLVED_ENTITY]. E vai É lógico que tem que ter volume tem que ter viabilidades não pode deixar o cara morrer de fome, né? Mas tô pensando na plataforma no futuro no início. Alguém tem que pagar eles né? Mas no futuro quando tiver volume tá funcionando tudo direitinho, né? É imagine ou foi o futuro a imagem que vocês tem que estar na cabeça é assim os postos vão ser móveis. Então vai ter que ter muito Motorista, vai ter que ter muito carro, né."
@@ -69,7 +69,7 @@ onset_seconds,speaker_id,text
 886.0,3,E falta daqui dessa lista aqui falta
 893.0,2,Das possibilidades preciso ver?
 916.0,3,"a gente contactar ainda, o só não tá startado grandes eventos locadoras, mas o plano é que isso aconteça essa semana."
-928.0,2,a parte do Mateus Aí que é
+928.0,2,a parte do [PERSON_E] Aí que é
 931.0,1,Precisa notar uma Eixo para isso. Ou tá lá já?
 934.0,2,eu acho que
 935.0,3,a gente já pode até pintar de
@@ -83,31 +83,31 @@ onset_seconds,speaker_id,text
 1000.0,3,"Uma é diferente, aí a gente tem que"
 1011.0,2,Você tem algo para trazer né?
 1020.0,1,Você disse que ia ter pé notícias ruins.
-1024.0,2,"só uma constatação que a gente já tinha feito e acho que a gente confirmou na Na reunião de meio de jornada aí com os [UNRESOLVED_ENTITY] duas percepções, tivemos percepções positivas que foi igual o Zé comentou né? Gostaram dos mdps gostaram da matéria com quatro rodas, o Ronaldo se mostrou bastante engajado, eu acho que a não presença do lindinei não foi um problema porque o lindinei tá bem engajado com a gente também."
+1024.0,2,"só uma constatação que a gente já tinha feito e acho que a gente confirmou na Na reunião de meio de jornada aí com os [UNRESOLVED_ENTITY] duas percepções, tivemos percepções positivas que foi igual o [PERSON_F] comentou né? Gostaram dos mdps gostaram da matéria com quatro rodas, o Ronaldo se mostrou bastante engajado, eu acho que a não presença do lindinei não foi um problema porque o lindinei tá bem engajado com a gente também."
 1053.0,2,"Então, não foi necessariamente ruim ele ele tá lá porque ele é bem aberto a falar com a gente em outros fóruns. Mas aí duas coisas, né? A gente vê uma energia baixa de alguns anjos. jogando aberta que entre a gente possa até acho que a impressão que passa é de Pouca dedicação talvez não sei da Sandra não, parece muito. preocupados com um programa depois que escolhem os grupos que vão estar encubados uma participação assim protocolar cada um fez um comentário uma pergunta só para falar que Fizeram e falar preciso sair para outra largou o fórum no meio e acabou ficando com a gente com a Patrícia e o Ronaldo apenas."
 1103.0,2,"E eles e eles sim os dois mostraram bastante engajamento deram bastante opinião. Então esse é um ponto. Acho que nem todos os [UNRESOLVED_ENTITY] tem assim o engajamento talvez. Forte no programa depois que escolhem os grupos e isso é mais uma. Não chega a ser um Hold Block não é só uma pequena dor. e um outro ponto é que aí é óbvio que a gente tem que saber filtrar, mas existe uma percepção, viés muito diferente entre o que a gente discute com vocês da [UNRESOLVED_ENTITY] e com [UNRESOLVED_ENTITY] com [UNRESOLVED_ENTITY] com a [UNRESOLVED_ENTITY] que são vocês são as pessoas de inovação, né? Então a gente tem um viés inovador como desenvolver um negócio com essa mentalidade."
 1153.0,2,"E a percepção dos índios é uma coisa um pouquinho mais quadrada, né? Um pouquinho mais de um executivo de uma companhia de um que é uma indústria tradicional e quadradinho ali, né? Então acho que a gente tem que saber filtrar bastante, eu não sei se você teve essa percepção também, né? É sim. sim, é mais ou menos isso, parece que a expectativa de"
 1179.0,3,"ficar balanceando, principalmente na hora das apresentações, né? A gente acaba focando para um lado e aí quando a gente mostrar para os anjos. A grande preocupação deles é? Pô, mas isso aí logo logo vai ter concorrência tipo. Eles não essa preocupação, né? Não tem muita barreira de entrada e tal. Querem muito preocupados com os números e acho que é mais uma contratação também não acho que é um grande problema é mais um aprendizado assim de Cada público que a gente fala a gente tem que ter uma postura um pouquinho diferente e tem que estar mais ou menos alinhado com as expectativas e A grande questão é que assim a gente fica um pouco na dúvida se a gente realmente se preocupa muito assim com os anjos, porque a gente sabe que eles não tem poder de decisão tão grande assim no final das contas, né? Infelizmente gostaria que tivesse."
 1238.0,3,É então assim eu acho que a reunião mais importante acaba ficando mais lá com o hard e talvez com alguns stakeholders que poderiam absorver a gente né?
-1251.0,1,"Tá tudo certinho, tudo isso que vocês falaram mesmo, viu? Porque veja só o seguinte. E tudo é importante, né? Eu acho que o [UNRESOLVED_ENTITY] pegou bem, né? Se vocês estão falando com a [UNRESOLVED_ENTITY] aqui, vocês estão falando com a parte que a cultura tradicional, né? E se vocês estão falando com a venture é uma cultura já um pouquinho mais inovadora, né? Talvez ainda não tão inovadora, quanto eles gostariam, mas ele com certeza é mais inovadora, né? E acho eu gostei mais ainda [UNRESOLVED_ENTITY] que você percebeu uma coisa para cada público, você tem que criar uma um gancho para trazer eles para o teu lado."
+1251.0,1,"Tá tudo certinho, tudo isso que vocês falaram mesmo, viu? Porque veja só o seguinte. E tudo é importante, né? Eu acho que o [PERSON_F] pegou bem, né? Se vocês estão falando com a [UNRESOLVED_ENTITY] aqui, vocês estão falando com a parte que a cultura tradicional, né? E se vocês estão falando com a venture é uma cultura já um pouquinho mais inovadora, né? Talvez ainda não tão inovadora, quanto eles gostariam, mas ele com certeza é mais inovadora, né? E acho eu gostei mais ainda [PERSON_F] que você percebeu uma coisa para cada público, você tem que criar uma um gancho para trazer eles para o teu lado."
 1304.0,1,"Não adianta você querer impor, né? É um erro você chegar e dizer assim não agora eu vou fazer a cabeça dos anjos que eles têm que ser inovadores."
 1316.0,3,Não tem como se a gente já já
 1318.0,1,Você tem que fazer assim. Isso é verdade e você tem um papel de ajudar nesse
 1319.0,3,percebeu.
 1325.0,1,"processo, mas para conseguir trazer do teu lado. Você tem que primeiro dizer aos números, veja como isso pode ser bom veja que isso funciona em tal lugar, veja você tem que dar essas evidências fortes que vocês têm, né? E daí diz isso traz inovação, né? Sabe como é inverter mas não deixar de lado que vocês são inovação também, né? E a mesma coisa quando você vai para um inovador, né? Ou até Isso muda o mundo. Olha posto. Não posto não tem sentido ser fixo porque é muito é 15 minutos é muito tempo oposto vai ter que ser muito grande não vai dar ele tem que ser onde o cara vai cortar o cabelo, ele tem que ser ele tem que estar em outro lugar não pode ser desse jeito que é hoje tá? Esse é a [UNRESOLVED_ENTITY], mas veja que os números são Com os dois conseguiram viabilidade, né? Eles assim também tem que ter os dois lados. Eu acho que isso que você percebeu sabe? Então é sempre assim, sabe os primeiros minutos é você entrar em conexão com a plateia."
-1393.0,1,"Em qualquer apresentação. Então você tem que se adequar para cada uma eu acho que tá perfeito. E realmente acho que talvez assim a expectativa ver o Thiago não ter uma expectativa que os anjos vão ajudar muito na inovação é que tá errado a expectativa é vocês têm que pensar no plano, b, lembra que a gente já conversou? Tudo bem, talvez eu acho que com certeza eu acho que tem um abismo agora que eu tô percebendo. Entre esses seis meses."
+1393.0,1,"Em qualquer apresentação. Então você tem que se adequar para cada uma eu acho que tá perfeito. E realmente acho que talvez assim a expectativa ver o [PERSON_G] não ter uma expectativa que os anjos vão ajudar muito na inovação é que tá errado a expectativa é vocês têm que pensar no plano, b, lembra que a gente já conversou? Tudo bem, talvez eu acho que com certeza eu acho que tem um abismo agora que eu tô percebendo. Entre esses seis meses."
 1432.0,1,"É muito difícil, vocês chegarem num nível de Vento de sabe ventre não investe numa coisa no nível que vocês vão chegar a ventre ela ela normalmente, ela investe quando você já tem clientes e tá com problema de atender mais clientes, sabe? Esse é o vento da [UNRESOLVED_ENTITY]. Agora eu ponho dinheiro porque comer o dinheiro nós vamos aumentar bastante a base de clientes, né e Vocês ainda vão estar desenvolvendo ainda, sabe? E aonde que vocês vão nesse meio termo sabe? A [PARTNER_A] tá com problema e eu acho que é assim os anjos podem ajudar porque veja essa alternativa que foi criado lá com a lotes, né? Então vocês têm que ir ajudando a achar essa Plano B, tá então é isso é muito importante isso sabe nesse meio ter vocês."
 1483.0,1,"Tem que pensar no plano b junto com ele, sabe? Vocês ganharem mais seis meses para deixar a plataforma mais [UNRESOLVED_ENTITY]. Exemplo né seis meses, eu acho que o ideal é um ano, né, mas por seis meses. Vocês já viram que é muito curto, né? Imagina assim o ideal, né? Vocês conseguirem um ano para deixar a plataforma bem [UNRESOLVED_ENTITY]. Para daí ter os filtros tudo direitinho para entrar motorista para o cara pedir carga para o cara ver onde estão os pontos, né? Aonde que tá o ponto mais próximo agora o ponto mais próximo agora tá aqui do lado da academia tal. Tem alguém lá e eu posso ir lá tentar disponível daqui 15 minutos fazer isso quanto dinheiro você não precisa investir em programação, né? E quanto tempo não precisa para fazer um programa desse né? Não é eu fico imaginando né? Assim você me dessem dinheiro, eu não sei quanto tempo eu acho que no mínimo uns seis meses de programação intensa, né? Mostrar numa [UNRESOLVED_ENTITY] onde que tá fazer o caminho até lá, né? Que nem o Uber mostra que nem o Waze mostra."
 1563.0,1,"Mas vamos lá, estamos discutindo não é na hora de discutir, né?"
 1570.0,2,Esperava que semana passada a gente teve basicamente só.
-1573.0,1,"Eu não tava vindo aqui. pronto Bom dia, Mateus. Tudo bom? Vamos lá então. Só não né? Coloca essa no Exu lá."
-1604.0,2,O plano de marketing dentro do vídeo não tá concluído ainda é aberto. Nova reunião com Irineu agendada né dia 12/02 a gente mantém ela aqui até realizar. Uber tô com bastante dificuldade de ter resposta da O cara da [UNRESOLVED_ENTITY] lá no [UNRESOLVED_ENTITY] também acho que ele tem responde uma vez a cada dois meses. Mas o circo falou up aí tentando mas só trazendo outro contexto aqui tava até comentando com o Zé aqui de manhã agora [PERSON_A].
+1573.0,1,"Eu não tava vindo aqui. pronto [UNRESOLVED_ENTITY] dia, [PERSON_E]. Tudo bom? Vamos lá então. Só não né? Coloca essa no Exu lá."
+1604.0,2,O plano de marketing dentro do vídeo não tá concluído ainda é aberto. Nova reunião com Irineu agendada né dia 12/02 a gente mantém ela aqui até realizar. Uber tô com bastante dificuldade de ter resposta da O cara da [UNRESOLVED_ENTITY] lá no [UNRESOLVED_ENTITY] também acho que ele tem responde uma vez a cada dois meses. Mas o circo falou up aí tentando mas só trazendo outro contexto aqui tava até comentando com o [PERSON_F] aqui de manhã agora [PERSON_A].
 1647.0,2,"A ideia aqui era tentar ter uma lista, né de motoristas. Que pelo nosso preço. Não é tão atrativo para os motoristas de aplicativo, né? Eu consegui um outro contato esse fim de semana, conversei com a pessoa já tô com WhatsApp dela que a pessoa que lidera o clube um clube de proprietários de daquele gwm. Olha que é um veículo 100% elétrico. E o cara se misturou super disposto a marcar uma reunião com a gente para a gente discutir possibilidade de fazer Viver Bem em algum evento deles e tal."
-1683.0,2,"E aí o Zé deu até ideia de manhã da gente vapor enquanto o cara não tem um evento agendado nada no mínimo no mínimo uma divulgação do nosso serviço no grupo deles no WhatsApp, né. Então, talvez essa estratégia da lista aqui dependendo. De possa dar uma não que a gente não desista de falar com 99 com a Uber, mas eu até acho que seria uma lista mais qualitativa."
+1683.0,2,"E aí o [PERSON_F] deu até ideia de manhã da gente vapor enquanto o cara não tem um evento agendado nada no mínimo no mínimo uma divulgação do nosso serviço no grupo deles no WhatsApp, né. Então, talvez essa estratégia da lista aqui dependendo. De possa dar uma não que a gente não desista de falar com 99 com a Uber, mas eu até acho que seria uma lista mais qualitativa."
 1711.0,2,colocar
 1715.0,1,essa daí lembra aqueles blog de nicho grupos que na hora que vocês tiverem aí com O carregador disponível né? O carregador tá disponível tá no lugar tal. Põe nesse grupo.
 1756.0,3,Se a gente conseguir ter os dois
-1757.0,2,Aí Mateus conseguir os carregadores para o MVP tecnologia.
+1757.0,2,Aí [PERSON_E] conseguir os carregadores para o MVP tecnologia.
 1763.0,4,"Sim a gente eu falei com a Trovão na sexta-feira, né? Eles demonstraram. Abertura de pegar o carregador lácteres. Então hoje de manhã, já tô"
 1771.0,2,Não mandou.
 1776.0,4,"mandando algumas informações que a gente fazer aquele contratinho, né? Então o carregador assim a gente vai ter e eu desse a gente vai pegar a [PARTNER_A]."
@@ -169,7 +169,7 @@ onset_seconds,speaker_id,text
 2641.0,2,slide eu acho que ele é bom até para apresentação para o [UNRESOLVED_ENTITY] na quinta
 2702.0,2,"igual a De cima, né?"
 2762.0,3,eu acho que
-2763.0,2,36 fechou não fechou não Mateus depois da reunião com o João tiramos as dúvidas.
+2763.0,2,36 fechou não fechou não [PERSON_E] depois da reunião com o João tiramos as dúvidas.
 2772.0,4,"Acho que da nossa parte sim a não ser que a resposta dele que ficou alguns pontos pendentes, né? Tem algumas surpresas para gente mas da nossa parte a"
 2777.0,2,Mas você como o cara da operação
 2780.0,4,gente perguntou tudo que tinha que perguntar e do [PARTNER_F]. Ah. Eu esperaria tá
@@ -188,7 +188,7 @@ onset_seconds,speaker_id,text
 2979.0,2,"Ele inclusive embora, já tenha tido um contato com ele a nossa cara é novidade para ele, né, então. Acho que a ideia."
 2986.0,1,Então abra do link da [UNRESOLVED_ENTITY] e do e daí já vai vendo as duas.
 2991.0,2,"Mesmo é tudo tudo que a gente tá fazendo a gente tá fazendo a partir desse pit-deck, mãe a partir dele a gente tá adequando para cada stakeholder. Então a gente começa né? Se apresentando. Tá andando aí? Ah eu vou precisar apresentar outra coisa ele."
-3031.0,2,"Então a gente tem a nossa apresentação então. Eu e o Mateus. Aí a gente tem aquele slide onde a gente contextualizador. Né, a gente tenta colocar ele dentro do problema então a ideia com ele até funciona bem aquele nosso stortelli, né, Zé historinha, né [UNRESOLVED_ENTITY] a gente fez lá no Pit para entrar na incubação colocar ele como proprietário de direito elétrico dificuldade para carregar. Então a gente traz essas manchetes para mostrar que de fato é um problema então crescem as vendas de veículo elétrico a maior parte das pessoas morando em condomínios etc."
+3031.0,2,"Então a gente tem a nossa apresentação então. Eu e o [PERSON_E]. Aí a gente tem aquele slide onde a gente contextualizador. Né, a gente tenta colocar ele dentro do problema então a ideia com ele até funciona bem aquele nosso stortelli, né, [PERSON_F] historinha, né [UNRESOLVED_ENTITY] a gente fez lá no Pit para entrar na incubação colocar ele como proprietário de direito elétrico dificuldade para carregar. Então a gente traz essas manchetes para mostrar que de fato é um problema então crescem as vendas de veículo elétrico a maior parte das pessoas morando em condomínios etc."
 3081.0,2,"Aí a gente mostra o gráfico com o [UNRESOLVED_ENTITY] entre emplacamento de veículos elétricos e híbridos plugin e pontos de carregamento. A gente Mostra aí que o nosso benchmark na [LOCATION_F] e a gente está bem distante. deles E finaliza O slide aí falando que esse GAP Hoje seria para chegar na [LOCATION_F] seria de 33 mil novos carregadores. Aí a gente faz a provocaçãozinha, né. de como preencher esse GAP Aí aquele slide Até que a gente discutiu na última."
 3127.0,2,então
 3128.0,4,"Isso a gente tem que melhorar, né? Acho que"
@@ -212,7 +212,7 @@ onset_seconds,speaker_id,text
 3399.0,1,"Ah entendi, por isso que você falou a terceira coluna, né?"
 3402.0,4,E isso E aí o serviço móvel justamente para preencher a ociosidade.
 3403.0,1,"Tá entendi. Então, você veja que você mudou a manchete, né? Então vamos arrumar uma enquete ali primeiro porque o ideal é a manchete. Já diz o que que é o slide, lembra? Porque se eu se eu tiver que interpretar você veja como eu tenho uma eu que [UNRESOLVED_ENTITY] devia ter entendido esse slide de cara, né? Porque eu já tinha mais ou menos visto ele né? Eu tava com dificuldade de entender ele lembrar ele de novo, né? Mas tudo bem que passou algumas semanas, né? E a gente não tá todo tempo que nem vocês com problema na cabeça, né? Agora imagine um outro de fora, né? Então vamos arrumar ele primeiro a manchete, né? E daí, acho que as três colunas fica melhor porque você diz assim, olha eu tenho uma ociosidade aqui que é menor porque o tempo de carga é baixo, né? Agora a ociosidade no mesmo modelo para o elétrico a ociosidade vai ser maior."
-3475.0,1,"E daí o móvel vai resolver esse problema, né? Mas a manchete tem alguma a ver com é que você tinha falado, eu não anotei aqui repita lá Matheus."
+3475.0,1,"E daí o móvel vai resolver esse problema, né? Mas a manchete tem alguma a ver com é que você tinha falado, eu não anotei aqui repita lá [PERSON_E]."
 3492.0,4,Eu comentei que a ideia era Justamente a gente preencher a ociosidade do dos Ossos fixos dos pontos fixos.
 3502.0,1,"solução para a ociosidade da solução para ociosidade dos postos fixos [UNRESOLVED_ENTITY] essa depois a gente melhora tá? É o primeiro é o primeiro chute, né? solução para ociosidade dos postos Ou do modelo atual de postos. Que vocês agora estão querendo o modelo novo, né? Fica melhor ainda."
 3554.0,3,Contra ele onde ele precisa na
@@ -232,10 +232,10 @@ onset_seconds,speaker_id,text
 3720.0,2,Você pode agendar para onde você quiser então enquanto você treina enquanto você está numa consulta médica sua casa.
 3725.0,1,"Isso mas eu acho que uma com uma coisinha mais você já pode por isso aqui nesse slide. Para pessoa entender de cara isso. Por exemplo, se você colocar ali um colocar duas flechinhas ali time em [UNRESOLVED_ENTITY], o cara já vai. Já vai entender melhor, só isso, tá [UNRESOLVED_ENTITY], depois vocês vem se vale a pena, tá?"
 3768.0,4,"Cara, eu tentaria colocar uma coisa melhor aí que a gente estava discutindo a questão dos pontos positivos. da recarga móvel está até talvez comentando de fazer realmente um comparativo aí com Os fixos não sei."
-3788.0,1,"Deixa eu voltar um pouquinho ali. né Mais legal que isso eu vou eu vou para academia então, eu vou fazer um esqueleto para o cara me carregar enquanto eu tô na academia, quanto tempo vai demorar para carregar. 0 segundos né? Eu não vou perder não, vou perder nenhum tempo, né. No posto eu perco três a cinco minutos desse jeito, eu não vou perder eu vou perder. Mas agora volta lá, desculpe, [UNRESOLVED_ENTITY]."
-3839.0,2,"Esse ponto que você falou, o Mateus sabe como ficar legal. Sabe quando você vai fechar um plano de academia de celular é que aquela coluna no plano base que você tem tipo tiquezinho Verde no que tem o xizinho vermelho que não tem. E aí por exemplo a gente podia fazer uma tabelinha dessa do nosso."
+3788.0,1,"Deixa eu voltar um pouquinho ali. né Mais legal que isso eu vou eu vou para academia então, eu vou fazer um esqueleto para o cara me carregar enquanto eu tô na academia, quanto tempo vai demorar para carregar. 0 segundos né? Eu não vou perder não, vou perder nenhum tempo, né. No posto eu perco três a cinco minutos desse jeito, eu não vou perder eu vou perder. Mas agora volta lá, desculpe, [PERSON_E]."
+3839.0,2,"Esse ponto que você falou, o [PERSON_E] sabe como ficar legal. Sabe quando você vai fechar um plano de academia de celular é que aquela coluna no plano base que você tem tipo tiquezinho Verde no que tem o xizinho vermelho que não tem. E aí por exemplo a gente podia fazer uma tabelinha dessa do nosso."
 3866.0,4,"Sim, pode ser eu acho que você não pode talvez vai ficar. Para confundir com o slide anterior que a gente colocou aquele negócio lá das necessidades. Outra vez juntas. uma coisa só"
-3896.0,1,"Pegar no erro de uma preocupação do Mateus e queria sugerir o título. Em vez de reza cego. Veja que o título podia ser. Charter É melhor. E ele já explica tudo. A ideia do story Teles do título é essa? Sabe que a gente que você vê lá no Pit do que a gente sempre mostra de exemplo lá do quinto andar, né? Se você lê se você for lendo o só os títulos você entende a história inteira. A figura só dá a explicação."
+3896.0,1,"Pegar no erro de uma preocupação do [PERSON_E] e queria sugerir o título. Em vez de reza cego. Veja que o título podia ser. Charter É melhor. E ele já explica tudo. A ideia do story Teles do título é essa? Sabe que a gente que você vê lá no Pit do que a gente sempre mostra de exemplo lá do quinto andar, né? Se você lê se você for lendo o só os títulos você entende a história inteira. A figura só dá a explicação."
 3957.0,1,"Tá então esse que nem aquele título lá. Olha tem uma cabana com a ociosidade. Aqui poderia ser o título nós carregamos. Onde você tá? E aonde você vai estar? Ou poderia ser um outro título tempo de carregamento zero é outro tipo, né? Tempo de carregamento zero. Por que que é zero daí tem a explicação em baixo também é uma também ou até. Pode pôr um outro slide, né? Você carrega onde você tiver e o tempo de carregamento é zero, você tá contando uma história. Tá então anota aí mudar o título para fazer a história tem continuação."
 4007.0,2,posso
 4011.0,1,próximo
@@ -303,7 +303,7 @@ onset_seconds,speaker_id,text
 5081.0,1,"É veja, eu acho que vocês vão deixar separado os papéis. Eu gostei dessa drive, você não põe tecnologia nesse primeiro modelo. O driver é da tecnologia. Mas não necessariamente vai ser da tecnologia que não gera não modelo é vocês vão chamar um drive nesse caso é da tecnologia, mas pode ser um driver que saiu da tecnologia era um drive que a [UNRESOLVED_ENTITY] contratou um drive que vocês disseram para ele ao alugue da tecnogera o carro, né? Então é um driver como Uber, né? É um dono que é alugado, né que o Então acho que eu colocar ali o outro é o dono do veículo, né?"
 5127.0,4,Então a gente junta.
 5136.0,1,Ou se vocês quiserem.
-5146.0,2,Puxar nota aí Zé hoje você
+5146.0,2,Puxar nota aí [PERSON_F] hoje você
 5150.0,1,"É muito caro, né? O motorista nunca vai ter né? Porque é muito investimento é muito alto."
 5159.0,3,funcionário então no nosso modelo
 5161.0,1,"Tá certo então, talvez seja de simplificar mesmo. Acho que"
@@ -318,7 +318,7 @@ onset_seconds,speaker_id,text
 5211.0,2,primeiro.
 5222.0,3,"Foi bem bom a gente teve bastante Insight, mas acho que a gente já teve reuniões melhores, eu vou dizer assim."
 5233.0,1,Que que a gente pode melhorar?
-5238.0,2,"Mateus eu acho que a gente ir até mais um peroti nosso né, a gente como a gente está com bastante dúvida aqui."
+5238.0,2,"[PERSON_E] eu acho que a gente ir até mais um peroti nosso né, a gente como a gente está com bastante dúvida aqui."
 5245.0,1,A gente dividir um pouco fugimos.
 5248.0,2,[UNRESOLVED_ENTITY]
 5256.0,4,Eu vou dar um oi.

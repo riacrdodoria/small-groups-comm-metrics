@@ -2,10 +2,10 @@ onset_seconds,speaker_id,text
 0.0,1,[UNRESOLVED_ENTITY] se dá para cancelar.
 122.0,1,"Eu tô viajando, né? E aí eu consegui levar o carro lá em casa hoje. Me dá uma ideia mais ou menos, que horário e aí? Para ver se organizar para ficar vendo em casa, né? Daí à tarde. Mas vou compartilhar o contato da minha esposa contigo também. Qualquer coisa você fala com ela. Tá bom. Um abraço."
 352.0,2,Bom dia [PERSON_A].
-354.0,1,"Bom dia, Mateus. Tudo bom?"
+354.0,1,"Bom dia, [PERSON_E]. Tudo bom?"
 357.0,2,Tudo bem e você?
 358.0,1,Tudo certinho também.
-360.0,2,Boa o Zé tá o Zé?
+360.0,2,Boa o [PERSON_F] tá o [PERSON_F]?
 362.0,1,sala
 367.0,3,"Hi, I’m transcribing this call with my Tactiq AI Extension: https://tactiq.io/r/transcribing"
 367.0,2,"Ele falou que já vai entrar já mas hoje cada um tá na sua na sua casa, a gente já saiu do dono já."
@@ -24,8 +24,8 @@ onset_seconds,speaker_id,text
 495.0,1,Todo mundo gostou.
 500.0,2,"A nossa ideia como que evoluiu como que a gente conseguiu adaptar no meio do caminho por conta daquela notícia que a gente tinha que atender pesado quem tinha que estar mais próximo da da mãe, né? E também avaliou elogiaram bastante. Nossa evolução pessoal Mesmo durante o seis meses"
 525.0,1,"Mas foi isso mesmo. Dá para dizer que tá certinho, né? Não tem dúvida nenhuma que tudo isso ocorreu né?"
-538.0,2,E aí agora a nossa [UNRESOLVED_ENTITY].
-540.0,1,"O [UNRESOLVED_ENTITY], tá? entrando [UNRESOLVED_ENTITY] dia tudo bom?"
+538.0,2,E aí agora a nossa [PERSON_F].
+540.0,1,"O Lucas [PERSON_F] Lucas, tá? entrando [UNRESOLVED_ENTITY] dia tudo bom?"
 550.0,4,pois é
 551.0,2,E aí agora?
 551.0,1,"Tão [UNRESOLVED_ENTITY], agora não tem mais compromisso então. É ou ainda tem alguma coisa para [PARTNER_A] mesmo lá não vai ser necessário fazer uma apresentação da [LOCATION_E]."
@@ -89,12 +89,12 @@ onset_seconds,speaker_id,text
 1165.0,1,"De vocês pensarem, sabe e daí vocês entenderiam mais uma investigação de vocês entender como é que eles funcionam porque eles eles trabalham bastante com terceirizados, né? Como é que faz o investimento? Como é que eles? Dimensionam tem tudo um monte de dúvida que eu fico assim como se fosse para operar isso, né? Tem muita coisa para ser descoberta, né? Como vocês não tem mais tempo uma conversa com alguém lá ajuda um monte, viu?"
 1199.0,2,legal
 1199.0,1,"Só tem eu diria assim tempo, porque se vocês conseguirem uma conversa, por exemplo essa semana. Vocês já chegam mais preparado lá? Lógico que seria uma sorte danada. Mas essa é muito boa. E é só nós hoje na reunião."
-1223.0,2,É o Thiago tá resolvendo algumas pendências de casamento civil dele aí.
+1223.0,2,É o [PERSON_G] tá resolvendo algumas pendências de casamento civil dele aí.
 1228.0,1,"Então tá. E daí assim não e como é que vocês imaginam fazer a reunião tem o bate-papo, mas não tem mais o que fazer ou vocês querem dar uma passadinha em algum vídeo alguma coisa que vocês estão se preparando para visita. Talvez é só isso que a gente poderia. Não sei até vocês pensaram é que não teve tempo, né? Depois vocês atualizarem o [UNRESOLVED_ENTITY] o que que poderia ser feito também não dá, né? Lembra atualizar o vídeo lá de início, né? O que que nós vamos fazer nos próximos? Que que poderíamos fazer nos próximos seis meses? Mas é que depende de todas essas frentes aí né? Não dá agora. Talvez para imaginar"
 1275.0,4,"Eu tenho a tarefa que a gente está na semana assim, eu acho que não a gente não tem muito tempo para fazer isso. Agora acho que depois da da volta e se o projeto continuar a gente deve fazer né? Mas para essa semana que a gente até discutiu na sexta que assim que a gente tem que fazer é realmente. Terminar a agenda lá de marcar algumas reuniões que ainda estão pendentes."
 1300.0,4,"E preparar os Beats, né? A gente ouviu bastante conselho lá do dos [UNRESOLVED_ENTITY] de como abordar algumas coisas algumas coisas que não fica não ficaram tão [UNRESOLVED_ENTITY] assim no Pit e como a gente deveria levar isso para lá, então acho que assim a gente já tá bem na cabeça o que a gente tem que fazer que é acertar os bits para semana."
 1323.0,1,esse esse é o mais importante e não tem outra coisa para fazer então vocês
-1326.0,4,Sei o que que você acha Mateus ou a gente discute um geral assim pelo menos.
+1326.0,4,Sei o que que você acha [PERSON_E] ou a gente discute um geral assim pelo menos.
 1327.0,1,querem aproveitar esse tempo agora que nós estamos aqui e começar com
 1338.0,4,porque
 1340.0,1,"Algum ponto que vocês porque Teoricamente nós estamos numa reunião para resolver um problema importante de vocês, né?"
@@ -162,7 +162,7 @@ onset_seconds,speaker_id,text
 2259.0,1,"Mas antecipação e antecipação é que não ficou escrito ali o antecipação da operação, né que tá dentro."
 2267.0,4,"Ah é aqui ó. É aqui, né. Depois Charger provisório que antecipa a infra e valida operações."
 2274.0,1,Antecipação de Rota extensão de [UNRESOLVED_ENTITY] Você tem o case da [PARTNER_A] né do
-2278.0,4,"E aí beleza, aí, o próximo aqui é sobre tentar enfatizar um pouco melhor os como que funciona os três tipos de serviço que a gente tava propondo, né? Que é o do resgate da extensão de [UNRESOLVED_ENTITY] e do After de base aí que seria se enquadra tanto em operações remotas quanto essa questão de antecipação, né? então É Talvez assim, o resgate é meio óbvio, né meio fácil de explicar todo mundo. Entendeu? Todo mundo tem [UNRESOLVED_ENTITY] falou é achou super importante tudo mais mas as outras eu acho que não ficou tão [PARTNER_F] assim, principalmente a distensão de [UNRESOLVED_ENTITY], né? Como que isso funciona? Então talvez trabalhar um pouco melhor o slide, não sei."
+2278.0,4,"E aí beleza, aí, o próximo aqui é sobre tentar enfatizar um pouco melhor os como que funciona os três tipos de serviço que a gente tava propondo, né? Que é o do resgate da extensão de [UNRESOLVED_ENTITY] e do After de base aí que seria se enquadra tanto em operações remotas quanto essa questão de antecipação, né? então É Talvez assim, o resgate é meio óbvio, né meio fácil de explicar todo mundo. Entendeu? Todo mundo tem [PERSON_E] falou é achou super importante tudo mais mas as outras eu acho que não ficou tão [PARTNER_F] assim, principalmente a distensão de [UNRESOLVED_ENTITY], né? Como que isso funciona? Então talvez trabalhar um pouco melhor o slide, não sei."
 2332.0,1,caminhão da [PARTNER_A]?
 2334.0,4,"Então mas aí ficou essa essa questão aí o do [UNRESOLVED_ENTITY], né? Que eles entenderam que é seria um serviço que iriam poderia fazer, mas a extensão de [UNRESOLVED_ENTITY] não precisa você não precisa carregar exatamente na sua base ou no seu galpão Logístico, pode ser no meio da estrada sabe durante o almoço do motorista alguma coisa do tipo ou num cliente que não vai investir, né? E aí você consegue fazer isso então."
 2364.0,4,"Talvez eu acho que a gente tem que colocar um pouco mais [PARTNER_F], principalmente esse Range extension aqui."
@@ -297,7 +297,7 @@ onset_seconds,speaker_id,text
 3911.0,1,Não precisa.
 3911.0,4,"É uma boa opção, mas assim pode ser interno assim."
 3912.0,1,"Pode ser com scanner. Pode ser interno, pode ser?"
-3919.0,2,"Eu adicionei mais algumas coisas aqui, Zé. É mas eu acabei não compartilhando com vocês."
+3919.0,2,"Eu adicionei mais algumas coisas aqui, [PERSON_F]. É mas eu acabei não compartilhando com vocês."
 3926.0,4,Fala aí.
 3927.0,2,"Mas é um questionamento do [UNRESOLVED_ENTITY] e a gente viu que realmente a gente não fala em nenhum momento. É a gente deixar [PARTNER_F] que a nossa solução móvel em termos de velocidade de carregamento. É igual é equivalente ao carregador fixo. Porque uma coisa que ele perguntou toda hora tá mas você vai colocar um móvel, eu vou carregar no mesmo tempo. E aí isso foi martelando [UNRESOLVED_ENTITY] até o final da apresentação."
 3957.0,4,É só um comentário para complementar isso [PERSON_A].
@@ -321,7 +321,7 @@ onset_seconds,speaker_id,text
 4079.0,1,"[UNRESOLVED_ENTITY] o raciocínio para depois, né? Quando estamos fazendo carros menores"
 4081.0,4,e
 4084.0,1,"também porque nós é que nunca vocês vão ser. Específico um né? Toda essa infraestrutura ou tirou os seus idade melhorou, né?"
-4096.0,4,"Assim acho legal esse ponto que o Mateus levantou porque o [UNRESOLVED_ENTITY] apesar de ter aparecido em outras reuniões, por exemplo de meio de jornada. Ele não participou muito então foi meio que um cara muito bom, né de nível alto. E virtualmente digamos assim, viu? Nossa apresentação pela primeira vez, né? Alguma ideia mas assim apresentação mesmo que fez comentários foi a primeira vez então. Mostrou algumas dessas falhas, porque por exemplo para o Ronaldo para o lindinei que tavam próximos era meio [UNRESOLVED_ENTITY] essa coisa da cidade, mas que a gente já tinha falado algumas vezes e é o que vai acontecer lá na [LOCATION_E], né? É muita gente vai ver pela primeira vez."
+4096.0,4,"Assim acho legal esse ponto que o [PERSON_E] levantou porque o [UNRESOLVED_ENTITY] apesar de ter aparecido em outras reuniões, por exemplo de meio de jornada. Ele não participou muito então foi meio que um cara muito bom, né de nível alto. E virtualmente digamos assim, viu? Nossa apresentação pela primeira vez, né? Alguma ideia mas assim apresentação mesmo que fez comentários foi a primeira vez então. Mostrou algumas dessas falhas, porque por exemplo para o Ronaldo para o lindinei que tavam próximos era meio [UNRESOLVED_ENTITY] essa coisa da cidade, mas que a gente já tinha falado algumas vezes e é o que vai acontecer lá na [LOCATION_E], né? É muita gente vai ver pela primeira vez."
 4143.0,4,"Então isso realmente faça sentido a gente deixar bem [PARTNER_F], né?"
 4147.0,1,Deixar [PARTNER_F] que o tempo de carregamento é rápido.
 4152.0,2,"Isso aí o [UNRESOLVED_ENTITY] assim ele é [UNRESOLVED_ENTITY] de [UNRESOLVED_ENTITY] da [PARTNER_A], né? Então além dele conhecer [UNRESOLVED_ENTITY] em si, né? Dentro de casa, ele conhece quem compra o nosso veículos que são operadores de logística. Então, eles sabem que ele me falou pô, tem que carregar o mais rápido possível que o caminhão não fica parado."
@@ -341,7 +341,7 @@ onset_seconds,speaker_id,text
 4299.0,4,a
 4300.0,1,fica bem [PARTNER_F] que
 4301.0,2,https://scaniaazureservices.sharepoint.com/sites/EU_SE_RD_D0055/rod-content/rod-access-docs/Forms/AllItems.aspx?id=%2Fsites%2FEU%5FSE%5FRD%5FD0055%2Frod%2Dcontent%2Frod%2Daccess%2Ddocs%2F20%5FOrganisation%2FEPV%2FCommon%2FSektionsaktiviteter%2F2024%2FQ3%5FK13%2FErinion%20company%20presentation%20only%20for%20EEP%20internal%20use%2Epdf&parent=%2Fsites%2FEU%5FSE%5FRD%5FD0055%2Frod%2Dcontent%2Frod%2Daccess%2Ddocs%2F20%5FOrganisation%2FEPV%2FCommon%2FSektionsaktiviteter%2F2024%2FQ3%5FK13&xsdata=MDV8
-4301.0,4,É tem um tem um slide aí que acho que até o Mateus.
+4301.0,4,É tem um tem um slide aí que acho que até o [PERSON_E].
 4309.0,2,uma acho que é um slide bem legal para a gente usar como base para apresentar. Como que a outra charge pode? Ter um complementa essas empresas e a mobilidade da [PARTNER_A].
 4323.0,1,"mais [UNRESOLVED_ENTITY], vamos aproveitar bem aí você viu como aquela ideia de vocês terem uma reunião por semana de 90 minutos para resolver as principais questões é o mais rico, né? Se reunir agora tá todo time já resolve a semana já vai limpa, né? Já vai aparecer no sonho."
 4362.0,2,slide 4 inclusive o [UNRESOLVED_ENTITY] fala bem
@@ -413,7 +413,7 @@ onset_seconds,speaker_id,text
 5143.0,1,"Porque veja Assim entre [LOCATION_D] e [LOCATION_B], já tem um ali da [PARTNER_A]. Por que que você vai lá no Graal? Por que que você vai lá em outro lugar? Faz ali onde já tem, né? É só assim quando tiver mais volume, né? Tô"
 5159.0,4,Exatamente exatamente
 5167.0,1,"pensando assim aí quem sabe vocês já Olha a [PARTNER_A] tá tão cheio [UNRESOLVED_ENTITY] aqui fazendo esse carregamento e nós precisamos um outro lugar, então vamos ver aqui com o nosso vizinho tal que nós vamos fazer junto com eles ou uma instalação, né? Então então, [LOCATION_D], [LOCATION_B], por exemplo se já tem uma solução duvido que vocês não tenham duas entre [LOCATION_B] e [UNRESOLVED_ENTITY] então."
-5193.0,2,"Tem a gente passou por uma na [UNRESOLVED_ENTITY], não foi Zé?"
+5193.0,2,"Tem a gente passou por uma na [UNRESOLVED_ENTITY], não foi [PERSON_F]?"
 5194.0,1,"Tem que ser maior que [LOCATION_D], [LOCATION_B]."
 5197.0,4,É na [UNRESOLVED_ENTITY] tem tem uma bem grande aliás. E ainda tem tem a oportunidade de ter as concessionárias [PARTNER_B] também que a gente foi lá em [UNRESOLVED_ENTITY] que é do grupo também. Então tá dentro aí dá para jogar juntos também.
 5214.0,1,"Então você já tem o QG de vocês, né? Que vai os carregadores vão ali carregam de madrugada e vocês estão deslocando, eles onde tem demanda próximo no dia seguinte. E atendendo emergência. Não sei vocês tem um slide que tá mostrando isso aí da [UNRESOLVED_ENTITY]."

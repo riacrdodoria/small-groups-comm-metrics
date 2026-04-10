@@ -58,22 +58,22 @@ python3.11 analysis/00_anonymization/main.py --force
 
 The `--force` flag rewrites existing anonymized outputs for a clean rerun after updates to the entity list or anonymization logic.
 
-## First reproducible run summary
+## Reproducible run summary after residual-name correction
 
-The current scripted run processed the startup raw files supplied in this project snapshot and produced the following first-pass summary.
+After publication of the initial Step 0 baseline, a manual inspection of the anonymized transcripts found residual personal-name mentions, including an occurrence of `Mateus` that had not been covered by the deterministic replacement list. The correction workflow was intentionally kept reproducible: the missing personal-name variants were added to `data/raw/entity_list.csv`, the anonymization step was rerun with `--force`, and the regenerated outputs replaced the previous committed artifacts.
 
 | Metric | Value |
 |---|---:|
 | Meetings processed | 34 |
 | Files excluded | 3 |
-| Remaining unresolved entities after first-pass redaction | 3366 |
-| Deterministic or fallback person replacements | 323 |
+| Remaining unresolved entities after rerun | 3310 |
+| Deterministic or fallback person replacements | 644 |
 | Deterministic or fallback partner replacements | 1097 |
 | Deterministic or fallback client replacements | 27 |
 | Deterministic or fallback location replacements | 504 |
 | Startup replacements | 22 |
 
-This means the step is already reproducible and generates shareable anonymized artifacts, but the researcher should continue expanding `data/raw/entity_list.csv` and rerun the script until `review_flagged.csv` is reduced to zero or an explicitly accepted review threshold. The current repository state therefore represents a documented **first-pass anonymization baseline** rather than the final locked anonymization dictionary.
+A direct validation scan after the rerun confirmed that the specific residual variants addressed in this correction cycle, including `Mateus`, `Matheus`, `Thiago`, `José`, `Jose`, and `Zé`, no longer appear in the committed anonymized startup transcript outputs. This repository state should therefore be treated as the **corrected Step 0 baseline**, while `review_flagged.csv` remains the mechanism for identifying additional entities that still require manual review in later anonymization refinement cycles.
 
 ## Notes for downstream steps
 

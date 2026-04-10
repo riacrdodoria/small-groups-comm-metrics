@@ -1,9 +1,9 @@
 onset_seconds,speaker_id,text
 0.0,1,Bom dia [PERSON_A].
-2.0,2,Bom dia [UNRESOLVED_ENTITY]. Tudo bem por aí?
+2.0,2,Bom dia [PERSON_F]. Tudo bem por aí?
 10.0,1,Os meninos estão entrando aí? Eu vou pegar só uma água lá enquanto os meninos entram.
 26.0,2,tá
-184.0,2,"Bom dia, Mateus."
+184.0,2,"Bom dia, [PERSON_E]."
 187.0,3,Bom dia [PERSON_A]. Bom dia.
 194.0,1,Sim fizemos já mandamos.
 256.0,2,se tiver que fazer uma One Page para como é que
@@ -15,7 +15,7 @@ onset_seconds,speaker_id,text
 277.0,4,"Hi, I’m transcribing this call with my Tactiq AI Extension: https://tactiq.io/r/transcribing"
 281.0,1,Ver se eu acho aqui.
 282.0,2,"Na bolsa de ontem nós fechamos da [STARTUP_B]. Fica bacana, né? Depois de tudo isso você fazer uma página. [UNRESOLVED_ENTITY] tá chegando."
-305.0,1,Tem aí Thiago? Quem te mandou para [UNRESOLVED_ENTITY]?
+305.0,1,Tem aí [PERSON_G]? Quem te mandou para [UNRESOLVED_ENTITY]?
 314.0,3,"Tá lá no chat, né?"
 316.0,5,Vou mandar vou mandar pera aí.
 318.0,1,mais fácil
@@ -40,14 +40,14 @@ onset_seconds,speaker_id,text
 464.0,5,Na verdade a gente tá falando de [LOCATION_A].
 467.0,1,sim
 470.0,5,"A gente está falando de [LOCATION_A] e a gente vai discutir agora, né? Talvez. Não vamos começar a gente vai discutir isso no segue no inazixos. Eu vou começar eu tô compartilhando aqui já tá eu vou começar com o Segue. falando que nós tivemos ontem foi até a razão para a gente te pedir para Para adiar a nossa reunião para hoje era nossa reunião com o senhor da Irineu e ele também tá em outras iniciativas da scanner. Ele é Board da lotes. Ele é foi [PARTNER_A] ventre, eu ainda tenho uma posição algo assim."
-521.0,5,"E ele foi muito receptivo. Acho que a reunião foi muito boa, a gente vai ter tempo de discutir bastante coisa dessa reunião hoje. Mas baseado nas conversas com a [UNRESOLVED_ENTITY] e com até o que a gente ouviu dele. Esse mercado poderia ser 50 vezes o que tá aí real ou mentiroso? E a gente sente que [PARTNER_A] ventre esse programa não é um caminho. Não sei se o Mateus tem essa mesma percepção."
+521.0,5,"E ele foi muito receptivo. Acho que a reunião foi muito boa, a gente vai ter tempo de discutir bastante coisa dessa reunião hoje. Mas baseado nas conversas com a [UNRESOLVED_ENTITY] e com até o que a gente ouviu dele. Esse mercado poderia ser 50 vezes o que tá aí real ou mentiroso? E a gente sente que [PARTNER_A] ventre esse programa não é um caminho. Não sei se o [PERSON_E] tem essa mesma percepção."
 553.0,5,"Mas a percepção que eu tenho é essa, na verdade mais do que percepção, né? Eu trato até como informação."
 563.0,2,"é eu acho assim, a probabilidade está certa é 99%, porque Eu sempre acho assim, até já falei lá com a linda tal, né? Que em seis meses é impossível chegar no ponto que um vento e põe dinheiro, sabe? Vocês precisam de mais um ano, aí, vocês estariam pronto para dentro e por dinheiro. Vocês teriam que ter prova de tração sequencial, sabe já teriam que tá comercializando. Daí o vento ele vem por dinheiro. Você tá faltando ele, vamos acelerar. Vamos então, vamos por mais dinheiro em margem. Ah não, mas aí precisa aumentar a equipe aumenta a equipe. Ah, mas daí precisa melhorar a solução e melhora a solução pega um monte de dinheiro e vai para o mercado mas para acontecer sabe? Antes disso não é evento e que põe dinheiro sabe é investidor anjo."
 622.0,2,"Que põe dinheiro na fase que vocês estão sabe? Então isso daí é meio uma certeza, mas é [UNRESOLVED_ENTITY] de lugar com a Irineu também, não deu certo descartou."
 635.0,5,"Na verdade basicamente ele falou né? A gente fez a reunião. ele achou a ideia interessante, ele acha que a ideia pode antecipar sim a doção de elétricos em mercado como brasileiro a gente mostrou para ele Que o mercado por exemplo de Off Road aqui no [LOCATION_A] só em área plantada e a gente tem 40% do território da [LOCATION_E]. E realmente esses números impressionaram só que na hora da que a gente mostrou os números lá do que que a gente precisaria de grana daqui até o final do ano para continuar fazendo as provas que a gente precisa. Ele falou não consigo não tenho o meu Budget é contado na Irineu."
 682.0,5,Não tem dinheiro sobrando eu não tenho como mudar o Budget agora no meio do caminho. Não consigo. Ele pelo que nós sentimos ele se mostrou disposto a apoiar um spinning para alguma outra área.
 698.0,2,tá
-698.0,5,"Mas que não seria [UNRESOLVED_ENTITY], não sei vocês querem complementar alguma coisa Mateus é?"
+698.0,5,"Mas que não seria [UNRESOLVED_ENTITY], não sei vocês querem complementar alguma coisa [PERSON_E] é?"
 706.0,1,"Acho que é isso aí mesmo. Ele falou que dinheiro realmente não dá ele sugeriu a gente tentar. [UNRESOLVED_ENTITY] tudo de uma forma que a gente fechasse é de vir e a tecnologia era meio que pagasse e a gente introduziria só mais a carteira de clientes [PARTNER_A], né? E para a [PARTNER_A] não gastar porque meio que não tá dentro do orçamento não tem muito o que fazer."
 738.0,3,"Que ele também comentou, né? Que na opinião dele a gente deveria seguir 100% pesado e dependente do leve está mais dinheiro. Foi a opinião dele."
 749.0,5,"Isso aí outra coisa que me coloca uma pulga atrás da orelha. Porque para mim muda tudo muda nosso score [UNRESOLVED_ENTITY]. Tanto que eu vou colocar essa lixo, hoje, eu fui mexer no scorecard ontem à noite e eu fiquei nesse dilema a gente tem scorecard para leve. Pesado. Nossa nota cai lá para o ralo. Porque a gente volta a fazer muita validação principalmente comercial ainda. E aí eu acho que eu vou inclusive já declarar essa"
@@ -58,7 +58,7 @@ onset_seconds,speaker_id,text
 850.0,5,"Aproveitando vou trazer mais uma informação do segue essa eu encaro como uma boa notícia, talvez a melhor. Ontem o pessoal da lotes lá que opera na [PARTNER_B] caminhões me respondeu que a manutenção do tá dando certo a manutenção do veículo que está lá em [UNRESOLVED_ENTITY]. O motor chegou tá em fase de montagem e hoje até o final do dia ele me devolveria a data que esse caminhão vai estar pronto para a gente agendar."
 880.0,5,o piloto com eles para fazer a recarga nesse caminhão voltando do [UNRESOLVED_ENTITY] para [UNRESOLVED_ENTITY] Então a gente tem um conflito bem alto de que pelo menos uma validação com pesado a gente vai levar. para os [UNRESOLVED_ENTITY] finais Vocês lembram mais alguma coisa de segue rapazes? Não lembro mais uma.
 906.0,2,[UNRESOLVED_ENTITY] incorporando a visão dos veículos pesados
-918.0,5,"Zé pode falando do que a gente vai ter nova rodada com duas com [UNRESOLVED_ENTITY] e uma com galão que a gente conseguiu abordar o galão, né?"
+918.0,5,"[PERSON_F] pode falando do que a gente vai ter nova rodada com duas com [UNRESOLVED_ENTITY] e uma com galão que a gente conseguiu abordar o galão, né?"
 926.0,1,"Ah boa semana passada a gente tava lá na [PARTNER_A], né? Porque a gente inclusive ia ter uma confraternização à noite, aí a gente ficou lá no [PARTNER_A] [UNRESOLVED_ENTITY] lá onde tem um auditório e tal e a gente viu o galão lá. Tentamos abordar ele mas a reunião dele não acabava mais. Só que por sorte, ele foi também para o clube à noite, não sei porque tava com outro pessoal lá de uma outra confraternização da boa aparentemente. E a gente conseguiu abordar ele ali no Meio do clube mesmo. Enquanto ele estava."
 966.0,1,"num canto e conseguiu dar aquele aquela mensagem acolhedora para ele de Que a gente entendeu a mensagem dele e tudo mais sobre tentar abrir para o gato também, né? E aí recebeu bem [PARTNER_F], né? A gente deu uma elogiada no trabalho dele, então ele recebeu bem. E aí pediu para marcar uma reunião com ele para a gente discutir um pouco mais e tudo mais e aí junto com o Gabriel. Inclusive, a gente marcou uma reunião com ele com [UNRESOLVED_ENTITY]. Acho que daqui umas duas ou três semanas."
 1003.0,5,"E uma só com [UNRESOLVED_ENTITY] antes, né?"
@@ -94,7 +94,7 @@ onset_seconds,speaker_id,text
 1496.0,1,"Então a gente fez né? Tanto que foi uma coisa que a gente apresentou, né para O Jonas a gente fez o teu [UNRESOLVED_ENTITY] aí do mercado de na verdade. A gente fez faltando né do mercado de off-road, porque meio que não tem sangue porque não tem não tá eletrificado ainda. A gente só tem o [UNRESOLVED_ENTITY], né? E o Live plano cenários aí também fizemos. Dá para trabalhar um pouco mais aí no em relação a pesados para a gente deixar um pouco mais detalhado, já que agora a gente tá? Mais ainda focado nisso, mas vou dizer que tá um track aí."
 1542.0,5,"Diria que tá quase Dói, né? Agora é só ir aperfeiçoando de acordo com as novas informações, né?"
 1547.0,1,sim
-1549.0,5,"[UNRESOLVED_ENTITY], validar, conceitualmente e operacionalmente o modelo de negócio off road. [UNRESOLVED_ENTITY] ele saiu ele deve tá pegando elevador, mas eu diria que tá um track tá é até porque [UNRESOLVED_ENTITY] não vai haver muita diferença aí do Que a gente fez com com leves, né gerar prova de tração de todos os clientes stakeholders. Acordado aí com eles. O interesse da Irineu eu diria que é o que a gente falou no começo, eles têm o interesse."
+1549.0,5,"Boa [PERSON_E], validar, conceitualmente e operacionalmente o modelo de negócio off road. [UNRESOLVED_ENTITY] [PERSON_E] ele saiu ele deve tá pegando elevador, mas eu diria que tá um track tá é até porque [UNRESOLVED_ENTITY] não vai haver muita diferença aí do Que a gente fez com com leves, né gerar prova de tração de todos os clientes stakeholders. Acordado aí com eles. O interesse da Irineu eu diria que é o que a gente falou no começo, eles têm o interesse."
 1602.0,5,"Em usar de repente o nosso serviço para como algo temporário antes que seja um momento da iriam chegar até a [UNRESOLVED_ENTITY]. O interesse tecnológico gera a gente fecha quando tiver a carta de intenção de fato colocada. Então, a gente tá tá um track não tem. Nada de ponto tão duro aí e a última que é desenvolver e apresentar os pitts tá um track também já fizemos o da Irineu. Agora seguir com os demais aí, mas a apresentação base já tá feita."
 1643.0,2,"só uma perguntinha assim também, talvez meio fora, mas o"
 1645.0,5,"Seguindo é customer inclui redlines. Da minha parte, acho que é só confirmar né? Temos lá o acordo com a com a lotes e a [PARTNER_B] para o piloto que deve acontecer. Eu acredito que vai acontecer no começo da próxima semana. A gente vai ter um sinal verde do ionas, né?"
@@ -149,7 +149,7 @@ onset_seconds,speaker_id,text
 2217.0,2,"É mais ou menos assim, se eu correr faz né? Porque daí você vai fazer o"
 2218.0,5,[UNRESOLVED_ENTITY] cancelou não é mais uma. uma prioridade
 2229.0,2,paralelo a concessionária Big vai ter os mesmos problemas da concessionária [PARTNER_A] quando tiver veículo. Então podem você tá antecipando mas nessas alturas não sei se vocês precisam de mais volume de conversas. Só se acontecer. Atualizar score Card com o novo cenário.
-2253.0,5,"Deixou até colocar isso que a gente criou aqui porque você vai estar vinculado a isso 96. A gente discute. Não sei o que ficou taxado. Enviar modelo de carta de intenção para tecnologia comecei a trabalhar no modelo, não terminei, mas termino hoje, com certeza. Não tá fechado, mas tá um track próximos passos com enel Mateus."
+2253.0,5,"Deixou até colocar isso que a gente criou aqui porque você vai estar vinculado a isso 96. A gente discute. Não sei o que ficou taxado. Enviar modelo de carta de intenção para tecnologia comecei a trabalhar no modelo, não terminei, mas termino hoje, com certeza. Não tá fechado, mas tá um track próximos passos com enel [PERSON_E]."
 2294.0,3,"Eu fiz um follock na final de semana passada no [UNRESOLVED_ENTITY]. Ele falou que ainda não tinha um retorno, mas que naquela semana iria ter uma reunião de novo com anel. Onde ele ia levantar o tema novamente, né? Mas eu acabei não fazendo um novo"
 2311.0,5,"Beleza, contatar operadores e logísticos testando."
 2313.0,3,lá para fazer um segundo foi lá para ele hoje.
@@ -235,7 +235,7 @@ onset_seconds,speaker_id,text
 3584.0,2,"Você vai pegando lá um cliente e tal da lavoura tal agricultura tal é lá o problema eu vou estruturar ali com ele, né? Agendamento você vai saber quanto que o cara consome né? Os horários que é melhor para fazer carga é tudo meio ao contrário, né? Tudo mais fácil, né? É um pouco diferente, mas mais fácil. Então tecnologia dá para dizer que nós estamos entre o quatro caminhando por cinco, né?"
 3616.0,5,"isso não daria um cinco cravado ainda porque não tem tudo na pizzaria de alguns testes físicos e E reportar esses resultados, né? Mas tecnologia não não vejo um problema. Business Model Business Model a gente estava num 4,5. Vamos dar uma olhada aqui Business Model a gente tinha colocado que não tinha o cinco ainda."
 3652.0,2,os primeiros cálculos indicando
-3657.0,5,"É o Zé, você fez o Live só para pesados, não fez [UNRESOLVED_ENTITY]. Então a gente tem"
+3657.0,5,"É o [PERSON_F], você fez o Live só para pesados, não fez [PERSON_F]. Então a gente tem"
 3660.0,1,sim
 3663.0,5,"essa conta, né? Os primeiros cálculos a gente tem."
 3666.0,2,Agora as primeiras hipóteses.
@@ -290,7 +290,7 @@ onset_seconds,speaker_id,text
 4420.0,3,"Sim, infelizmente faltaria um pouco mais de tempo a gente conseguir testar realmente um pesado."
 4425.0,2,"Não não diga sim. Falta mercado para vocês testarem o mercado não existe. Não põe a culpa em vocês. Põe a culpa no mercado é muito incipiente. É falar com um ou dois que vocês estão falando. Vocês foram lá conversar com o dono do caminhão lá da [PARTNER_A]. Isso vale para todos os outros, né? Que estão na mesma situação, né? Quem comprou um caminhão para testar tá desse jeito, né? Não pode sair tem que sair bem planejado. Se tiver problema tá ralado, né? eu acho que assim por isso que aquelas três estrelinhas, né a conversa com aquele [UNRESOLVED_ENTITY] e a conversa com o Com a [PARTNER_B] tudo que vocês conseguirem avançar e ajuda."
 4478.0,5,show show de bola
-4479.0,2,"Vocês estão de parabéns, viu? Só não tá tão ruim, né? Agora lembrando eu Thiago no começo, né? A [PARTNER_A] não vai olhar muito isso, né?"
+4479.0,2,"Vocês estão de parabéns, viu? Só não tá tão ruim, né? Agora lembrando eu [PERSON_G] no começo, né? A [PARTNER_A] não vai olhar muito isso, né?"
 4492.0,5,"Não vai é mais uma meta para gente conseguir vender mesmo, né?"
 4493.0,2,"Mas você sabe. Isso para vocês terem ali naquele bate-papo, né? Mas validamos tudo que nós validamos serve agora. Preciso que o mercado exista, né? E para isso nós estamos vendo aqui que a [PARTNER_B] tem um projeto que tá andando esse operador Logístico tem a própria [PARTNER_A] aqui na gente quer estar junto e ajudando eles né? E a [PARTNER_A] ainda nós vamos ajudar a vender caminhão. Porque tem gente que não compra o caminhão porque tem problema de infraestrutura, né? Muito melhor do que eu esperava até depois dessa reflexão aí."
 4543.0,5,Foi uma boa reflexão.
@@ -346,7 +346,7 @@ onset_seconds,speaker_id,text
 5041.0,2,"eles, né?"
 5046.0,5,[PERSON_A] para vocês darem uma olhada da os pitacos aí de vocês.
 5050.0,2,Pode pode pode ir fazendo se deu tem mais um prazer aí em ajudar?
-5056.0,5,"Inclusive Aquele modelo lado de Pit que vocês passaram com a gente na última rock foi o que mapeou, né? O zéfra até que instrutor né, Zé? A ordem dos slides lá para falar com Irineu e eu particularmente acho que ficou muito bom."
+5056.0,5,"Inclusive Aquele modelo lado de Pit que vocês passaram com a gente na última rock foi o que mapeou, né? O zéfra até que instrutor né, [PERSON_F]? A ordem dos slides lá para falar com Irineu e eu particularmente acho que ficou muito bom."
 5070.0,2,"Funciona, né? É impressionante, né? Esse livro é don'ron, sabe daquele se"
 5071.0,5,show
 5076.0,2,"precisa ver que livro delicioso de ler, né? Porque tudo que ele Ensina ele aplica no livro sabe então o livro dele é um monte de desenho um monte de figurinha tem pouca palavra escrita é interessante e ele tem vários tipos. Esse é um dos tipos. De repente que serve no caso quando você vai vender uma nova solução, né?"

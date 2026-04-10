@@ -1,5 +1,5 @@
 onset_seconds,speaker_id,text
-0.0,1,"Bom dia, Mateus."
+0.0,1,"Bom dia, [PERSON_E]."
 2.0,2,Bom dia
 8.0,1,Tá sol aí agora?
 11.0,2,"Cara, hoje fez um sol na passada tava tempo ruim, viu? Acho que vai ficar só hoje o dia só mas acho que nos próximos dias."
@@ -14,7 +14,7 @@ onset_seconds,speaker_id,text
 93.0,1,Bom dia
 94.0,3,Praticamente todo dia. Estamos por aqui.
 96.0,4,Bom dia
-99.0,1,Então vamos começar Thiago.
+99.0,1,Então vamos começar [PERSON_G].
 102.0,3,"Vamos sim, estou abrindo aqui o 21, mas já podemos começar aí nos primeiros cinco minutinhos com"
 110.0,1,"Já acertou a reunião lá dos 45 dias, né?"
 114.0,3,Acertou já tá acertado.
@@ -53,7 +53,7 @@ onset_seconds,speaker_id,text
 561.0,3,Eu acho que a gente vai falar bastante disso.
 566.0,1,"[UNRESOLVED_ENTITY] achou o nome dele, ele fez uma apresentação para eles com slide de tudo que a [PARTNER_A] tava desenvolvendo, né? E ele mesmo provocou. Sabe eles assim vejam onde é que vocês se encaixam, né? Daí faz o ajuste fino, né? E vocês já estão com isso? Quer dizer já estão com as portas abertas, né? Já descobriram um monte de coisa. Talvez antes de vocês falarem com indiano."
 598.0,1,"Vocês já vão estar melhores preparados? Para mostrar assim uma um ganho enorme né? Eu diria assim olhando uma visão de longo prazo, né? Vocês tinham que descobrir uma coisa que vocês fariam aqui e que já dá para levar para [UNRESOLVED_ENTITY], né? Que aqui o termo vocês fazem o teste diz olha tá pronto para a gente levar para [UNRESOLVED_ENTITY] também."
-626.0,3,Ô Zé você lembra como escreve é Irineu?
+626.0,3,Ô [PERSON_F] você lembra como escreve é Irineu?
 630.0,4,isso
 635.0,3,"Tá então estamos declarando ela hoje dia 11/11, eu coloquei como investidor, né? Porque a gente acho que é onde melhor se encaixa, né?"
 646.0,1,isso
@@ -72,7 +72,7 @@ onset_seconds,speaker_id,text
 807.0,1,investimento.
 810.0,3,Não é o investimento.
 810.0,1,Não. e o Evolution é o
-813.0,3,empresa de infraestrutura de aluguel de veículos elétricos como solução completa que o Mateus explicou
+813.0,3,empresa de infraestrutura de aluguel de veículos elétricos como solução completa que o [PERSON_E] explicou
 821.0,1,Lhe Esse daí é o plano C de vocês. Vocês podem ser os investidos deles.
 831.0,4,"É na verdade o modelo de negócio deles se encaixa mesmo. No que a gente tá querendo fazer agora mesmo ainda sendo [PARTNER_A] porque a ideia deles é comprar Veículos Elétricos. Então vou assim, eles estão muito voltados para frotista, né? Então o frotista quer renovar a frota dele por elétricos, ele tem 100 carros ele fala por eu preciso de um estudo. Eles fazem um estudo. Fala daí eles falam dá para você já trocar hoje, sei lá 10 dos seus veículos, mas ele não precisa fazer um investimento eu compro o veículo para você."
 869.0,4,"E você aluga de mim? Que é exatamente o que a gente gostaria, né? Que alguém comprasse a gente alugasse deles, entendeu? E foi o que eles falaram ele falou [UNRESOLVED_ENTITY], vocês não são exatamente [UNRESOLVED_ENTITY]. É uma solução um pouquinho maior, né? Porque tem um banco de baterias atrás, mas é exatamente o que a gente quer eles até falar, a gente é uma Startup que não Startup porque Startup normalmente procura dinheiro a gente tem dinheiro e tá procurando onde colocar na verdade, né? Então é exatamente quem a gente gostaria de ter como?"
@@ -82,13 +82,13 @@ onset_seconds,speaker_id,text
 959.0,1,"Ó, nós temos aqui é o grupo pátria que tá desenvolvendo isso eles têm interesse em apertar dinheiro. Como sócio da [PARTNER_A]? Que seria um intermediário. Isso é uma prova de tração. muito forte Para vocês. E pode ser um arranjo futuro sabe a [PARTNER_A] junto com eles investe numa Startup daí agora tem que encaixar a Startup de vocês na [PARTNER_A] e no na Pátria, né? Ficou o desafio aí para vocês irem pondo na cabeça."
 999.0,3,Show declaramos uma [UNRESOLVED_ENTITY] para isso então também.
 1003.0,1,"Poderia ser a mesma coisa, né? Como encaixar a vocês no grupo Pátria? Veja que daí o [UNRESOLVED_ENTITY] é diferente, né? Então é como se você estivessem convencendo investidora por dinheiro, não é só entrar como cliente ou como campo para falar MVP. não sei quando que isso é prioridade, mas é O que vocês descobriram? Você vê como sai do escritório se eles descobrem uma novidade atrás da outra, né impressionante. Tá muito rico isso."
-1050.0,3,"Bom falando agora discorcard que é o nosso próximo item, né? A parte de Customer a gente Manteve aqui em três e meio a gente quer a discussão que a gente teve semana passada é ter o aperto de mão de fatos para rodar o MVP com estacionamento para subir isso para perto de um cinco que é o objetivo para o dia 18. Acho que avançar isso essa semana tecnologia a gente Manteve em dois a gente tem a questão do meio de pagamento que o Zé."
+1050.0,3,"Bom falando agora discorcard que é o nosso próximo item, né? A parte de Customer a gente Manteve aqui em três e meio a gente quer a discussão que a gente teve semana passada é ter o aperto de mão de fatos para rodar o MVP com estacionamento para subir isso para perto de um cinco que é o objetivo para o dia 18. Acho que avançar isso essa semana tecnologia a gente Manteve em dois a gente tem a questão do meio de pagamento que o [PERSON_F]."
 1080.0,3,"Tá tentando operacionalizar ainda? É Business Model também a gente tá estacionado no que esteve aí nas duas últimas semanas, a gente acha que a gente já tá no caminho muito perto do objetivo e aparando as arestas para MVP. A gente acha que chega nesses três. Propriedade intelectual a gente não vai mexer agora. A parte de time a gente já tá muito perto do três a gente até combinou de agora no começo da semana montar esse plano no papel. Para chegar nesse três e matar."
 1119.0,3,A parte de fundo a gente de acordo com a conversa que a gente teve contigo na semana passada considerando que o trem seria até o plano Inicial que os 100 mil meio que atenderiam isso. A gente entendeu que a gente tá no 3. Depois da nossa conversa contigo. E aí a parte aqui de dos copiais que a gente colocou para as rocks quando a gente fizer o rock review.
 1145.0,3,"Acho que vai ficar bem [PARTNER_F], né, mas a gente considera que a parte de operações aí Manteve no 70. Por cento que a parte comercial é a gente andou um pouquinho com esses contatos com os estacionamentos. Chegamos aí nos 45% E a parte de Tecnologia do bem pouco, até porque a gente priorizou um pouquinho aí a parte de operações comercial. E agora a gente acha que matando né? É a parte do meio de pagamento a gente praticamente."
 1178.0,3,"Fecha o objetivo, né?"
 1183.0,1,"legal Tá tudo track, né?"
-1190.0,3,"Sim, sim seguindo a agenda vamos fazer a Rock review. dos 45 dias Então a primeira parte aí Mateus de operações"
+1190.0,3,"Sim, sim seguindo a agenda vamos fazer a Rock review. dos 45 dias Então a primeira parte aí [PERSON_E] de operações"
 1212.0,2,"Sim, tá tudo 100% aí?"
 1217.0,3,"beleza, é a parte comercial é mais ou menos isso que eu havia falado agora [PERSON_A] a gente apertando a mão aí do De um odor estabelecimentos para me ver p a gente pode considerar fechado então as conversas estão acontecendo consideramos é que tá um Track. E aí a parte de tecnologias é?"
 1238.0,4,Tá um track também e tem esse ponto a mais aí que não tá escrito aí mas que tá Estamos correndo atrás do viabilizar o meio de pagamento.
@@ -100,7 +100,7 @@ onset_seconds,speaker_id,text
 1316.0,1,Então concluída.
 1319.0,3,"Podemos considerar mas assim essa parte do domo aqui, talvez na hora das echas a gente discuta de colocar outra que é conseguir. de fato falar com esses caras, a"
 1330.0,1,"Falar com o decisor, né que vocês estão."
-1333.0,3,gente mudou a abordagem para acessar o o [UNRESOLVED_ENTITY] em parque que é o estacionamento. Mas também o contato com eles têm sido difícil. É a gente mandou apresentação para eles eu tenho cobrado o [UNRESOLVED_ENTITY] que o gerente da em parque mas Estamos com alguma dificuldade de receber aí um feedback. Mateus corpo de bombeiros
+1333.0,3,gente mudou a abordagem para acessar o o [UNRESOLVED_ENTITY] em parque que é o estacionamento. Mas também o contato com eles têm sido difícil. É a gente mandou apresentação para eles eu tenho cobrado o [UNRESOLVED_ENTITY] que o gerente da em parque mas Estamos com alguma dificuldade de receber aí um feedback. [PERSON_E] corpo de bombeiros
 1363.0,2,"Isso ainda não tá feito segunda-feira passada. Eles responderam o e-mail falando que encaminho internamente, mas desde então não der nenhum retorno. Hoje de manhã eu já fiz um afolap neles, mas nada."
 1378.0,1,Mas o avançou um passinho.
 1384.0,3,"Essa parte de baixo aí que acionar, o [UNRESOLVED_ENTITY] tá complicado, tá? Eu não vou nem falar que tá um track. Porque a gente já chegou a bater na porta lá da sala. Onde fica a administração e É muito muito difícil acionar o [UNRESOLVED_ENTITY] acionar o gerente, estamos com esse contato aí que é em parque. A gente tá vendo o domo como um lugar bastante acessível."
@@ -108,7 +108,7 @@ onset_seconds,speaker_id,text
 1430.0,3,Na hora na hora que a gente for para o ids eu gostaria de discutir isso porque eu não gostaria de desistir daqui não a gente viu bastante potencial.
 1438.0,1,"então anota no ids aí, já estamos com problema com o dono, né para Apresentar para o dom Daí vamos ver se tem uma solução, né?"
 1448.0,3,46 Essa é marketing?
-1462.0,1,"Até a gente pulou ali, né, Mateus, mas o bombeiro talvez não não precisa notar nada, né? Acho que dá para entender não é nada tão urgente e dá para ir tocando, né?"
+1462.0,1,"Até a gente pulou ali, né, [PERSON_E], mas o bombeiro talvez não não precisa notar nada, né? Acho que dá para entender não é nada tão urgente e dá para ir tocando, né?"
 1478.0,3,Acionar novamente a [UNRESOLVED_ENTITY] acho que você tinha conseguido o nome não tinha.
 1483.0,4,"Eu consegui um contato da [UNRESOLVED_ENTITY] através de uma amiga minha que trabalhou na [UNRESOLVED_ENTITY]. Aí foi achando os contatos, mas meu mesma coisa mandei mensagem chegou a responder é uma menina lá que acho que é. compradora de suprimentos e seria responsável pelo pela Frota e só que assim respondeu uma vez parou de responder também eu posso ficar"
 1508.0,3,Mas vamos Vamos considerar um track
@@ -126,7 +126,7 @@ onset_seconds,speaker_id,text
 1609.0,3,vou tirar aqui o de baixo que é montar o spin com a conversa cabelu é algo que tá um track a gente já tem o espinho [PERSON_A] da
 1619.0,1,Então já tá
 1620.0,3,"Para fazer isso não a gente tem a gente tem a espinha dorsal aí que é os outros espinhos que a gente fez, mas a bo só vai conseguir falar com a gente sendo otimista. Em [UNRESOLVED_ENTITY], porque eles estão completamente focados aí não encolher os frutos agora da [UNRESOLVED_ENTITY] e eles falaram que esse mês esquece conseguir falar com ele sobre isso. Então, a gente não vai priorizar agora no momento para priorizar os outros itens."
-1651.0,3,a partir de definir o planejamento da operação do MVP um Mateus
+1651.0,3,a partir de definir o planejamento da operação do MVP um [PERSON_E]
 1656.0,2,"é isso para ser sincero, não foi iniciado justamente porque A gente ficou entrou um pouco no dilema a respeito de qual veículo de qual empresa a gente usaria o serviço mal de recarga, né? A princípio a gente utilizar o da plugin, até porque quando a gente saiu de lá a gente teve um feedback bem ficou bem esperançoso, a gente tinha pedido duas semanas. Então essas duas semanas aí dava para fazer tanto a matéria quatro rodas, mas pelo menos uma semana e meia aí para a gente fazer o serviço de recarga, né? Enfim, aí a gente mandou e-mail pedindo solicitando as duas semanas."
 1697.0,2,E aí tornou para gente pergunta qualquer vantagem qualquer os benefícios que a [UNRESOLVED_ENTITY] impressionar um carro para gente né. A gente mandou um e-mail muito bom e aí a boca a gente.
 1710.0,3,E aí
@@ -139,8 +139,8 @@ onset_seconds,speaker_id,text
 1808.0,2,"Sim, é o planejamento, mas assim não faria sentido."
 1812.0,1,"Você fala não tem evidência ali aqueles assim essas etapas nós vamos fazer isso aqui nós estamos com duas alternativas estão achando que essa daqui é melhor, mas talvez demore e tal tudo isso é o planejamento que tá a cabeça."
 1827.0,2,"Ah sim Isso são a cabeça, mas tem a segundas etapas presentes do veículo quando a gente vai carregar porque se f*** plugin a gente consegue a gente mesmo dirigir então a mecânica. Boa então semana que vem eu consigo"
-1842.0,1,"Pois é, mas daí você já deu a solução, quem sabe completar o motorista tal então você já fez tudo aí só falta Mateus você colocar num Colocar no papel isso que você falou aí aí já tem o planejamento o legal de ter isso é que daí agora vocês estão no outro nível. Aí você vai no nível do detalhe, né? Você sempre pensa assim, o importante é ter a primeira versão, sabe? A primeira versão a linha vocês ali aprofunda, vocês vão saber onde que tem que aprofundar, né? Vocês vão saber o que mais que precisam fazer."
-1879.0,1,"Pode ser que descubra na hora que você colocar ali que tá faltando alguma coisa, né? Na hora que você vai conversar aqui apresentar o [UNRESOLVED_ENTITY] diz não temos que ver mais isso. Temos que ver mais Aquilo é assim que faz sabe? Se não você nunca vai ter né? Sempre você vai ter uma dificuldade. Então tem que esperar o plano pense no rascunho do plano. Primeira versão e eu sempre vou dizer para vocês aqui a primeira versão é a mais importante de todos nem que ela seja ruim porque é só a partir dela que a gente consegue melhorar."
+1842.0,1,"Pois é, mas daí você já deu a solução, quem sabe completar o motorista tal então você já fez tudo aí só falta [PERSON_E] você colocar num Colocar no papel isso que você falou aí aí já tem o planejamento o legal de ter isso é que daí agora vocês estão no outro nível. Aí você vai no nível do detalhe, né? Você sempre pensa assim, o importante é ter a primeira versão, sabe? A primeira versão a linha vocês ali aprofunda, vocês vão saber onde que tem que aprofundar, né? Vocês vão saber o que mais que precisam fazer."
+1879.0,1,"Pode ser que descubra na hora que você colocar ali que tá faltando alguma coisa, né? Na hora que você vai conversar aqui apresentar o [PERSON_G] diz não temos que ver mais isso. Temos que ver mais Aquilo é assim que faz sabe? Se não você nunca vai ter né? Sempre você vai ter uma dificuldade. Então tem que esperar o plano pense no rascunho do plano. Primeira versão e eu sempre vou dizer para vocês aqui a primeira versão é a mais importante de todos nem que ela seja ruim porque é só a partir dela que a gente consegue melhorar."
 1919.0,2,matar esse já falei durante.
 1923.0,1,Fiz a minha primeira versão pode chamar de [UNRESOLVED_ENTITY] da primeira minuta.
 1935.0,3,Portal no mudo definiu planejamento da cobranças para mim.
@@ -227,7 +227,7 @@ onset_seconds,speaker_id,text
 2816.0,3,é
 2818.0,1,mas vamos lá eu acho que vamos não
 2819.0,3,várias
-2820.0,1,"sei. Mateus e o que que vocês acham aí, vamos começar com essa"
+2820.0,1,"sei. [PERSON_E] e o que que vocês acham aí, vamos começar com essa"
 2828.0,2,Pode ser?
 2828.0,4,"Sim, vamos embora."
 2831.0,1,Quer colocar uma tela em branco aí e anotando?
@@ -257,14 +257,14 @@ onset_seconds,speaker_id,text
 3180.0,3,sim
 3180.0,1,elétrico.
 3184.0,2,surfar a onda desse. Lançamento dos cães de caminhão tudo mais tipo tá meio estranho de alguma forma sabe? com parceiros de infraestrutura
-3199.0,1,"Daí é bem maior, né? Então olha de Talvez uma uma um objetivo de amanhã é descobrir então oportunidades. Que possam se encaixar com a [PARTNER_A], né? É isso Mateus."
+3199.0,1,"Daí é bem maior, né? Então olha de Talvez uma uma um objetivo de amanhã é descobrir então oportunidades. Que possam se encaixar com a [PARTNER_A], né? É isso [PERSON_E]."
 3221.0,2,Acho que para ele faria crescer os olhos.
 3226.0,1,"Esse é mais interessante que os outros dois né? Dá para deixar. A conversa bem animada, né?"
 3243.0,3,É tentar de alguma forma começar o discurso para ele falando que a gente gostaria de entender também onde ele enxerga. Que agrega valor para ele seu
 3250.0,1,possíveis
 3252.0,3,parceiro [PARTNER_A].
 3254.0,1,"Como que a [PARTNER_A] Poderia ajudar ali, né? Porque você já fizeram uma conversa, né? Então a pergunta assim dores deles, quais são? E daí, a gente tem que pensar que possíveis soluções que a gente teria né?"
-3290.0,3,"Hoje a dor principal. Talvez seja o que o Mateus falou esse cara precisa de cliente. Ele precisa por dinheiro, ele precisa comprar nativo e botar para fazer dinheiro."
+3290.0,3,"Hoje a dor principal. Talvez seja o que o [PERSON_E] falou esse cara precisa de cliente. Ele precisa por dinheiro, ele precisa comprar nativo e botar para fazer dinheiro."
 3303.0,4,"no lá no [UNRESOLVED_ENTITY] sei lá, ele tá procurando onde pôr para fazer render obviamente, né? Mas Tá querendo crescer a empresa dele."
 3313.0,2,"É que encontra algum cliente que dê retorno para o cliente. Para conseguir colocar o dinheiro dele também, né? Aí eu consegui retornar."
 3323.0,1,como é que a gente podia escrever isso em
@@ -298,7 +298,7 @@ onset_seconds,speaker_id,text
 3510.0,4,"É o que eu acho que a gente tem que levar. Talvez os cursos de que a gente já sabe, né? Pode ser o da que seja o davegue da [UNRESOLVED_ENTITY] a tecnologia não passou, né? Mas de repente."
 3524.0,3,de repente
 3527.0,4,a gente passar os valores que a gente tem já
-3530.0,1,"Eu tô percebendo que vocês já estão na pergunta lá como Né? Vocês estão tentando responder o como? Vamos vamos [UNRESOLVED_ENTITY] ali uma [UNRESOLVED_ENTITY], né? Como e daí a gente já coloca essas ideias para não ir perdendo sabe? Porque isso daqui é o nosso objetivo, né? Agora como que nós vamos fazer, né daí? O Zé falou assim, olha, nós temos que levar lá uns custos, né? da recarga"
+3530.0,1,"Eu tô percebendo que vocês já estão na pergunta lá como Né? Vocês estão tentando responder o como? Vamos vamos [UNRESOLVED_ENTITY] ali uma [UNRESOLVED_ENTITY], né? Como e daí a gente já coloca essas ideias para não ir perdendo sabe? Porque isso daqui é o nosso objetivo, né? Agora como que nós vamos fazer, né daí? O [PERSON_F] falou assim, olha, nós temos que levar lá uns custos, né? da recarga"
 3560.0,3,Levar as informações.
 3576.0,1,Agora pouco vocês tinham falado de um como que eu esqueci também. [UNRESOLVED_ENTITY] vocês apresentar em um modelo negócio atual. De vocês a versão que vocês têm.
 3600.0,3,"Talvez atualizar para dando essa abertura porque a nossa. Ele seria um dono do haste receberia um fim, talvez a gente poderia abrir esse modelo de negócio colocando a opção da gente alugar."
@@ -322,7 +322,7 @@ onset_seconds,speaker_id,text
 3790.0,4,"Sim, sim."
 3790.0,2,"Sim, mas é bom."
 3792.0,1,"Não. Eu acho que assim não dá para imaginar mesmo eles entrarem, né? Mas dá para imaginar eles construindo isso com vocês de uma maneira que encaixa com eles, né?"
-3807.0,3,"meses sejais que o [UNRESOLVED_ENTITY] então a gente ir discutindo durante os seis meses de que forma e a [PARTNER_A] pode agregar valor no negócio dele e ele no nosso e se no final dos seis meses a gente tiver uma carta de intenção dele já prova de tração, né?"
+3807.0,3,"meses sejais que o [PERSON_F] Falou então a gente ir discutindo durante os seis meses de que forma e a [PARTNER_A] pode agregar valor no negócio dele e ele no nosso e se no final dos seis meses a gente tiver uma carta de intenção dele já prova de tração, né?"
 3825.0,4,Eu acho que tipo a conversa com eles
 3827.0,3,Está mostrando eventos tem um cara de [UNRESOLVED_ENTITY] querendo por dinheiro.
 3834.0,1,Estamos buscando investidores para as unidades móveis de recarga. Que é o primeiro?

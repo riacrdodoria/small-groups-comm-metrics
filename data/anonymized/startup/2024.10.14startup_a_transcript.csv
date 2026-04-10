@@ -7,7 +7,7 @@ onset_seconds,speaker_id,text
 26.0,3,Bom dia
 26.0,2,estamos Bom dia Já tá aí também?
 33.0,3,O Tiago tá entrando.
-37.0,2,"Thiago tá aí também, podemos começar então. Bom dia tudo bom?"
+37.0,2,"[PERSON_G] tá aí também, podemos começar então. Bom dia tudo bom?"
 42.0,4,Bom dia Tudo joia.
 46.0,2,"Não deu para avançar muita coisa aí como é que estão. Teve um dia né dois, né? Quem que vai ser o responsável que eu Facilitador é integrador?"
 65.0,3,tchau
@@ -86,7 +86,7 @@ onset_seconds,speaker_id,text
 969.0,4,aqui ó na primeira não ficou na Por algum motivo desceu e ficou aqui.
 975.0,3,"Que as rocks de 45 dias essas aí, né?"
 978.0,4,"Essas 45 dias, né?"
-979.0,2,"Ah tá certo. Então Mateus, [UNRESOLVED_ENTITY] e o Zé, como é que estão contratec então o resto? alguma ok"
+979.0,2,"Ah tá certo. Então [PERSON_E], [UNRESOLVED_ENTITY] e o [PERSON_F], como é que estão contratec então o resto? alguma ok"
 1003.0,3,E a gente já risca o lixo também
 1006.0,2,Vamos para o próximo item lá da agenda.
 1009.0,4,"A gente não decorou ainda, né?"
@@ -96,7 +96,7 @@ onset_seconds,speaker_id,text
 1041.0,4,Marcamos ele queria fazer as 10 a gente pediu para fazer as 10 40.
 1045.0,2,"excelente Acho que eu comentei com vocês, né a verdade para vocês. Agora só tá aí fora do [UNRESOLVED_ENTITY]. Nunca work não tem muita verdade para vocês agora vocês têm que sair mesmo, né? O pessoal fala tirar a bunda da cadeira, né? E ir para fora no começo, até vocês vão se sentir meio. Mal, né que a gente não tá muito acostumado fazer isso, mas tem uma piadinha boas as primeiras duas mil vezes é difícil, depois fica fácil."
 1083.0,2,tudo
-1084.0,4,"tudo list Então essa já tinha falado que tá um track, né, Zé a primeira. A segunda a gente finalizou no dia 10/10 que era terminar de preencher o Canvas da plataforma."
+1084.0,4,"tudo list Então essa já tinha falado que tá um track, né, [PERSON_F] a primeira. A segunda a gente finalizou no dia 10/10 que era terminar de preencher o Canvas da plataforma."
 1104.0,2,"Se você finalizou você pode marcar ali a data de fim. E daí, você pode taxar ela?"
 1111.0,4,Tá bom.
 1115.0,2,"Eu gosto do tachar assim, porque daí a gente [UNRESOLVED_ENTITY] comemorando, né? E a gente e deixa registrado que a gente fez, né? Não não tô dizendo assim no visual aqui é legal essa."
@@ -470,7 +470,7 @@ onset_seconds,speaker_id,text
 5165.0,3,Pelo menos a gente.
 5167.0,2,"Pelo menos agendar, né? E talvez não dê para realizar visita, né? Que essas coisas de agenda depende dos outros não é da agenda. Nossa também né?"
 5181.0,1,Também se tem vaga se não você tem
-5181.0,4,Quer falar Zé?
+5181.0,4,Quer falar [PERSON_F]?
 5186.0,1,pelo menos alguma infraestrutura já né? Acho que já vai.
 5193.0,2,"Legal. Três minutinhos, agora a gente faz a perguntinha nele que nota Dá para reunião. de 0 a 10 tem que"
 5205.0,1,"Eu vou dar um por ser a primeira reunião, vou dar um seis. Eu acho que bom a gente rodou bem, na verdade, a gente colocou mas como tem. A gente não pegou ainda o jeito vai fazer tá um pouco não tá sumido, né?"
@@ -483,7 +483,7 @@ onset_seconds,speaker_id,text
 5249.0,3,Tô pensando pode falar se já tá
 5251.0,4,eu vou eu vou ser um pouco mais
 5251.0,3,decidido.
-5253.0,4,"otimista que o Mateus eu vou dar um oito porque eu acho que a gente cumpriu a agenda. Acho que [UNRESOLVED_ENTITY] o fluxo ainda não tava muito [PARTNER_F]. Acho que vai ficar com o andamento das reuniões, né? Mas que a gente conseguiu obedecer bem acho que por uma primeira reunião tava contando aqui. A gente endereçou a gente tratou né seis, eixos acho que foi um bom número por ser uma primeira e cumprir mais ainda. Acho que eu vou dar um oito."
+5253.0,4,"otimista que o [PERSON_E] eu vou dar um oito porque eu acho que a gente cumpriu a agenda. Acho que [UNRESOLVED_ENTITY] o fluxo ainda não tava muito [PARTNER_F]. Acho que vai ficar com o andamento das reuniões, né? Mas que a gente conseguiu obedecer bem acho que por uma primeira reunião tava contando aqui. A gente endereçou a gente tratou né seis, eixos acho que foi um bom número por ser uma primeira e cumprir mais ainda. Acho que eu vou dar um oito."
 5280.0,4,"Acho que a gente pode buscar melhorar e nas próximas de conseguir tratar mais nichos, né?"
 5284.0,2,"E melhorar a fluidez, né? Talvez também, né?"
 5290.0,3,Eu vou dar pode falar.
