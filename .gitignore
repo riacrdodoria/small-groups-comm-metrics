@@ -1,0 +1,13 @@
+# Raw identifiable data — never commit
+data/raw/
+
+# Speaker and entity mapping files — contain PII
+data/anonymized/**/*_speaker_map.csv
+data/anonymized/**/*_entity_map.csv
+
+# System files
+**/.DS_Store
+**/__pycache__/
+*.pyc
+*.pyo
+.env
