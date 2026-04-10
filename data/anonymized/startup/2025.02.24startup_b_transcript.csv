@@ -1,0 +1,406 @@
+onset_seconds,speaker_id,text
+0.0,1,Fala gente.
+1.0,2,Bom dia
+2.0,3,Bom dia Joana. Bom dia [PERSON_B].
+4.0,1,beleza
+5.0,3,Tudo beleza e vocês?
+9.0,2,Tudo beleza também.
+13.0,3,E a Tainá?
+16.0,2,Tá entrando vamos ver.
+18.0,3,Tá esperando um pouquinho. Passou muito frio em [UNRESOLVED_ENTITY].
+25.0,1,"p*** m****, cara, tava frio para caramba aqui. Tô com saudade já desse frio aí."
+34.0,3,"Eu acompanhei lá na televisão tava nevando um monte lá, né?"
+37.0,1,"Teve um dia a gente chegou na sexta no sábado, a gente foi assistir um jogo da [UNRESOLVED_ENTITY] à noite, né? Aí a gente saiu do hotel tava caindo nos primeiros pouquinhos aí eu falei nossa, que bonita. Tirei uma foto gravando um vídeo, beleza? Vamos para o ginásio. Aí quando a gente saiu umas 2 horas e meia depois meu [UNRESOLVED_ENTITY] tava cobrindo os carros assim ó, não dava para ver os caras era só um blocão de [UNRESOLVED_ENTITY] assim os caras já passando as motoneta na rua lá o chão você pisava assim afundava até o tornozelo na [UNRESOLVED_ENTITY]. Você é louco."
+70.0,3,Nossa que bacana.
+72.0,1,"Nesse momento foi super legal mano dia seguinte quando derrete cara, fica uma lama só."
+78.0,3,E lisa né?
+79.0,1,É liso.
+85.0,2,A Tainá falou que já pediu para entrar.
+99.0,3,"Bom dia Tainá, tudo bom?"
+102.0,4,Bom dia tudo bem e vocês?
+105.0,2,beleza
+105.0,3,Vamos começar então.
+106.0,2,"Vamos lá, tô abrindo."
+108.0,4,bora
+111.0,2,a tela já
+113.0,4,sim
+114.0,2,"Beleza então, vamos começar com as boas notícias. Quem quer começar?"
+122.0,1,"Tem bastante coisa, né?"
+122.0,2,bastante coisa
+126.0,1,é
+129.0,4,"Ah acho que a gente pode começar falando do principal, né que foi a nossa. Nossa, vida na [PARTNER_B], acho que a gente foi com o intuito, né? Depois a gente tem que fazer até a ficha de aprendizado a gente foi com intuito principal que era visitar [UNRESOLVED_ENTITY] Verificar como é o processo deles em relação a bateria em relação ao caminho elétrico da [PARTNER_B] e por fim a gente saiu com uma."
+159.0,4,"Mais feliz e mais e com uma outra visão, né? Porque o pessoal da [PARTNER_B] ele a gente teve reuniões com o pessoal de inovação e eles gostaram muito da ideia. Ele já estavam na verdade pensando em algo do tipo. Como reutilizar as baterias essa questão de segunda vida, mas pelo que a gente entendeu, eles não tem nada ainda decidido e ele se interessaram muito demonstraram muito entusiasmo com a ideia pediram."
+192.0,4,"gente marcar outras reuniões para ir falando tratando falaram sobre Aquela questão de investimento por parte do governo, né? Da hora que tá até comigo essa [UNRESOLVED_ENTITY] tava né? E aí ele citaram isso todos os projetos da [PARTNER_B] ela eles são entre aspas, né patrocinados por esses órgãos então a [PARTNER_B] não paga nada de projeto assim de inovação, tudo é feito através desse desses órgãos, então é bem legal."
+227.0,4,aí
+228.0,3,"Tem que ver como é que eles fazem isso, pode anotar uma Exu aí tá?"
+232.0,4,"Isso. Inclusive, a gente tem reunião já marcada, né?"
+244.0,1,"Contato dele eu passei os nossos e-mails para ele e ele falou que vai marcar então assim e a data definida. Eu só falei. Se tivesse como não ser na quarta-feira seria melhor, mas ele falou que ele mandava. Eu até perguntei se você não queria que a gente mandasse você falou não pode deixar comigo então, beleza?"
+263.0,4,E ele é o cara que conhece a galera toda assim dos responsáveis do
+268.0,1,o governo
+270.0,4,"governo que faz que patrocina que faz essas coisas, ele tem muitos contatos. Ele é uma pessoa muito muito boa e ele tá super disposto em ajudar e até fazer uma parceria. Visando o [UNRESOLVED_ENTITY] [PARTNER_B] mesmo não só grupo [PARTNER_A] não só grupo trator, mas [UNRESOLVED_ENTITY] [PARTNER_B] que aí já entra áudio [UNRESOLVED_ENTITY] Enfim, então a gente ficou bem animado com essa visita. E aí agora a gente tem bastante. Abrir bastante lixo, né? Porque a gente tem que fazer reunião com ele com o pessoal da [PARTNER_B] veículos. Como que fala? Carros carros porque eles também estão envolvidos poucos caminhões e ônibus a gente da [PARTNER_A] enfim."
+319.0,4,E é isso?
+320.0,3,"[UNRESOLVED_ENTITY] é tem essa do parceria tem o do investimento e tem parceria, viu? Essa da parceria pode por investidor também aí né?"
+331.0,4,"Ele disse esses caras. Eles pagam assim o governo né? Ele paga salário viagens, tudo é tudo o governo que vai bancar."
+344.0,3,"Se vocês conseguirem é que tá Tá bem em cima da hora sabe dá para correr,"
+344.0,4,Entendeu?
+349.0,3,"né? Mas já imaginou se vocês chegam lá ó, o que nós queremos fazer nos próximos seis meses é isso e o dinheiro vem de tal lugar."
+359.0,4,Pois é não e mais ele falou na
+361.0,3,"Consegue. Então melhor ainda, né? Faz um planejamento."
+361.0,4,verdade seis meses ainda é pouco porque ele falou assim que ele falou assim daqui três anos nossos caminhões elétricos vão começar a ter 10 anos. Então vai ter muita coisa retornando bateria peça enfim trocando né? Na verdade então a gente consegue um investimento para três anos. Ele falou.
+387.0,3,"De três anos a gente pode planejar lá na planilha, né? E ainda acerta com eles junto. Porque se vocês conseguirem uma parceira, veja que a A construção do não fica muito difícil, né? Porque daí é mais ou menos assim, a [PARTNER_A] ela tem que fazer a decisão ou ela quer 100% para ela ou ela quer dividir com a [PARTNER_B]."
+416.0,4,exato É
+417.0,3,"Ou ela quer deixar a ideia com a [PARTNER_B] porque a [PARTNER_B] já se interessou, né? Então ela ela eu não quero tá bom? Então, provavelmente a ideia vai ser da [PARTNER_B], eles vão fazer porque eles gostaram né? Então daí imaginou o risco de arrependimento daqui 5 10 anos deu super certo e o executivo da [PARTNER_A] disse não. Então aqui a faca de dois gumes o fato eu preciso arrumar investimento para entrar no negócio, né? Mas eu posso me arrepender muito seu negócio for muito bom, né? Então olha esse daí tem que ser uma exu e tem que ser trabalhada rápida, porque vocês tem pouco tempo."
+458.0,3,"Os dois os dois, né? As duas e shows uma é como fazer a parceria com as [PARTNER_B]? para continuar"
+470.0,1,"É até assim nos comentários de mesmo que seja alguma coisa, que seja parte, talvez de uma solução maior dentro do grupo volps etc, o que demora um pouco mais de tempo para uma Tainá falou é uma coisa. Que que tem que ser trabalhada com mais tempo, né? Eles também acharam tipo por seis meses é muito pouco para conseguir desenrolar tudo isso então. Eles comentaram sobre né? Não só interesse deles, mas também de ter um financiamento que a empresa não precisa tirar um tostão do rosto e nos dá tempo."
+505.0,2,"é eu que também foi interessante é que a gente viu que agilidade do [UNRESOLVED_ENTITY] na internet tipo de coisa, ele é um cara que assim você vê que ele é ele tem contatos aí dentro dessas agências aí [UNRESOLVED_ENTITY] e ele tem Ele tem os caminhos mais fáceis."
+522.0,3,"Não isso tem e Sem contato, eu vou te dizer é quase impossível, porque você leu e edital descobrir como é que faz o negócio. se inscrever"
+534.0,2,"E ele fala que depois que você já tem os contatos, ele percebe que assim tem muito edital que já é casado com projeto específico, por exemplo, ele já tem"
+542.0,3,e
+544.0,2,já sabe que vai abrir um edital exatamente do jeito de um projeto lá da [UNRESOLVED_ENTITY] antes porque sabe que os contatos tão fortes um com o outro então tem que começar a estabelecer esse tipo de contato também para demonstrar interesse.
+554.0,3,"sim Acontece as duas. Nossa, dá vontade de ir direto para resolver elas, mas vamos vamos na sequência. Vamos se segurar, vamos se segurar aí?"
+570.0,2,Aí de boas notícias. Mas a gente pode dizer que a gente daí com a questão da visita lá na [UNRESOLVED_ENTITY] luckesi desmanche para fazer a análise das baterias de Enchente junto com o pessoal dá um pack tá agendado aí para quarta-feira. certo
+589.0,3,Muito bom.
+592.0,2,Mais alguma coisa gente.
+596.0,4,Acho que não acho que natildo a gente fala um pouco sobre o restante assim sabe? explicando
+601.0,2,ok Eu aqui para scorecard então. Ok aqui a gente Manteve do jeito que tava nos últimos mas essa questão do [UNRESOLVED_ENTITY] aqui é uma coisa que a gente vê a oportunidade agora além da scanner. Com essa questão da [PARTNER_B] e só precisamos atualizar aqui o número dos visitantes do site as visualizações. Isso aqui.
+632.0,1,"Vamos lá, você quer qual o primeiro no site?"
+633.0,2,Qualquer coisa eu pego depois com você.
+637.0,3,"Mas era bom, põe o número ali só para a gente ter uma ideia por exemplo."
+640.0,2,a gente estava considerando a conseguir 1000 até o final da
+660.0,1,Que site? temos 1.700 de visualizações Já te passo.
+698.0,3,Nossa que impressionante em 1700. não pois é
+706.0,1,"visualizações Nossa esse número aí tá errado, hein 14 mil não."
+715.0,4,Ou e também acho que é só um [UNRESOLVED_ENTITY] sobre isso daí né? O pessoal a gente mostrou site para o pessoal da [PARTNER_B] eles adoraram né? Só que eles acharam bem caras baterias.
+728.0,3,"Tá, É mas isso, eu também tenho esse sentimento assim, porque como você não"
+729.0,4,cara
+729.0,1,caras
+733.0,4,a bateria
+734.0,1,"Estão achando o preço delas caras. É muito que ainda como não tem pessoal, não sabe se a bateria vale o preço"
+744.0,3,"tem uma referência de mercado, né ainda né? Quando a plataforma tiver operando ela vai ser a referência de preço de mercado, né? Então se eu tenho uma bateria eu olho lá. Tô com pressa de vender faça até mais barato do que as ofertas que tem lá, né? Eu não tô com pressa a minha bateria tá novinha. Então vou pedir um precinho a mais né? Então eu mas hoje."
+768.0,3,"Hoje não tem né. A [UNRESOLVED_ENTITY] é a nova, né? mas isso eu acho que é uma questão que Ela não precisa nem anotar, ela vai ser resolvida na sequência."
+786.0,1,que ele está colocando então assim ele pode colocar com preço.
+790.0,3,"Vocês estão vocês estão descobrindo agora? Como é que faz uma uma ficha técnica dela? Como é que faz uma avaliação dela. Nossa é muito cedo ainda, né?"
+800.0,1,"[UNRESOLVED_ENTITY] acho que esse número aí é 1487, não tem como ser 14 mil."
+807.0,3,tá
+807.0,2,ok
+807.0,1,Hoje nós estamos com 2.113.
+811.0,3,"Nossa são números impressionantes você vê que isso dá uma prova de tração, né?"
+819.0,1,"é de O número de visualizações é marca de visitantes porque teve visitantes que visitou mais de uma vez, né?"
+826.0,3,isso
+829.0,1,"Então, mas é mais ou menos por aí isso aí."
+830.0,3,"A única coisa é que daqui não tá virando nada assim, né? Não tem ainda uma ação de conversão aqui, né?"
+839.0,1,"Ainda ninguém a gente tem foi construir. O protótipo no jeito que eles a gente consiga monitorar se eles colocam no carrinho a gente consiga fazer eles entrar em contato com a gente, mas por enquanto nada."
+853.0,3,"Isso é talvez o contato com vocês. Seja a primeira coisa o que você está procurando. Nos avise né? O que que você precisa? Mande uma mensagem daí começa a ter tantos procuraram daí a gente vai saber os assuntos tal, né? Então tem que pensar nesse próximo indicador. Veja como é que você consegue construir ele que é bom, mas eu já fico impressionado assim, eu não sei o pessoal da [PARTNER_A], mas para vocês nem existiam tem 1.700 visualizações no mercado incipiente. Eu acho isso."
+889.0,1,"Eu acho bem legal a gente ainda vai. Ver como é que vai ficar a ração com [PARTNER_E] [UNRESOLVED_ENTITY], né? Deve aumentar mais isso aí. mas é Mas talvez uma métrica que seja legal para a gente levar quando a gente for apresentar o kit final é os produtos mais procurados aqui, né? São coisas que talvez dê um cheiro melhor do que que a gente deve investir mais tempo remodelando e tal para ficar mais."
+917.0,3,Vamos anotar uma exu para isso.
+920.0,1,Eu acho que pode adotar isso que a gente pode incluir no pet final isso aí sabe tipo é? levantar ao final do programa os produtos mais buscados e colocar no kit para o
+940.0,3,E o negócio de você ter o aplicativo é que você já mostra que existe.
+947.0,1,então
+947.0,3,"Uma intenção né? A hora que o cara vê que tem o aplicativo de nós, ele é outro mundo, né? Apesar de ser ainda. uma versão inicial Mas o efeito é enorme, né?"
+967.0,2,E aí a gente vai agora para review certo catálogo no estilo Mágico de Oz Track? O marketing também né [PERSON_B]?
+982.0,1,A gente vai quarta-feira estaremos lá fazendo esse experimento. Aí eu acho que
+984.0,2,experimento com relatório técnico por último aqui Tainá é a questão do mapeamento e das oportunidades de fã
+999.0,1,daí ele já consegue. fechar
+1007.0,2,de
+1007.0,3,Agora é foco na [PARTNER_B].
+1011.0,4,"E eles têm experiência, né de como"
+1014.0,3,"Mais do que nunca e eu não sei se precisa outras coisas eu diria assim foca aí na [PARTNER_B], pega o contato dele, já vamos ver quais os editais que tem quando que é o período de inscrição, se tiver que inscrição logo tem que fazer logo a inscrição, sabe ou se não tem que dizer que vai abrir em abril maio junho, né? Então você tem que Isso daí é urgente."
+1041.0,4,fechar.
+1043.0,3,"Essa experiência aí vale essa é a experiência vale ouro foi o maior tesouro que aconteceu aí tinha sido esse agora. Achar um parceiro nesse nível, né?"
+1058.0,2,"Com certeza E aí questão de custo, meu inclui [UNRESOLVED_ENTITY], não sei se tem algo que a gente não comentou ainda. Acho que não."
+1071.0,3,Tá faltando ter as interações ali na hora que tiver interação no aplicativo no site Ali vai. ter notícias
+1082.0,2,"Vamos lá então. f*** com Rider sobre o mercado de bateria de segunda vida na [LOCATION_F] Eu recebi o material do escritório de inovação da [LOCATION_F] e é um material bem legal, eles falam sobre o mercado em geral de baterias de segunda vida e eles comentam inclusive de outras empresas que são fortes lá na [LOCATION_F]. Como que a bioid está trabalhando? Como que Os concorrentes em [UNRESOLVED_ENTITY] estão se posicionando em relação ao mercado de segunda vida, talvez caiba até um momento aqui para a gente abrir aqui no momento da reunião. Se não der pelo menos a gente tem que discutir depois."
+1126.0,3,"Esse é o talvez é o local mais importante do mundo hoje, né? Porque eu sempre achei né? Você tem que imaginar assim assim, né? É um bilhão e meio quase de pessoas, né? Então tudo que ocorre lá ocorre em escala muito grande, sabe?"
+1150.0,2,Sim na frente.
+1150.0,3,"Então é em termos de população, eles são quase cinco vezes maior que os [UNRESOLVED_ENTITY] então os [UNRESOLVED_ENTITY] nesse caso ele fica em segundo plano, né? Então não é um mercado. E lá nos [UNRESOLVED_ENTITY] é muito domínio da terra, né? Que a gente vê de carro de tela não é impressionante, né? Então anota. Essa é importante."
+1176.0,2,"Anotado, depois a gente passa por ela então. Aí tá Agendar reunião com a [UNRESOLVED_ENTITY], Patrícia, alguém deu algum retorno?"
+1185.0,4,"Nossa gente não é a Patrícia não me retornou. Até dei uma tem uma chamada tipo oi, tudo bem. Tem algum retorno Também nada e o Francisco ainda nessa de que o [UNRESOLVED_ENTITY] precisa Dizer uma data Enfim então meio que a gente está dependendo dessas pessoas."
+1214.0,3,"Essa é importante, né?"
+1216.0,4,É super importante.
+1216.0,2,é que definir e adquirir software da
+1217.0,3,"Que continuar até procurando né? Não dá para desistir ainda, né? Eu acho que aí vale uma Exu. Aí começar a alimentar."
+1233.0,2,Eu vou colocar a parte porque tem outras coisas também aqui do levantamento de
+1235.0,1,"Já convidei todo mundo lá o acesso está disponibilizado então quando a gente começar a colocar isso já tá tudo bonito. Não sei se já tem uma eixo disso. Ali ó, tem uma 149 já tá aberto Gabriel."
+1259.0,3,"É que o Live Player é mais né? Você vai ver que tem espaço para vocês colocarem as estratégias de marketing. Então tem porque ele tem umas indenizações lá básicas, né? Então se quiser por junto, né? Porque"
+1284.0,2,custos tudo vai.
+1288.0,3,"Tem um monte de coisas lá que a gente tem que começar a preencher que que eu diria assim, quase tudo vocês têm sabe como nesse momento, você já construíram ou tá no Pit ou ainda tá numa ficha de aprendizado vocês têm mas na hora de começar por na Live play dá um trabalhinho, né? Não é uma coisa assim, então e o Live toda uma boa organizada, sabe? E como a gente sempre deixa essa rock para a última rock, sabe? E nós vamos ter uma reunião agora depois do dia 10 aí com vocês presencial, né que é praticamente daí a última rock que a gente vai ter 45 dias então vai ser importante a gente começar o quanto antes."
+1334.0,2,Que coloquei alimentar eu leve plan para dar sequência na modelagem do negócio. Aqui Agendar reunião com lindinei para apresentar [UNRESOLVED_ENTITY] verificar modelos de monetização ainda conseguiu marcar né?
+1349.0,4,Consegui marcar vai ser hoje às 15:30.
+1354.0,2,Eu vou marcar aqui.
+1355.0,4,Pode colocar como concluído?
+1358.0,2,Logo aqui no dia qualquer dia 21. Aí [PERSON_B] aqui a gente.
+1373.0,3,Não a 104 ainda não.
+1376.0,2,"[UNRESOLVED_ENTITY] todas de cima, né? Aí aqui agendar devolutiva sobre o projeto para o gerente do de pós-venda da bioidi isso aqui tinha sido agendado, só que ele teve um percalço aí não conseguiu participar."
+1407.0,4,"Isso daí tem que abrir de novo essa daí, né?"
+1410.0,1,"Ele teve alguns problemas lá na no trabalho dele não conseguiu. Comparecer na sexta eu tô no aguardo dele mandar disponibilidade da semana qualquer coisa depois eu dou uma mensagem, manda uma mensagem para dar um alô. Mas vai ter que abrir se quiser até tirar trocar uma arcada para o dia para pendente."
+1431.0,2,Eu só vou tirar aqui tirar a data.
+1433.0,1,"As células a gente ainda não fez porque depende de quarta, né? A gente acabou"
+1436.0,2,Incrementar a palavra-chave e qualidade de conteúdo dos produtos em estoque e
+1436.0,4,boa
+1442.0,2,anunciar células que vamos avaliar.
+1449.0,1,"colocando duas tudo numa sorte que a gente pode ter uma outra aí a depender de como falar na quarta-feira, mas já incrementei as palavras-chave lá na semana passada de todos os produtos que estão em estoque. então demora um tempinho ali uns dias para ele se posicionar melhor no [PARTNER_E], depois a gente dá uma olhada lá para ver se Dá um pouco mais fácil de achar a gente mas acho que pode ter uma outra atitude anunciar as células, então assim se tivesse células."
+1475.0,2,E verificar melhor maneira de impulsionar via [PARTNER_E] ADS.
+1475.0,3,"Eu não sei nem se precisa, né? Que na hora que tiver ela vai ser natural, você colocava eu achando que não precisa muito dessa. Essa vai estar no dia a"
+1480.0,1,"É sim, então. beleza"
+1486.0,3,dia de vocês aí.
+1493.0,1,"É isso aí foi existem basicamente duas formas principais de você usar o [PARTNER_E] ADS um é você usar diretamente no e-commerce lá e ele começa a distribuir os produtos na aba de [UNRESOLVED_ENTITY] lá do [PARTNER_E]. A única questão é que ali você pode como você tem é 200 vinculado, eu tava dando uma olhada lá. Acho que há uma chance de você começar você tem que configurar algumas coisas de monetização, só que como a gente não pode monetizar nada."
+1522.0,1,"Então sempre para frente com isso, a outra é fazer o patrocinado como se fosse eu do Facebook [UNRESOLVED_ENTITY], só que no [PARTNER_E]. Então já tinha configurado todos os acessos. Eu cheguei já a mandar o orçamento a verba lá que a gente tinha comentado de fazer só que ele demora até 24 horas para provar o pagamento e virar saldo lá, então, eu mandei ainda não tá disponível assim na 126 ali, ele vai ter que continuar aberto."
+1551.0,3,"Existe uma terceira sabe é você melhorar o conteúdo do site para ele ficar melhor ranqueado. Tá, mas isso você acha que está concluído ou você teria que por mais conteúdo lá."
+1569.0,1,"É o que eu fiz basicamente a gente não o Giovani tinha instalado no software de s ou lá na e ele já vai dando essa recomendações ali dos produtos de tudo que é bom fazer para poder melhorar o ranqueamento. Acho que primeiro a rodada a gente fez isso aí, né? Então algumas coisas até chegar a ficar melhor rankeadas que eu procurei no dia mas demora um pouco para ele conseguir fazer efeito direito talvez."
+1596.0,3,"Não precisa de um tempo, né que você colocou, né?"
+1601.0,1,"Eu acho que a gente pode ver como é que ela fica dessa semana, se a gente vê que a gente consegue ter mais espaço para melhorar esse conteúdo não só do catálogo, né? Mas do protótipo em si a gente Abre uma outra mas né?"
+1612.0,3,Porque você tem que colocar assim na explicação lá provavelmente do site. Quem somos em tudo que é lugar colocar essas palavras chaves. Como conteúdo né? Então eu não sei se vale a pena.
+1623.0,1,sim
+1626.0,3,"Criar uma tudo ou uma eixo ou isso também já tá meio automático, né para você aí."
+1633.0,1,"É tipo os dos produtos eu trabalhei bastante essa questão de palavras-chave, né? Ele tem uma mecanismo bem interessante lá O plugin que a gente colocou o site ele tem bastante informação de tipo Fale Conosco e tal, mas daria para tentar trabalhar o [UNRESOLVED_ENTITY] do resto do site como um todo mas eu acho que a gente pode esperar essa semana para ver que que a gente consegue colher disso até para talvez abrir uma ficha de aprendizado e aí a gente quer adicionar na próxima semana."
+1661.0,3,"Então, só declara lá uma eixo que não precisa ser resolvido agora, né? É melhorar o conteúdo do site. Para melhorar o ranqueamento, né? Não precisa não, precisamos tratar hoje dela, né, mas eu acho que ela tem que estar aí porque isso daí vai dar aquele fazer aquele número 1700 2 mil 2.300."
+1688.0,1,"É até para só para ilustrar aí, né? A título de curiosidade o lugar onde"
+1690.0,2,"É importante também lembrar que quando a gente começou a falar em melhorou essas palavras chaves do produto. O intuito também foi aumentar o número de visualizações na hora das pessoas pesquisarem o produto porque a gente tem muita visualização que aparece no site dado o anúncio que a gente tá fazendo a via [UNRESOLVED_ENTITY]. Facebook o pessoal entra na página inicial e pronto e aqui quando as pessoas procurem por produtos para comprar que eles caiam no nosso site, né?"
+1718.0,3,"Tá certo, talvez você lembrou de uma coisa ali que tem uma coisa que é o tempo médio que o pessoal fica no site, né? Talvez seja um indicador para colocar lá no score Card sabe daí o [PERSON_B] dá uma olhada no porque realmente se a gente tem 1.700 e o tempo médio é 10 segundos não é um número bem interessante, né?"
+1740.0,2,Meu time está doidão aqui abrindo sozinho.
+1740.0,3,"Sabe como daí? Daí a gente pode cair numa armadilha, né? O rancho perguntar lá para gente né? Esse 1.700. Qual é o tempo médio? Daí você vai lá pô, tempo média dois segundos, o cara entrou e viu que não servia né? Daí ele acaba sendo um tiro no pé, sabe então talvez colocar lá mais o tempo médio número de página. Sei lá, tem alguns indicadores, né? [PERSON_B] para você olhar lá e colocar meu score Card."
+1777.0,1,mais ficam no nosso site a loja e elas ficam em torno de dois minutos e 22 segundos.
+1782.0,3,"Tá excelente, né? Tá vendo? Então coloca ali é 1.700 tantas visitas lá que deu um pouco mais 1.800 e pouco lá e tempo médio tanto. Já dá uma consistência muito maior para o número, né?"
+1797.0,1,Acho que a gente pode fazer a metrificação da loja que ele visualiza tudo. Então que é onde a gente quer que ele passa mais tempo mesmo procurando. Então pode adicionar sim os caras lá.
+1816.0,3,"Deixa anotado, depois vocês vem se isso é prioridade, né?"
+1823.0,2,Eu vou colocar aqui deixar aberto de outros indicadores que valorizem. O nosso produto.
+1832.0,1,Você vai colocar entre parentes É uma duração da sessão no nome desse?
+1835.0,3,"Isso por exemplo duração da sessão, talvez tenha outros lá, mas eu não conheço isso também."
+1842.0,1,Tem taxa de engajamento tem algumas?
+1845.0,3,"Daí eu teria que estudar cada um deles, mas [PERSON_B] você que fica com a responsabilidade."
+1850.0,1,Você já foi?
+1857.0,2,"OK, aí tem que a preparação para visita da [PARTNER_B] que também foi realizada a preparação visita."
+1866.0,3,"Que foi nota 12, né?"
+1870.0,1,Foi nada muito melhor que a gente imagina até dirigir o caminhão nós dirigível.
+1876.0,3,nós
+1878.0,1,O elétrico também.
+1880.0,2,"a dirigir ônibus Aí temos aqui agendar a visita com um Tec também tá agendado eu vou só reforçar com eles a questão aí de levar o a maquininha para a gente passar o cartão certo. E fazer fogo com contatos fora do [LOCATION_A] também, finalizei semana passada. Tô aguardando só o retorno para confirmar mas o [UNRESOLVED_ENTITY] da bip [UNRESOLVED_ENTITY] se interessou pelo projeto. Lembra eu dei o retorno para ele para tentar agendar para Na quarta-feira no dia da visita lá às 11 horas da manhã."
+1919.0,2,"Tive o retorno também do osso, só que ele falou que a maioria dos colegas dele que estão trabalhando na área estão com projetos que ainda são. É secreto ainda, eles não estão divulgando. aí ele perguntou especificamente que a gente está procurando eu vou dar uma resposta para ele lá mas Mais geral para ver se ele consegue. Ver alguém que possa se disponibilizar de apresentar para a gente."
+1947.0,3,na hora que você começar a campanha é bom daí você
+1950.0,2,"E iniciar campanha patrocinada no [PARTNER_E] ADS investir 1050 e a gente tinha levantado aí fica aí para essa semana, né?"
+1958.0,1,"Semana passada a gente acabou tendo bastante coisa para fazer só que ele não é igual o [PARTNER_E] lá que você manda o dinheiro ele já fica disponível ele tem. Então assim não tem como eu começar e como eu coloquei para pagamentos manuais lá ele não deixa nem eu começar a campanha, se não tiver os frutos eu tô esperando atualizar o saldo lá e faço é o longo dessa semana."
+1987.0,3,"Avaliar lá assim quanto de leads gerou quanto de contatos tal, né? Porque um dos indicadores mais importantes agora depois é o custo de aquisição do cliente, né? Então vamos ver eu gastei 1050 e peguei um cliente então custou. um cliente Se for um 10 clientes com seus 105, né? Então tem que dar uma olhada É lógico que como vocês estão no começo do [UNRESOLVED_ENTITY] ainda de vendas, né? É mais agora visualizações etc, né? Ainda não é um custo de aquisição, mas é o custo da visualização, né? Que vocês estão fazendo. E daí um dia vocês vão poder dizer bem assim. Ah, se eu quero mais contato a se eu gastei 1050 e veio 10 e eu quero 100 então eu vou ter que gastar 10 vezes mais."
+2040.0,3,E aí você já sabe até fazer o planejamento lá na planilha do Live play?
+2046.0,2,Muito legal.
+2046.0,3,"Então é bem legal aí fazer uma ficha de aprendizado e cada intervenção, né? Porque quando você faz o [PARTNER_E] ADS você fez de um jeito daí você aprende que podia ter feito do outro daí quando você faz do outro é outro é outro resultado, né? Que você sempre vai melhorando ele e daí você Gastei 200 e deu isso agora eu gastei 250 e conseguiu o dobro o custo diminuiu para metade quase."
+2074.0,3,"Então, então não perca uma oportunidade de estar colocando isso nos aprendizados e vai ser bem legal. na frente"
+2086.0,1,"Sim, então aí é possível eu já boto para rodar lá e a gente já começa a olhar."
+2090.0,3,E isso começa o aprendizado ali porque daí você sabe por ter [UNRESOLVED_ENTITY] esqueci de escrever bateria. Então vamos por baterias dizer que é de veículo contração elétrica. Então coloca a palavra e daí cada um que você vai fazendo é uma melhoria que pode estar diminuindo o curso de [UNRESOLVED_ENTITY].
+2111.0,1,"Só abrir um parente aqui, gente, vou ter que sair um pouco antes que eu vou ter"
+2111.0,2,"Certo aí falando em ficha de aprendizado, a gente não apontou aqui. Acho que faz sentido a gente abrir uma da visita que a gente teve na [PARTNER_B], né? Ou não Sim, né? É porque a gente vai dar sequência, né? Depois a gente abre a ficha faz sentido. que"
+2142.0,3,Ou pelo menos faz uma memóriazinha da reunião da [PARTNER_B] faz umas
+2142.0,2,ok
+2147.0,3,anotações no E-mail qualquer coisa assim só para vocês.
+2154.0,2,"Não perder, né? Tudo que eu discutido Às vezes a empolgação do momento vai"
+2155.0,3,é
+2159.0,2,se diluindo.
+2160.0,3,"Isso e a gente esquece um ponto ou outro na sequência, né?"
+2168.0,4,A gente chegou a Anotar na sexta-feira quando a gente fez uma reunião eu deixei anotado aqui no
+2172.0,3,"Só deixa isso no lugar lá que não se perca, né?"
+2173.0,4,no.
+2177.0,2,disponíveis Mas é verdade Vamos lá gente desce vamos ver primeiro o que que a gente tinha destacado aqui na última.
+2189.0,3,A dois minutos antes hein?
+2191.0,2,Que beleza. milagre Vamos lá é desenvolvimento do plano de marketing conforme material enviado pelo [UNRESOLVED_ENTITY]. Talvez seja o momento da gente dar uma focada nisso hoje.
+2210.0,1,um outro compromisso para dizer o pessoal então vocês seguem.
+2215.0,3,Tá bom e é esse nós podemos olhar como é que tá o privê? Que tem [UNRESOLVED_ENTITY] está aí no vídeo?
+2228.0,2,Vamos dar uma olhada.
+2229.0,3,Com ele ali que eu gosto de fazer o plano de marketing já olhando prove. Tá para baixo. aqui ó
+2240.0,2,Desenvolveu o maior catálogo de baterias em mercados emergentes.
+2243.0,3,se colocar uma
+2253.0,2,garantir a qualidade através dos melhores fornecedores e informações precisas
+2259.0,3,certo
+2260.0,2,"Nós facilitamos a conexão entre as peças e quem tiver a necessidade delas. E garantir uma segurança e eficiência no uso das Baterias. Pensando em 10 anos, né? E atualmente é oferecemos aos [UNRESOLVED_ENTITY] a chance de venda de suas baterias para o [LOCATION_A] inteiro. Asseguramos a procedência rastreabilidade das Baterias, seguramos os nossos clientes a possibilidade de encontrar qualquer bateria de forma simples e ágil. E garante uma segurança eficiência no uso e transporte das Baterias é muito parecidas os dois, né de 10 anos e o atual muda um pouco a escala."
+2303.0,3,"É eu eu começaria para a gente pensar nesse plano de marketing aqui sabe dá uma revisadinha nos nesses [UNRESOLVED_ENTITY], eu acho que talvez tenha mais. [UNRESOLVED_ENTITY] aí que eu não tô vendo. Então só para explicar aqui, né? É vocês já estão recebendo ali notícia positiva por exemplo da [PARTNER_B] que se"
+2324.0,4,Gente já volto
+2329.0,3,"interessou e tal, né? Então a próxima pergunta que normalmente a [PARTNER_B] vai fazer eles assim. Mas como que você vai fazer isso acontecer, né? E então tem que pensar assim ou a pergunta que eu [UNRESOLVED_ENTITY] faz né? Qual que é a mágica de vocês, né? Porque vocês me mostraram a visão de 10 anos, eu gostei os objetivos e três eu tô adorando mas a minha pergunta é Mas qual que é a tua mágica? Que garante que você vai entregar esses valores ali, né? Segurança que existiram compradores maximização de vendas plataforma especializada centralização de busca de bateria. Então a gente tem dois clientes que a gente tem que ter o processo que garante que eu entrego esse valor, né? E ele começa o processo assim primeiro ele tem que saber que você existe, né?"
+2389.0,1,[UNRESOLVED_ENTITY].
+2389.0,3,"E o segundo é a bateria chegou lá e ainda tem o pós-venda. Né que é um atendimento que vocês têm que acontecer depois ali, né? Sei lá uma avaliação um relatório alguma coisa que tem que ter lá depois as vendas que após venda é que garante que o cliente retorna para o funil, né e garante indicações, né? Ele vai indicar o processo de vocês para os outros, né? Então por exemplo já começando com esse né? Como é que tá a pós-venda? Não tá aqui aparecendo, né?"
+2428.0,2,A gente vai ter eu entendo que a gente vai ter bastante. visão a partir disso aí pensando na quarta-feira que a gente vai realmente vai começar a montar e Que a gente tá planejando realmente lá fazer o lado das Baterias anunciar essas baterias.
+2446.0,3,"Por exemplo o laudo das Baterias, eu não sei direito onde é que tá então eu tô sentindo que esses [UNRESOLVED_ENTITY] eles são insuficientes para provar que vocês sabem fazer a mágica, né? Então de vocês e também assim e como que o cliente vai saber que vocês"
+2462.0,2,"X no caso é toda essa questão de isolamento que a gente está fazendo, né."
+2468.0,3,"existe? Onde que ele tá? Nós desenvolvemos o maior catálogo é só isso será ou [UNRESOLVED_ENTITY] amar? Veja você já estão trabalhando num processo aí com anúncio no [PARTNER_E], é no [UNRESOLVED_ENTITY] isso é um processo que tem que estar [PARTNER_F] aqui que vocês estão fazendo, né? Quer começar com ele ali antes do 1 então ou cria um né, pode ser?"
+2500.0,2,Eu vou começar a colocar sem numerar e depois a gente definir.
+2503.0,3,Não a [UNRESOLVED_ENTITY] no de baixo ali não precisa de 10 anos. Vamos por no de baixo ali que está em português mesmo.
+2509.0,2,ok
+2513.0,3,"Então você tem você tem um processo ali de [UNRESOLVED_ENTITY] eu diria lá, né? Você tem um processo de desenvolvimento da plataforma do site, né? Então já pode pôr, né? Daí você tem que ter um processo de divulgação. Deixa separado, tá."
+2544.0,2,Então vou colocar só o desenvolvimento de uma plataforma.
+2547.0,3,"Porque você vê que isso é um processo de diferencial em equipes diferentes, né?"
+2554.0,2,De qualidade vou colocar.
+2555.0,3,"Isso depois pode colocando até os adjetivos é super legal. Se você colocar depois eu vou mostrar o exemplo lá que a gente já mostrou da Aldeia do jeito que o [PERSON_A] escreveu lá para inspirar vocês ali na maneira de escrever, mas na versão de hoje eu quero que a gente só põe os nomes ali até Pode pôr o principal valor, mas temos que ter o nome, né?"
+2582.0,2,Mais uma plataforma de qualidade.
+2584.0,3,"Daí impulsionamos ou atraímos clientes, né? Eu estava escrevendo a palavra impulsionar, né? E isso impulsionamos a plataforma eu acho bonito esse nome, mas depois vocês vão melhorar. Daí veja depois que vocês impulsionaram a plataforma. Aí agora nós temos que pensar assim, né? Vocês têm dois clientes, né? Veja para o produtor vocês tem que dar segurança que existiram compradores maximização das vendas e uma plataforma especializada e para os consumidores centralização da busca de baterias, né? Então desenvolvemos uma o que que seria a plataforma de qualidade, eu acho que ali olha."
+2634.0,3,"Centralização da busca né? Essas coisas vão estar ali, né? A maior plataforma né o maior catálogo, né?"
+2647.0,1,"Acho que até pensando talvez não sei se ele é um ponto desse aí ou ele é um outro item é que a gente conseguiu, né rodar essa parte técnica aí na quarta-feira, a gente consegue trabalhar naquele lance de Curadoria valuation, né? A gente consegue ter um método ali que a gente consegue garantir e tanto fornecedor é confiável muito porque ele vai ter a sua legislação lá no [UNRESOLVED_ENTITY] e tal e tanto quanto o produto que ele vende também é um produto de qualidade que a gente vai ter uma ferramenta que mede isso."
+2684.0,3,"É veja que na hora que você está desenvolvendo o site você tem que estar aí, mas esses são processos até. Diferentes né."
+2695.0,1,"Sim, acho que é um outro item assim a gente tipo garantimos A. qualidade dos produtos Através do laudo técnico depois a gente coloca Ele legislação."
+2712.0,3,"E daí é lógico que você tem aquela da busca, né? Talvez fosse de deixar ali, né? [UNRESOLVED_ENTITY], né? A facilitamos o cliente encontrar o que precisa, né? Um outro processo aí, né? Porque daí eu pensei nos dois né? Eu pensei em um lado e no outro acho que fica legal."
+2730.0,1,"se você quiser até colocar ali no terceiro depois de um lance da legislação, porque isso é a forma principal que a gente está indo para Garantir que os fornecedores são confiáveis."
+2744.0,2,a qualidade dos produtos através de lá dos técnicos e Como que eu escrevo de uma maneira bonitinha?
+2751.0,3,Que vocês estavam usando né?
+2753.0,1,É tipo e a credibilidade dos fornecedores.
+2757.0,2,ok
+2760.0,1,Talvez a legislação depois a gente vê se escreve desse jeito mesmo ou deixa mais bonito.
+2769.0,3,"Daí agora que nós temos esses processo bem estruturado, nós podemos impulsionar a plataforma, né?"
+2775.0,2,isso
+2777.0,3,"E daí quando a gente impulsiona a plataforma ela que vai fazer a conexão, né? Ou Quero colocar um outro embaixo, talvez por enquanto colocar né? Conectamos né? Conectamos os produtores e os consumidores. Que pode pôr, talvez a credibilidade vai vir aqui, né, mas depois a gente ajusta, tá? Eu acho que o importante agora nesse primeiro Brainstorm aí e a gente chegar nos até sete processos aí eu acho assim, que mais que isso a gente não devia pôr sabe? Daí a gente é grupo depois mas mas vamos separando por enquanto."
+2827.0,3,"fornecedores e os consumidores Daí tem toda uma parte ali que eu não sei se não vale a pena não destaque né? Vocês vão fazer a cobrança, né? Porque até agora vocês fizeram uma margem para os clientes, né? Comunicação vocês estão gastando dinheiro para trazer gente então por exemplo. O desmanche Não precisa ele gastar em Marte, né? Precisa ele gastar em atendimento porque vocês estão fazendo a conexão ali,"
+2854.0,1,"Gente, terei que sair por conta de um compromisso pessoal que comentei, qualquer coisa estou pelo [UNRESOLVED_ENTITY]"
+2857.0,3,"né? Agora vocês é a cobrança, então a cobrança também é de vocês, né? E eu acho que é um processo meio separadinho, depois a gente pode por junto, né? Conectamos e cobramos ali mas Mas por enquanto eu acho que é uma ciência um pouquinho diferente ali. E resolvemos o problema de cobrança, né e recebimentos."
+2890.0,2,"Bem resumido, né?"
+2892.0,3,"Veja que daí eu tô lá eu coloquei lá desenvolvendo o site tô facilitando a busca tem o catálogo impulsiona a plataforma fazer uma conexão fazemos a cobrança agora vem o pós-venda, né?"
+2908.0,2,A garantia né?
+2910.0,3,"Então, põe assim pós-venda, né? E agora o que que vocês pensaram no pós-venda aí? Que tem que ter. Ele tem que estar você chegou ou não chegou tem um monte de coisa para fazer"
+2929.0,2,e
+2935.0,3,"né? Então pois venda dois pontos nem põe as ideias ali, depois a gente vai. Acompanhamento da entrega acompanhamento da qualidade, né? Do produto das devoluções, né? Comprei a bateria, mas está errado. Então devolve ela, né? então"
+2967.0,2,a coisa do produto
+2972.0,3,"Então agora vamos ver esses quatro de baixos. Estão lá dentro, né?"
+2987.0,2,Oferecemos os backyards a chance de vender suas baterias de segunda vida para o [LOCATION_A] inteiro. É questão de impulsionar plataforma para chegar no [LOCATION_A] inteiro e a questão de conexão certo.
+2999.0,3,"Depois talvez até veja talvez até seja descrever como estava né? Que tá mais bonito, mas eu vou mostrar um do bonito depois aqui para vocês pensarem depois junto com chat GPT. Resolvemos o problema de cobrança, vamos ver o outro que oferecemos brigar asseguramos a procedência e rastreabilidade das Baterias, isso tá na curadoria, né?"
+3026.0,2,Isso garantimos qualidade dos produtos através de laudos técnicos e credibilidade dos fornecedores.
+3032.0,3,"Depois vocês escolhem a maneira mais bonitinha, né? Oferecemos aos nossos clientes acusando encontrar qualquer bateria de forma simples e tal oferecemos A Busca para os clientes, né?"
+3044.0,2,Desenvolvemos a plataforma e facilitamos a busca dos clientes pelos produtos.
+3049.0,3,E garantimos segurança eficiência no uso e transporte das Baterias esse uso e transporte. Onde que estaria ali em cima? Seria no pós-venda.
+3063.0,2,Seria que no resolvemos os problemas de cobrança e recebimentos?
+3068.0,3,É que aqui eu recebimento do financeiro tinha pensado.
+3073.0,2,Mas não teria que não acompanhamento da entrega já.
+3074.0,3,"É. Então veja que você tem um processo que está faltando aí, né? Que é entregar a bateria, né? Não não após venda depois que você fechou e cobrou. Então tá faltando um processo aí que é o de entrega da bateria."
+3093.0,2,O que?
+3094.0,3,"E é um processo que tem que estar bem estudado bem esquematizado, né?"
+3099.0,2,Então vamos colocar a parte aqui.
+3102.0,3,"Põe antes do antes do pós-venda, né?"
+3108.0,2,acompanhamos entrega dos produtos Talvez assim Depois a gente pensa nas palavras bonitas.
+3124.0,3,"Isso é mas ficou assim, agora eu tô vendo tudo né? Eu tô vendo a plataforma. Tô atraindo o cliente do nada atraindo o cliente e do outro tô impulsionando o marchem plataforma. Tô fazendo a conexão cobro entrego. E ainda faço um pós-venda, né?"
+3144.0,2,Ah eu lembro desse aí.
+3145.0,3,"E garantimos segurança eficiência no uso e transporte das Baterias, estava o acompanhamento da entrega, né? Então agora tem tudo que tem nos quatro tem ali nos outros, né? Tá agora deixa eu mostrar para vocês aqui. Deixa eu ver se eu consigo abrir eu tô aqui eu vou projetar para vocês o exemplo que a gente já mostrou para vocês aí que o [PERSON_A] escreveu da [UNRESOLVED_ENTITY], sabe? Eu gosto que ele faz porque ele é bem criativo. E ele escreve sempre de um jeito legal que quem tiver ajudava vocês."
+3185.0,3,"O chat GPT, né? Mas deixou fazer uma projetar aqui para vocês o exemplo da [UNRESOLVED_ENTITY]. [UNRESOLVED_ENTITY] lembra, né? Então agora vai ficar bem [PARTNER_F] ali onde que entra isso e daí. Por isso que eu digo com isso a gente começou o plano de marketing de vocês aqui, depois a gente pode ir para ferramenta do plano de marcha se der tempo hoje, né? Mas vocês estão conseguindo ler bem aí?"
+3225.0,2,"Tá um pouquinho pequeno, mas eu dei um aqui deu para ver."
+3229.0,3,Deixa eu ver se eu consigo. Aumentar um pouquinho aqui. Aumentar para vocês.
+3239.0,2,Aumento melhorou bastante.
+3241.0,3,"Tá. Então veja aqui ó, o caso dele, ele colocou 5 processos, né? Veja o jeito que ele escreveu aqui, ó. Criamos espaços inspiradores nas melhores localizações então o primeiro processo que tem lá é por exemplo agora eles estão procurando lá um terceiro local para abrir uma nova. Uma nova aldeia, né? Então você tem que achar uma localização tem que fazer a reforma do imóvel, né? Nos antigos você tem que estar reformando o tempo todo deixando sempre bonitinho, né? Colocando melhorias, né? Ele vocês estão vendo aqui o processo seria assim."
+3284.0,3,"Encontrar espaço e deixar o espaço bonito, tá certo? Mas veja o jeito que tá escrito criamos espaços inspiradores nas melhores localizações. É muito melhor do que dizer bem assim, é Reforma de espaço, né? Mas a hora que você disse criamos espaços inspiradores nas melhores"
+3310.0,2,sim
+3318.0,3,"localizações. A pessoa entende, né?"
+3321.0,2,"Mais valorizada, né?"
+3323.0,3,"E vocês percebem que isso daqui é um quadro e moldurado. Então na entrada de cada [UNRESOLVED_ENTITY] tem esse quadro? Então para que que ele serve? Primeiro você vai provar para os clientes que você faz a mágica. Tá certo e você já põe ali na entrada da [UNRESOLVED_ENTITY]. Segundo vocês receberam um estagiário, ele vai ajudar você a localizar e reformar os espaços. Ou ele vai ajudar você a criar espaços inspiradores nas melhores localizações percebe que é diferente."
+3362.0,3,"Tô falando com um parceiro. Ah não, eu tenho um processo aqui de encontrar espaço aqui e reformar não tem um processo para criar espaços inspiradores para o parceiro, né? É para o cliente então, por isso que eu diminuir como ele recomenda que depois que você fechar os passos isso põe se esteja na parede de vocês aí sabe? Todo mundo que for entrar aí vai entender. Qual é o negócio de vocês e como é que vocês fazem a mágica? Vamos passar para o segundo ali de exemplo, tá? Ó, fazemos os metros quadrados funcionar em favor do negócio do cliente, tá certo? Sabe o que que é isso a operação do espaço? Limpar o banheiro ter papel no banheiro. Ter sempre não ter pó."
+3412.0,3,"[UNRESOLVED_ENTITY] uma lâmpada tem que trocar tá certo, você chamaria isso de manutenção e operação, né? Ou é melhor escrever fazemos os metros funcionar o metro quadrado do funcionário a favor do negócio do cliente. Você percebe que a maneira de falar faz toda a diferença nesse quadro, né?"
+3433.0,2,Com certeza
+3435.0,3,"Daí ó cobramos tarifas acessíveis é o processo de cobrança, né? Faturamento cobrança, né? Mas ele já deu um posicionamento as tarifas não são as mais caras não. São boas tarifas acessíveis para o cliente crescer mais e depois o valor, né para ele poder crescer mais. [UNRESOLVED_ENTITY] faturamento oferecemos serviço Impecável ele anda hospitalidade e tecnologia, né? Então veja agora eu tenho que atender bem o pessoal que tá ali, né? Que chega lá tem que ter uma moça."
+3471.0,3,"Alguém na recepção sorrindo ajudando né? Hospitalidade a internet caiu tem que resolver rápido, né? Tem que estar a pessoa não pode se preocupar com isso tem que ter duas tem que ter equipamentos de velocidade e tal então tudo isso é um serviço [UNRESOLVED_ENTITY] que tem que oferecer, né? Que seria também uma parte da operação, né? Não é só mais manutenção, né? Eu tenho que ter operação, né? E o quinto aqui ó, ativamos uma rede vibrante de negócios e pessoas fodas porque Se você vocês estão indo trabalhar aí na réguas, né? Tem algo mais ali, tem que é você conhecer todo mundo que tá ali. Isso é uma oportunidade de construir uma rede até para fazer negócio entre eles um negócio ajudar o outro, sabe? É criar uma rede, né com os próprios com workers."
+3535.0,3,"Mas se você tá escrito podia por aqui ó, criação de uma rede. Ah não ativamos uma rede vibrante de negócios e pessoas é bem é diferente de dizer nós ajudamos a construir uma rede. E daí tem gente especializada nisso que vai fazer lá um dia de pipoca um dia alguém vai apresentar um negócio dele para os outros porque é interessante sabe? Então tem que ter alguém. Fazendo isso tem que ter um processo fazendo isso."
+3565.0,3,"Veja que eu lendo isso daqui vocês entendem? Como que funciona a mágica da [UNRESOLVED_ENTITY], né? Ele chamou a fórmula, né? Então agora volta o teu lá, vamos ver como é que nós vamos fazer a fórmula ou a mágica de vocês agora."
+3589.0,2,Eu já vou abrir o chat aqui em paralelo.
+3605.0,3,"Então você veja assim normalmente o que que eu faria agora, né? Ó, eu tenho aqui sete. Vocês estão com mais de sete, né? Talvez vê se dá para agrupar um outro que a gente já tinha combinado aqui que talvez um grupo ou outro ou também. Se for assassinar deixe oito, né que vocês estão. Vocês têm processos para um lado e processo para o outro lado, né? Então você poderia juntar, né uma facilitamos a busca para os produtores e garantimos impulsionamos lá as vendas dos clientes tal então vocês podem escrever desse jeito, então eu pediria. Esses são os processos aqui já tive né? Esses são os valores que eu quero entregar para o cliente, né que estão ali né? Você escreveram as e únicas né? Daí diz assim ó, me crie."
+3654.0,3,"frases inspiradoras para dar nome para esses processos Daí vocês vão ter uma primeira versão. E daí, vocês vão alimentando, né? Considere que eu vou entregar mais valor fazendo isso tal e ele vai vai melhorando a descrição do processo de vocês. E daí, ele vai estar no quadro aí de vocês. A hora que chegar alguém da [LOCATION_E], como é que funciona a mágica de vocês é isso aqui. Tô com um estagiário aqui funciona assim você faz parte desse processo."
+3692.0,3,"Um parceiro você vai explicar para ele, né? Você vai ser no meu parceiro nesse processo, então ele te ajuda. A se organizar na equipe com os parceiros e ainda com o cliente, né? Eu já gostei."
+3720.0,2,Vamos ver se ela tá abrangendo tudo também que a gente tinha considerado.
+3725.0,3,"Eu não sei eu sempre assim, né? Essa versão já tá melhor, depois vocês melhoram ela mais ainda, tá?"
+3739.0,2,Mas uma plataforma feita para você desenvolvemos um ambiente confiável intuitivo. Para que sua experiência de compra e venda seja simples ágil e segura. Então no caso aqui a gente tá falando.
+3753.0,3,desenvolver a plataforma
+3754.0,2,desenvolvimento da plataforma
+3755.0,3,"Que a equipe de desenvolvimento tem essa missão aqui, ó. Veja fica muito legal, né? Ó você tem que fazer confiável intuitiva a experiência de compra simples ágil e segura. Não precisa falar mais nada para a equipe de desenvolvimento, né?"
+3774.0,2,"Da busca, né? Facilitamos a busca dos clientes conectando a demanda a oferta com inteligência eficiência legal. qualidade de garantida confiança segurada atestamos a procedência desempenho das Baterias por meio de laudos técnicos e fornecedores credenciados"
+3793.0,3,Ficou melhor também.
+3794.0,2,melhor Mais do que o Marketplace um ecossistema conectamos.
+3800.0,3,"Muito na moda, né? É impressionante como a inteligência artificial já sabe que todo mundo agora quer ser um ecossistema. Né tava estudando o caso da [UNRESOLVED_ENTITY] aqui, né? Eles têm agora eles são ecossistema lá, eles não são mais lojas também são ecossistema e o [UNRESOLVED_ENTITY] já sabe, né?"
+3822.0,2,Aí aqui. Conectamos fornecedores e consumidores que lhe criando fluxo sustentável e confiável para o mercado de baterias usadas.
+3834.0,3,"Faltou a destinação aí daquela bateria. Bem tá aí, né? Talvez depois vocês pensem, né? Porque vocês têm uma coisa é você conectar a outra é um tipo de fornecedor, né? E um tipo de cliente a outra é você desmontar ela fazer o desmanche dela, né? Não sei se isso não vale depois uma uma melhoria."
+3857.0,2,"Sim a gente não tinha considerado isso dentro das oito etapas, né. Você vende a gente resolve e eliminamos as barreiras de cobrança e do recebimento e garantindo transações seguras e transparentes. Da compra entrega estamos com você, acompanhamos cada etapa do processo segurando que os produtos cheguem com qualidade e dentro do prazo. Compromisso além das vendas é completo suporte acompanhamento da qualidade e garantia e devoluções sem complicação."
+3894.0,3,"Veja que a melhoria agora tá mais difícil, mas ficou muito bom, né?"
+3898.0,2,"Ficou tô tentando ver qual foi que ele suprimiu aqui que ele agrupou porque eram oito, né?"
+3902.0,3,é
+3904.0,2,Tô tentando entender aqui hoje que passou batido.
+3906.0,3,"Mas copia lá essas aí só para você não perder, né? Depois você continua. Vamos ver só essas garantias tão boas e daí fechamos o provem próximo versão melhorada que dá para vocês agora mostrar para o rancho que vocês sabem fazer a mágica, né? E para os clientes, né? Tudo vai ser esse daí, eu acho isso. Uma pergunta que o pessoal da [STARTUP_A] fez para mim eu já vou aqui adiantar para vocês, né? Será que agora a gente tem que detalhar cada um deles, né? Daí agora eu vou dar a minha experiência com vocês aqui que eu já trabalhei com gestão de processo, melhoria de processo, né? validade, padronização e tal A Minha experiência é muito dolorida com relação a [UNRESOLVED_ENTITY] é demorado fazer né? Por exemplo se você escolher uma e deles ali."
+3967.0,3,"Você vai perder horas dias fazendo isso no caso de vocês. Vocês têm agora dois meses, né? Praticamente aí, né? [UNRESOLVED_ENTITY] garanto que se vocês gastarem os dois meses não vão fazer isso inteiro. Tá certo"
+3984.0,2,"E vai gastar o tempo em coisa que não precisava do momento, né?"
+3988.0,3,"E daí é o seguinte no dia seguinte que você terminou, né? Ou na semana seguinte? O processo mudou. Porque sempre muda, né? Sempre alguém diz aconteceu isso vamos melhorar isso. Vamos fazer aquele outro né? Então é um esforço danado para você documentar processo. E para você deixar ele atualizado é outro esforço danado, porque nunca ninguém atualiza sabe você faz uma vez. Daí um ano depois vamos revisar o processo daí você atualiza de novo."
+4019.0,3,"E ao passo que hoje eu diria assim, olha esse entendimento do jeito que o chat GPT escreveu que ele já colocou o valor que eu tô entregando em cada processo, né? É suficiente para pessoa saber então eu diria assim. Se vocês levantarem lá ó tamo com problema aqui, não estamos entregando produto certo no momento certo. Precisamos mergulhar nesse processo. Então ela é uma eixo que vai surgir."
+4049.0,3,Quando eu surgir não preciso me antecipar ela agora porque vocês não têm uma equipe que nem [PARTNER_A] tem né equipe para ficar apoiando com consultoria. Vocês não tem para ficar fazendo isso então vocês eu diria assim. O meu entendimento os processos do jeito que estão agora para mim tá ótimo. Se tiver que melhorar alguma coisa vai ser porque identificamos um problema.
+4076.0,2,"E vai ser depois na prática, né? Quando a gente começa."
+4078.0,3,"Cada vez vocês vão melhorar essa lista de processos, vocês vão por uma qualidade que esqueceram uma coisinha assim e detalhar se for necessário. Por exemplo. Agora eu tenho uma equipe de atendimento aqui que precisa. Então tá bom a equipe de atendimento agora tem. Pessoas Olha eu preciso. Dar um material mais consistente do que simplesmente dá a missão, né?"
+4104.0,2,A frase né?
+4105.0,3,"A frase então daí sim, você vai mergulhar nele, tá?"
+4109.0,2,"Perfeito, mas ficou muito legal, até me surpreendi aí. Aqui eu vi ele. Ele uniu a questão de conectar consumidores e fornecedores com a busca pelos produtos. Ele colocou no lugar só. Facilitamos a busca de clientes conectando a demanda a oferta com inteligência e eficiência."
+4131.0,3,Que depois você verifica se vale a pena você deixar separado ou não?
+4135.0,2,Eu acho que ficou muito bom assim já? legal
+4139.0,3,"E vamos ver a garantia então agora como é que tá aqui, nós estamos."
+4145.0,2,"Então é um padrão online stander tem a questão do sete dias que isso aí já é por lei, né? substituição da garantia que as lojas disponibilidade ou devolução"
+4159.0,3,certo
+4160.0,2,Garantir as extras estabelecidas como parceiro ou através de produtor? extensão da garantia mediante de pagamento
+4171.0,3,"Acho que tá bom, né?"
+4173.0,2,Assim para começar Tá mas é aquilo.
+4174.0,3,Eu acho que eu vejo que eu vejo que esses 7 processos garantem isso aí. Então tá ótimo.
+4186.0,2,Eu vou limpar aqui o que ele tava embaixo. Porque a gente já viu que
+4192.0,3,Não precisamos mais né?
+4193.0,2,"Já tá já ficou melhor? Só vir aqui ó, tem uma frasezinha, né Inicial? Tipo falando aqui sobre tudo transformamos suas baterias de segunda vida em ativo e forma adequada com destinação correta para que? Para as que não podem ser reutilizadas."
+4214.0,3,"Isso que eu falei, né? Vocês têm dois, né? Porque além de você fazer a conexão quando o cara tá vendendo a bateria, como dizer um outro comprador de bateria, né ou receptor porque pode ser que seja custo zero, né? O cara tá se livrando de uma bateria que não serve mais, né? Alguém tá pegando lá, talvez não pague nada, mas livrou ele de um custo é como se ele tivesse pagando né? Eu acho que isso talvez seja de deixar [PARTNER_F] em que posição que isso está em qual processo que isso está tá."
+4249.0,2,Vamos ver como que coloca.
+4250.0,3,"Pode até você pode até ir lá para o chat GPT e dizer bem assim inclua isso nessa tua lista de processo inclua transformamos em suas baterias de segunda timidez inclua a destinação. No nosso processo. Inclua um processo ou inclua porque ele pode colocar em algum lugar, né?"
+4320.0,2,"É legal colocar a parte, né?"
+4322.0,3,"Ele colocou a parte, mas agora dá uma coisa. Coloque o oito junto com o [UNRESOLVED_ENTITY] com aquele o quatro, né? Ou você pode colocar o 8 junto com o 6 ou junto com o cinco, né?"
+4341.0,2,"Eu vou colocar assim, ó, podemos colocar. A oitava agropada com algum outro valor? Vamos ver o que que vai sugerir. A qualidade de garantida confiança segurada atestamos a procedência e desempenho das Baterias por meio de lado dos técnicos e fornecedores credenciados garantindo também a destinação correta das que não podem ser"
+4382.0,3,[UNRESOLVED_ENTITY] ainda tá aí? A [UNRESOLVED_ENTITY] ainda tá aí ou já saiu?
+4383.0,2,"reutilizadas. A Tainá ela só não tá podendo falar agora, mas ela tá acompanhando."
+4395.0,3,"tá Saiu já? Tá legal. Eu acho que tá ótimo esse daí, viu?"
+4414.0,2,Ficou testamos a procedência e desempenho das Baterias por meio de lados técnicos e fornecedores credenciados garantindo também a destinação correta das que não podem ser reutilizadas. É muito bom.
+4427.0,3,Agora você tem um desafio imprimir isso num cartaz para pôr na parede de vocês.
+4436.0,2,Já matou o principal certo? agora vai ter melhoria contínua e ao longo do
+4441.0,3,"Não mas assim cortou ali, né? O teu desafio agora é criar um cartaz para colocar na parede."
+4450.0,2,Vamos colocar Vamos colocar mais.
+4456.0,3,Daí manda manda imprimir numa impressora aí maior.
+4460.0,2,"Fazendo um papel fotográfico negócio mais bonitinho, né?"
+4462.0,3,É até uma coisa que pode até servir para vocês levarem nas apresentações de vocês e colocar lá na frente.
+4470.0,2,"Sim, tem que dar valorizada nisso, né?"
+4471.0,3,É que nem a que eu dei o exemplo da [UNRESOLVED_ENTITY] é um quadro com moldura que ele colocou isso na entrada da [UNRESOLVED_ENTITY]. Porque se eu diminuir que mãe disse isso agora tem que estar. Todo mundo vendo todo mundo tem que estar olhando isso daí. Isso daí economiza um tempão na hora de se organizar a equipe.
+4504.0,2,"Na hora de organizar a equipe o próprio é? Quase um resumo do [UNRESOLVED_ENTITY], se você for ver né? Depois nem apresentou o [UNRESOLVED_ENTITY] você com isso aí a pessoa já sabe do que que você está falando já sabe o que que a plataforma vai garantir. Então, vou deixar isso aqui. Acho que eu já vou abrir até com uma e vou deixar para mim. Isso que eu gostei."
+4529.0,3,Porque agora é só você fazer assim.
+4533.0,2,Não é?
+4535.0,3,Para eu colocar na parede.
+4540.0,2,Como colar sem formatação? 127 24 Giovani de 127 127
+4577.0,3,"E daí aquela dor vem pro cê já pode pôr como concluída então, né?"
+4586.0,2,"Vamos ver tinha aberto aqui, como chegou a abrir."
+4591.0,3,Eu acho que eu lembro de estar vendo ela.
+4594.0,2,A gente tinha colocado questão de marketing estudar material de marketing não era?
+4599.0,3,"E não tava para o próximo separadinho não. Então tá bom, deixa lá agora é que o marte ainda eu queria discutir com vocês aquele material que eu mandei sabe? Eu posso começar agora nós temos alguns minutos, né?"
+4617.0,2,Eu acho que melhor deixar para a próxima porque é o [PERSON_B] não tá tá não
+4620.0,3,"Quando tiver junto, né?"
+4624.0,2,"tá conseguindo falar e pouco tempo, né?"
+4626.0,3,"Eu acho que sim, eu acho melhor deixar para próxima e depois agora vocês já vão dar uma pensada ali na hora de fazer o cartaz dá uma discutida com eles, só se ficou bom, o que que dá para melhorar o que que tá faltando bate, o martelo é a versão melhor que vocês têm virou cartaz é o cartaz melhor que vocês têm não quer dizer que na semana seguinte não tem que substituir o cartaz, né? Mas o risco é mas o risco você vê que é baixo, né? De ter que fazer isso,"
+4650.0,2,Quantas vezes a gente mexeu ao longo aí dessas?
+4656.0,3,"né? Mas e vai para o pit que nem você falou, quem sabe daí já vai para Quando vocês forem fazer o PIT para os anjos ou para o hashi ou presencial, né? Você já levam cartaizinho e tal então isso daí sempre ajuda um monte esse raciocínio, né?"
+4678.0,2,Funcionamento você pode usar isso aí para criar conteúdo na hora de fazer o
+4678.0,3,então
+4681.0,2,"impulsionamento da plataforma, né?"
+4686.0,3,Eu impulsionamento talvez eu não sei se tá bem nesse processo aí não sei se não perder um pouco em fazer nenhum funcionamento. Nesse nessa versão que tem aí dá uma olhadinha depois tá?
+4702.0,2,ok
+4703.0,3,"Porque o processo de impulsionamento é um processo à parte, né? Você é um especialista desse especialista de conteúdo de marketing digital, né? Que tem é uma equipe que está trabalhando com isso, né? Então isso tem que tem que estar bem [PARTNER_F] em algum lugar ali."
+4721.0,2,"só para mostrar aqui, ó, a gente instalou aqui uma plataforma chamada host que é ferramenta de seo do WordPress E se a gente clica aqui no [UNRESOLVED_ENTITY] o [PERSON_B] foi adicionando as melhorias em cada produto E ele aproveitou a gente criou umas palavras-chaves, ele aproveitou. Para colocar por exemplo assim não existe em comprar tipo usando muito essa questão de comprar porque é uma palavra-chave que usa muito nas buscas questão de você trabalhar com links dentro do dos anúncios porque [UNRESOLVED_ENTITY] também funcionar. É sobre o produto então ele fez assim um resuminho aqui de termos técnicos."
+4764.0,2,"E essa questão aí porque escolherei like, né? As palavras-chaves acho que ficou muito legal."
+4770.0,3,"p***, que bom. Por isso que tá aumentando lá o número de visualizações sem vocês fazerem esforços esse conteúdo que está ajudando."
+4780.0,2,"E assim a preocupação que a gente tem também é a questão de Quem tá procurando mesmo? Porque assim uma coisa você vender para quem tá você apresentar o site para quem tá sei lá no [UNRESOLVED_ENTITY] lá no banheiro bateu no tempo outra coisa é o cara que eu preciso de uma bateria do hora. Vou pegar um exemplo assim, vou pegar uma que tenha. Parte Number, por exemplo eu tenho aqui do hora. Se você pega o [UNRESOLVED_ENTITY] dela."
+4812.0,2,"Que é esse aqui se você entra aqui na questão de informação adicional tem um bonitinho também aqui como atributos, né? Era para a gente aparecer em cima ainda não tá isso é?"
+4829.0,3,Ele ainda não arranqueou vocês como diria então é uma especialista desse aí tem que trabalhar com isso.
+4836.0,2,"Tem que trabalhar com isso porque? Concorda que quem tá procurando a peça meu cara foi lá desmontou uma bateria lá para fazer a manutenção, ele vai pegar essa parte não vai jogar no [PARTNER_E]. Quem tiver na frente que vai e vai realmente passar."
+4851.0,3,Talvez tenha que comprar um monte de parte Number. Eles já pagar por eles
+4855.0,2,Mas é isso aí coisas que a gente tem.
+4861.0,3,"porque ele vai custar no quase nada, sabe você comprar os partes para o [UNRESOLVED_ENTITY], sabe? Porque como ninguém tá? Ninguém tá anunciando parte numbers, né? Então, o custo do anúncio é zero quase. E daí vocês podem ir fazendo isso para as que mais tem mais procuras que tem mais no estoque, né? Vocês podem ir direcionando o [PARTNER_E]. ADS para esse daí, né? Muito bom, vamos agora só combinar o seguinte a semana que vem é carnaval, né? Então na segunda-feira Veja eu Provavelmente vou para a praia, mas eu na praia lá. Se quiserem fazer uma reunião, eu não tenho problema nenhum, tá?"
+4908.0,2,ok
+4909.0,3,"Mas vejo vocês aí também fazer e também eu não sei se como é uma semana meio perdida, né? [UNRESOLVED_ENTITY] se perde, né? Então eu não sei se adianta fazer uma reuniãozinha para dois dias, né?"
+4925.0,2,Eu vou conversar com os meninos certinho e a gente te dá um retorno.
+4928.0,3,"Isso. Então veja ficamos. A princípio eu diria assim a princípio parece que não tem muita lógica a gente fazer uma reunião de pulso a semana que vem, mas vai depender das questões que surgirem, né? Eu diria né? Eu acho que a decisão final é pose não vamos discutir aquele negócio do marte. Vamos discutir isso que nós estamos precisando de discutir, vamos fazer a reunião, nós temos 60 minutos para discutir um problema importante, tá?"
+4957.0,2,perfeito
+4958.0,3,"Então se fica fica aí com essa incumbência, mas a princípio e também se tiver alguma coisa que a gente resolve no WhatsApp e tal, né? Você resolve né? E uma perguntinha para você lá, como é que tá a planilha financeira."
+4973.0,2,Não tá precisando voltar com isso.
+4975.0,3,E o Live?
+4977.0,2,"Então, a gente focou essa semana passada foi basicamente focada na questão da visita da [PARTNER_B] na última reunião que a gente teve com o [UNRESOLVED_ENTITY] filho a gente"
+4983.0,3,É isso.
+4987.0,2,viu que a gente tava colocando muita tarefa nas teus que a gente não tava dando conta de fazer então a gente deu uma segmentada e falou vamos pegar o principal. Para ver se a gente não fica Também com esse sentimento de que não tá entregando as coisas e eu acho que agora que a gente está com Love plan rodando que não tem mais essa visita da [PARTNER_B] na visita grande dá para a gente consideramos para a gente começar a alimentar.
+5009.0,3,"Isso então então faz isso sabe por quê? Porque a gente sempre deixa. Para última rock que vai ser agora na Depois do [UNRESOLVED_ENTITY]. Nós provavelmente estaremos aí fazendo aquela reunião de um dia, né? E daí agora nós já temos 45 dias tem que ter o Live play, tem que ter as projeções financeiras, né?"
+5028.0,2,E é legal chegar com isso já pronto para reunião para a gente não ficar desenvolvendo no meio da reunião é chegar pegar o que já tá levantado.
+5034.0,3,"Então o que você conseguir adiantar alguma coisa durante a reunião a gente já trata ele de maneira diferente, né? Sabe como se não Também. Veja a gente sempre deixou para os últimos 45 dias, mas eu sei que daí fica bem corrido para o Giovani. Vai ter um trabalho bem pesadinho, sabe então quanto antes você der uma olhadinha. Então coloque lá preparar uma primeira versão de Dr. E com no Live ou coisa desse tipo, acho que já é importante porque daí você tem que começar lá fazendo uma previsão de receita fazendo uma previsão de crescimento de receita porque o Live Plus não é para um ano, né? Eu diria assim no mínimo cinco anos."
+5084.0,3,"No máximo 10 assim, eu sei que empresas como a [PARTNER_A] normalmente trabalham com 10 ou até mais sabe anos, mas quem fez cinco faz 10 porque é só colocar regra para sequência. Então não é tão difícil se você fez cinco fazer 10 ou fazer 10 utilizar os primeiros. 5 aí é uma questão que você escolha, mas o prazo é entre 5 e 10, tá?"
+5114.0,2,ok
+5115.0,3,Que você vai trabalhar?
+5117.0,2,"Então, vou abrir aqui uma vou deixar elaborar a primeira versão do dre daí"
+5123.0,3,e lá
+5124.0,2,Life no leve plano considerando aí o mercado eu vou colocar cinco anos para começar.

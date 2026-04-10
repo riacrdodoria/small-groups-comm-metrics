@@ -1,0 +1,560 @@
+onset_seconds,speaker_id,text
+0.0,1,Bom dia
+1.0,2,"Bom dia Giovani, tudo bom?"
+4.0,1,"Tudo certo, graças a [UNRESOLVED_ENTITY]."
+6.0,2,Tainá tá aqui também. Bom dia Tainá.
+17.0,3,Bom dia tudo bem?
+18.0,2,Tudo bem. voltando [PERSON_B]
+24.0,3,Quer compartilhar
+28.0,1,[UNRESOLVED_ENTITY] vamos deixa eu abrir aqui. A gente está preparando o material do hora que você mandar para linda. Vou apresentar numa reunião lá no portfólio como empresa.
+44.0,4,"Hi, I’m transcribing this call with my Tactiq AI Extension: https://tactiq.io/r/transcribing"
+46.0,2,Opa Quando que a apresentação
+50.0,1,"Vai ser essa semana, mas eles não deixaram [PARTNER_F] qualquer data você que já tá atrasado para mandar."
+57.0,2,Essa é a grande questão então do dia né?
+61.0,1,exatamente
+64.0,3,"É porque na verdade ela avisou que era para hoje meio-dia de lá, deixa eu ver"
+64.0,1,Avisou umas 7 horas.
+71.0,3,"quando. Hoje hoje 7 horas. Ela avisou que ela aprendeu até meio-dia, só que meio dia deles, né no caso. Aí é osso né."
+85.0,1,Vocês estão conseguindo ver bem.
+92.0,3,Eu acho.
+93.0,1,"Isso vamos ela que a gente já envia e dá sequência na reunião, né?"
+94.0,2,"Então vamos direto, né para essa questão, né? Então vamos ver qual é a encomenda dela e o que que Como é que tá a versão aí?"
+109.0,1,No caso a encomenda dela era fazer um peixe tinha um peixe de várias empresas várias. E aí tem esse layout aqui já pronto para escrever problema solução proposta de valor também de mercado que já foi feito e os próximos potenciais. Então aqui a gente resumiu a Live como promovendo circularidade através de da locação inteligente de bateria de veículos elétricos. Conforme já tava no [UNRESOLVED_ENTITY].
+140.0,2,Ah tá.
+142.0,1,"Então problema é ausência de um de um processo de desposa para baterias elétricas devido a desgaste. Tenho descarte na apropriado perda de valor. Enquanto tem altos custos e riscos ambientais em torno disso e de circular de rastreabilidade. Foi melhor tradução possível, mas deu para entender, né? Tá entrando. O que essa parte ele viu já viu? vamos"
+185.0,3,Na verdade.
+186.0,2,"Então, só põe ele apaga então. Bom dia [PERSON_B]."
+191.0,1,Bom dia [PERSON_B].
+192.0,5,"Bom dia crianças, beleza?"
+194.0,1,Tudo certo.
+196.0,5,Acho que eu colocaria só Second Life nesse título.
+198.0,1,"[UNRESOLVED_ENTITY] tô passando aqui o ampage aí para a gente dar uma revisada e mandar a versão final aqui, já tá linda. Então, a gente tá aqui passando aqui."
+207.0,2,"Vamos entrar nessa questão aí que essa questão tem que resolver o mais rápido possível, né? Então não adianta a gente por outra discussão agora no momento."
+215.0,1,Exatamente. Então vamos lá I like promovendo circularidade através da locação inteligente de bateria de veículos elétricos.
+229.0,2,"não, mas tem o aproveitamento da matéria prima quando acaba ela"
+235.0,5,bom
+236.0,3,verdade
+237.0,2,"E isso acho que é uma circulariedade que eles não podem dizer que vocês não estão preocupados, né?"
+244.0,3,É e o Giovani sobre circularidade também.
+250.0,1,"é agora aqui no problema, né uma ausência de uma estrutura de um processo estruturado de descarte de baterias devido a desgaste tem o descarte inapropriado perda de valor da bateria enquanto a gente tem questão de [UNRESOLVED_ENTITY] custos e riscos ambientais em torno aí da reciclagem e"
+271.0,2,Aqui talvez desce para pôr a frase que o [PERSON_B] estava dizendo a Second Life em algum lugar.
+278.0,3,acrescentar
+279.0,2,"Não fica [PARTNER_F], né? Acho que fica bom."
+282.0,1,"Ainda é o problema, né? O problema que a gente tem que as baterias estão sendo descartadas e estão perdendo valor a segunda vida, na verdade seria a solução, né?"
+291.0,2,É que eu diria assim aquela de baterias usadas.
+294.0,1,"Mas estou vendo aqui já também que não tá escrito dessa maneira, nós solução é uma plataforma inteligente e conecta fornecedores e o compradores de baterias usadas e soluções com essas baterias usadas, garantindo qualidade rastreabilidade e uma eficiência logística, nós facilitamos a compra venda e o descarte dessas baterias criando um ecossistema sustentável promovendo a circularidade através de soluções. com baterias de componente de segunda vida"
+330.0,5,Tá bom.
+331.0,3,Eu só não sei se a logística eficiente. Sei lá acho meio perigoso. Dizer isso.
+341.0,1,logística a gente não está nem na internet que no detalhe do
+349.0,2,e soluções com o uso de baterias
+356.0,1,Dá para resumir uma coisa só né?
+357.0,2,"É porque a solução é um monte de coisa, né? Cabe uma e daí não acho que daí meio que deu uma confundida ali ver o que que a gente pode fazer ali, porque o problema realmente até ali você vai conectar computadores e Fornecedores né? Sem dúvida ou o problema tá depois desse."
+384.0,3,"Mas olha porque a gente na verdade não sei tipo nessa nessa última semana, principalmente a gente conversou bastante sobre dar também opções de soluções, entendeu para as empresas que os fornecedores."
+399.0,2,"E começa a relacionar algumas assim só de exemplo para fazer aqui, o que que seria uma solução."
+405.0,3,"Ah, por exemplo lá a bateria a gente viu que tá com 80%, a gente vai falar para o cara ó, essas baterias que você precisa que você tem aí para não pensando na indústria que você tem aí então com 80% de saúde, então dá para você fazer Power Banks com elas através de tal forma."
+427.0,1,"Um exemplo mais prático aquele cara lá da solartec, ele não faz um esquema que ele pega módulo de bateria e monta uma bateria para aplicação residencial. A gente poderia já vender essa solução pronta dele já o módulo para aplicação residencial."
+445.0,2,as soluções com baterias usadas Não seria soluções então. para a baterias usadas
+456.0,5,É deixaria. Talvez uma coisa só tipo conexão.
+463.0,2,"E baterias usadas quem tá querendo é que vocês querem colocar uma dimensão a mais ali, né? Eu entendi o raciocínio, né? Então, eu só tô vendo e daí eu Com baterias usadas é isso, né?"
+484.0,3,"É tipo oferecer, mas eu acho que a palavra seria mais oferecer o serviço de solução, entendeu?"
+504.0,2,"É que o serviço de solução é a conexão, né? Quando você conecta o cara que precisa da bateria usada, você tem a solução. O cara que precisa que você deu destinação final da bateria também é a solução, né? Não é vocês que vão fazer isso, né?"
+521.0,5,É o parceiro que faz a solução.
+523.0,2,Agora é que vocês queriam dar manhã fazer tô tentando entender e aproveitar
+525.0,3,Mas através da gente.
+529.0,2,"ainda, a ideia sabe não fazendo um Brainstorm de aproveitamento não decrílica assim de da ideia da solução, né? Porque vocês estão dizendo? Olha além da gente fazer a conexão nós vamos ter um passo paralelo que vai ser o desenvolvimento. O desenvolvimento de novas soluções ou desenvolvimento de soluções, né? Não sei."
+554.0,5,Dá para colocar tipos. E só coloca alguma coisa tipo é [UNRESOLVED_ENTITY].
+565.0,1,Isso eu pensei em algo nesse sentido.
+570.0,2,É seria então para novos. Mas seria ele
+583.0,1,Vamos pensar Vamos ler inteiro.
+585.0,2,eu acho que talvez desce para pôr ali no depois do
+594.0,1,e
+594.0,5,O resto para mim tá ok me facilitei dubains.
+608.0,2,bateria qualidade rastreabilidade eficiência logística
+622.0,3,Pode mas é primeiro como se fosse o primeiro.
+625.0,2,Não eu tava querendo por depois assegurando novos [UNRESOLVED_ENTITY]
+662.0,2,"Eu acho que seria assim, porque sempre que você fizer conexão você está fazendo conexão da coisa mais eficiente, né? Porque você está juntando dois, né? Então sempre vai estar ali vai estar lá vai estar tudo. Era um detalhezinho talvez nem merecesse tudo isso, mas acho que melhorou."
+700.0,1,então aqui é Resolvendo desperdício e o descarte inapropriado. Nossa plataforma garante um descarte próprio e reduz o gasto. Por de uma maneira que conecta de forma eficiente os fornecedores os consumidores.
+725.0,2,"Esse banho não precisa porque já tá dito na solução em cima, né?"
+731.0,5,Volta só o bayers.
+732.0,2,Agora vamos ver o resto em próprias.
+753.0,2,"Tem que pensar o que você tá fazendo aqui, a gente não tá separando os dois"
+757.0,5,É como que a gente imagina porque assim é uma coisa que as indústrias falaram
+759.0,1,Fica Resumindo aqui ó garante a esposa e apropriado e desperdício. Nós garantimos a rastreabilidade da bateria através de relatórios técnicos e
+774.0,2,"lados, né? Temos que escrever se fosse para os dois, né? Então nós fazemos para o desperdício e disposição apropriada Tanto para quem tem a bateria para quem tá recebendo a bateria, né? Certo a ser habilidade."
+803.0,1,garantindo confiabilidade no reuso e na reciclagem.
+806.0,2,Não eu acho que rastreabilidade é uma coisa.
+810.0,1,Eu acho que não tá legal.
+812.0,2,relatórios técnicos é outro ganho
+816.0,1,Eu acho que a gente tem que melhorar isso.
+817.0,2,"Ou a proposta de valor é em show em reuse and. Que daí reúne ressaca. Tá no primeiro também, né? talvez um parágrafo novo ali que a primeira [UNRESOLVED_ENTITY] antes do true Agora vamos ver como é que a gente escreveria isso aí, né?"
+861.0,5,de ter rastreabilidade que é importante.
+864.0,2,isso
+865.0,5,Como a gente imagina que a gente conseguiria ter raça habilidade das Baterias?
+869.0,1,Eu coloquei aqui no Nexus.
+876.0,5,então
+878.0,1,Aqui o ruiva digital Track.
+881.0,2,"É que a rastreabilidade é assim, se for. Quando vocês vão receber o cara vendendo a bateria ele vai ter que ter algumas garantias que ele não é um ladrão, né? Então, vocês estão garantindo, o rastreabilidade é o Fulano que dispôs a bateria aqui, né? E se der problema é com ele, não é com a gente né? Então vocês tem que saber que esse cara existe e ele pode ser alcançado pela polícia, né? Então dá para fazer e daí se a bateria voltar, né? Poxa. Vocês já vão estar fazendo um históricozinho dela, né? A bateria voltou agora foi para disposição final né? Então vocês têm desde que entra até a hora que sai, ela tá sendo rastreada."
+930.0,2,"Porque o cara que comprou o cara que vendeu, você sabe para quem ele vendeu, né?"
+935.0,1,então
+938.0,2,Resolve a tua preocupação.
+941.0,5,Acho que resolve porque você tá basicamente é você ter a história de tudo isso que aconteceu.
+949.0,2,"E quando você não tem a história Inicial, né? Porque você não sabe se ela"
+949.0,5,alguma coisa
+952.0,2,"é uma bateria do [PARTNER_C] que veio da concessionária veio de um acidente. Você não sabe mas na hora que você recebe ele na plataforma curadoria vai exigir isso dele, né? E daí é problema dele, se ele tiver mentindo a princípio, né?"
+968.0,5,sim
+969.0,2,"É problema dele, não é problema."
+970.0,5,Acho que pode colocar tipo improvis. Tor
+988.0,1,Não entendi
+995.0,5,"Aí acho que ele tem que colocar uma coisa do lado técnico, então se a gente"
+1017.0,2,Então agora vamos para o próximo.
+1023.0,5,tem esse negócio aí.
+1024.0,1,confiabilidade aqui
+1026.0,5,"Acho que seria. Ai, caramba."
+1037.0,1,Mas talvez aqui não Entre Nesse sentido esteja no trust work alguma coisa assim.
+1051.0,5,tipo confiável
+1054.0,1,então Porque a gente está é muito querendo entrar nessa questão da confiança mesmo.
+1068.0,2,"E também não vai mudar muito, eles também vão ter essas dúvidas. No inglês permite permite gerar muito de dúvida. O importante é"
+1078.0,5,eu colocaria só em
+1081.0,2,"interpretação de inglês, não é o jeito que você escreve."
+1091.0,5,"a palavra Eu acho que sim, deixa eu ver. tudo Aí o final ali só trocaria por alguma outra coisa."
+1108.0,2,"Não a ponto é que não precisa, né? Pode ser ali técnico reports ponto né?"
+1115.0,1,[UNRESOLVED_ENTITY] dá para fazer isso.
+1117.0,5,É melhor se não ficamos encheção de linguiça.
+1120.0,1,enxuto encostas então
+1134.0,2,Ficou ótimo.
+1136.0,5,Nós cortamos curso de descarte e cursos de riscos em ambientais com logística eficiente compliance regulatório.
+1147.0,1,Tá bom. agora esse marketing para mim é um problema assim que
+1152.0,2,Vamos lá?
+1154.0,1,"Vamos lá, eu peguei os números aí do nosso som e passei aí para euro para ficar na linguajar deles. Só que assim pensando em [LOCATION_A] 2035 é um negócio que parece um valor não é tão alto pensando daqui a 10 anos."
+1172.0,5,"[UNRESOLVED_ENTITY] mercado de [UNRESOLVED_ENTITY] de 1.4 bilhões de euros mano, é mercado velho."
+1177.0,2,"Eu o que que seria então que ela vai se eu conheço ali, eu já vi como é que"
+1179.0,5,Se fosse um tan até vai lá mas é o [UNRESOLVED_ENTITY].
+1184.0,1,"É que a gente está pegando uma fatiazinha pequenininha também, né?"
+1192.0,5,[UNRESOLVED_ENTITY]
+1193.0,2,vai escreve lá ela. Ah no mundo
+1199.0,5,"É muito porque como a gente estava a gente conversou com mais Startup é uma semanas espanhola que faz esse trabalho de recondicionamento. É de interesse das marcas internacionalizar o serviço deles também, então assim começa a ser interessante também ter players fora do [LOCATION_A] para atuar"
+1212.0,2,Então eu colocaria aí tamo de alvo. Você tem uma estimativa?
+1215.0,5,com isso então.
+1223.0,1,Era 80 Bilhões de Dólares para Euro muda pouquinho coisa como é que
+1227.0,5,80 bitolas da 74
+1239.0,2,Ele tá separando em duas.
+1251.0,1,assim que eu
+1253.0,5,sem um Coloca o World. O ano ele tá reclamando World.
+1277.0,2,"Põe separado. Potencial revenil ele não ela não perguntou marchas não é receita, né?"
+1289.0,1,Não precisa pôr né?
+1291.0,2,Acho que não.
+1292.0,5,Não coloca o som.
+1293.0,2,Ou ela não tá pedindo né?
+1296.0,5,O outro que mandaram lá tinha isso aí.
+1300.0,1,Alguns tinham alguns não tinha o que que eu pego os que estavam lá para a gente dar uma olhada.
+1303.0,5,"Então, deixa os dois alguns tem alguns não tem."
+1307.0,2,Esse daí deixa em standy by aí potencial potência para ver se a gente.
+1307.0,5,Deixa os dois bota o som e deixa o potência.
+1317.0,2,"Põe em outro lugar ou não, põe então. A não ser que você crie uma Um separadinho né? [UNRESOLVED_ENTITY]"
+1329.0,5,É talvez você
+1332.0,2,"Mas eu não sei se é esse objetivo dela, sabe me dá impressão que o objetivo dela aqui é ver o potencial sabe fazer a decisão baseado nesse potencial. Não tanto no que vocês estão porque a meta que você que a gente faz sempre"
+1344.0,1,E é o número que não tá favoritando tanto a gente.
+1348.0,2,"é uma meta dá para a gente mudar, né?"
+1350.0,5,"Sim, é dá para colocar qualquer número aí."
+1353.0,2,"Colocar qualquer nome é isso, então, ela não é muito. Quase que não acrescenta, né se você conhece uma Startup se diz [UNRESOLVED_ENTITY] de receita dele, lembra aquela piada lá [UNRESOLVED_ENTITY] 48,1 vezes o papel que ela foi impressa, né? Nem vai favorecer, né? Porque no começo é difícil, né?"
+1376.0,1,Então vamos tirar.
+1377.0,2,Vamos tirar.
+1378.0,5,"Coloca o som, só eu colocaria tudo."
+1382.0,2,"Que daí dá para mostrar que vocês fizeram raciocínio direitinho, né?"
+1388.0,1,Era 700 milhões no [LOCATION_A].
+1390.0,5,de dólares
+1393.0,1,É assim eu coloco.
+1394.0,2,não 700 milhões em Qual região né?
+1401.0,5,é
+1403.0,2,[LOCATION_A] acho que funciona
+1405.0,5,650
+1427.0,5,Dá para colocar aquele
+1436.0,2,work done
+1438.0,1,20 20 35 Ou coloca tipo
+1450.0,2,"Só normalmente é curto prazo, né? Então, talvez para eles não seja necessário mais não sei também."
+1463.0,1,"Vamos deixar assim o que foi feito então, tá? Um protótipo e o ativo de um Marketplace para data coleção de dados e refinamento das fiatwords da plataforma."
+1478.0,2,Eu colocaria todos os segmentos que vocês olharam.
+1480.0,1,nós temos aí o feedback dos clientes que foi reunido por vários segmentos para
+1491.0,2,"Porque vocês conversaram vai dar volume, né? Porque veja vocês conversaram com Com quem com os cara que diz pós em com proprietários de veículos, né? Sei lá vocês tinham que por Vocês até falar com concessionária, né? daí internamente vocês falaram com O pessoal aí de vendas, né?"
+1519.0,5,Deixa eu abrir aqui o coisa tem o número de cada coisa aí você bota aí.
+1526.0,2,"Melhor ainda. Colocar o número ele vai dar sim alguns foram muito baixas. Mas foi falado, né?"
+1537.0,5,"cinco empresas diferentes Deixa eu ir pegando posso ir falando os números, você vai escrevendo tipo entidades."
+1546.0,1,Pode ser?
+1548.0,5,seis Indústrias
+1552.0,2,Indústria do quê?
+1554.0,5,montadora
+1555.0,2,Então fez muita [UNRESOLVED_ENTITY].
+1558.0,5,"É que em inglês ele aparece com a resposta montadoras, mas não faz sentido. Pode falar o próximo sete desmanches?"
+1566.0,2,Então tem que ser automobil [UNRESOLVED_ENTITY].
+1586.0,5,oficinas duas empresas de off Grid
+1593.0,1,certo
+1595.0,5,dois educadores e recicladores Ou colocar um de cada.
+1603.0,1,Como que a gente pode falar?
+1606.0,5,É do que? [UNRESOLVED_ENTITY]
+1613.0,2,O que serão educadores?
+1615.0,5,É tipo.
+1619.0,3,empresas que treinam alguma coisa assim
+1624.0,5,Pode ser education.
+1629.0,2,Mas o queijo jardim de infância.
+1629.0,3,Ah eu não sei se eu gosto.
+1636.0,5,Porque assim é uma basicamente a gente falou com o dono de uma rede de ensino de reparo e manutenção de bateria elétrica e bateria de veículo elétrico.
+1645.0,2,Então eu acho que agora ficou bonito. Numa rede. Uma rede né de reparos de baterias.
+1660.0,1,"Assim eu também considerei isso aqui embaixo no próximo tópico, né do feedback, mas eu coloquei as parcerias, né?"
+1666.0,2,Tá mas vamos
+1667.0,5,Mas pode deixar pode deixar aí. létrico
+1673.0,2,então Nós podia pôr assim a maior rede ainda pode ser?
+1692.0,3,Não sei se ele é maior.
+1694.0,2,Mas dificilmente vai existir duas redes.
+1698.0,3,é Ele acha que é.
+1721.0,2,[UNRESOLVED_ENTITY] porque é uma só né?
+1723.0,5,e o último são duas startups de
+1724.0,2,"Então, põe um na frente e depois. Não sei vocês, mas eu gostei dessa."
+1737.0,1,Mas são tem a [UNRESOLVED_ENTITY] tem.
+1745.0,5,peças e baterias
+1749.0,3,Que a gente falou não é ainda.
+1755.0,5,and partes
+1758.0,3,é
+1758.0,2,E tem aquela que a do filho do desmanncher também lá que é uma Startup não. Põe ela e também.
+1776.0,1,"Certo, como que você usou?"
+1800.0,1,"agora que suporte em parcerias parceria com área que vocacional botaria [UNRESOLVED_ENTITY] tá em cima, né?"
+1812.0,2,Ali nós temos que buscar.
+1821.0,1,Parcerias parceria com uma bateria companhia de manutenção de bateria de
+1827.0,2,Tem que tentar mais aí eu diria até os parceiros internos que vocês estão desenvolvendo. Aí talvez não cabe aqui também.
+1838.0,3,tipo a [PARTNER_B]
+1840.0,2,"É [PARTNER_B] a própria [PARTNER_A], né?"
+1842.0,3,"A própria É mas não pode ser mas não é certo, né? Mas"
+1847.0,5,"Não Ah, tá, você colocou suporte técnico. Mas tipo eu colocaria o produto"
+1849.0,2,Parcerias já estabelecidas.
+1850.0,3,É melhor.
+1863.0,1,treinamento de manutenção de baterias para ter uma cobertura [UNRESOLVED_ENTITY] aí de suporte técnico.
+1869.0,2,Aí você tem aquela parceria do relatório técnico também não.
+1875.0,1,"Eu já tô aqui atrás, né?"
+1879.0,3,"Sim, eu acho."
+1906.0,2,Tem tanta roupa?
+1940.0,2,e ao relatório técnico é o
+1958.0,5,disso no de baixo.
+1960.0,2,"É porque ela que vai dar o laudo, né? Não põe em relação."
+1962.0,5,Coloca tipo enorme de provas.
+1982.0,1,Tá ok então agora next step Coloquei então explorando incentivos e parcerias aí tá aqui a questão do que isso.
+2003.0,2,"O incentivo são esses Fundos incentivados, eu acho que esse tem que estar. Um item separado de parcerias, né?"
+2011.0,1,É porque no caso a gente estava considerando eu tinha pensado nesse aí considerando a [PARTNER_B] que tá puxando essas parcerias.
+2018.0,2,"É mas essa é a maneira que você vai adicionar o fundo incentivado. a parceria normalmente a gente olha mais que nem assim a [STARTUP_A] tava fazendo parceria com Duas empresas que já tem o carrinho de montar sabe? O carrinho com a bateria né? Então é uma parceria mesmo assim já para fazer o negócio funcionar, né? Eu [UNRESOLVED_ENTITY] separando né."
+2050.0,1,então
+2052.0,2,"Isso nós temos que explorar o incentivos aí tinha que encontrar historinha que tem muito dinheiro, né a fundo perdido e com custo baixo. Para desenvolvimento no [LOCATION_A], né? Porque porque só aí eu se fosse presidente da [PARTNER_A] [LOCATION_A] de ilha bem assim, deixa essa turma aí atrás dos [UNRESOLVED_ENTITY] incentivados, sabe como só aí já justifica uma pista de decolagem adicional para vocês. Ó, não temos dinheiro. Estamos em crise não tem como fazer mas deixa a turma estudando isso aí incentivado custo zero."
+2103.0,1,Como que eu escrevo isso Explorer?
+2109.0,2,"Tá bom, [PERSON_B] sabe mais que nós aí seu [PERSON_B]."
+2113.0,1,Então Explorer eu vou tirar isso. só assim
+2134.0,5,direto Coloca o nome de sair para não ficar vago colocar.
+2157.0,2,"Isso fica mais [PARTNER_F], né?"
+2161.0,5,"O que que é a gente não tá só jogando aí? Tava até para colocar os outros que o [UNRESOLVED_ENTITY] falou lá, mas o nosso mas coloca apnep [UNRESOLVED_ENTITY]."
+2174.0,1,A gente mantém a questão do interesse da [PARTNER_B].
+2178.0,5,É pé de pato pé de pato mudo no [UNRESOLVED_ENTITY]. E o [UNRESOLVED_ENTITY] e é com dois i no final. e isso
+2211.0,5,colocaria [PARTNER_B] em [UNRESOLVED_ENTITY] bota um e comercial
+2225.0,1,"Aí aqui não precisa entrar no detalhes do governo, né?"
+2232.0,2,"Já tá no primeiro, né?"
+2233.0,5,Já tá no primeiro?
+2241.0,1,"Assim, tá bom."
+2246.0,5,Coloca Build potencil parkinner.
+2268.0,5,caracterizado Para mim tá?
+2285.0,1,O quê expediente marketing alavancada aí na presença da marca e começar as primeiras transações.
+2296.0,2,"Marca é um que investe em marca é quem tem marca sabe? Aqui é mais investir para você trazer cliente mesmo, sabe? É Boost é tracking? Para você fazer a atração de clientes."
+2322.0,5,Tá bom pode deixar assim.
+2337.0,2,"Ou digital plataforma. Lá no começo, né?"
+2348.0,1,E mantém aqui as transações também. É que eu coloquei parcerias para fazer as soluções.
+2366.0,2,Para desenvolvendo a plataforma.
+2370.0,5,para soluções das Baterias
+2373.0,1,Tipo as baterias uso Residencial ou para usar em indústria?
+2374.0,5,"Estão pronto Quer colocar? A gente conversou com uma Startup que faz isso, né? A Bíblia não sei se a gente põe aí ou não."
+2396.0,1,Eu deixaria
+2398.0,2,Ela tá naquela lista do que vocês tenham feedback.
+2402.0,5,"É talvez eu colocaria no quarto, né? Aí você não precisa colocar lá de"
+2407.0,2,Não sei se vocês querem por ela na [UNRESOLVED_ENTITY] ali também.
+2426.0,5,baixo.
+2427.0,2,"O que faltou aqui é o desenvolvimento da plataforma em si, né?"
+2431.0,5,[UNRESOLVED_ENTITY] dele
+2451.0,5,Tá ok.
+2454.0,1,Esse aqui mantém desse jeito então.
+2454.0,5,talvez
+2463.0,1,E aí tira esse aqui?
+2474.0,5,"É que a gente tem um protótipo, né?"
+2478.0,2,Poderia pôr né?
+2480.0,5,"Então, talvez eu trocaria esse do Second Life do repor pose porque ele já está escrito em alguns lugares ali, a gente já colocou uma empresa. Eles vão olhar para ver que empresa é essa."
+2492.0,2,"ou talvez colocar isso no [UNRESOLVED_ENTITY] chip build potência [PARTNER_B] e tal e repor pose Lá no final. Isso pode ser que o [UNRESOLVED_ENTITY]. O que deve se dar um exemplo que é mais que isso tem que buscar mais parcerias, né? Se bem que é né próximos passos, né? Tá ótimo."
+2546.0,2,"Esse outro aí agora nós estamos com problema de espaço, né?"
+2549.0,1,sim
+2555.0,2,"E faltou dizer que vocês estão no radar aí desenvolver a plataforma, né assim. O protótipo tem que ir para frente, né. Não sei se poderia pôr ali ó margem desenvolvimento de plataforma numa linha. Só talvez."
+2575.0,1,pode ser eu acho que
+2577.0,2,"Ou dá para você dar uma diminuidinha de letra. Eu tava roubando, né?"
+2582.0,5,Talvez eu colocaria nesse quarto ponto ali eu colocaria tudo junto.
+2583.0,2,"isso É porque e ela tem que ser feito junto, né? Não adianta nada você desenvolver a plataforma se você não trouxer cliente. E para você trazer cliente, você tem que acertar plataforma. Quase que eu desenvolvo na plataforma é uma é um marketing aí também, né? Põe junto."
+2609.0,1,O título dá para resolver só como marketing porque já estava lá embaixo.
+2619.0,2,plataforma e marketing
+2633.0,5,dá para diminuir a fonte só não porque
+2644.0,1,É esse último é mais a longo prazo isso né?
+2649.0,2,"Daí daí não seria Boost seria vocês melhorarem, né? Porque vocês têm O protótipo, né? Em prova de protótipo e daí vocês dizem que você já tem né? E aí vocês dão aparece o protótipo desenvolvido, né? Se bem que isso [UNRESOLVED_ENTITY] por norte também. E por digital plataforma pode tirar também agora. É o seguinte esse outro aí não é tão importante viu no final. Mas assim você pensar assim, o que que é importante vocês três aí, né? agora você É mas pode deixar é um cuidado aí do pode deixar se couber senão eu acho que dá para você diminuir essa coluna primeira ali."
+2725.0,2,A coluna do lado esquerdo tem espaço para ir para baixo?
+2729.0,5,garoto
+2730.0,2,"E se você aumentar agora a outra. Vamos dar uma olhada [UNRESOLVED_ENTITY] agora vocês tem que mandar isso já né? Que vocês estão atrasados, né?"
+2746.0,1,mas
+2749.0,2,"Vocês estão usando o bule de bolinha e o bule de sinal de certo, né? E esse é então seria o [UNRESOLVED_ENTITY], né, então? quadradinho e daí não cabe alguma coisa ou"
+2774.0,1,"Já tá fora de padrão, né? Porque lá não tem essa Identificação do parágrafo. Deixa eu tirar assim e colocar só o quadradinho aqui. outra senha"
+2785.0,2,O quadradinho vai ficar mais bonitinho.
+2787.0,5,É o quadrado.
+2789.0,2,O quadradinho é aquele que você faz o market depois né?
+2794.0,5,Aquele quadrado vazio no meio dá um Ctrl.
+2799.0,1,É que eu não quero tá vendo que aqui não tô colocando o parágrafo.
+2804.0,2,"Ah pois, ele tá colocando uma imagem, né?"
+2806.0,1,Eu vou pegar só o símbolo aqui o quadradinho.
+2808.0,2,Com certeza
+2812.0,1,Vocês lembram. Como que é o quadradinho fácil?
+2814.0,5,"É que ele não vai estar no latim, eu acho."
+2817.0,1,"Eu já peguei várias vezes, só que"
+2819.0,2,Certeza tenho mas eu duro é esse.
+2822.0,1,rápido Talvez seja em outra. Eu vou fazer.
+2836.0,2,Deixa o tracinho por enquanto.
+2839.0,5,Dá para colocar ele deixa com parágrafo.
+2843.0,2,"É também é como tá no padrão dos outros, né?"
+2848.0,5,É tipo.
+2849.0,2,"O negrito ali que é o que chama atenção, né?"
+2853.0,1,É que todo.
+2854.0,5,"Ao invés de você deixar igual do lado esquerdo, você deixa do lado esquerdo igual do direito."
+2860.0,1,Deixar o lado esquerdo e lado direito.
+2862.0,5,Bota para cima também no velho proposi.
+2865.0,2,"Dá uma última dá uma última lida, aí vamos começa aí só para a gente ver se não passou nada e para a gente mandar logo, né?"
+2876.0,1,"Já tá no último aqui, né?"
+2879.0,5,português
+2882.0,2,é porque aqui talvez tinha que Por que
+2882.0,5,[STARTUP_B] Hand circular.
+2923.0,5,Mas ok vamos passando a gente vê se tem mais alguma outra coisa [UNRESOLVED_ENTITY].
+2954.0,5,[UNRESOLVED_ENTITY]
+2978.0,5,[UNRESOLVED_ENTITY]
+3004.0,5,next potencial steps faltam S ali No steps Explorer Explorer Explorer potência.
+3031.0,5,A única coisa para mim que tá um pouco redundante ainda é o primeiro do velho proposition sobre esposa. Então eu colocaria tipo sustentabilidade.
+3054.0,2,"Diminuir o custo né? porque É que tem dois aí, tá? Eu acho que é o redução de custos e tem o ambiental, né? Ambiental tá no último."
+3076.0,1,Eu gosto também. Aqui acho que seria só mudar o título Colocar assim. Pode ser?
+3089.0,2,É bem melhor.
+3091.0,5,desculpa
+3103.0,2,"Eu gostei bastante, viu?"
+3107.0,1,Vamos mandar e vamos ver se
+3112.0,2,"E ficou bonito, né? acho que dá para Ele [UNRESOLVED_ENTITY]."
+3152.0,5,Acho que é bom que ajudou e já vai falando das coisas que aconteceu ao mesmo
+3158.0,2,é Como que nós estamos de tempo que 40 temos 35 minutos?
+3161.0,1,Então aqui preparar o modelo da carta de intenção para avaliação da [PARTNER_B].
+3174.0,5,tempo.
+3184.0,1,"A Tainá fez. Precisa abrir alguma eixo disso, Tainá?"
+3188.0,3,"Não porque a gente teve a reunião com o [UNRESOLVED_ENTITY], né?"
+3191.0,1,"E por hora eles nem faz sentido, né?"
+3194.0,3,"Por orelha, acho que não faz sentido ter uma carta de intenção até ter o aval realmente da finep."
+3203.0,5,a gente pode até fazer mas
+3206.0,3,"Eu não vejo necessidade Nisso, porque como eu vou me comprometer uma coisa que"
+3207.0,5,tipo
+3211.0,3,nem né? Certo ainda?
+3217.0,1,"Aí aqui [UNRESOLVED_ENTITY] um contato Navegue para podermos tratar sobre segunda vida das Baterias, aí você comentou aqui que a parceria só uma ideia que não tem nada firmado, né?"
+3226.0,5,"É não isso aí foi só algo que foi ventilado por conta da [UNRESOLVED_ENTITY] lá ter falido, mas a [PARTNER_A] vai comprar Startup lá sabe lá Deus mas isso é tipo foi só um plano b que criaram. Mas pelo uma resistência ali do mercado [LOCATION_A] no sentido, tipo ó, vamos ter um plano b aí porque senão a gente ficar na mão de mais tarde. [UNRESOLVED_ENTITY], mas não tem nada afirmado nada nenhuma parceria fechada."
+3252.0,1,"É que verificar por estudos no escola ou no GPT com fontes existem alguns estudos porcentagem de cada segmento, aí eu encontrei um artigo que fala o tamanho por exemplo assim para aplicações residenciais, a gente tem um potencial de tantos milhões de implementações só não tem porcentagem porque eles não sei se eles mapeiam todas as possibilidades, né? mas Atualizar e fazer primeiro a impressão do leve plano completo para verificar se existem pendências [UNRESOLVED_ENTITY] no plano de marketing em outros tópicos."
+3295.0,2,Mas daí você viu as pendências que a pendência pode dar algumas enxus. Que a gente tava.
+3305.0,1,Então a gente tem outra coisa. [UNRESOLVED_ENTITY] a gente teve uma reunião na semana passada com o Arthur o fino. E uma coisa que ele puxou muito é que a gente tá com valores muito. Otimistas de necessidade de investimento falou que o certo era a gente tentar pedir mais grana porque aquela grana a gente tá pedindo. E se der tudo tudo certo. Aí ele deu a dica da gente considerar. Um crescimento um pouco mais lento para depois não ter problema também.
+3340.0,2,"E uma e um custo maior no desenvolvimento agora na próxima etapa, é isso?"
+3345.0,1,Isso porque ele falou que falou que agora no começo a maior parte do tempo que a gente vai acabar investindo vai ser assim em educação do mercado porque ele falou que tem muita gente que precisa da gente mas até eles descobrirem que precisa vai muito tempo.
+3359.0,2,"É verdade o [UNRESOLVED_ENTITY], né? Da onde que é?"
+3363.0,1,E aí
+3365.0,5,"Então mais tarde que faz alguma parada parecida com a peça Verde lá que a gente se separou, só que eles vieram antes eles fazem para veículos pesados."
+3374.0,2,Não iria na dele sabe tentaria fazer porque ele tem até a experiência de ter uma Startup e saber que não nunca vai na velocidade que eu quero o crescimento. E os custos sempre vão maiores do que o planejado.
+3391.0,5,É para a gente mostrou né? Então a gente faz a nova versão e
+3394.0,2,"Principalmente no começo, né?"
+3397.0,1,Outra coisa é?
+3399.0,2,"É que isso daí só tem que ver daí lá no longo prazo você jogar esse ponto de equilíbrio estava jogando ponto de equilíbrio muito cedo, né? Quantos meses?"
+3410.0,1,"Sim tava no meio de no meio de 26, se eu não me engano eu não lembro como que tava."
+3415.0,2,"Eu diria assim, isso pode ocorrer mas olha [UNRESOLVED_ENTITY], lembra que o brinquedo da [UNRESOLVED_ENTITY] que quando deu o ponto de equilíbrio o cara pediu desculpa porque ele tinha ter gasto mais em desenvolvimento em aquisições, né? A Startup ela é mais investe, é por isso que ela precisa de dinheiro, né? Então eu acho que põe um ponto de equilíbrio mais longo então segundo essa reflexão no mínimo quatro a cinco anos, tá? no quarto no quinto ano põe no quinto ano ponto de equilíbrio"
+3448.0,1,"Tá certo então, eu tinha feito aqui, lembra que a gente passou o plano?"
+3452.0,2,"Até lá até lá você tem que investir bastante na plataforma e adquirir cliente, né gastar ou tem até uma aquela plataforma do work, né? O work de fazer filme que a gente até disse para vocês lerem. Ele ele não considerava as despesas de Marte no ebídio da dele, sabe porque ele dizia pô, mas eu tô gastando em Marte, mas é um investimento que eu vou fazer não é despesa sabe? Eu tô investindo para criar minha base de clientes, né? Daí ele virou até piadinha, né? Que ele que ele disse que o ebidida dele ele tirava tudo que era possível do impedido."
+3497.0,2,"Exagerou, né na dose né? Mas ele tem uma certa razão, né? Se você colocar toda a tua despesa de [UNRESOLVED_ENTITY] ali ou impedida, tem que ir lá para frente. O ponto de equilíbrio tem que ir lá para frente, então faz essa mudança e daí vê o que que dá né?"
+3516.0,1,"Então, eu fiz as mudanças baseado naquilo que a gente conversou na última reunião. Lembra que eu fui listando alguns tópicos e ele deu um pouco um atrasada, mas ele ainda tá otimista mesmo ainda jogando os valores aqui. o balanço aqui o ponto de equilíbrio fica aí para fevereiro de 28"
+3539.0,2,"Estão em 25, né? Nós estamos colocando 26 aí, né? Eu acho que dá para por 29 30."
+3548.0,1,"E espera aí, espera aí observação também. Eu mudei porque a gente tava fazendo aquele esquema de começo em outubro e eu comecei agora em Janeiro de 25, porque a gente tinha o nosso plano não era trabalhar com o mês certo, mas um mês dois. É que lá não achei uma opção de deixar mais um mês dois então eu tô"
+3566.0,2,"Mas aí não tem problema, mas vamos pensar assim mesmo. Que seja estamos"
+3566.0,1,dizendo que seria no segundo mês do quarto ano. Que chegaram.
+3579.0,2,"começando agora, pode ser né? Estamos começando ainda no segundo semestre. Eu faria o raciocínio de o ponto de equilíbrio no quarto ou quinto ano. Que daí vai de acordo com essa dica do cara, né?"
+3594.0,1,isso
+3594.0,2,"E não vai prejudicar porque alguém que tem [UNRESOLVED_ENTITY] em quatro cinco anos Startup é ótimo, sabe agora é lógico que o ideal lembra aquela piadinha do cara de [UNRESOLVED_ENTITY] sou demais diz assim, quando você chega no quinto ano, eles Olha eu não disse que eu ia ter o ponto de equilíbrio agora você pode começar a tirar o dinheiro, mas antes de tirar é o seguinte. Eu preciso de mais 10 milhões aqui para melhorar a solução."
+3619.0,2,"Dá um aumento para turma, né? Deixa o cara tirar dinheiro de novo, então, você vai aumentar o investimento porque você não agora eu quero ir para [LOCATION_F], né? Porque sempre você vai estar. Você tá no ponto de equilíbrio da operação no [LOCATION_A], né? Mas na hora que você antes disso, você já tá gastando para ir para a [LOCATION_F], por exemplo ou para ir para [UNRESOLVED_ENTITY]? Para ir para [UNRESOLVED_ENTITY], mas daí é um outro um outro plano de investimento, né? Então acho que vamos fazer isso deixa [LOCATION_A] [UNRESOLVED_ENTITY] 5 anos."
+3653.0,1,"Sim, então, eu vou mexer mais um pouco porque já deixei um pouco mais"
+3653.0,2,"Ótimo e puxa ponto de equilíbrio de um circularidade eu diria que é otimista ainda, viu? Se você for falar com eles ainda é bastante otimista. circularidade com ponto de equilíbrio em cinco anos"
+3677.0,1,"pessimista, mas ainda tá bom, né? E aí eu fiz aqueles ajustes por exemplo de dividir."
+3685.0,2,"Estava discutindo aqui era assim, o que que tá faltando desenvolvendo o plano de plano tipo o plano de marcha, né?"
+3694.0,1,"Então tá aqui a impressão tá aqui é uma coisa a gente pode entrar depois no ids, né? Não seria o caso de olhar agora, né?"
+3702.0,2,Não tá mas fica pendência. Aí nós temos que olhar o que tem que melhorar
+3704.0,1,Fazer a primeira impressão para verificar fizemos a primeira impressão falta
+3706.0,2,"mais nesse texto aí, né?"
+3713.0,1,verificar.
+3714.0,2,"Então tá bom, daí, mande para mim daí eu tento também olhar como é que tá."
+3720.0,1,"agendar devolutiva com o lindinei aí esse aqui é também a gente não tinha feito ainda porque tava pendente essa questão, né do A gente vai abrir mais uma agora certo?"
+3734.0,3,"sim, eu falei com ele no teens a gente pode dar uma devolutiva para ele para mostrar o Os nossos cursos enfim e aí ele falou que pode que a imagem dele tá apertada, mas para marcar um horário na agenda dele, ele vai dar um jeito. Bom essa semana ainda dá uma olhada lá, mas vai ser nos horário meio-dia."
+3758.0,2,"Marca aí para o começo da semana que vem. E aí se você marcar né, aí a gente tem que se esforçar para entender, né? Eu gosto. [UNRESOLVED_ENTITY] disponível na segunda na terça então tá bom então agora nós temos que todo mundo olhar o [UNRESOLVED_ENTITY] ver o que mais que a gente tinha que escrever ali, né? E vocês tem que olhar esse Live TAM e dá um jeito de colocar tudo que vocês aprenderam lá dentro, sabe? Eles tem que dar um jeito de transformar aquele."
+3796.0,2,"Aquela coisa que talvez seja pequenininha, mas que fique [UNRESOLVED_ENTITY] nós temos que ser criativo. Então já tá marcado então agora tem uma Exu que é. Que é essa do Live plana para uma versão do Live plan para mostrar para ninguém?"
+3825.0,3,isso
+3831.0,2,"É só não acabar com ela, né? 145 né tudo 119. Deixa ela deixa ela viva, né? Não risca. Não aproveita 145 não. Tudo bem."
+3855.0,1,Me tira daqui
+3857.0,2,"É porque veja aqui, olha atualizar e fazer a primeira versão para imposição e enviar para o [UNRESOLVED_ENTITY] e enviar no começo da semana. Tá certo Não deixe tudo como estava. ao complemento com lá no final e apresentar para porque daí já faz um teste, né do Live plan, né com alguém que Que é do mercado e tal puxa Super Bom. E deixa para concluir ela semana que vem."
+3898.0,2,"e eu enviar para mim aí, você tem que Mas é para mim e para vocês, né?"
+3902.0,1,Tem que enviar.
+3910.0,2,"Isso é agora que nem a gente fez agora cada um vai dando um chute e vai melhorando, né?"
+3919.0,1,reunião com [UNRESOLVED_ENTITY]
+3922.0,5,Seguinte na terça-feira que vem nós estaremos na [PARTNER_A] certo?
+3926.0,1,isso
+3927.0,5,Então porque ele não tem horário nenhum essa semana e a secretária dele pediu se pode ser na terça-feira 3:30 não amanhã a outra.
+3937.0,1,Pode né?
+3937.0,3,[UNRESOLVED_ENTITY]
+3938.0,5,"é Até pedir para ela, se pudesse ser na segunda ou na terça que na sexta a gente tem apresentação dos [UNRESOLVED_ENTITY], né? Então eu falei que queria falar que a gente queria falar com ele antes disso."
+3948.0,2,"Então tá agendado, né? Agora tem que preparar alguma coisa."
+3949.0,5,"Então, pode ser, né? A gente já tem um pit preparado, né? Tanto completo com todo o elevator [UNRESOLVED_ENTITY] a gente vai com ele vão ser 30 minutinhos."
+3961.0,3,Olha aí para mim agenda do lindinei. Me fala uma data porque o meu tá com aquele problema que eu não consigo ver agenda dos outros eu tenho que ligar no
+3968.0,5,"Olha, deixa eu responder."
+3968.0,3,top 10.
+3975.0,1,Enquanto isso eu vou passando aqui viu? Fazer uma última rodada de [PARTNER_E] [UNRESOLVED_ENTITY]
+3977.0,2,Vai fazer eu acho que eu acho eu achava importante porque daí vocês têm os
+3980.0,1,com a parte maior. A isso aqui a gente nem Fechou aquela outra rodada ainda então tá?
+3985.0,3,É Isso Aí nem vai fazer né na verdade.
+3988.0,5,É assim a gente né? Tava quando eu fui dar uma olhada em como é que tava a
+3992.0,2,"indicadores subindo pelo menos número de gente consultando número de gente se cadastrando sabe de um lado e do outro, né?"
+4005.0,5,"questão lá, eu fui dar uma olhada no investimento e ainda tem um Budget bem considerável lá para investir ele ainda não terminou essa campanha e como essa campanha acaba basicamente no dia do Pit. Colocar mais dinheiro agora porque ele tem uma você, coloca o quanto você quer gastar por dia, mas ele é ele tem a inteligência artificial lá que vê os dias que são melhores para investir mais ou menos dinheiro, então assim mesmo que você coloque aí, eu quero que você dá 100 reais hoje, se ele ver que hoje não é um bom dia, ele vai deixar para gastar em outros dias um valor mais próximo então ainda tem bastante budge lá então assim e os números continuam crescendo, né? Então a gente já tá mais de 2.500."
+4049.0,2,"Não, mas por exemplo, se você dobrar por dia lá ele vai atingir mais gente."
+4054.0,5,Que eu posso fazer dobrar por dia e ver o que acontece lá acompanhar ao longo
+4057.0,2,isso
+4060.0,5,dos próximos dias e se a gente vê que ele vai esgotando o Budget mais rápido a gente coloca para completar até o final do programa.
+4067.0,2,"É porque é mais assim, olha quase que aquela piadinha das métricas de sucesso, né? Se você disser que você teve um monte de consulta mesmo, que seja meia boca, mas você não vai dizer que foi meia boca, né? Você vai dizer o número, né?"
+4082.0,1,sim
+4083.0,2,E para a gente aumentar o número de visitas etc a única estratégia que a gente pode fazer de curto prazo é essa?
+4091.0,5,Tá eu vou aumentar então vou dobrar o budge por dia ver como se comporta. E aí se precisar até o final do programa. A gente coloca.
+4099.0,2,"Se você tiver essa inteligência artificial que vê que também não tá precisando ótimo, mas pelo menos você deixou ela livre para tentar ir um pouco mais forte, né?"
+4109.0,5,Não beleza faço agora já não precisa nem abrir a isso.
+4113.0,1,"Vou deixar dar sim, só não vou ficar e depois você vai lá e fecha."
+4119.0,2,Se você fizer agora risca.
+4119.0,1,É coisa.
+4120.0,5,É bom abrir.
+4123.0,2,então
+4127.0,1,Tá feito elaborar o primeiro esboço do pente final.
+4132.0,2,"É uma coisinha daí é que nós não estamos passando no score [UNRESOLVED_ENTITY] hoje por causa do tempo da reunião, né? Que nós estamos priorizando que é mais importante, mas atualiza o [UNRESOLVED_ENTITY] lá semana o que que tá acontecendo com esses números, sabe? Porque tem que estar o bacana é você chegar lá no dia do Pit mostrar em um scorecar das últimas 12 semanas ele subindo sabe? E chegando no número bem grande se fosse que a médica de sucesso, né? E fazer um gráfico, né? Começamos tinha dois na semana três hoje já tão 50 60 É algumas métricas dá para você dizer bem assim a métrica que eu tô dizendo assim é a métrica de gente querendo anunciar que é um dos lados, né? E a médica de gente procurando bateria."
+4213.0,1,potenciais consumidores e fornecedores
+4217.0,5,Uma uma pergunta adora a gente montou o pit e a gente trouxe várias dessas informações a gente pode até abrir um deles aí para compartilhar em relação a gente resumiu. Um pouco a questão do Apps em termos de tanto de produtos quanto de visualizações vocês você acha que tipo sei lá pensando num cenário de [UNRESOLVED_ENTITY] assim é interessante para o investidor ver mais detalhes sobre isso ou só superficial é suficiente.
+4248.0,2,"A minha impressão ou superficial é suficiente para o pit que vocês vão fazer porque o pit sempre é curto, né? Mas lembra que isso pode gerar uma segunda conversa, né?"
+4261.0,5,Seria legal fazer uns slides adicionais com essas informações.
+4264.0,2,"Mas aí você tem mais tempo, né? Na segunda tem mais tempo, você pode mas"
+4267.0,5,tá
+4270.0,2,"assim agora vocês têm que se concentrar aqui, olha fazer um pit mais legal que tem com métricas de sucesso mais ou menos é o que a gente conseguiu, mas olha deu um monte de tração disso e tal tal daí sabe mas eles ele se converteram um cliente não eu não falei eu falei a médica verdadeira tava bastante gente procurando a conversão é uma coisa que nós temos que deixar para o próximo passo agora, né? E também tem que estar o cuidado não pode ser alguma coisa que se invente né? Senão o cara vai dizer então me mostra esses resultados lá no [PARTNER_E] ADS que eu quero ver. Ah Não, inventei o número não pode né."
+4312.0,2,"Tem que ser assim é aquele de antecipa a verdade, mas sempre com o número e o número tem que ser rastreável comprovado, né? Mas para pit agora o que que nós precisamos médicas de tração. A gente já viu que nós não vamos conseguir fazer a conexão, né? Não vai então, vamos estourar dos dois lados lá dizer que tem bastante gente procurando."
+4338.0,5,"Tá Adiciona uma atitude para mim, então judia adicionar uns slides não atende sei lá com esses dados dos Apps. Se alguém perguntar a gente tem"
+4348.0,2,"Pelo menos assim, ó número de gente que procurou que é o primeiro, né? O primeiro passo agora desse dia que converter eles tinham que ter entrado em"
+4352.0,5,sim
+4356.0,2,"contato, não deu ainda mas eu vou melhorar né? Vou melhorar a solução, vou melhorar tudo, né?"
+4363.0,5,[PARTNER_E]
+4372.0,2,"E lembra aquele negócio aqui, qual que é a métrica de tração 200 300 mil um milhão, né? É muito variável isso né? Segundo o Gabriel o [UNRESOLVED_ENTITY] lá que a gente usa como referência do traction. Ele diz o seguinte, mas ninguém consegue contestar uma atração consistente. Então mesmo que seja pequena, né? Eram dois foi para quatro foi para oito foi para 20. Ah, mas é tão pequenininho, né? [UNRESOLVED_ENTITY] tá consistente, né? Se você mostrar isso 12 semanas."
+4409.0,2,ele
+4410.0,5,Vai subindo vai acontecendo.
+4412.0,2,"E sempre subindo sempre você tem uma atração consistente então atração, eu não sei qual é o número absoluto ideal, mas eu vou naquela nessa dica procura ter nesse gráfico demonstrar tração consistente."
+4430.0,5,beleza [UNRESOLVED_ENTITY] passar para os demais acho que na como a próxima a gente tem mais duas
+4436.0,1,ok os três filhos
+4446.0,5,né? Acho que na próxima [UNRESOLVED_ENTITY] da segunda-feira a gente pode passar o pit inteira.
+4454.0,2,certo
+4455.0,5,"Então, né? Porque em 15 minutos não vai dar para passar por isso. Tá mas tá feito aí tem tanto tem dois né? Que a gente conversou na sexta-feira tem o pit para os Dangers tá em inglês um kit pros [UNRESOLVED_ENTITY] em português e tem um elevator pit dos dois que é menorzinho mais conciso. A gente tá usando nessas reuniões aí nessas conversas."
+4479.0,1,"Boa eu tentei um contato lá da [UNRESOLVED_ENTITY] energia falei com a galera toda de lá conheço todo mundo já só não tive respostas ninguém quis [UNRESOLVED_ENTITY] reunião, mas conseguiu um e-mail do cara que cuida dessa parte do Smart Grid. Então vou entrar em contato com ele que eu vou aproveitar aqui. Vou fazer a mesma coisa entrar em contato com [UNRESOLVED_ENTITY] aí eu vou ficar só isso aqui vou deixar em aberto."
+4514.0,1,"Entrar em contato com o [UNRESOLVED_ENTITY] que forneceu baterias eu fiz a visita lá com ele, tivemos aí bastante conversas e aprendizados. Eu não consegui fazer a fichas que vou fazer o mesmo esquema também. Vou fazer que vou. Eu vou fechar esse aqui. E vou abrir um item aqui para fechar."
+4539.0,5,ele tem um horário na
+4545.0,3,"Meu ele falou. Olha aí minha agenda e um dia que mesmo que for tarde for muito cedo, ele consegue dar um jeito. É que eu não consigo ver os horários dele aqui."
+4563.0,5,Ele consegue falar quinta-feira 4 horas. Ele tem espaço na agenda dele que essa semana ainda né?
+4573.0,3,Eu acho bom.
+4574.0,5,Quinta 4 horas pode ser amanhã às 4 horas?
+4581.0,3,Ah pode ser amanhã então gente mais perto.
+4582.0,5,A gente não tem nada à tarde de reunião.
+4587.0,3,"Tem de manhã, né?"
+4588.0,5,Tem de manhã?
+4590.0,3,Ah eu acho uma boa
+4591.0,5,"Não é borracha, então assim tenta marcar amanhã às 4 horas."
+4596.0,3,Você quer agendar?
+4600.0,5,Você não consegue nem mandar o nome dele.
+4602.0,3,"um link Porque o meu não tá gerando o link, entendeu?"
+4609.0,5,Ah do time você disse que o link só te mandar quando você colar aí não sei se ele vai funcionar eu marco aqui então.
+4616.0,3,Eu vou ligar no helps. Depois dessa reunião porque não dá para ficar assim
+4617.0,5,"Não é fácil, né? A gente vai bater cabeça."
+4620.0,3,não.
+4623.0,5,isso
+4625.0,1,E o último eu quero fazer essa ficha que a gente fez.
+4627.0,3,"É ele aqui amanhã às 4:00, né?"
+4638.0,1,Esse aqui é o que a gente fez agora pouco. Que mais a gente aqui já são as novas.
+4648.0,2,Não é legal.
+4649.0,1,A gente tem.
+4653.0,2,"Foi enorme, né?"
+4656.0,5,Essa semana a gente já conseguiu arrepiar tudo.
+4659.0,2,"É muito bom então, agora nós temos aqui. 11 minutos, né? 6. Se for para a gente discutir mais alguma questão aí, o que que vocês? Quer dar uma olhada nas exu para ver se vocês têm alguma lá que seria bom a gente conversar."
+4677.0,5,Talvez para definir algumas aí para
+4681.0,3,É melhor.
+4681.0,5,"essa semana A gente precisa também passar nessas lixas, aí depois com calma abre uma tio. [UNRESOLVED_ENTITY], a gente dá uma revisada nessa."
+4692.0,1,"A gente faz essa semana passada, né?"
+4694.0,3,eu acho bom a gente abrir as too dos
+4696.0,5,"Três não pô, olha quantos tem aí ainda? A gente não chegou até o final."
+4707.0,1,Vamos ver o que vamos dar uma passada abertas aqui para ver o que faz sentido apresentar em Live para o trator faz sentido abrir mais alguma.
+4715.0,5,Não.
+4716.0,3,Técnico vamos supor que quando a gente tiver apresentando para o hard ou para o
+4717.0,1,"Já tem bastante, né? então"
+4722.0,5,[UNRESOLVED_ENTITY] mais.
+4723.0,2,"Só dá uma olhadinha, nós temos pouco tempo se tem alguma que a gente podia aproveitar e dar uma discutida nesses 5 minutos finais aí né? Ou também se vocês lembrarem quando tá lendo se lembrar de mais um a gente anota aí né? Lembra que depois prioriza, né?"
+4763.0,3,"pessoal eles perguntam como que vai ser isso, né? A gente vai dizer que vai ser o lado vai ser feito antes ou depois a gente não deixou definido. Ou vai ser tipo cliente mesmo que vai só só através de solicitação do cliente."
+4780.0,2,"Sabe eu gosto de uma vez que eu aprendi na cruz americano aqui. Deixa o cliente decidir. Sabe da gente decidir pelo cliente porque veja assim, eu vou comprar uma bateria. Daí eu sei que tem um laudo técnico, né? Daí eu digo só compro bateria que tem lá o do técnico. Né? Aí você paga não eu não pago não. O cara que tem que pagar o laudo técnico, né? Então acho que deixa isso meio o mercado e decidindo, né? Uma bateria que o cara já anuncia com laudo técnico é melhor? [UNRESOLVED_ENTITY] mais uma bateria que o cara diz olha eu tô vendendo por tanto e se precisar eu faço um laudo técnico."
+4826.0,2,"Ele pode vender por mais né? E o comprador pode dizer do mesmo jeito tô fazendo paralela com a situação do carro, né? Eu vou comprar um carro usado. Você pode dizer eu só compro o carro com laudo técnico e você paga eu não exemplo problema e deixa o mercado agora se eu tô gostando do carro dele, pode ser até que eu digo p*** em vez de eu Chorar no preço, né? Eu pago lá do técnico, então, não sei é uma desse jeito de pensar. Eu acho que talvez é um falso problema, né? É só dizer que O laudo técnico é um instrumento que dá mais credibilidade que vai estar lá, vocês vão estar dizendo, né? O cara vai anunciar uma bateria. Vocês vão sugerindo para ele, né? Faça um laudo técnico, né? Agora se ele não quiser fazer."
+4876.0,2,"Também vocês anunciam, né? Sabe como então achar resposta seria mais ou menos assim não a gente vai estar lá na nossa curadoria, a gente vai dizer que tem lá o do técnico. Mas cabe a cada um decidir, né? E quanto ao preço porque ali você como precificar, né? Para mim o precificar se vocês são vocês são plataforma. Quem precifica é o dono do serviço, né? É o dono da bateria é o dono do serviço, né?"
+4910.0,1,sim
+4913.0,2,"E se ele pedir 20 mil reais não vai fazer nenhum né. Ele vai ter que baixar o preço, então o preço quem vai fazer é a plataforma, né? Que é oferta e demanda? Que que vocês acham querem?"
+4934.0,1,eu
+4934.0,3,Já falamos com o [UNRESOLVED_ENTITY].
+4937.0,1,É uma boa resposta.
+4939.0,2,Mas daí vocês querem escrever isso em algum lugar ou não? Precisa agora?
+4943.0,5,Não.
+4945.0,2,Se não né?
+4946.0,5,Acho que não a gente já tinha já sabia que isso é uma coisa que o mercado ia
+4948.0,1,Não precisa.
+4950.0,5,precificar.
+4954.0,2,"Seu cara tá pedindo muito não vai dar e veja em alguns casos tem que pedir muito mesmo, né? A bateria o cara tem que pegar um avião para ir lá e mais um navio mais barco e tem que ainda. Tirar o mato da frente ainda então ele vai custar bem mais caro, né para fazer um laudo técnico. Então risca ela. mais alguma"
+4988.0,5,"Tem algumas que dá para fechar aí, mas desce um pouquinho, depois a gente fecha."
+4992.0,2,"É mais assim, veja um minuto também não vai fazer mais."
+4997.0,5,Alguma muito importante que a gente deixa passar.
+5000.0,2,é
+5002.0,5,"A gente já colocar de falar com a Sandra leite. Mas era o negócio da [PARTNER_B], só que por hora já meio que já fizemos. Tá pode aumentar."
+5014.0,2,Pode tirar fora então.
+5021.0,1,"É uma apresentação completa, só que passado de uma maneira otimizada, né?"
+5030.0,5,"É eu acho que vai ficar muito a questão do das apresentações, né? A gente quer fazer alguma coisa de última hora para o [UNRESOLVED_ENTITY] amanhã não."
+5039.0,3,Vai apresentou vai apresentar o mais curto para o hard ou o outro.
+5043.0,5,Tem 30 minutos ou uma hora?
+5046.0,3,uma hora
+5047.0,5,"Então dá para apresentar o outro, cara, dá para falar o grande."
+5050.0,3,"É que eu acho assim, quanto mais tempo a gente tiver ouvindo dele melhor, né? Mas pode ser."
+5055.0,5,não eu penso mais porque Quanto mais ele souber.
+5058.0,3,uma estruturada
+5064.0,5,Porque tipo se ele já conseguir ver todo o trabalho ele já vai conseguir dar feedback em todo o trabalho a gente pode ser pode ser mais rápido assim sabe a gente não precisa ficar passando. Demorando muito tempo tipo.
+5080.0,2,"Com ele, né? Você pode passar o slide. O slide mais rápido sabe só se concentrar assim fazer uma Só Manchete e deixa ele ler porque ele é rápido, né? Provavelmente né? Então, talvez dê para fazer o mais longo, mas com o cuidado de escolher a manchete certa para falar do slide e daí passar para outra. Daí, se ele tiver dúvida ele vai pedir para voltar ou vai entender né? De uma maneira bem firme, né?"
+5114.0,1,Ele vem que horas?
+5119.0,5,"E é só agora hoje à tarde, né? A gente vai ter uma reunião aqui presencial com recondicionador lá do [UNRESOLVED_ENTITY] que ele tá fazendo uma parceria com esse cara com outro negócio que ele tem lá que vai conversar com ele aqui no dono também. É esse já até tava a gente já conversa com ele desde muito tempo."
+5137.0,2,"E é mais um mais um preciso colocar naquela lista lá, né? Então tá."
+5146.0,3,Ajudar você não considerado ali.
+5147.0,5,E tá eu coloquei a gente vamos ver se ele se nessa conversa surge alguma coisa de ele se interessar em ser parceiro também aí aumenta aquele número lá de parceiro.
+5159.0,2,"Pessoal, encerramos então, né? Como é que foi a nota da reunião?"
+5166.0,3,"Não nota 10, eu acho que foi muito bom, principalmente porque a gente conseguiu"
+5168.0,5,"Eu vou dar 10. Acho que a gente conseguiu, apesar de ter tido bastante trabalho a semana que vem todo mundo Conseguiu fazer tudo a gente tem. Alguns Alguns trabalhos adicionais que a gente precisa fazer mas acho que a semana passada era semana principal assim da gente estruturar apresentação estrutural que vai falar estruturar algum page ou seja tudo que a gente precisa entregar seja agora ou seja daqui duas semanas e meia a gente se estruturou na semana passada e acho que agora é trabalhar nessa em como contar essa verdade um jeito mais bonito."
+5201.0,1,"Perfeito, vou mandar aqui e a gente tem reunião agora com o né?"
+5202.0,2,legal e a Tainá
+5208.0,3,fazer aquilo em conjunto rever né? O ontem da linda.
+5214.0,2,"Ficou bonito, viu?"
+5215.0,3,Ficou muito bom.
+5217.0,2,"Depois mande para mim porque eu queria ter exemplo, esse exemplo aí é excelente."
+5231.0,1,Eu vou fazer eu vou fazer essa reunião aqui de casa e depois vou direto para o
+5232.0,3,uma e meia
+5235.0,1,"dono, pode ser? Vai ficar corrido para almoçar agora e depois."
+5240.0,5,"Vai ficar corrido também, mas beleza."
+5242.0,3,melhor
+5247.0,1,Não vai dar certo.
+5250.0,5,não eu já
+5253.0,2,abandonar
+5258.0,5,Esses cara não vai embora daqui também são 24 horas por dia na sala.
+5263.0,2,Então nessa nessa vibe de vocês aí a loucura final.
+5269.0,1,Tá certo gente.
+5272.0,2,Boa semana por todo mundo aí?
+5274.0,5,Boa semana para nós.

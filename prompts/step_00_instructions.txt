@@ -1,0 +1,80 @@
+TASK 3 — Implement STEP 0: Anonymization
+Folder: analysis/00_anonymization/
+Purpose: Remove all personally identifiable and organizationally identifiable information from raw transcripts before any data is committed or passed to the LLM pipeline.
+Input: raw transcript CSVs from data/raw/startup/
+Each file has columns: [onset_seconds, speaker_id, text]
+
+onset_seconds: float or integer, turn start time in seconds
+speaker_id: original speaker label (may contain names or role identifiers)
+text: spoken content in Portuguese (occasionally English)
+
+This step produces two outputs per meeting:
+Output A — anonymized time series (used in Steps 1–4, 10)
+Path: data/anonymized/startup/{meeting_id}_lsh_input.csv
+Columns: [onset_seconds, speaker_id]
+Text column is dropped entirely. Speaker IDs replaced with integers.
+Output B — redacted transcript (used in Steps 5, 9)
+Path: data/anonymized/startup/{meeting_id}_transcript.csv
+Columns: [onset_seconds, speaker_id, text]
+Speaker IDs replaced with integers. Text content redacted as described below.
+Mapping files (excluded from git):
+data/anonymized/startup/{meeting_id}_speaker_map.csv — original → anonymous speaker IDs
+data/anonymized/startup/{meeting_id}_entity_map.csv — confirmation of entity replacements applied
+
+Anonymization rules — applied in this exact order:
+Rule 1 — Speaker ID anonymization
+Replace original speaker_id values with integers (1, 2, 3...) assigned in order of first appearance within each meeting. The same person may receive different integer IDs across meetings — this is intentional to prevent cross-meeting identification. Save mapping to {meeting_id}_speaker_map.csv. Apply to both Output A and Output B.
+Rule 2 — Entity list replacement (deterministic)
+The researcher maintains data/raw/entity_list.csv with columns [original, replacement, type]. Load this file and apply case-insensitive exact string replacement to all text. Use the following replacement token conventions:
+Type                  Token format
+─────────────────────────────────────────────
+Startup name          [STARTUP_A], [STARTUP_B]
+Client company        [CLIENT_A], [CLIENT_B]
+Partner / supplier    [PARTNER_A], [PARTNER_B]
+Investor / VC         [INVESTOR_A], [INVESTOR_B]
+Department / team     [DEPT_A], [DEPT_B]
+Product / service     [PRODUCT_A], [PRODUCT_B]
+Person (external)     [PERSON_A], [PERSON_B]
+Location (sensitive)  [LOCATION_A], [LOCATION_B]
+Tokens must be consistent across all meetings: the same entity always maps to the same token. The entity_list.csv file itself stores this mapping.
+Example entity_list.csv:
+csvoriginal,replacement,type
+UltraCharge,[STARTUP_A],startup
+E-life,[STARTUP_B],startup
+João Silva,[PERSON_A],person
+Volvo,[PARTNER_A],partner
+Marketing,[DEPT_A],department
+Rule 3 — NER fallback (probabilistic)
+After Rule 2, run spaCy NER on the remaining text. Detect language per file using langdetect. Use pt_core_news_lg for Portuguese and en_core_web_lg for English. Flag any entity detected with label PER, ORG, or LOC that was not already replaced by Rule 2. Replace with [UNRESOLVED_ENTITY].
+Rule 4 — Researcher review loop
+Generate data/anonymized/startup/review_flagged.csv with columns [meeting_id, onset_seconds, entity_text, context] where context is the surrounding text (±15 words). The researcher reviews this file, assigns proper tokens, and adds them to entity_list.csv. Re-run Step 0 until zero [UNRESOLVED_ENTITY] tokens remain in any output file. The script must print a count of remaining unresolved entities at the end of each run.
+
+Script: analysis/00_anonymization/main.py
+python# ── PARAMETERS ────────────────────────────────────────────────
+RAW_DIR        = "data/raw/startup"
+ENTITY_LIST    = "data/raw/entity_list.csv"
+ANON_DIR       = "data/anonymized/startup"
+SPACY_MODEL_PT = "pt_core_news_lg"
+SPACY_MODEL_EN = "en_core_web_lg"
+# ──────────────────────────────────────────────────────────────
+
+# Pipeline per meeting file:
+# 1. Load entity list
+# 2. Detect language
+# 3. Apply Rule 1 (speaker anonymization) → produces Output A
+# 4. Apply Rule 2 (entity list) to text
+# 5. Apply Rule 3 (NER fallback) to text
+# 6. Save Output B (redacted transcript)
+# 7. Save speaker map and entity map
+# 8. Collect all [UNRESOLVED_ENTITY] hits → review_flagged.csv
+# 9. Print summary report
+analysis/00_anonymization/README.md must document:
+
+Input format and expected columns
+Description of each anonymization rule
+How to update entity_list.csv and re-run
+Number of meetings processed (filled after first run)
+Total entity replacements by type (filled after first run)
+Warning: map files and data/raw/ are excluded from version control
+
+

@@ -1,0 +1,508 @@
+onset_seconds,speaker_id,text
+0.0,1,Bom dia
+1.0,2,Bom dia tudo bem?
+3.0,1,Tainá já tá entrando [UNRESOLVED_ENTITY] dia
+12.0,3,Bom dia tudo bem?
+13.0,1,Tudo ótimo e você?
+15.0,3,Tudo certo.
+40.0,1,Deixa eu ver não sei acho que não
+45.0,3,Ele pediu para entrar ou quer que eu falo com ele aqui?
+51.0,1,pediu ainda não pediu deixa eu ver. Não me pediu.
+58.0,3,Deixa eu mandar uma mensagem aqui para ele.
+84.0,3,"Mandei aqui, mas acho que a gente pode começar agora."
+89.0,2,Então vamos lá.
+91.0,1,Vai puxando aí então.
+95.0,2,Vamos lá começando compartilhando as boas notícias suas boas ou ações também.
+103.0,1,tem
+105.0,2,"Vamos começar pelas ruas para dar uma animada, a gente fez uma visita lá na [UNRESOLVED_ENTITY] na o desmanche que a gente tava tendo que a visita faz tempo do pessoal que tava na [LOCATION_F] e tudo mais. E a visita foi muito interessante, a gente aprendeu bastante coisa. E a parte ruim é que eles já estão fazendo a nossa ideia."
+135.0,3,Também falam sobre sobre eu não sei se você quer já quer se aprofundar nisso.
+140.0,1,"Mas não talvez assim, qual é a questão que a gente tem que discutir aí com relação a isso, né?"
+147.0,3,"É a gente tem alguns detalhes para te passar e ver sua opinião, porque [UNRESOLVED_ENTITY] a gente não conseguiu chegar em nenhuma conclusão."
+154.0,1,Então que nós vamos anotar lá para a gente discutir.
+159.0,2,Vou colocar aqui
+160.0,3,Talvez revisar a ideia alguma coisa do tipo.
+168.0,4,Eu colocaria. Bom dia eu colocaria alguma coisa do tipo. Possivelmente existe um concorrente que tem a mesma ideia Chocolate que é melhor a gente colocar como Possivelmente porque não foi lançado.
+184.0,2,Eu vou colocar.
+185.0,4,"E a gente vai tentar falar com o cara lá. É porque a ideia foi vendida para a gente desse jeito, né? Tem que falar com o cara que não dá ideia."
+198.0,1,Chegaram a falar é só ouvir um falar que tem isso.
+201.0,4,O pai do responsável falou.
+206.0,3,"É mas assim a gente ainda não falou com exatamente o responsável que é o que a gente tem intuito de marcar uma reunião para entender a fundo sobre e também ver quais são os nossos diferenciais perante a ideia dele se realmente já existe se realmente está em andamento como o pai dele vendeu para gente então assim são hipóteses, né que existe existe a hipótese de que existe uma ideia parecida com a nossa né? E assim se realmente existe o que nos preocupa é o fato dele já ter uma uma rede maior um catálogo de"
+242.0,4,uma base
+245.0,3,desmanches e peças porque ele a pessoa que já tem o software que como que eu falo posso dizer isso que passa para os desmanche ele vende o
+255.0,4,s
+256.0,3,"software para os desmanches, então ele tem acesso a todas as peças que estão em cada desmanche que tem o software."
+264.0,1,É muito bom.
+265.0,3,Não top.
+266.0,1,Pode ser excelente parceiro.
+269.0,3,Mas assim muito qual que é p a dele
+272.0,4,No [UNRESOLVED_ENTITY].
+276.0,3,do software.
+276.0,4,Tem 25 minutos.
+279.0,3,"Só que a ideia o desafio para essa semana. [UNRESOLVED_ENTITY] para essa semana e semana que vem, né? Porque essa semana aqui em [LOCATION_B] é curta por conta do feriado, mas essa semana pelo menos é conseguir o contato com ele conversar e para essa semana ou mais tardar na semana que vem marcar uma reunião com ele, parece que ele é bem disponível, sabe? Ele tá aqui em [LOCATION_B]."
+302.0,4,Mas eu acho que ele é mais novo que
+303.0,3,Tem idade tá [PERSON_B] que eu sou nova.
+308.0,4,você porque ele é mais novo.
+309.0,3,Ele tem 26.
+314.0,2,Referente ao scorecard e a gente tem
+315.0,1,Tá anotado a chuva.
+322.0,2,algumas atualizações poucas. Aqui a questão do kth a gente precisa só dar uma repassada que eu não vou entrar no detalhe. Agora durante a reunião.
+337.0,1,Aí vai ser dia 28 agora data.
+340.0,2,agora o número de embarcados a gente
+341.0,4,Também pode revisar fazer o fechamento.
+348.0,2,segue oficialmente com aquele lá certo com o do o Diplomata
+357.0,4,"É porque assim. Comentou na visita lá sobre isso. E não foi nem que sim, nem que não foi meio tipo, não sei se eu preciso assim a sensação que eu tive assim, né? De quando a gente comentou sobre. Embarcar acho que a gente puxou esse assunto aí já veio esse assunto do filho dele assim, eu deixaria talvez como um mesmo."
+382.0,3,"Bem, eu acho que não é embarcado também, não concordo porque assim quando a gente começou a Puxar esse assunto para embarcar ele já veio com ele respondeu com essa questão do filho dele. Tipo não mas meu filho já tem uma ideia aqui é parecida um projeto que já tá em andamento que apareceu. Então eu não sei eles são super assim atenciosos, eles vão passar alguns contatos para nós etc, mas eu não"
+410.0,4,por enquanto
+411.0,3,"sei se eles vão querer ser embarcados, se realmente essa ideia do filho dele estiver em andamento entende?"
+417.0,4,Fica mais essa sensação que eles querem ser parceiros do que clientes.
+421.0,3,É exato até por conta do nome. Ele eles eu senti mais que pesou o nome [PARTNER_A] a primeira vez que um desmanche fez uma me [PARTNER_A] na minha
+431.0,4,Resumo deu uma pesadinha eles tipo
+431.0,3,visão.
+433.0,4,"sei lá deu para sentir nas palavras dele que pesou talvez tipo seu filho dele descobre que a [PARTNER_A] tá querendo investir numa ideia que tem isso aí. Pode ser que seja um bom caminho para eles foi aquela técnica que eu tive. A gente foi comprar para um almoço. Olha que vagabundos, né?"
+458.0,2,Vamos lá número de Breaking Arts abordados 8 workshops aqui oficinas vamos manter as duas certo. Vamos seguir do jeito que tava não vamos colocar nenhuma novidade Grande. Tudo bem.
+471.0,1,"Só tem que se isso tem alguma questão assim é duas mas tá fazendo mais ou não você tá bom, tá bom."
+481.0,4,Realmente a gente tem uma que realmente a gente tá né? Suando a camisa para tentar achar porque o cara precisa conseguir machar só uma coisa só um canal ainda de Oferta para ele e o outro até agora não me passou nenhuma demanda então assim.
+498.0,2,a gente
+498.0,4,"A gente manda como embarque é um só. Poderia ter mais só que tipo desculpa de cortar junto os outros que existem lá que a gente conversou previamente desses abordados, eles estão todos em outros estados principalmente no [UNRESOLVED_ENTITY]. A gente acabou não indo. Muito para esse lado, porque sei lá o [UNRESOLVED_ENTITY] a [UNRESOLVED_ENTITY] faz diferença para gente embarcar ou não sentimos isso na pele já então."
+526.0,1,"É no começo, aí, vocês estão mais priorizando onde dá para conversar, né?"
+530.0,4,"É tipo depois se for, tipo a beleza Resolveu a ideia vai ser isso aqui. Ah, vamos ter que ir para outro estado para fazer um catadão de várias outras oficinas é chegar com um negócio que já tem exemplos que funciona do que a gente só chegar e bater papo e tentar desenrolar igual a gente fez aqui em [LOCATION_B]."
+545.0,1,"Mas isso não é uma questão para agora, né?"
+548.0,2,"Não. Aqui a gente sempre entra nesse embate de se é considerado um ou dois por causa da demanda, mas não manter dois aqui a gente pode entrar mais profundo nessa discussão aqui no na nossa próxima lá na revisão. Na nossa virada de rock. E o resto é que a gente Manteve eu não sei a gente tirou ou não. Fizemos transações. As peças anunciadas a gente Manteve 10, né?"
+581.0,4,Pode revisar isso depois dependendo
+584.0,3,Que desculpa.
+585.0,2,As peças anunciadas a gente Manteve o que tava na última certo?
+588.0,3,"Manteve o que tava na última porque a gente não pegou mais peças de desmanches, o que dá atualizar Aumentar o nosso catálogo é utilizar as peças do Salvador luckesi com as que eles têm já divulgada no próprio site deles."
+608.0,2,beleza
+610.0,4,do que caminho a gente.
+611.0,3,Eu acho que não é uma priority.
+613.0,2,Vamos lá revisão das célula de
+615.0,4,Não teve nenhum contato daquele setor. Inclusive foi feito um
+623.0,3,Não.
+635.0,2,bateria.
+639.0,4,relatóriozinho final aí sobre o teste.
+643.0,3,e a gente encerrou o
+646.0,4,o anúncio feito
+647.0,3,Anúncio fake na OLX e anunciamos outros inclusive mas é um track
+652.0,4,Porque a gente ia resolver se a gente
+654.0,3,porque o primeiro foi encerrado e os outros estão em andamento.
+660.0,1,"Vocês fizeram anotar o que aprenderam, né?"
+665.0,3,"Sim, com certeza."
+667.0,1,"A ficha de aprendizado ajuda aí, tá? O que eu mandei aí?"
+675.0,3,"É na verdade, a gente anotou [UNRESOLVED_ENTITY] os resultados, né? Tudo que a gente conseguiu anotamos os comentários tudo que o qual foi a"
+685.0,1,No ids a gente dá uma passadinha na
+686.0,3,procura.
+689.0,1,fila ficha de teste de aprendizado ali para conversar daí.
+693.0,3,Tá bom.
+695.0,2,Contatar através de um sítio desmanches que tem veículo elétrico e se apropriar do fluxo de trabalho deles. Beleza [PERSON_B] contratar através de um kits especialistas de manutenção em veículos se apropriar do fluxo de trabalho deles. [UNRESOLVED_ENTITY] levantamento de peças de maior impacto para o negócio é um track e estudar sobre as células de bateria questões de compatibilidade grau de dificuldade e etc
+725.0,1,Nenhuma questão aí para anotar.
+735.0,2,"último aqui tava vou realizar oferta de Coisa oficinas verão Infinity já tava Ok beleza, eu não atualizei aqui o meu mas eu vou atualizar agora verificar a possibilidade de atualização de lista de peças. Tentei o contato direto com o [UNRESOLVED_ENTITY], não deu certo agora via o pessoal do da [UNRESOLVED_ENTITY]. A gente já entendeu? Que essa lista de peças do Detran, ela foi uma lista que foi desenvolvida com um tempo devido a incidência que a gente tinha de De furto de roupas de carros e eles queria era esse padrãozinho só em [LOCATION_B] daquela questão das 49 peças rastrear."
+778.0,2,"E aquilo lá, eles falaram que o negócio fica assim é parado não é uma coisa que eles ficam revisão constantemente não é uma coisa que vai mudar. A curto prazo é simplesmente."
+789.0,1,"Não adianta dá para encerrar então, né?"
+792.0,2,consegue
+797.0,4,"conseguir mover mundos aí a gente resolveu só [LOCATION_B], porque outros estados tem o jeito dele de fazer várias coisas."
+804.0,1,"Que a gente tinha uma expectativa Inicial que Poxa vamos olhar essas peças aí focar nelas, né? Mas tem sentido né?"
+812.0,3,É mas eu lembro que a gente conversou com o pessoal do [UNRESOLVED_ENTITY] luckesi. Aí eles disseram que a gente consegue ver as peças através do site.
+822.0,4,Troca o tentando agendar para
+823.0,3,"Do [UNRESOLVED_ENTITY] isso você não chegou a abrir, né? [UNRESOLVED_ENTITY] nessa sua pesquisa do"
+826.0,2,Eu vi essa pesquisa essa pesquisa já
+826.0,3,DETRAN.
+829.0,2,"tinha visto antes. Eu só não comentei lá na hora para não falar eu já sei já sei é uma coisa que já dava para consulta antes você consegue consultar o nome dos desmanches e a peça você não vê um catálogo de peças, mas se você procura pelo nome dela você encontra. O próximo item aqui verificar demanda de manutenção em veículos elétricos híbridos nas concessionárias."
+859.0,1,legal
+865.0,2,"Essa aqui é verifiquei a demanda com a [UNRESOLVED_ENTITY] não conseguir, mas eu consegui uma visita para a gente na oficina da [PARTNER_C] essa semana agora na quinta-feira para a gente ir lá conversar com pessoal. Fica em [LOCATION_B] no bairro do [UNRESOLVED_ENTITY]. Tá confirmada a visita, viu? O rapaz me respondeu. Então esse aqui eu vou deixar aberto ainda para a gente colocar devolutiva depois da visita da [PARTNER_C], mas o da [UNRESOLVED_ENTITY] que eu já verifiquei com eles aqui é muito baixo 11 anos aí atuando nessa área o cara com quem eu conversei, ele trocou três baterias do [UNRESOLVED_ENTITY]."
+915.0,2,"E só isso? E questão de manutenções [UNRESOLVED_ENTITY] em outros componentes, só falta de preventiva que o pessoal não trocava o filtro de refrigeração do da bateria e aí ela dava falha de super aquecimento. E aí o pessoal tinha que ir lá trocar o fio que tava tudo certo. Não tem mais nenhuma demanda grande com isso bateria, só troca uma bateria inteira não tem essa questão de troca por células."
+943.0,2,E eles não eles devolvem a bateria direto para [UNRESOLVED_ENTITY] para ela se responsabilizar por descarte. Ele diretamente da oficina não sabem o que que é feito com ela. Vamos lá próximo aqui [PERSON_B] investigar como funciona os desmanches da seguradoras da porto e tentando agendar visita com a renova para o dia 19/11.
+972.0,4,"agendados não tá marcado amanhã tal vingando 10 ou 10:30, mas tá marcado amanhã. E o cara a gente vai até chegar a comentar, né com o time, mas compartilhando com [UNRESOLVED_ENTITY] compartilhe, eu não falei a nossa ideia. Só comentei os temas que a gente tava trabalhando por cima com o diretor lá que ele cuida do desmanche da porto de alguns outros players lá do [UNRESOLVED_ENTITY] e eles se interessou bastante em saber mais e tentar contribuir."
+1001.0,4,"Então, talvez assim dependendo do que a gente discutindo aí de S hoje, talvez a gente possa até usar essa visita de amanhã para tentar achar um sponsor que deu um site que talvez a gente precisa."
+1013.0,1,Já penso não MVP junto com ele.
+1016.0,4,"Tipo ele tipo bem bem foi bem disponível assim interessou bastante, ele já lançou empresário, né? Tipo já vendeu algumas empresas aí nesse ramo para"
+1027.0,1,"Provavelmente você está falando com aquele perfil inovador, sabe?"
+1030.0,4,"É então. Ele pareceu ser bem nesse Nesse quesito aí, tipo, a gente não falou não falei nada da ideia, só falei o tema e ele já foi dando algumas ideias ali uns insights dele, então assim talvez a gente possa aproveitar essa visita de amanhã, não é nem para ver o desmanche porque o desmanche quando a gente vai fazer a mesma coisa, mas tá sugado o cara aí alguma coisa que nos ajude."
+1052.0,1,"Dá para avançar, né? Dá para"
+1054.0,4,"Sim, então marcado amanhã"
+1055.0,1,"avançar o desmanche pode ir mais rápido e como é que eles fazem? Como é que funciona tal e daí já encaixa vocês aí na conversa, né?"
+1066.0,4,terça-feira.
+1068.0,2,"Muito bom. Agendar reunião com facilitador interna na [PARTNER_A], aí eu vou riscar foi agendado a gente fez a reunião e foi bem legal, né pessoal."
+1080.0,1,E descobriram alguma oportunidade aí que vale a pena anotar.
+1087.0,2,Vamos colocar aqui.
+1087.0,3,"Sim, né, [UNRESOLVED_ENTITY]? Tá a gente teve uma reunião com ele é responsável, ele acho que gerente ali de chassis e ele se demonstrou bem entusiasmo entusiasmado com a ideia. Ele comentou sobre a m a n que tem um veículo lá em [UNRESOLVED_ENTITY] que eles estão fabricando que é elétrico. Falou sabe da gente visitar para conhecer o processo [UNRESOLVED_ENTITY] mesmo ver como que é essas outras questões também, a gente pode ver de garantia que é do grupo, né do grupo [PARTNER_B]."
+1125.0,3,"Também ele passou para a gente alguns contatos falou que ele pode fazer essa ponte com a gente, por exemplo com o dovic. [UNRESOLVED_ENTITY] que é um contato muito importante, né? Se a gente consiga ele pediu falou que a gente pode apresentar nossa ideia para ele e também ele posteriormente a isso pode fazer uma ponte com o dovic para dar mais feedback. Opinião esse tipo de coisa sabe e quem sabe a gente não consegue galgar esse cara para ajudar a gente ali, né?"
+1156.0,1,"No plano B, né?"
+1157.0,3,exato
+1159.0,1,"Para um monte de alternativa aí então vamos anotar aí algumas chuva para isso, né?"
+1172.0,2,Eu pensei que eu já arriscado.
+1175.0,1,Eu não sei essa visita aí que Ele propôs. Aí talvez vale a pena.
+1180.0,2,"Sim, ele falou que ia tentar ajudar a gente com essa visita aí. Sempre importante, né conhecer um pouco mais principalmente da um produto aí que a gente está na empresa que está tocando negócio e a gente tem oportunidade de conhecer a fundo, né?"
+1196.0,1,"Porque fica Super Chato, até daqui a pouco alguém perguntar para vocês viram Fulano lá, se não Não vimos, né? Nem sabia que existe é ruim, né? Então a gente tem que ir lá"
+1207.0,2,É ruim.
+1209.0,1,"irmos. Vimos que eles fazem isso, nós vamos fazer isso complementa aqui descomplementa lá compete aqui. Sei lá, tem que tem que investigar, né?"
+1219.0,3,"Acho que é mercado, né Gil entender, como que tá o mercado ali da ml."
+1223.0,2,"É verdade, né?"
+1227.0,3,"É visitar a fábrica da [UNRESOLVED_ENTITY] para entender, como é o processo [UNRESOLVED_ENTITY]? do veículo elétrico do caminhão elétrico"
+1240.0,1,"E pode por identificar oportunidades, né?"
+1243.0,3,Identificar oportunidades e aí numa segunda. Aí talvez ou a gente usa fazer o tio do posteriormente apresentar a ideia para galera tipo.
+1256.0,1,"E preparar um piquenique, né? Pode pôr."
+1259.0,3,Preparar um vídeo.
+1260.0,1,"É mas vamos dizer tudo é preparar o pit. Mas aqui é vocês. Tem que apresentar, né? é"
+1267.0,3,Apresentar nossa ideia para o grupo trator alguma coisa do tipo.
+1274.0,2,se a gente abre com uma
+1277.0,1,"E pode identificar oportunidades também, né apresentar a ideia identificar oportunidades."
+1282.0,3,"Isso eu acho que aí é equipe porque a gente tem que fazer. Ah, não acho que não viu."
+1289.0,1,concluído
+1290.0,3,É mercado. Colocar mostrar a Live para o grupo trator identificar oportunidades.
+1308.0,2,"[UNRESOLVED_ENTITY] vamos lá para as próximas. [UNRESOLVED_ENTITY] complementar o catálogo com fotos reais aqui. Ok, né?"
+1326.0,3,"Sim, ok. concluído"
+1330.0,2,"Propor anúncio das peças do Diplomata ok também concluído, né?"
+1334.0,3,sem
+1336.0,2,[PERSON_B] preparado script de venda do serviço e modelo de cobrança para as oficinas adicionar no MVP um
+1343.0,4,Foi feito e foi de muita discussão. Talvez venha novas exus se a gente
+1352.0,1,legal
+1354.0,2,"Tem gente que tem alguma chuva, você acha que já tá bom?"
+1361.0,4,"[UNRESOLVED_ENTITY] um pouco a ideia assim, tipo a princípio do jeito que eu fiz é o jeito que até hoje 18/11 e 8 da manhã é o que a gente quer fazer."
+1371.0,2,Busca pela peça requisitada pela
+1372.0,4,Ela talvez possam ter outras atividades a partir de novas atividades.
+1380.0,2,"verão com preço e prazo desmanches todos os desmanches prévio filtrados com foram contatados. E as buscas onlines também, né? A Tainá tá aqui com a busca pelos desmanches. Como que foi?"
+1399.0,3,"Ah não conta então a busca Eu contratei alguns desmanches. Há muitos disseram que todos da nossa lista ali dois só disseram que sim os outros todos disseram que não tinha a peça só que desses dois que disseram que tinha um mandou foto não era a peça certa, aí eu pedi a certa falou que ia mandar cobrei cobrei não mandou até hoje até agora. E o outro foi a mesma na verdade a situação do outro foi que ele disse que a festa tava no pátio ainda para ser desmontado. Aí ele mandou uma foto geral assim, né? A gente achou um pouco estranho a foto parecia de internet. E aí eu pedi da bateria. Ele mandou dessa a foto meio que do capô. Aí eu falei não a bateria fica embaixo. Ele ficou de me mandar a foto também não mandou."
+1456.0,3,Cheguei a cobrar ele disse que ia ver com o chefe dele. Enfim não recebemos.
+1463.0,2,Acho que a gente pode deixar tudo
+1463.0,3,então
+1464.0,2,"aberto, ainda não pode para ela porque você ainda vai pegar o follow up com esses cara certo."
+1470.0,3,É que eu acho que esses caras não vão responder porque assim eu já mandei umas três mensagens e eles não respondem.
+1477.0,2,E aqui o [PERSON_B] colocou a busca online
+1477.0,3,Entendeu? Mas pode deixar aberto para
+1477.0,4,A gente pode deixar em aberto.
+1480.0,3,"acompanhar, mas assim não tenho muita esperança não, viu, galera."
+1483.0,4,Qualquer coisa que te expande a busca depois para outros não sei te pegar de alguns outros estados aí que a gente.
+1490.0,1,Convidei assim.
+1490.0,3,Não eu já olhei outros estados tá gente? Eu olhei não foi só daqui de [LOCATION_B] não eu já olhei a lista geral que a gente que tinha [UNRESOLVED_ENTITY] e híbridos não foi só de [LOCATION_B]. Eu contatei geral assim [LOCATION_A].
+1507.0,1,"O objetivo era achar uma peça, né? Pode ser que chega à conclusão que não achou."
+1516.0,3,é
+1517.0,4,é uma
+1518.0,1,"Aí agora não tá concluída, né?"
+1519.0,3,uma conclusão
+1522.0,4,Na próxima reunião a gente vê se apareceu mais alguma coisa ou não até para dar uma devolutiva.
+1537.0,2,"das peças, como que foi?"
+1540.0,4,"Busca online eu achei a peça na [UNRESOLVED_ENTITY], só foi o único achei a peça em vários lugares, né? Só que que entrega para cá. Só achei um vendedor então lá no Excel tem o preço e tal e bom podemos esperar mais alguns dias e eu posso dar devolutiva para ele, mas por enquanto acho que é o único lugar que nós temos a única diferença, que essa que entrega a peça que tá anunciada, ela tem um código geralmente diferente. Então teria que validar lá com a oficina se pode ser, mas pelo que eu vi na descrição, eles têm vários outros módulos da mesma peça, né? Então, talvez se os caras quiserem seguir com isso apesar do valor ser um pouquinho mais elevado por conta do frete na verdade."
+1583.0,4,"Você dá para tentar falar com eles e esse tipo ó, vocês têm esse código específico. Então mas a princípio online. Meu procurei tudo quanto é lugar na asa [UNRESOLVED_ENTITY], eu até acho a peça com uma certa facilidade, mas que entregue para cá de um jeito fácil. Então assim teve que entrar em contato com cada um para ver se os caras exportam então e as demais que eu achei que entregam aqui de um jeito mais fácil são novos. Então pode um pouco do que a gente está querendo fazer."
+1615.0,4,"Então assim eu acho que pode riscar a princípio. E aí quando eu dei a devolutiva, talvez a gente tem uma nova tudo tanto de entrar em contato os caras para ver se eles têm o modelo certo quanto de talvez começar a entrar em contato com os outros canais que eu achei para perguntar sobre exportação ali sem ser via WhatsApp."
+1637.0,2,o pessoal da Verão Chegou a comentar alguma coisa mas
+1640.0,4,"Ainda não me mandaram nada, minha minha ideia é dar uma devolutiva para eles até sei lá o começo da próxima semana."
+1648.0,2,Eu acho importante também entrar em
+1649.0,4,acho que talvez vê se
+1650.0,3,"Melhor até o final dessa semana porque a gente já tá com duas semanas com essa demanda, né?"
+1656.0,4,Vamos ver se não se vai que cai do céu alguma coisa da 28 senão na sexta-feira eu passo para eles.
+1662.0,3,beleza
+1663.0,2,contato com os caras para ver se eles tiveram mais algum problema como as baterias ainda estavam em ciclo de teste. Pode ser que mais alguma tem estragado. Pode ser que eles tenham visto aí que a bateria inteira tava condenado e não precisa só das células.
+1678.0,3,"Ou até se eles encontraram a peça né, gente?"
+1681.0,4,Então anota aí evolutiva no dia. Então tira o concluído a gente
+1689.0,2,"Cima também, vamos deixar em aberto,"
+1707.0,1,Que ele tá demarcado com
+1711.0,4,transforma. Ela nisso aí.
+1714.0,2,"né? A gente vê se vai ter algum retorno, se não tiver beleza, depois a gente fecha."
+1721.0,1,Daí faz a devolutiva perguntas conseguiram a peça onde? Tudo tem aprendizado.
+1729.0,2,legal E tem 30 pegar uma folha de teste de aprendizado com o dólar MVP.
+1736.0,4,Pegamos hoje.
+1737.0,1,Mandei hoje só lembrei ontem.
+1740.0,2,"Aqui é a equipe, né?"
+1743.0,1,Daí eu gostaria de põe uma Exu lá vamos dar uma conversada sobre ela e que é mais rápido para vocês do que.
+1762.0,4,conversar sobre a folha de aprendizado
+1764.0,1,conversar sobre Teste de aprendizagem é rapidinho para ler. [UNRESOLVED_ENTITY] esforço
+1778.0,2,agora que está Acrescentar dados adicionais no catálogo catálogo já existente.
+1793.0,3,"Tá bom, tá feito eu não consegui todas as informações com o Diplomata. Mas algumas eu consigo sim."
+1803.0,2,Conseguiu as que são possíveis?
+1805.0,3,exato
+1807.0,1,"E também quase que vira rotina agora, né?"
+1810.0,3,Propor anúncio de do desmanche beleza tá foi feito na visita que foi dia. 14 isso aí.
+1826.0,2,Beleza propor peças catalogadas no
+1827.0,4,Mas isso acabou virando.
+1832.0,1,Mandei hoje também.
+1833.0,3,Feito eu fiz sim.
+1851.0,2,"nosso [UNRESOLVED_ENTITY], a gente colocou né acrescentar peças catálogos. Documentário Teste realizado na OLX até agora e fechar as visitas foi realizado também. Essa aqui pegar com [UNRESOLVED_ENTITY] documento de análise de competição e analisar os concorrentes diretos e indiretos. Então isso aqui a gente vai fazer aí, vamos puxar ao longo dessa semana ou talvez hoje no ETs."
+1884.0,4,Montar alguma coisa princípio que a gente já transferido ela para o seu nome. E apesar do meu nome.
+1893.0,2,reportar jornada do cliente detalhar como é a realidade de cada
+1902.0,3,"Como é que é? Pera aí, eu não entendi a 35. Não entendi."
+1904.0,4,É a comparação com os
+1907.0,3,A gente fez isso não [UNRESOLVED_ENTITY].
+1907.0,4,concorrentes. A gente fez.
+1910.0,2,"O [UNRESOLVED_ENTITY] mandou documento hoje de como fazer essa comparação com os concorrentes, a gente vai fazer essa semana com base no documento certinho."
+1920.0,1,"É que vocês não tem um concorrente direto a não ser que tenham descoberto agora, né? Mas"
+1925.0,3,é
+1926.0,4,Tinha alguns concorrentes indiretos ou diretos agora.
+1930.0,1,e talvez
+1930.0,3,Talvez teremos um.
+1932.0,1,"E essa jornada do cliente [UNRESOLVED_ENTITY] também a vocês verem onde que estão os problemas, né? E como que vocês que a jornada do cliente é sem concorrente, né? É como é a vida dele é hoje. Aí [UNRESOLVED_ENTITY] você já identificam problemas. E propõe e encaixam a solução de vocês ali em cada fase, né?"
+1952.0,4,36 a gente fez na lousa.
+1954.0,1,"Daí junto com com essa aí do também, a gente pode dar uma conversadinha rápida a planilha ali de comparação com a competição."
+1968.0,4,"Então, beleza. A gente chegou a fazer a 36 e a gente já até escreveu novos primeiros lá na rock."
+1978.0,1,E daí e daí veja e talvez tenha mais alguma achado aí se a gente olhar os competidores.
+1986.0,4,"É então, acho que a gente pode ir"
+1986.0,1,então
+1988.0,4,com a 35 a gente que a gente vai saber melhor que a gente consegue fazer junto com o que a gente descobriu.
+1996.0,2,"Legal e o último aqui anúncio OLX [PARTNER_E] ADS e outras ferramentas de algumas peças do desmanches catalogados, Tainá."
+2008.0,3,"Foi feito dia 13/11, eu já fiz algumas alguns anúncios na OLX, se eu não me engano de três peças, né? E a gente conversou pessoalmente eu [UNRESOLVED_ENTITY] e o [PERSON_B] a gente decidiu fazer por enquanto é só na OLX Por Enquanto no [PARTNER_E]."
+2031.0,2,Beleza agora já vamos para o
+2035.0,4,"Beleza, tá no WhatsApp."
+2042.0,2,"Vamos passar uma prova, vocês já querem começar por aquela?"
+2045.0,1,"Eu que vocês têm na cabeça, vamos olhar a folha de teste aprendizado. Daí a gente mata essa que isso é bom uma conversinha rápida vai ajudar vocês aí, acredita?"
+2055.0,2,[PERSON_B]
+2059.0,1,"Então, projeta ela aí a folha de"
+2061.0,4,Na verdade é o que a gente tá tem
+2063.0,1,"pé. Quer que eu abra aqui, então, deixa eu ver."
+2072.0,2,"Se tiver fácil, você é mais rápido que demorando para abrir."
+2080.0,1,"Tão vendo a ficha de teste, né?"
+2080.0,2,Eu vou abrir mais rápido compartilha.
+2103.0,2,[UNRESOLVED_ENTITY] pensar
+2106.0,1,"tá então bem rapidinho ali é uma Isso daqui é uma. Deixa eu ver onde é que tá ela aqui. Ficha de teste isso daqui é uma ideia do aquele do Business do Canvas do Vale pro position que é bem bem simples e vocês vão ver né? Vocês já fizeram. Teste de potes TCC em alguma coisa assim, né? É a mesma coisa, só que ele sempre escreve de uma maneira assim que eu acho muito simples e didática, né? Então o primeiro passo ali que é hipótese. Nós acreditamos que daí você vai escrever aqui, né? Quer ver pegando quer me dar um exemplo de vocês aí agora para a gente dar uma pensada."
+2163.0,1,Vamos dizer qual que seria o primeiro MVP que vocês estão pensando em fazer.
+2172.0,4,tá tentando realizar lá com a ver com a oficina que é recebeu uma demanda e buscar a peça.
+2178.0,1,"Então, nós acreditamos que que existe o mercado aqui para vocês fazerem a conexão, né? Quem precisa de peça com quem tem a peça, né? Mas é hipótese agora para verificar, né? O que que vocês estão fazendo? Vocês estão pegando uma lista de peça então indo buscar as peças, né?"
+2200.0,4,Isso online e offline.
+2203.0,1,"Online offline e o que que vocês vão avaliar? O número e [UNRESOLVED_ENTITY], né? Número"
+2209.0,4,dificuldade de encontrar
+2213.0,1,"de peças Vamos dizer o número de peças que vocês conseguiram catalogar o número de peças que vocês foram buscar e quantas Vocês encontraram, né? E daí agora o quarto passe estaremos certo, se a gente conseguir fazer uma. Por exemplo. Quer ver agora, eu vou projetar outra"
+2242.0,4,"Entender a demanda processados e concretizar. Mesmo que seja uma peça difícil, mas tipo ver que existe uma dá para se fazer. Você vai ter mais demandas no futuro são outros 500, mas tipo consegue viabilizar o canal Dá Para viabilizar um canal de bem."
+2271.0,1,"aqui que seria a ficha de aprendizado. Deixa eu voltar aqui não tá aqui. Deixa de aprendizado. Agora você imagine que vocês estão depois do teste, né? Então nós acreditavamos que eu consegui conectar né? Quem precisava de peça com quem não precisava, né? Aí vocês indo para baixo, né? O que que nós observamos desde que vocês podem observar não"
+2310.0,4,sim
+2311.0,1,"conseguiram, né? Vamos imaginar aqui ó, nós observamos que nós não conseguimos nenhuma peça. Ó a partir disso. Nós aprendemos que Precisamos de mais peça precisamos de não se a ideia não tá funcionando, sei lá um monte de coisa que vocês vão fazer e portanto nós vamos. Fazer o que? Não vamos desistir, né? Nós vamos fazer alguma coisa. Então, você vê até Tainá esse que você documentou do teste do LX, né? Que você fez aí dos anúncios, né? ó nós acreditavamos que Tantas pessoas que iam ser procurada que um [UNRESOLVED_ENTITY] nós observamos isso daqui a partir disso. Nós aprendemos que e portanto nós vamos."
+2369.0,4,A gente meio que fez isso tudo sem escrever.
+2373.0,1,"É que assim eu acho assim tem duas coisas, eu acho a ideia. Pela simplicidade Espetacular, né? [UNRESOLVED_ENTITY] de aprendizado. E tem aqui o portanto. Nós vamos né? Nós aprendemos tal e nós vamos tal que força a gente dar uma pensada e sempre. Em pesquisa científica a gente sempre diz que talvez o mais importante é a abertura para novas pesquisas, né? Eu não consegui provar muita coisa, mas eu portanto nós vamos fazer isso daqui. Talvez seja mais importante."
+2412.0,1,"Então imagina assim que se você estivesse fazendo uma ficha de aprendizado para todos né? E o cara da [LOCATION_E] bem visitar vocês e vocês mostram uma pilha lá de 30 fichas de aprendizado. É super legal, né?"
+2429.0,4,sim
+2433.0,1,"Isso e você registra que aquelas evidências. Qual a evidência que eu tenho que eu fiz isso é essa que é evidência, né o resultado do teste agora É lógico que eu gostaria que vocês tomassem um cuidado, né? Eu acho mais importante o raciocínio que tá por trás desses [UNRESOLVED_ENTITY], né? E vocês internalizarem ele do que necessariamente vocês virarem uma fábrica de burocrática de fazer ficha de teste, né? Acho que tem tem que ter um cuidado não existe muito acho que uma regra eu acho que vale a pena anotar em algumas coisas importantes, talvez outras não."
+2477.0,1,"Mas o mais importante é vocês pensarem desse jeito, sabe? O que tudo que vocês estão fazendo agora é aprendizado, né? O [UNRESOLVED_ENTITY] ryze lá do [UNRESOLVED_ENTITY] ele diz que o único indicador é útil numa Startup que está começando é o aprendizado validado. O outro se vocês têm oficina não tem se vocês têm é óbvio que eles têm que vir, né, mas agora não é tão importante a gente ter dois quatro ou 10, né? Mas é o Que Nós aprendemos com esses contatos com esses testes que nós estamos fazendo."
+2519.0,4,É acho que a gente pode abrir duas duas isso aí para a gente até pegar a manha de fazer um do OLX e uma dos anúncios e uma da busca da peça.
+2530.0,1,Eu diria que a tua ideia [PERSON_B] é
+2530.0,3,"Gente até chegar a conversar sobre isso, mas a gente não reporta, né? Sempre após as visitas após esse tipo de coisa anúncio. Enfim, a gente conversa juntos sobre mas não chega a fazer um report. É bom mesmo."
+2549.0,4,Forem surgindo a gente vai avaliando a necessidade de ter a ficha de manter só na cabeça.
+2556.0,1,"sensacional para mim, ela resolve aquilo que eu digo que é o mais importante que é vocês pensarem desse jeito se vocês preencherem OLX e esse da busca de peças. Vocês estão com o raciocínio da hipótese Dentro da Cabeça de vocês que é o melhor lugar, né? E também daí vocês avaliam se vale a pena vocês registrarem um aprendizado mais ou menos de uma forma padrão, né? Porque que nem a Tainá disse tá registrado eu registrei."
+2588.0,1,"Então dá uma olhadinha, como é que se registrou se faltou alguma coisa ou até se tem um aprendizado para dizer que na ficha de teste vamos colocar mais na ficha de aprendizado. Vamos colocar mais isso que nós achamos importante no nosso contexto, né? Então, coloca lá nas duas tu doce para mim tá excelente."
+2609.0,4,Até já até aproveita coisas que a gente já fez e traduz e para pegar o raciocínio.
+2620.0,1,Deixa eu voltar aqui. assumir [UNRESOLVED_ENTITY]
+2633.0,2,Anotando aqui então tá aparecendo para você já né?
+2637.0,4,Tá mas tá pequenininho para mim ver. compartilhar compartilhar de novo
+2643.0,1,"para mim tá pequeno também, mas não sei porque que ele"
+2652.0,4,Agora sim
+2655.0,2,"Beleza partes específico para as fichas de aprendizado, pode ser? uma busca"
+2665.0,1,"Do OLX aí vocês discutem entre vocês. E aí quando vocês forem fazer um MVP, né? Que seja importante mesmo, vamos fazer um MVP e tal é legal preencher o teste."
+2686.0,4,beleza
+2686.0,2,Gente 8 39 essa que já foi
+2690.0,4,"Na verdade, né? Então ela vai ficar"
+2712.0,2,concluída então certo.
+2717.0,4,concluída.
+2718.0,3,Então não é.
+2720.0,1,É talvez agora muda ela para preencher ou testar aprender.
+2728.0,4,Eu iria.
+2732.0,1,[UNRESOLVED_ENTITY] o raciocínio da ficha de teste e de aprendizado.
+2739.0,2,ok E agora vocês querem conversar sobre a
+2746.0,3,E terminar lá [UNRESOLVED_ENTITY] tem que direcionar.
+2751.0,2,verdade
+2753.0,4,Posso ficar com a primeira?
+2754.0,3,É [UNRESOLVED_ENTITY] com o [PERSON_B] e a outra comigo. o anúncio
+2765.0,2,ok Vamos conversar agora sobre a questão de
+2774.0,4,Eu iria para 59.
+2776.0,2,Eu também Possivelmente existe um concorrente com a mesma ideia em etapa mais avançada
+2785.0,1,Então vamos Identificar qual que é o problema? discutir e solucionar
+2791.0,3,"Então na verdade O que a gente soube por cima assim Salvador luquez é uma família. Que eles têm um desmanche, só que nisso ele também tem uma empresa que faz algumas embalagens, né que ele aprende ele ele viaja muito pelo mundo para aprender sobre desmanches. Então ele foi para os [UNRESOLVED_ENTITY], ele foi para [UNRESOLVED_ENTITY], ele foi para [LOCATION_F] e aí ele inclusive ele abriu uma empresa de meio que embalagem etiqueta esse tipo de coisa de materiais que usam em desmanches para preservar as peças, né? E para a identificação também."
+2832.0,3,"E aí o filho dele também que esse rapaz ele também trabalhava com eles, só que aí esse rapaz ele desenvolveu um software desenvolveu ou se ele teve a ideia e pediu para alguém desenvolver. E aí com isso esse software que ele faz ele meio que direciona as peças então cadastra todas as peças que existem estão nos desmanche e eles fazem logo tem todo um padrão de"
+2859.0,4,É tipo um banco de dados.
+2865.0,3,"fotos, ele posta na plataforma dentro desse software onde você conseguem ver, quais são as peças que estão cadastradas se já vendeu? Se não vendeu quanto tempo ele tá qualquer localização dentro da prateleira esse tipo. Isso é tudo dentro desse disso que"
+2882.0,4,Aí o gerenciamento lá na hora que entra uma peça sai uma peça e veio feito de aplicativo e via sistema.
+2892.0,3,"ele bolou, né? E aí que que eles fizeram? Esse menino ele abriu uma outra empresa. Que ele vende esse software para"
+2898.0,4,"É como se fosse um mercado livre,"
+2901.0,3,"outros desmanches, então, ele já tem segundo o cara lá o pai dele, né? O dono do desmanche eles têm dois milhões de peças cadastradas. Né já juntando todos os desmanches que utilizam esse esse software. Então qual que é a nossa dificuldade, né? Aí o que que ele falou ele quer ter uma empresa que chama peça Verde. E aí essa peça verde meio que vai verificar. Quais são as peças que tem disponível e vender para seguradoras, né? O intuito a princípio é seguradoras, só que isso é de peça a combustão, peça de veículos elétricos híbridos tudo né? Porque querendo não tá tudo ali no mesmo segmento, então é tudo e eles estão não pode falar"
+2946.0,1,Não o modelo do negócio deles é
+2949.0,3,[UNRESOLVED_ENTITY].
+2951.0,1,vender o software para outros.
+2954.0,3,"Não. O software ele já vende eu agora o novo modelo de negócio dele é vender as peças para seguradoras então através vamos imaginar que aqui tá um lado esquerdo, tá os desmanches do no meio tá essa peça verde que é o dele e do outro lado é lado direito tem a seguradoras. Então ele vai fazer essa conexão entre elas através da peça verde que tá ali no meio, entendeu?"
+2981.0,4,"só que só de peças usadas, né de desmanche e como ele já tem a base de dos desmanches comprar esse software de gerenciamento, ele tem acesso a essa base que tem peça foto. É muita coisa."
+2996.0,3,"E até a especialidade a peça em específica porque cada peça ele sempre mais um desmante falou isso pra gente né? Cada peça é uma Peça não é que eu tenho 10 peças de Dolphin, né? Que eu tenho."
+3014.0,4,De um [UNRESOLVED_ENTITY] são 10 portas diferentes.
+3017.0,3,"São 10 portas diferentes, entendeu? Tem um cliente ele vai poder escolher qual dessas portas ele quer porque depende do estado que o cliente precisa da peça."
+3026.0,1,É ele só não é igual porque ele
+3026.0,3,"E aí tem tudo isso já nisso essa oferta dele já tem consta tudo isso o cliente pode analisar todas as opções que tem disponível porque já tem vários desmanches cadastrados. E aí ele que é meio que fazer essa conexão o problema que eu enxergo os meninos também a gente conversou é que assim o cara já tem a base, né? A ideia é muito parecida com a nossa tudo bem que ele disse que tá focando mais ali em seguradoras e focando em todos os tipos de veículos que inclusive É até melhor porque né? O [UNRESOLVED_ENTITY] é muito maior. Se você pegar todos os veículos, ele até caminhão tudo ele tinha até um [PARTNER_A] lá."
+3066.0,3,"E aí o problema maior que eu enxergo que a gente enxerga essa questão de ele ter a base, né? Ele já tem todos os desmanches, ele só falta ele montar ele tem as informações."
+3078.0,4,"O principal é a base seja tipo, ele já tem uma o catálogo que a gente está construindo com algumas peças. Ele já tenham disponível muito mais [PARTNER_F] existem entrando nesse burocráticos ao mesmo tempo, mas enfim e tipo mesmo apesar da ideia Inicial ser para conectar com seguradoras nada impediria dele, pelo menos a nossa visão de ele abrir todo mundo então assim virar realmente uma plataforma que qualquer pessoa consegue acessar e Inclusive a seguradoras."
+3112.0,4,"Então acho que foram esses cara que conversando com ele, a gente pode descobrir mais alguma coisa, mas foi passado até agora que dá uma confrontada com a nossa ideia, é isso?"
+3126.0,1,tá focado no segmento. Ah e ele é maior
+3130.0,3,A princípio pelo que o pai dele falou é seguradora.
+3133.0,1,É ele é maior porque é todas as peças.
+3137.0,4,Isso não é só dívida elétrico.
+3137.0,3,exato
+3139.0,1,"Que você falou, né? Já tem o site"
+3142.0,2,"E fora isso ele também vende as peças do desmanche dele numa plataforma online própria o site deles. Então é mais uma coisa, assim que você vê que ele tá com tudo meio que pronto aí tem uma base ele tem uma plataforma de venda. isso"
+3164.0,1,dele e as peças que ele vende tão tudo lá.
+3166.0,4,tá tudo lá
+3166.0,3,isso tem
+3168.0,1,"E você pode entrar ali, se você achar uma elétrica lá, você pode pedir ele entrega."
+3174.0,4,"Trem todas as peças estão lá, né?"
+3175.0,3,É tão organizado que o time deles
+3179.0,4,Inclusive de vidros elétricos sim e Lá tem todas fotos reais 10 fotos de cada peça e todas as informações técnicas principais lá peso avaria estado de conservação ano tipo do carro.
+3194.0,3,é super enxuto e eles têm muitas
+3196.0,4,Isso tá mais perto do mercado que a
+3196.0,3,peças lá muitas.
+3200.0,2,Eles têm o fluxo de trabalho anotado para tudo que por isso se preocupa até com a ordem que vai desmontar as coisas para quando o cara tiver com a mão limpa ele entregar a peça para pessoa que vai fazer o anúncio sabe tipo um negócio muito muito estruturado.
+3219.0,1,"Então qual que é o problema? Ele pode ser um competidor fácil, né?"
+3226.0,2,E tem todas as ferramentas vai.
+3229.0,1,"E mais ágil, né?"
+3231.0,2,sim
+3232.0,1,"Fácil que eles assim, talvez mais ágil a expressão, né? E pode virar um competidor de vocês. Mas acho vai chegar antes no mercado."
+3247.0,4,"gente Se fosse as duas ideias embrionárias, né? Seria meio Corrida Contra o Tempo. Mas ele já tá mais para frente, mas maduro tudo bem que trabalha com uma base de dados muito maior do que a gente está olhando então facilita."
+3263.0,1,"Eu diria assim, lembra aquela expressão do ovo da galinha, né? Ele já marcou, né? Porque ele conseguiu já catalogar as peças, né? Porque na hora que ele ajudei o exemplo do table nos [UNRESOLVED_ENTITY], né? Que era uma ideia do cara fazer a reserva de mesa de restaurante um site de reserva de mesa"
+3291.0,4,é
+3293.0,1,"Daí como é que ele começou ele foi lá e deu um software de graça para os cara. Para eles fazerem tipo uma Dr. E o resultado análise resultado do restaurante. Isso lhe dava de graça na hora que o cara cadastrou isso, ele cadastrou todas as mesas no software. Então a partir disso ele conseguiu começar com as mesas disponíveis, aí ele podia bombar anúncio para trazer os Os clientes né? Nesse caso estou fazendo um paralelo, né? Como ele já fez o esforço de"
+3337.0,4,sim
+3339.0,1,vender o software. Que é o primeiro modelo do negócio era a venda do [UNRESOLVED_ENTITY]?
+3345.0,4,isso
+3347.0,1,"Então, ele já conseguiu o banco de dados. Daí ele já que ele tem o banco de dados eles para quem que eu vendo eu vou vender para seguradoras seguradora, deve ser um cliente forte aí para isso, né? Vocês estão com uma visita marcada aí, né? Vocês vão entender se ele é um cliente for e mesmo você já tinham dito só a seguradora já viabiliza o MVP, né?"
+3375.0,4,"Sim, até porque a seguradora tem o próprio desmanche deles, né? Talvez ele. Vai bater um pouco de frente nesse sentido de talvez a seguradoras que autorizar os desmanches próprios dela, mas a princípio o mercado que ele queria entrar era de seguradora. Acho que por conta de demanda inclusive."
+3395.0,1,"Então, tá bem. [PARTNER_F] o problema, né? Um problema tá bem [PARTNER_F], ele"
+3398.0,2,E uma outra coisa também.
+3400.0,1,pode ser uma Um concorrente ágil.
+3405.0,4,É foi o que eu fiquei pensando no
+3408.0,1,"Toda Startup tem esse problema tá mesmo que eu seja uma Startup a única no mundo. Vai vai existir um competidor rápido. Vai existir sempre vai existir e a única solução para isso é você estar na frente. Não não tem outra solução sabe então o competidor rápido. É impossível de você no mundo de hoje você garante, dificilmente, você já viu no que consegue uma patente alguma coisa não vai ter então competidor rápido vai existir e esse é um problema de vocês, o único a maneira é vocês estarem sempre na frente."
+3454.0,1,"Agora tem um outro, né? O problema que ele não pode ser um parceiro"
+3464.0,4,final de semana assim de tipo a
+3467.0,1,"Daí são dois problemas, né?"
+3467.0,4,"gente. De a gente né tendo conseguido arrumar uma conversa com ele, dependendo de como andar a conversa e para esse lado, entendeu? Porque Talvez ele possa ter a base a gente possa ter inteligência. De algum jeito, entendeu?"
+3485.0,1,É porque veja ele ele tem um pipinaço que é da conta desse software que ele vende.
+3491.0,4,Sim já vem
+3493.0,1,Só isso já é uma empresa complicada de tocar sabe?
+3497.0,4,É a fábrica de problemas.
+3499.0,1,"Ele já tem que vender ele já tem que dar o atendimento todo dia quando o cara tem problema tem que abrir novos clientes sem fazer treinamento deles aí o treinamento o cara vai embora, ele tem que treinar outro ele vai ter que viver disso, né?"
+3517.0,4,"É porque até o que eu fiquei pensando com os meus botões, né? Era de tipo, cara, será que não tem algum jeito da gente aproveitar o trampo de que é um trabalho de cor, né? Que ele já fez que é ter as peças."
+3529.0,1,isso
+3529.0,4,"[UNRESOLVED_ENTITY], talvez a gente possa em vez de tudo bem a gente pode né ter o nosso mvpzinho ali, mas tentar Não competir com a base do cara, mas usar a base do cara nosso favor."
+3541.0,1,Daí é parceiro.
+3543.0,4,"então [UNRESOLVED_ENTITY] Será que a gente consegue viabilizar esse tipo de coisa, mas só falando com o cara."
+3552.0,1,"Agora também é uma coisa para investigar aí, né? Provavelmente ele não é uma software house, né?"
+3561.0,4,"Não, ele é um cara sozinho."
+3563.0,1,"Então, ele tem o mesmo problema que vocês."
+3567.0,4,"É acho que pode ter as duas coisas,"
+3568.0,3,Na verdade a gente não sabe né [PERSON_B]?
+3569.0,2,Na verdade eu já vi que a equipe da empresa dele tem 10 pessoas.
+3574.0,3,"Eu acho que a gente vai sentir isso, mas fazendo a visita com o cara conversando e tal."
+3580.0,1,Não.
+3581.0,4,ele pode ser uma software House ele pode ter mandado fabricar o software e ele só gerencia na manutenção.
+3589.0,1,Se ele for uma software House ele pode ser mais um bom parceiro para vocês porque vocês também vão precisar Em algum momento da software.
+3598.0,4,"Sim, mas eu acho pelo menos minha opinião tá minha opinião de ti. Convém ou a conversa e vendo as empresas, né? Me parece que é muito mais ele é o cara das ideias, ele deve ter algumas pessoas que viabilizam esse estudo para ele, mas tipo dependendo do tempo que ele demorou que a gente não sabe ela lançar as plataformas em 10 pessoas, pode ser é um time grande, mas me parece se ele tem 10 pessoas hoje muito mais um time de manutenção do que ele ser uma fábrica de software, eu acho que"
+3630.0,1,patrocinadora do evento deles lá
+3630.0,4,"Eu acho que ele deve ter terceirizado a parte da construção principal e as pessoas que trabalham com ele dão manutenção fazendo x menores ela pelo menos vendo como o negócio deles funciona me parece mais isso. [PARTNER_F] que Conversando a gente pode descobrir mais, né? Então, talvez eu acho que a gente tem que ter uma. uma lógico até a tio do da conversa que acho que já tá lá inclusive mas é Tentar garimpar com o cara de que forma a gente consegue ser parceiro tipo."
+3666.0,2,"E outra coisa que eu ia dar um contexto que pode ser que ajude a gente pode aqui, mas deixa eu dar um contexto é que durante a visita é com o pessoal da [UNRESOLVED_ENTITY], Lucas e diretamente. O que que o nome da [PARTNER_A] acabou pesando para a gente anualmente, eles têm uma conferência voltada aí para desmanche recircularidade para toda essa questão de reaproveitamento de peças aí de carro elétrico de carros de Carros"
+3693.0,4,A [PARTNER_A] para ele agora tem a cara de
+3694.0,2,"certo de veículos. E aí durante um período aí tem uma data específica que eles fazem essa conferência e Eles procuram pessoas para [UNRESOLVED_ENTITY] essa conferência ele já tiver alguns sponsors, aí acho que ele comenta muito foi da estrela antes, né. E aí quando ele viu o nome da [PARTNER_A] e o olho já brilhou por causa desse assunto em específico? Então eu acho que foi isso que o nome da [PARTNER_A] pesou acho que é importante deixar essa informação também porque vai que a gente consegue usar alguma coisa."
+3725.0,2,isso
+3728.0,1,"Então isso é mais uma oportunidade é outro vamos dizer assim identificando o problema aqui é a oportunidade também, pode ser o problema, né? Como aproveitar uma oportunidade, né? Teoricamente vocês até tem 100 mil numa dessa ele precisa de pouca coisa vocês podem entrar com o parceiro nesse próximo evento, né. mesmo"
+3756.0,4,nós três.
+3758.0,1,"Isso né para vocês. Vocês podem pegar lá uma dessa ali que só tem uns 10 mil reais. No evento só que é um coffee break vocês por cima coffee break. E é uma maneira de até vocês entrarem para apresentar a ideia de vocês, só que tem o problema um né, que eles podem ser o competidor rápido, né?"
+3784.0,2,exatamente
+3785.0,1,"Então ele pode ser o problema um. É competidor rápido problema dois, ele pode ser um parceiro para desenvolver aí o modelo do negócio não parceiro do modelo do negócio, né? E o problema três é que vocês até tenham uma oportunidade de participar de um evento lá como [PARTNER_A] [UNRESOLVED_ENTITY]."
+3808.0,2,Aí eles Estão interessados.
+3808.0,1,"[STARTUP_B] com um patrocinador como um parceiro do evento né? Então vocês têm essas três problemas, nós estamos no identificar o problema nós já estamos com três problemas identificados."
+3823.0,4,"Sim, até anota aí que eu pensei"
+3826.0,1,"Daí daí agora você já começaram a discutir, né? Como resolver isso, né? Só tô voltando um passo atrás para deixar todo mundo o mesmo raciocínio. Mas você já começaram a discutir, né? Vocês vão ter que fazer uma visita lá."
+3848.0,4,"umas ideias aqui, mas escreve as três primeiros continua. Que é uma de mercado? Que a mesa que acho que é 59 na verdade, né? Pode?"
+3859.0,3,Já tá aberto na 59?
+3860.0,1,"É que eu colocaria isso assim dentro da ids sabe dentro desse problema que nós estamos resolvendo. Não é assim ou é dentro do mesmo ou se põe uma página em branco aí só para a gente não perder isso, né?"
+3876.0,4,É tipo coloca abre três tópicos aí na página de baixo tá em [UNRESOLVED_ENTITY].
+3881.0,1,isso
+3882.0,4,só para cima da [UNRESOLVED_ENTITY] só para conseguir organizar minhas ideias deve ter um negócio de tópicos Um lugar nesses três pontinhos talvez aí
+3899.0,1,é
+3899.0,4,Aí competidor mais ágil. aí o segundo é parceria com
+3912.0,1,"Parceria para desenvolvimento parceiro do modelo de negócio da [UNRESOLVED_ENTITY], né?"
+3920.0,4,"E aí coloca lá. sponsor do evento anual O que eu tô imaginando tipo? Talvez se a gente for. Numa minha opinião tá a gente discute a gente agora querer bater de frente com competidor mais ágil. Eu acho que pode tirar tirar a possibilidade do competidor mais ágilios estar do nosso lado. Então, tipo, eu acho que no ponto número um se quiser colocar um subtópico. Eu acho que é por mais que ele seja mais ágil, porque ele tem uma base maior ele não tem ele não é lixado."
+3969.0,4,"Assim ele tá olhando para tudo. Ok? Isso aqui é um volume muito maior, mas as particularidades da Dos veículos híbridos elétricos pelo menos o que a gente conversa com os desmantes com a sensação que eu tive eles conhecem mas não conhecem então a fundo para entender a realidade das oficinas, por exemplo. Eles não sabem. Talvez a ter muita questão de compatibilidade célula bateria, tipo as peças que saem mais tipo, até porque eles fazem esses estudos, mas esses estudos estão prontos com os carros à combustão, pelo menos falando do salvador não quer."
+4008.0,4,"E cada desmanche tem um nicho específico, então assim eles focam mais em carros classe c e alguns b, a gente for do Diplomata é mais Classe A B no sentido de ter né? Lá vai ter corte. Vai ter um monte de coisas não tem [UNRESOLVED_ENTITY]. Então assim eles têm nichos específicos entre eles."
+4027.0,1,Provavelmente não vai ter ido né?
+4029.0,4,E provavelmente eles não vão fazer um nicho de híbridos.
+4032.0,1,"Já cai fora desse segmento, né?"
+4035.0,4,Eles vão acabar pegando por conta da demanda. Só que também assim não sei o quanto eles.
+4040.0,3,Não eles têm híbrido sim.
+4044.0,4,"Se a gente for parar para pensar eles não vão ser um desmanche focado em híbridos, entendeu? Estudo deles vai ser no que vende mais. Então, eu acho."
+4052.0,3,Então mas assim a pessoa que procura por exemplo o cara da oficina que tá procurando vocês acham que ele vai ir numa plataforma que tem mais. peças organizada que ele vai conseguir encontrar híbrido elétrico ou vai na específica assim sei lá
+4069.0,4,"Eu acho que ele deve ir na minha visão, tá? Pelo menos que o pessoal da verão comenta eles têm além dos contatos artesanais dele, eles vão olhar nas plataformas que te dão mais resultados com menos esforço. Só que te dão mais resultados com menos esforço não são plataformas que necessariamente vão te trazer mais resultados do que você precisa então por exemplo. Se fosse assim a gente estaria no [UNRESOLVED_ENTITY] e acharia facilmente perto de híbrido elétrico, não é tão fácil assim."
+4099.0,4,"Então assim. Pode ser que em virtude disso por conta da demora das oficinas, imagina que por exemplo hoje já tem [UNRESOLVED_ENTITY]. OLX tem uns buscador de peças tem o próprio do Detran. Se tudo isso que tivesse hoje resolver seu problema dele em relação ao tempo e a disponibilidade Muito provavelmente o peça Verde ia ser só mais um peixe lá e eles vão continuar procurando do mesmo jeito."
+4122.0,4,"Então acho que assim não ainda mesmo esse cara sendo muito grande, ele vai ser especializado o mercado da combustão. Então assim ele vai ter esse nicho a princípio por mais que ele tenha um nicho de elétricos ali dentro."
+4137.0,3,"Mas aí fez o [UNRESOLVED_ENTITY] de quais desmanches que ele tem já vinculado. Pode ser que ele tenha desmanche que é foca mais em veículo híbrido elétrico, ele tenha desmante cadastrado que foque em veículos, tipo A é veículos Tipo C, depende do desmanche que ele vai cadastrar ali se ele tem 2 milhões de peças. São muitos desmanches, cada um tem seu foco e ele vai ter todos dentro da plataforma dele."
+4162.0,4,"Então, por isso que eu acho que aí o segundo tópico desse competidor mais ágil que acho que pode ser uma pergunta da nossa conversa, né? É a gente tentar entender. Qual é o perfil de desmanche que ele vende isso, entendeu? Porque por exemplo."
+4179.0,3,"Tudo bem aí é o estudo, beleza, eu concordo."
+4181.0,4,"Porque aí tipo a gente vai descobrir se ele tem um nicho específico de desmanche, o nicho dele é a quantidade de peça que o cara tem no desmanche ou quando ele vende ou não eu olho por carros quase x e y a não eu quero focar no negócio meu futurista. Ah não eu só quero o cara grande região de [LOCATION_B]. A gente não sabe eu acho que é um segundo tópico desse competidor mais ágil. É a gente identificar o quanto ele é ágil."
+4207.0,4,"Porque às vezes a ideia do cara princípio. E aí acho que a gente entra no segundo toque se quiser escrever isso aí no subtop com Eu acho que precisamos entender o perfil dos clientes. Como é que chama [UNRESOLVED_ENTITY], né o software dele? Isso. E aí tipo para entender para quem que ele tá olhando para quem que ele vem, entendeu? Porque assim tem a ideia dele ter muitos desmanches com muitas peças. Ele não chegou em alguns desmanches, não foi comentado isso a gente não sabe pode ser que esteja usando a gente não sabe pode ser que ele não chegou."
+4244.0,4,"Vai entender para que mercado? Ele tá olhando assim, porque senão ele fica muito igual. O senhor do rap lá que falou não a gente quer vender tudo, mas sim você vender tudo é tão simples assim você conseguir iluminar tudo."
+4259.0,1,"põe o junto aí nesse daí precisamos o perfil dos clientes e a operação da A operação também sabe porque pode ser que ele tá com um negócio que tá ganhando dinheiro que ele quer desenvolver esse esse negócio sabe? Como é que ele vende né? Ele ele dá de graça, cobra por mês, ele implanta e cobra por mês, ele cobra uma taxa ele cobra por mês, né? Porque se ele tiver muito interessado nisso, vocês podem dizer que na [UNRESOLVED_ENTITY] ele entra aumentando a venda desse produto."
+4303.0,1,"E vou dizer mais né? Vamos dizer que o produto dele custa 5.000 para implantar tô chitando um valor até alto aí 5 mil 10 mil para implantar. Vocês podiam dizer bem assim, pode dar de graça. Desde que eu tenha acesso as peças para colocar na minha plataforma é um jeito de você Popular a plataforma muito rápido. Lembra da de graça o software da [UNRESOLVED_ENTITY]"
+4326.0,4,É faz a gente ter o catálogo mais
+4330.0,1,da table? Faz ela encher a plataforma de mesas.
+4339.0,4,fácil.
+4340.0,1,De peças daí se vocês têm o catálogo de peças. Qual que é o problema de vocês fazer anúncio para trazer cliente que quer comprar peça?
+4350.0,4,"É. E aí, acho que a gente tem um catálogo legal, eu acho que para mim esse é o principal problema hoje a gente fazer o lance dos anúncios. Aí eu acho que a gente bate de golpe igual assim, tipo ele vai ter os recursos dele vai usar o [PARTNER_E] [UNRESOLVED_ENTITY] vai usar tudo lá, mas a gente também consegue usar e trazer nosso diferencial no sentido de E aí acho que entra um pouco no segundo tópico de tipo mesmo que ele seja entre como um peixe grande no mercado que acabe dominando algumas coisas a gente pode ser white-lapo disso, entendeu? Então, por exemplo."
+4389.0,4,"O [UNRESOLVED_ENTITY] ele é um subproduto que nasceu a partir do [UNRESOLVED_ENTITY]. Então hoje você consegue vender via [UNRESOLVED_ENTITY] sem necessariamente anunciar no [UNRESOLVED_ENTITY]. Então assim eu acho que nesse segundo tópico é bota um subtópico nele. Tá então sobre tópico, eu acho que assim é."
+4414.0,1,O primeiro seria aumentar as vendas da Vap.
+4423.0,4,"E o segundo é basicamente funcionar como abre aspas? [UNRESOLVED_ENTITY] de um negócio maior Porque por exemplo por mais que a gente compartilha a mesma base, pode ser tipo ó, caído dos elétricos é vocês vão nosso parceiro daí Life. A gente vai ter um modelo de negócio um pouco diferente do dele. Pensa antes que o [UNRESOLVED_ENTITY] comentou tipo ó, quem tiver híbrido elétrico é uma quantidade legal pode oferecer de graça."
+4454.0,4,"Você consegue fazer alguns trâmicos então tipo que aí se a gente for parar para pensar qualquer plataforma, depois consegue usar o nosso mecanismo para isso. Sei lá o pé sair lá que é um negócio de peça também ou o próprio Detran que busca pés, tipo, eles podem acabar sendo as bases do nosso modelo na base das nossas modelos de negócio, mas a operação ela é feita com a gente."
+4482.0,1,"Vou por mais um ali no esse terceiro aí mais um subtópico aí. Que é ele eles terem uma participação nas vendas. Funcionar como ativo mais um estudar uma participação nas vendas. Por exemplo, né? Vamos dizer que vocês ganham 20% da venda da peça, né? Porque vocês têm a plataforma, tá? No caso como ele tá trazendo anúncio, vocês dão cinco porcento para ele."
+4522.0,4,"Sim, ele não vai ter trabalho nenhum, porque essa parte da base a gente que cuida."
+4526.0,1,"isso E isso vale para vocês atraírem outros, né? Outros que queiram trazer peças e anunciar ali também vão fazer a mesma coisa se a venda for feito por nós você ganha 5%"
+4542.0,4,"Incentivo o cara tipo Pô, você não consigo se é um mercado que a gente viu que é um mercado que ainda tá crescendo, então assim não é um mercado que o cara vai olhar agora porque ele vai olhar para o mercado que é grande. Já é grande, né? Tá estabelecido é uma eu acho que pode ser uma moeda de troca no sentido de tipo. Ó, eu consigo fazer anúncios na minha plataforma de veículos desse tipo e eu ainda te pago e você não me paga nada."
+4568.0,1,"Isso é de graça e o que eu vender ali eu te dou cinco por cento. Só para começar e daí Veja isso serve para eles e para todos os outros [UNRESOLVED_ENTITY], né? Que daí Pode ser que pode ser que o cara se interesse mais ainda, né? Porque ele já vai ganhar na venda da peça, né? Mas ele também pode ganhar esse 5%"
+4615.0,4,"Porque tipo acho que isso pode ser uma forma da gente conseguir aproveitar a base que o cara tem entendeu? Então todo aquele problema que a gente está a dificuldade, na verdade. A gente tá tendo hoje de construir a nossa base. A gente vai ter só Acesso muito mais facilitado até pensando porque por no sentido de que o pessoal lá o dono comentou que eles não ele não gosta muito do desmanche da Diplomata que é o que a gente visitou em [LOCATION_C], ele conhece ele sabe, quais são os tipos de carros que eles costumam adquirir, mas não gostam muito porque a gente também descobriu isso na prática os caras tipo."
+4649.0,4,"Tem ali uma certa organização mínima, mas tem muita peça que eles não podem revender por coisa de segurança, mas tá lá, tipo os cara tem uns esquema e eles também não aparecem na lista do Detran, tudo bem que essa lista ela não sei se ele é o quanto ela é viva, né? A gente. Imagina que não muito."
+4664.0,2,sim
+4666.0,4,"Então, mas é deve devem ter vários desmanches grandes [LOCATION_A] afora que que esse cara da peça verde, se ele quiser fazer um negócio que seja legal entre aspas, né? Ou não? São entre aspas, o cara não vai olhar entendeu? Os manches Diplomata lá pelo cara falou ele deve ter um bom volume de vendas, mas porque que ele não tem uma parceria com o [UNRESOLVED_ENTITY] não quer? alguns segredos do mercado aí que a gente né que foi que eu falei que o pessoal no carro voltando Sempre quando você vai vender a ideia você vai dar uma exagerada no que ela faz para você conseguir impressionar quem tá ouvindo então assim se a gente consegue descobrir essas brechas conversando com o filho dele lá, eu acho que pode ter espaço para a gente conseguir aplicar essas coisas em Como parceiro entendeu? Esse segundo top? Então, sei lá me parece interessante porque uma que a gente não descarta todas as dores que a gente imaginou porque a gente também não sabe se o dono lá o filho do dono fez esse estudo de e bater porta em porta lá para ver dificuldades e tal se ele só Tipo pô, tem um dados vou colocar isso para girar não sabe."
+4740.0,4,"a gente sabe que tipo com quem a gente falou seja daqui de [LOCATION_B] outros que a gente falou no telefone de outros estados eles compartilham as mesmas dores assim uns mais outros menos mas Se existe algo que fosse [UNRESOLVED_ENTITY]. Provavelmente ele já teriam sido comunicados em algum momento ou imaginariam. E teria algo assim, a gente tem uma moeda de troca do nosso lado. Que mesmo que seja pequena, mas tem o seu valor de que tipo a gente foi acanto sem entender as dificuldades que você potenciais clientes, a gente não sabe se o dono filho do dono tem esse tipo de informação."
+4780.0,4,Então virar negócio basicamente na prática assim tipo.
+4785.0,1,E veja que tem chance porque talvez
+4786.0,4,Sim e até porque assim a depender
+4788.0,1,"ele esteja lotado, né? Ele já tem um negócio para tocar do desmanche já tem um software. E tocar mais um negócio vocês entram uma solução, né? Para ele se for isso, pode ser que eles sejam competidor ágil mesmo, mas isso na conversa que vocês já vão descobrir, né?"
+4813.0,4,"que acho que eles invoca no terceiro tópico a depender de como for essa conversa o que a gente conseguir estruturar. Dá para entrar já como tipo é um congresso anual de desmanches e tal a gente tem a peça verde que vai ser blá blá blá blá blá e a gente tem esse subproduto que aí Life que a gente é responsável por veículos elétricos. Já consegue entrar no evento como um sponsor tipo? Ah, a gente vai estar lá, mas tipo, a gente vai trabalhar com isso então desmanche que queiram trabalhar com esse tipo de mercado. A gente tá aqui focado nisso, então assim a gente tampa do cara maior, entendeu?"
+4857.0,1,"Vocês podem combinar que no próximo evento o objetivo dele é fazer com que todos os participantes, né? Todos os desmanches que participarem desse evento utilizem o software cadastre as suas peças. E já vamos anunciar todas as peças numa plataforma, né?"
+4880.0,4,"Sim já consegue ficar mais fica assim, o pessoal quer um pouco mais visionário, né um pouco mais à frente ali do desmanches que a gente tem visto, eles sabem que em algum momento pode ser um mercado interessante porque o [LOCATION_A] segue tendência e lá fora tem muita disponibilidade, né? E isso procurando as peças você consegue encontrar [PARTNER_F] tá bem segmentado assim não tem um Player que domine tudo tem players nacionais, né? E ou OLX da vida, mas tipo aí o mercado existe e tem bastante disponibilidade então em algum momento assim suas empresas que vendem carros esse tipo aqui continuar com o plano que ela acende negócio para o [LOCATION_A] em algum momento isso também vai aumentar então tipo você já tirar basicamente a gente tira um trabalho do cara que pode ser um trabalho um pouco mais chato e mais difícil, porque além de ser lixado tem várias particularidades que no modelo a combustão todo mundo conhece muito bem. A gente tá tentando estudar para aumentar."
+4939.0,4,Conhecimento e a gente ainda paga com o cara. Então assim.
+4947.0,1,"Ó, nós temos que encerrando agora,"
+4948.0,4,É um caminho.
+4949.0,1,"né? Porque estamos chegando no final da reunião, mas eu acho que é tudo aqui para vocês seria. Preparar um spin. Para conversar com ele considerando essas anotações aí."
+4964.0,4,mais uma
+4968.0,2,Vamos atualizar então.
+4975.0,1,"E esse é um assunto que vocês tem que estar bem preparado para conversar com eles, né? Talvez não seja suficiente essa conversa de agora. Talvez tenho que Mais de uma aí, mas eu acho que quando você estiver me preparando um spin, né? Porque daí nesse caso é uma pergunta de situação, como é que é a empresa de software? Como é que se faz as vendas você tem? São perguntas de situação ainda né."
+5005.0,4,Só meio que no primeiro ali para entender.
+5008.0,1,"E então já vai matar um monte de coisa ali da [UNRESOLVED_ENTITY], né da solução e depois ó, como é que é? Como é que você tá tentando vender lá na seguradora? Como é que funciona daí? Vocês já vão ter ido na seguradora, né? Que acho que vai ser legal. Para entender, como é que a seguradora? Já vão ter até um compromisso da seguradora seguradora [UNRESOLVED_ENTITY] quer fazer isso com a gente, né?"
+5035.0,4,"É a gente vai na segurada na coisa da porta amanhã, né? Assim dá para"
+5038.0,1,pois é
+5039.0,4,ir coletando coisa até lá. e
+5044.0,1,E vocês já marcaram essa visita com ele ou não?
+5047.0,4,Ele passou os contatos para você?
+5049.0,3,Não ainda não eu tenho que marcar.
+5051.0,4,"Dá um cheque lá porque quem vai estar lá é a menina, né? Ela é mais gente boa falar com você."
+5057.0,1,É tenta tenta marcar mas se for para marcar marca com prazo bom aí porque preparar o espinho aí é.
+5065.0,3,"É tudo também, né?"
+5068.0,4,É legal a gente dar uns dias para
+5070.0,1,"Marcar uma conversa, talvez Vejam a hora de marcar conversas e já Tenta agora porque esse mercado a conversa sempre pode ser difícil, né? Principalmente nesse final de ano começa a ficar complicado as vendas, né?"
+5087.0,4,fazer os pincéis. Mas tipo marcar o
+5089.0,3,Já deixa marcada a reunião com ele.
+5090.0,4,controle.
+5092.0,1,"Já deixa marcada. Daqui uma semana daqui 10 dias já pode marcar, né?"
+5097.0,4,"Consegui marcar até semana que vem. Acho que tá bom, porque dá tanto está de tanto tempo da [UNRESOLVED_ENTITY] pois da porto [UNRESOLVED_ENTITY] quando ir na concessionária na quinta e a gente vai ter mais informações e pode compor alguma coisa do Coisa da manutenção eu tô com o"
+5113.0,1,"Já pode já pode quase com MVP meio desenvolvido com ele. E sempre tem né? Eu não queria por isso até fiquei pensando se eu falava. Mas você acha que tem que falar. Na verdade ele pode ser um sócio, né. Mais do que aquele plano C plano D, né? Vamos imaginar que a [PARTNER_A] dentro e não queira. Que é bu não querida. Vocês podem desenvolver isso com ele, né? Teoricamente né? e também pode ser assim, né lá no [UNRESOLVED_ENTITY] tem isso também sabe em algum momento, depois a gente dá uma olhadinha, né vocês no Pit e dizer bem assim, olha nós já estamos testando a luquese tal tá interessado em Investir nessa ideia."
+5170.0,1,"É uma prova de tração sabe daí cabe a dona da ideia que a dona da ideia é [PARTNER_A] é dizer bem assim, eu abro mão de 10% 20% 30% 50% né para estar nesse negócio. Com um parceiro desses parceiro seja bom, né? Que é isso que vocês vão ver se ele é bom, né?"
+5196.0,4,desmanche evolutivo da Veyron.
+5197.0,1,"Isso se ele for excelente então ele é um parceiro para [PARTNER_A], né? Vamos pensar assim, né? Agora a [PARTNER_A] Pode não querer então, tá bom vocês podem desenvolver essa ideia junto com eles depois né? Que tá dentro da ideia aí a [PARTNER_A] abre mão dos direitos, né? Acho que seria isso, vamos encerrar."
+5222.0,2,Vamos direcionar.
+5230.0,3,"Também fiquei satisfeita. [UNRESOLVED_ENTITY]. [UNRESOLVED_ENTITY] que foi muito bom a discussão, principalmente sobre isso, chamamos algumas oportunidades e para não desistir logo da ideia, né? Então acho que foi bem produtivo."
+5245.0,2,também achei nota 10 aí tudo certinho só interessei aqui para o [PERSON_B] os pinceli para Tainá a agenda da
+5253.0,3,Hoje viu quer jogar? Então aquela aplicar ficha de teste da busca pela peça da [UNRESOLVED_ENTITY] para você para não ficar dois com o [PERSON_B].
+5261.0,2,Eu coloquei.
+5262.0,3,Desce lá para baixo. é ali ó 38 Gil
+5274.0,4,38 para você.
+5277.0,3,Pode colocar para você?
+5277.0,2,Perfeito gente.
+5279.0,4,"Aí bom, se quiser ser consulta a gente precisar de dados."
+5286.0,2,"Então é isso, né."
+5291.0,1,Eu nota 10.
+5293.0,2,nota 10
+5293.0,3,Tainá também
+5294.0,1,Também [PERSON_B].
+5296.0,4,Eu acho que 10 também tipo não só
+5298.0,1,Espetacular achei sensacional também
+5299.0,4,"pelas questões de divisão de tempo e tal, mas a gente voltou bem bolado desse negócio de quinta-feira e sei lá saíram várias várias ideias e saídas aqui, né? A gente tá falando de pelo menos duas então assim. acho que foi bem produtivo cheio, a gente conseguiu passar realmente a dor que a gente sentiu e conseguiu focar para Tentar achar [UNRESOLVED_ENTITY]."
+5326.0,1,"fico curioso para próxima reunião. Boa semana, bom feriado aí para vocês."
+5336.0,3,tchau
+5338.0,4,[UNRESOLVED_ENTITY]
+5338.0,1,"Tchau, tchau."

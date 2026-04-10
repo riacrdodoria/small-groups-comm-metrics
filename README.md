@@ -4,7 +4,7 @@ This repository contains a fully scripted and reproducible analysis pipeline for
 
 ## Study overview
 
-The repository currently supports two related empirical contexts. **Study 1** focuses on **28 startup team meetings**, beginning with raw identifiable transcript files that are anonymized locally before any shareable artifacts are created. **Study 2** extends the pipeline to external team communication contexts using the **Gorman et al. (2020)** pre-processed interaction series, including **surgical teams** and **submarine crews**. Together, these studies enable both within-context analysis of cognitive reorganization dynamics and cross-context assessment of whether the same communication mechanisms generalize across team settings.
+The repository currently supports two related empirical contexts. **Study 1** focuses on startup team meetings, beginning with raw identifiable transcript files that are anonymized locally before any shareable artifacts are created. In the current project snapshot, **34 startup meetings were processed in the first-pass anonymization run**, while **2 corrupted startup transcripts were excluded from the analytic sample** and one accidental instruction upload was discarded. **Study 2** extends the pipeline to external team communication contexts using the **Gorman et al. (2020)** pre-processed interaction series, including **surgical teams** and **submarine crews**. Together, these studies enable both within-context analysis of cognitive reorganization dynamics and cross-context assessment of whether the same communication mechanisms generalize across team settings.
 
 ## Repository structure
 
@@ -92,8 +92,8 @@ python analysis/11_cross_context/main.py
 
 ## Data privacy note
 
-**Raw identifiable data are never committed to the repository.** All files stored in `data/raw/` remain local only. Shareable outputs may be committed only after the anonymization workflow in **Step 0** has been executed and any residual speaker or entity mapping files containing personally identifiable information have been excluded from version control.
+**Raw identifiable data are never committed to the repository.** All files stored in `data/raw/` remain local only. Shareable outputs may be committed only after the anonymization workflow in **Step 0** has been executed and any residual speaker or entity mapping files containing personally identifiable information have been excluded from version control. In the current startup dataset, the files `2025.03.10xPulsoUltraCharge.txt` and `2025.03.02PulsoE-life.txt` are explicitly excluded from the analytic sample because the transcripts are corrupted or dominated by unusable transcription output.
 
 ## Current status
 
-This initial repository version establishes the project structure and placeholder analysis directories. Script implementations, dependency pinning, and detailed step-specific documentation will be added incrementally so that the full pipeline remains transparent, versioned, and reproducible.
+Step 0 has now been implemented as a reproducible first-pass anonymization pipeline in `analysis/00_anonymization/main.py`, and the corresponding documentation has been added in `analysis/00_anonymization/README.md`. The current Step 0 baseline processed 34 startup meetings, excluded 3 uploaded files, and generated anonymized outputs plus a researcher review file for unresolved entities. Subsequent commits will implement Steps 1–11 in sequence while preserving the rule that each completed step updates both the codebase and the relevant documentation.

@@ -1,0 +1,416 @@
+onset_seconds,speaker_id,text
+0.0,1,Bom dia
+3.0,2,"Bom dia, [UNRESOLVED_ENTITY]. Tudo bem?"
+4.0,1,Tudo ótimo você.
+7.0,2,Tudo bem também.
+12.0,1,"O Mateus entrou também, bom dia Mateus. tudo"
+22.0,2,bom
+24.0,1,Como é que foram?
+27.0,2,"Tranco acho que tranquilo agora, né? Nesses últimos. Dias aí semana passada foi uma semana meio morta, né? Muita gente de férias ainda em tese. Até nós estamos em férias ainda embora tenhamos feito a reunião. Mas conseguimos fazer algumas coisas tem alguma coisinha outra aí para compartilhar."
+48.0,1,ótimo
+50.0,2,"Então seguindo até a nossa agenda e já começando, né? Consegue. Nós tivemos uma reunião no final da semana passada, a gente até havia comentado que você que aconteceria, né? A gente teve uma reunião com a [CLIENT_A] e tá tudo certo já martelo batido do dia 20 ao dia 24. A gente vai operar o MVP lá no pátio deles no bairro do [UNRESOLVED_ENTITY] aqui em [LOCATION_B]. conseguimos acordar com eles aí as formas de [UNRESOLVED_ENTITY] e agora semana a gente tem aí bastante trabalho para deixar."
+93.0,2,Tudo isso pronto [UNRESOLVED_ENTITY] aí para MVP.
+97.0,1,Que dia que é
+99.0,2,Começa na próxima segunda Dia 20 vai até sexta dia 24.
+103.0,1,Muito bom.
+105.0,2,"A gente vai operar lá de segunda a sexta, eles têm dois pontos operando eles têm dois pontos lentos lá. então, a gente já pensou em algumas estratégias como a gente vai divulgar sendo como um serviço rápido para quem não tem como esperar a fila para O Lento a gente vai colocar um banner na entrada do estacionamento. Algo que a gente vai discutir ainda também acerca de se vale a pena a gente panfletar."
+135.0,2,Hoje a gente vai fazer arte mandar para [CLIENT_A] eles vão tentar autorização para colocar essa arte no elevador do condomínio. E Nós também vamos fazer algum algumas postagens patrocinadas de [UNRESOLVED_ENTITY] com pro algoritmo fazer isso rodar para proprietários de de elétricos no [UNRESOLVED_ENTITY].
+163.0,1,Tá excelente a ideia.
+167.0,2,E a ideia? Já é testar inclusive também a cobrança fake que o Zé já deixou [UNRESOLVED_ENTITY] lá já usar cnvp para tentar. Fazer essa validação também.
+179.0,1,"E a logística de recarregamento na [PARTNER_A], né?"
+182.0,2,"Não porque a plugin que vai ser o parceiro que vai operar com a gente esse MVP, eles têm uma base em [UNRESOLVED_ENTITY] que é muito perto de lá e eles conseguem carregar na base deles então menos de 10 minutos para chegar até a base deles, então vale muito a pena fazer essa recarga lá."
+203.0,1,Muito bom.
+207.0,2,Aí acho que vocês querem compartilhar alguma coisa senhores também [UNRESOLVED_ENTITY] notícias.
+213.0,3,"Essa semana a gente teve também a reunião com a quatro rodas que já envolveu [UNRESOLVED_ENTITY] e envolveu a plugin. Que foi muito bom que já deixou todo mundo na mesma página. A princípio o teste você aliás a reportagem, né? Essa semana na quarta-feira. Mas acabou sendo adiado por dia 28. Mas bom tudo certo. Tá tudo alinhado aparentemente vai ser dia 28 mesmo. Não vai mais adiar. E aí a gente discutir um pouco os planos eu vou ter tudo mais acho que Foi foi bem positiva a reunião."
+256.0,1,legal
+258.0,2,Mateus
+260.0,4,"Bom na minha parte eu queria ressaltar destacar. Aí alguém esteve contigo em [UNRESOLVED_ENTITY] o time de [UNRESOLVED_ENTITY] é responsável por fazer os testes os veículos elétricos dentro da [PARTNER_A]. Então atualmente eles têm dois veículos, né elétricos dois caminhões. E roda em um circuito fechado, né para fazer os testes dentro de uma fazenda em [UNRESOLVED_ENTITY]? E a gente apresentou a ideia a ideia para eles, eles acharam [UNRESOLVED_ENTITY]."
+291.0,4,"Eles viram o valor nosso ideia até para durante os testes mesmo. E aí [UNRESOLVED_ENTITY] procuram a gente fazer um MVP com eles, né? Acho que a partir do dia 28, inclusive que a mesma matéria mesmo gerando matéria da Quatro Rodas. Então basicamente foi isso a gente vê como oportunidade a gente fazer o MVP para aprender um veículo pesado ainda dentro de seis meses."
+317.0,1,[UNRESOLVED_ENTITY] e tem o carregador funciona tem capacidade?
+321.0,4,"Sim, obviamente que a gente não consegue dar uma carga completa num caminhão, até porque a capacidade de bateria do caminhão é bem grande, né? Mas eles mesmo comentaram que meu se for 10 kg para eles é super importante e já até deram um exemplo que é legal compartilhar com você. Que o caminhão ele tem um pbt né? Uma capacidade máxima de carga e aí vamos imaginar que sejam 20 toneladas."
+347.0,4,"só que aí durante a chuva com uma carga fica molhada a capacidade de carga a carga aliás cresce o Esse valor né acaba 32 33 toneladas, por exemplo. E aí a autonomia que ele tinha com a carga seca, por exemplo era de 300 km com aumento três toneladas acabou diminuindo para 200 km e eles falaram que teve caso que ele não conseguiu chegar no carregador. E teve que desacopular a carreta para ir buscar lá transtorno do caramba."
+387.0,1,"Bem bom esse teste também ainda tá dentro da [PARTNER_A], vocês ganham um monte de ponto, né?"
+392.0,4,sim
+396.0,2,[UNRESOLVED_ENTITY] comentar também a reunião que a gente teve com [UNRESOLVED_ENTITY].
+401.0,4,"Acho que agora não vai ter mais tempo, né? Já passou os minutinhos aí? não sei se tem outro fórum que a gente pode falar mas"
+411.0,2,"Talvez lá nas eixos ou no curso manipula aí, mas beleza é porque também o scorecard não tava na reunião passada, a gente combinou que a gente havia. Avançado, mas tinha algumas dúvidas que a gente considerou fazer a revisão do scorecard. Na sexta agora, né que a gente vai ter a Rock review. a gente por isso que a gente não deixou do dia 13 preenchido combinado é que a gente faça isso juntos aí na sexta-feira mediante algumas dúvidas que a gente tem aí principalmente com relação a custer e [UNRESOLVED_ENTITY] e com isso, então, a gente vai para rock Para Como estão as Rocks? Então Zé o item um aí da Rock, né? Fazer estudo de viabilidade de todas as possibilidades."
+475.0,2,de MVP
+478.0,3,"Bom a última semana não andou muito para falar a verdade, mas tá um Drag."
+485.0,2,"Esse tem dois também então track eu comecei a trabalhar naquele mapa que a gente comentou [PERSON_A], ele vai estar pronto até para mostrar para vocês na sexta-feira. Que vai estar documentando isso aqui os locais onde a gente já tem aí a mão apertada os locais onde a gente vê potencial isso que a gente tem dificuldade. No formatinho de mapa lá e também já com esse teste de tração já tá indo já descartado, né em condomínio e a gente vai fazer já estando agendado para um Office corporativo."
+522.0,2,também Então tá bem é um Track. o item três Mateus
+530.0,4,"Eu diria que tá um track a gente recebeu só uma cotação da tecnologia a gente conseguir alugar o equipamento deles. O valor acabou não sendo. O que a gente esperava né? Ficou bastante caro, mas aí enfim, depois a gente consegue declarar uma eixo aí mas tá Track."
+547.0,2,"Beleza o item 4 tá [UNRESOLVED_ENTITY] já na verdade, né? Porque a gente tinha que encontrar um mais local para MVP. Então a gente já fez um MVP já tem outro agendado. Temos também aí outros envios de ser agendado então. Considero e tem quatro até aí como já finalizado já feito."
+568.0,1,"Nós vamos chegar aí com quase todas concluídas, né?"
+572.0,2,Acredito que sim.
+574.0,1,Pelo menos 90% delas.
+576.0,2,Acredito que sim.
+578.0,1,É muito bom.
+581.0,2,[UNRESOLVED_ENTITY] é redlines Alguém quer compartilhar algo? falar algo
+600.0,3,"Acho que não acho que tomou agora sim voltando oficialmente aí de férias, né? Só isso. descansados"
+610.0,2,isso aí
+610.0,3,e animados
+612.0,2,"Animados testemania. Ah acho que legal negócio legal de compartilhar isso aqui é que além de toda todo desafio aí já natural da semana que a gente tem bastante coisa para fazer pensando. No MVP e na Quatro Rodas essa semana ainda a gente vai ter a visita do pessoal da [UNRESOLVED_ENTITY], né? Nós temos uma agenda com eles na quinta-feira onde a gente vai apresentar o status que está o projeto."
+640.0,2,"Vamos sair para almoçar com eles e tal então acho que vai ser vai ser também vai dar um pouquinho de trabalho preparar material tal, mas acho que vai ser bom estreitar o relacionamento aí com a [UNRESOLVED_ENTITY] e com [UNRESOLVED_ENTITY]."
+654.0,1,"É não, eles estão mais próximos, né do que a gente não da decisão, né? Eles são eles são o grande"
+660.0,2,Acho que vai ser bom também a gente
+662.0,1,"influenciador aqui da decisão sabe então. [UNRESOLVED_ENTITY] não é necessariamente deles, mas eles são muito importantes. então vocês sentirem anotar de lá as preocupações deles para daí a gente Discutir aqui mas nas questões, né nos eixos isso daí é muito rico. Tem vários pontos positivos do programa e esse é um deles. Vocês têm a oportunidade de conversar com o pessoal da gente?"
+697.0,2,"sentir um pouquinho eles na quinta, porque como nosso encontro é na sexta. Ainda vai estar bastante fresco na cabeça para a gente discutir essas iscas na sexta."
+707.0,1,"É para pegar algum ponto que eles chamaram atenção que não ficou bem [PARTNER_F] deu alguma preocupação com eles, né? A gente já começar a tratar rápido."
+720.0,2,perfeito Vamos para tudo list. O item 28 Mateus que ainda tinham algumas alguns pontos a fechar.
+751.0,4,"Desses aí os que estão com underline são os que estão marcados, né agendados reunião. O decovias também tá agendado. Acho que é hoje. Inclusive, a gente não conseguiu retorno até não consigo uma agenda aliás até o momento retorno, a gente tem é o da IMC que é dono da [UNRESOLVED_ENTITY] frango assado. E também da vida. Mas da vida tá cerca, a gente conseguiu um agente com eles."
+779.0,2,"Acho que tá não tá fechado ainda, mas está bem."
+784.0,1,concluído
+784.0,2,"beleza é feito também, tá só Preciso viabilizar agenda com o pessoal da inovat, mas eu conversei com eles na semana passada na sexta-feira. Eles têm aí a disponibilidade são dois condomínios aqui. em [LOCATION_C] e tá mapeado, eles querem fazer a mesma coisa que a gente fez na no [UNRESOLVED_ENTITY] agora é só conseguir viabilizar a data, eu não acelerei muito eles na sexta, porque aí acho que a gente vai chegar no ponto de discutir a questão da disponibilidade aí do Veículo da tecnogera é isso a gente vai tomar uma decisão aí de seguir com eles hoje tentar mais agenda da plugin."
+840.0,2,"Mas tá mapeado já e tem o interesse aí da administradora do condomínio. Para fazer esse. MVP e mais dois condomínios aqui em [LOCATION_C] O plano de marketing a gente tinha deixado em stand-by, né? reunião com a Irineu a nova Mateus"
+878.0,4,"É isso acabou não sendo a prioridade para essa rock, a gente acabou. Tendo dado mais atenção para buscar mais informações sobre o mercado de pesados. Para ir sim conversar com eles, eu acho que é uma coisa que vai acabar ficando para a próxima."
+895.0,2,beleza
+896.0,4,Com certeza
+899.0,2,"A 37 também não tá fechada ainda, mas tem uma boa notícia. Hoje eu tive que fazer falou up com a [UNRESOLVED_ENTITY] da 99, né, que ela falou que o dia que ela retornaria. E uma pessoa da [UNRESOLVED_ENTITY] me respondeu um gerente de projeto e ele falou comigo na sexta que ele é mapear quem que era a melhor pessoa para falar com a gente. E que no início dessa semana ele me mandava o contato, então não tá feito mas andou um pouquinho."
+933.0,1,Muito bom.
+934.0,2,o item 42 Mateus
+940.0,4,"Essa foi a reunião que a gente comentou no início, né? Já tá feita já."
+956.0,2,Beleza é 44.
+959.0,4,"Essa a gente tem a reunião agendada para o dia 27 ou 28 alguma coisa assim, infelizmente eles. Estão de coletivo essa volta naquela nessa semana do dia 27 e 28 mesmo. Agendada. Mas vai ficar aberto. Bom essa. A ideia seria conversar com a Trovão que é uma parceira que a gente vê o potencial para conseguir os carregadores para utilizar no veículo tecnogera. Como deu esse acabou sendo ficando surpreso aí com a cotação da tecnologia, porque às vezes nem vai precisar acionar Trovão."
+1006.0,2,Beleza a gente pode discutir lá nas eixos.
+1010.0,1,Não quer notar já isso?
+1026.0,2,né
+1036.0,1,"Pode ser produto tecnologia também, né? Que é mais custo, né viabilidade."
+1064.0,2,Deixa ela anotada quando a gente fala das itens a gente volta. Aí a gente vem para o 46 é?
+1086.0,3,"Cara, eu não vou falar que tá concluída, mas eu fiz o teu [UNRESOLVED_ENTITY] a curei aí os dados do PIB e tudo mais. e falta mais colocar no talvez bater com vocês aí os dados para ver se Faz sentido e alinhar o discurso para colocar na apresentação da venturas."
+1110.0,2,"Beleza, 47 foi feito a gente preparou reunião foi uma boa reunião com eles. E é isso tudo. Passamos por todos. Agora com alguns minutinhos. Adiantado a gente vai para o ids. Então vamos fazer aquele esquema deixar na tela aqui uns Eu já tenho meu voto tá meu voto é o primeiro a gente discutir a última isso que é 70 que a gente criou agora, não sei se vocês concordam. Que é bem importante."
+1162.0,2,"Então para te contextualizar [PERSON_A], que que acontece né? A gente teve tinha aquela ideia de local o veículo da tecnogera, né? Na verdade a solução completa que seria o caminhãozinho elétrico com a bateria e com o motorista Nossa, ideia ela local por cerca de dois meses para ter isso Full. [UNRESOLVED_ENTITY] com a gente até o fim da incubação. Para poder rodar quantos mvps fossem possíveis né? E óbvio que a gente ainda não negociou com ele, ele mandou a cotação agora."
+1202.0,2,"Na semana passada no final da semana, mas o valor absurdo. Daria mais de 80 mil reais esses dois meses o que a gente não tem essa verba disponível. E nos moldes que estão na proposta hoje inviabiliza essa ideia. Então, a gente teria que a ideia que era discutir como agir, né? Qual que seria a nossa próxima ação aí com base nessas informações."
+1237.0,1,"Você deu uma olhadinha na planilha lá não cabe de jeito nenhum, né?"
+1243.0,2,Não cabe.
+1244.0,1,Um aluguel desse né?
+1246.0,2,"Não cabe porque a gente tem os 100 mil disponíveis, por exemplo o valor de refeição já desconta de 100 mil quando a gente desconta refeição. Já descontou uns 20 20 e Poucos mil só aí já seria uns 80, entendeu?"
+1263.0,4,"[UNRESOLVED_ENTITY] um mês, né? Acho que o mês"
+1265.0,2,um mês daria
+1266.0,4,colocar no papel.
+1269.0,1,"É uma alternativa de aproveitar né? Fazer um esquema bem bom de ficar o último mês com ela. Última mais ou menos né bem o último porque o bom é parar pegar os dados e por no Pit, né? Mas dá para se ajustar nisso, né? Mas Tem que tem que entender assim, né? Primeiro assim é um produto que não tem. Produção em série não tem escala ainda não tem nada, né? Então ele realmente ele começa mais caro muito caro, né? Ele isso é normal, né? Agora também teria que entender ali, como é que eles colocaram, né? Porque vocês colocaram tem que ter até o motorista, né? no aluguel"
+1317.0,2,"É a solução dele é completa na verdade, né? A gente tá pagando esse aluguel para ele, mas ele fornece com a gente o negócio."
+1324.0,1,Os é quanto que você tinha colocado
+1325.0,2,sem por cento operacional já
+1332.0,1,na tua planilha de custo aluguel mais. mais motorista
+1339.0,3,"Então, a gente já simulado algumas alguns cenários, né? Mas e dependia muito do tamanho do carro, né? Problema é que esse carro de 120 kW não é dos maiores. E eles estão cobrando 40 mil, né? Bastante coisa. Então o que a gente tinha simulado por exemplo o da [UNRESOLVED_ENTITY]. O aluguel só seria 10 mil e aí mais o custo do motorista que seria mais uns 4 mil mais ou menos três quatro."
+1376.0,1,"14.000, né e veio."
+1377.0,3,"É 14.000, mas aí a estrada que era 80 km no caso do desse de 120 acredito que uns 20 mil seria. O cenário 20 20 e pouco seria um cenário que faz mais sentido agora 40 mil começa a ficar realmente até para fazer as contas de viabilidade [UNRESOLVED_ENTITY] teria que ter muito atendimento coisa que esse book de 120. Tem essa limitação, né?"
+1408.0,1,"É mas veja olha vamos imaginar que que tá nós temos aumentar né para o negócio ser eficiente e 50% aí a eficiência, né? Ou a diminuição de custo ou aumento de receita, né? Mas que o"
+1426.0,3,sim
+1427.0,1,"equivalente a 50% né? Em relação a isso daí eu não me preocuparia com isso em termos de planilha de viabilidade, porque porque a gente faria uma planilha de 10 anos começaria com esse custo cheio. E a gente ano a ano e a projetar uma diminuição do custo. Com uma justificativa de que vai ter escala vai ter tecnologias mais baratas que ainda vão ser desenvolvidas, né? Vai provavelmente vão ter outros parceiros, né? Para por isso não competindo com o outro, né? Porque hoje é um só né? Ele pode pedir o preço que quiser, né? Tem uma negociação que a gente pode tentar né? Então eu diria assim."
+1472.0,1,"Eu iria no sal continuaria no salto de fé que isso no futuro vai ser viável. Né, agora é realmente no primeiro mês enviava no primeiro ano certamente inviável, né? Mesmo que vocês começassem a operar ali, vamos dizer em no final do ano agora agosto, né? Depois do programa vocês começam a operar. O primeiro ano é negativo. Mas é para isso que vocês precisam da vento e colocar a capital para colocar esse negativo enquanto ele não é viável."
+1508.0,1,sabe
+1510.0,2,"Esse talvez você acha que caiba o [PERSON_A] a gente fazer uma projeção? De entrando em operação por exemplo óbvio, né? A gente tem uma projeção dos 100 mil aí que a gente tem para incubação, mas fazer"
+1523.0,1,isso
+1523.0,2,"uma da operação mesmo de pô, eles aumentam a nossa pista em quanto tempo a gente dá Brick, por exemplo."
+1531.0,1,"Mesmo mas isso é uma coisa que a gente deixa para última rock de vocês, né? Essa planilha né? A gente nunca nunca colocou ela aqui porque poxa nós não quer viabilizar os MVP. Não adianta nada a gente ter a planilha mais bonita ainda e também ainda estamos pegando os custos, né? Então a gente deixa mais para essa fase agora final a montagem dessa planilha que essa planilha você tem que ter ela para apresentar para ventre, né? E daí vai dizer bem assim, ó no primeiro ano nós o nosso fluxo de caixa é 500 mil negativo no segundo ano é 300 mil negativo. No outro ano é 100 mil e no quarto ano nós empatamos e do quinto para frente nós somos positivo numa velocidade muito grande, né? E daí 10 anos se diz Poxa que negócio bom, né? Como nós estamos falando com planilha, né? Lembra aquela brincadeira que eu falo, né? A gente Fica torturando a planilha até que ela que ela entrega o que a gente quer, né? E ator e como é que a gente vai torturar aumenta um pouquinho da receita Diminui um pouquinho o custo."
+1599.0,1,"Tudo dentro do razoável, não é assim o curso vai cair em 90% não vai cair 90% e pode-se nenhuma cai em 90%, Mas a gente não vai fazer isso também, né? Então tudo dentro do razoável. A gente vai colocando então. Eu diria assim, tire um pouco da preocupação de que ele é inviável no curto prazo. Porque toda Startup é inviável no curto prazo para isso que ela precisa de investidores para dar o capital para ela não futuro ser viável."
+1633.0,1,"Então essa preocupação não tem Eu acho que daí se tirar essa preocupação, eu acho que a preocupação agora é como viabilizar esse MVP, né? O Mateus já falou, né? Vamos fazer 30 dias, né? Mas ainda tem mais a negociação com eles, né?"
+1652.0,2,"É então, acho que a gente deveria já tentar de imediato negociar um pouquinho."
+1658.0,1,"A possibilidade de vocês terem uma receita e passar para eles, hein? os carregamentos Sai daí é um probleminha legal ali"
+1667.0,3,então
+1670.0,1,"tem que pôr o CNPJ deles tem que tem que fazer mas também é uma possibilidade não é uma coisa tão tão simples, né? É possibilidade."
+1680.0,2,É minha única preocupação aí é
+1680.0,1,que
+1682.0,2,"prazo. Porque Não Eu não sei se o ncm deles é classificação dele se ele pode emitir, por exemplo uma nota fiscal desse tipo de serviço. Talvez possa porque ele aluga gerador, né? Aluga 10."
+1695.0,1,"Você quiser dar um jeito, se quiser"
+1697.0,2,É hoje hoje que a gente tem pronto.
+1700.0,1,"dar um jeito até pode dar um jeito assim, vamos correr o risco nesses dois meses da fiscalização vim aqui dizer que nós estamos errado. Esse é um risco, né? E eles fazem um ajuste e o ajuste vai ser simples não era só uma experiência agora já parou né? Então quase que quando a fiscalização descobriu o evento já acabou, né? Então é um risco. Eu diria assim, se eu tivesse do outro lado, mas eu também sou um cara que talvez a risco um pouco mais né? E não fico muito preso nesse legalismo, mas eu a minha decisão seria assim, pode fazer daí o meu contador ia me encher o saco. Daí eu ia dizer para ele p**** de um jeito é para isso que eu pago. Você tem um jeito de fazer isso."
+1747.0,1,"E ele tem que dar um jeito daí Ah não, mas então a gente vai emitir uma nota. Mas pode o fiscal vir aqui reclamar então, tá bom? Esse é o risco. Tá então, mas isso vai depender de cada um né? Então, talvez Aí uma outra estratégia, eu não sei se vocês teria um segundo fornecedor aí. Para isso."
+1771.0,2,Que daria tempo de atender MVP.
+1776.0,1,então
+1776.0,2,"Que tem o [UNRESOLVED_ENTITY] pronto para a gente usar. Acho que nem o outro, né? Aí ontem e ela [UNRESOLVED_ENTITY]."
+1782.0,4,Não a gente tinha perguntado para ele se ele tinha eles falaram que não.
+1786.0,1,"As alternativas aí né? Então primeiro salto de fé vai ser viável. Nós vamos torcer isso no longo prazo, vai ser viado. Segundo [UNRESOLVED_ENTITY] negociar com eles. Terceiro ver se a gente consegue nessa negociação criar uma receita do aluguel e passar para eles, né da energia e passar para eles que daí o orçamento de vocês É menor, né? Porque daí parte do tá sendo financiado pelo próprio cliente, né? Nem que seja com desconto de 50% né? No começo."
+1822.0,1,"Pode dizer, não vamos dar um desconto promocional de 50%, mas é 50% que entrou [UNRESOLVED_ENTITY] 1000 para ajudar vocês no orçamento. Terceiro e para outra alternativa aí de fornecedor ver se consegue. O outro preço né?"
+1843.0,2,"Então, eu enxergo que aqui a gente tem que colocar uma que é. Negociar com a tecnologia era né? Que a gente pode ir com essa proposta 30 dias. E Caso haja receita deles para ele gerar um desconto em cima disso."
+1860.0,1,Isso é e depois Veja só o seguinte do ponto de vista deles. Se vocês não há lugar no que que eles vão fazer com esse equipamento.
+1873.0,2,"De fato até onde nós sabemos até onde ele abriu para a [UNRESOLVED_ENTITY]. Tá bem parado lá, né?"
+1879.0,1,Então ele já ele já fizeram um
+1880.0,4,Não tem contato nenhum.
+1883.0,1,"investimento. Ele já tomaram na cabeça, porque o investimento não foi feito com rentabilidade. Ele já estão com problema criado que agora é só custo e nada de receita, né? Então para eles se vocês derem 10 mil reais é bom. concorda Porque a alternativa deles é"
+1903.0,4,"Acho que tem que pagar o custo fixo dele que é o motorista, né?"
+1907.0,1,"alternativa deles é zero, né? Eu te dou 10.000 é o que dá no nosso orçamento e tem um orçamento de 100 mil aqui, mas já vinte já foi embora tem sobrou 80 eu tenho que gastar mais tanto tanto tanto sobrou isso daqui vocês são o nosso parceiro o equipamento de vocês já tá pago. Vocês não precisam por rentabilidade neles, ele tem que por rentabilidade no futuro que nem vocês, né? Na continuidade da ideia no futuro. Porque vocês nunca vão querer ter o ativo, né? Sempre é parceiros, né? Ele vai ser um parceiro dos ativos."
+1943.0,1,"Eu acho que tem que montar esse discurso ali com eles, né? E é negociar. E daí veja se vamos dizer que você renegocia lá 60 mil. E daí agora um mês só 30 mil. Vocês viabilizaram? E olha e conforme o apetite do"
+1966.0,2,Então vamos lá declarar uma. Tô colocando aqui ó negociar com a
+1974.0,1,"parceiro porque você viu que o parceiro podia fazer a zero, né? Porque já que o equipamento dele está parado, né? Se tem que vender muito a ideia do ganho futuro não do ganho atual, né? Eu ganho o futuro dele, tem que vender para eles o ganha o futuro vocês vão falar com dois parceiros vendem o futuro. Pode ser que um deles diga não então deixa não tem aluguel só cobra energia o que deve energia e a gente fica e pronto, pode ser que venha uma solução dessa dessa negociação de vocês, mas para isso vocês tem que vender um ganho para eles."
+2008.0,1,"Qual que é o ganho ou futuro aquele mercado enorme eles ganhando dinheiro crescendo [LOCATION_A] inteiro, né? Vamos pôr tudo lá já estão prontos."
+2030.0,2,tecnologia. Na cotação de aluguel para MVP o Mateus colocar no seu nome só porque você que tá no contato do João tá mas aí na hora de negociar com a gente. Marca reunião e
+2043.0,4,beleza
+2044.0,2,"Todos beleza, só que só para você poder marcar reunião com ele lá para a gente. Discutir Então vai."
+2052.0,1,"Esse negociar aqui tem uma fase inicial, né? Preparar-se para negociar, né? Tá você não pode ser você viu que tem um monte de coisa aqui que vocês tem que ir bem pensado. É quase que um pitzinho do [UNRESOLVED_ENTITY] que vocês tem que fazer sabe? Vamos. Qual é a dor deles, eles"
+2072.0,4,Ele ele.
+2074.0,1,"gastaram no equipamento que está ansioso. Qual é a solução de vocês vamos tirar ociosidade imediatamente durante dois meses pelo menos se a coisa provar logo em seguida a gente já começa a operar. Ele fica sem a ociosidade é com possibilidade de investir em novos equipamentos para atender o mercado, né? Acho que uma coisa desse, tipo tem que preparar-se, né? Então ele é um pitzinho de venda capriche no pitizinho."
+2106.0,1,Ele é tão importante quanto o que vocês vão preparar para dentro?
+2117.0,2,[UNRESOLVED_ENTITY] tá lá
+2127.0,1,"Daí aqui tem nessas duas partes, você tem a redução do custo e a redução do tempo, né? Que anotar ali porque isso foi discutido aqui, né? O Mateus falou né? A gente pode reduzir o custo do aluguel e o tempo dele para caber no orçamento, né? É isso que vocês precisam achar essas duas ideias aí é bom deixar né? E uma outra para outra fornecedor se vocês conseguirem."
+2164.0,2,"A gente tem uma questão aí que a gente pode até insistir novamente, mas a plugin não tá disposta a lugar para gente né?"
+2172.0,4,"Não, mas acho que vale a pena perguntar, né?"
+2175.0,2,"Perguntar de novo, né?"
+2182.0,1,Mas o que que ela faz com o equipamento nesse prazo?
+2187.0,4,"Para você não achou ruim delas, eles fazem algum tipo de serviço de [UNRESOLVED_ENTITY] assim. Que não envolve custo. Mas é mais uma forma de divulgação do produto."
+2199.0,1,Ele só tem
+2202.0,4,Eles tinham dois e no momento só tem um o outro eles acabaram vendendo desmontando.
+2208.0,1,Poxa por que que eles montaram?
+2212.0,4,Há provavelmente um era o suficiente para fazer essas espécies de showroom em clínica e tudo mais e os outros.
+2217.0,1,"Talvez o problema dele seja assim, não dá para se comprometer porque se tiver uma feira, eles tem que deslocar o equipamento, né? Mas isso dá para vocês negociar. A preocupação que eu não posso não ter o equipamento porque pode surgir uma feira uma demonstração de ser. Então tá bom. Vamos se ajeitar a gente tem aqui uma agenda de disponibilidade e a gente bloqueia agenda nesse período. Então exemplo dois meses, pode ser que dos dois meses quatro semanas, só tem agenda nos outros não tem dá para fazer também."
+2262.0,1,"Acho que vale a pena dar uma conversada com ele que vocês estão agora no outro. No outro nível assim de preocupação e de fase, né? A coisa tá começando né? Ou a pior alternativa para vocês é? Pagar 40 mil, né reduzir um mês e não reduziu o preço deles. Que também eu consideraria. importante fazer"
+2334.0,2,"Meu nome para dividir com Mateus. Então 4849 aqui. Bom, acho que tá discutida essa tá interessada. Temos as duas. então uma para negociar com a tecnologia era e um backup aí de propor novamente para pluguinho plano de local por um mês Podemos escolher outra aí, né? Vocês acham."
+2375.0,1,"Tem essa do tan sem som, né? Que tem aí uma apresentação agora já né?"
+2385.0,2,Você diz a 509 aqui.
+2388.0,3,Podemos ir não?
+2391.0,1,"Dá uma olhadinha aí, você tem uma outra aqui que vamos dizer incomoda mais vocês que essa né."
+2396.0,2,"O tan [UNRESOLVED_ENTITY] parece uma boa porque querendo ou não a gente vai ter que ter isso para mostrar para [UNRESOLVED_ENTITY], né? Você quer roubar o shared?"
+2404.0,3,Deixa eu pegar.
+2407.0,1,"Acho que eu não é aquele que eu falei não na outra reunião, né? É o filho da apresentação de vocês agora."
+2415.0,3,"O tamanho de mercado né? Pera aí, deixa eu. Eu compartilhar."
+2439.0,3,"Tá bom, deixa eu abrir o Excel aqui. Eu peguei uns dados tudo do [UNRESOLVED_ENTITY] assim senatrando número de veículos combustível da [UNRESOLVED_ENTITY] e o PIB. Assim eu enxerguei que o PIB é mais uma referência, né? Para ver que o mercado tá crescendo mais ou menos no ritmo do PIB. mas eu acabei usando mais os dados tanto de número de veículos, quanto o número de Litros de combustível vendidos né?"
+2478.0,1,"O PIB a gente usa assim. É difícil da gente fazer uma Projeção de número de veículos KM rodado, né? Mas a gente sabe que ela tem uma correlação forte com o crescimento do país, né?"
+2492.0,3,sim
+2493.0,1,"Economia tiver bombando com certeza vai ter mais veículo mais KM rodado, né? Então ele é uma ele é uma referência para a gente fazer uma previsão para o futuro. Qual que é o PIB que é esse azul aqui?"
+2511.0,3,O PIB é o azul?
+2513.0,1,Que tem em barrigot aqui daí melhorou um pouquinho.
+2516.0,3,é
+2517.0,1,"É então, você veja que ele teve um período. Que ele ele foi bem correlacionado no começo ali, né? O que que é o verde ali?"
+2530.0,3,O verde é emplacamentos.
+2532.0,1,"Então veja o PIB até 2014, né? Mais ou menos 2015, ele teve quase que uma correlação perfeita, né bem paralelo, daí ele acelerou"
+2543.0,2,sim
+2544.0,1,"bastante. O PIB e não veio emplacamento junto, né?"
+2552.0,3,"Sim, é o emplacamento é mais linear, né?"
+2554.0,1,"É ele não veio junto, ele deu uma puxada, mas não veio junto, né? Então, não sei se até é uma boa mesmo porque teria que entender, né? Porque que o PIB aumentou tanto e o emplacamento. Não aumentou nada. A taxa de crescimento nós vamos dizer a taxa de crescimento do PIB. Aumentou e a taxa de emplacamento. Não aumentou né? Provavelmente é porque o empresário sabe que vou de galinha, né? Eu não vou me preparar para atender voo de galinha, né? Que é bem isso que acontece, né? Você sai um voo né? E daí já cai ali na frente, né? Então seja uma explicação, né?"
+2593.0,3,A gente sabe que o carro estão mais caros e tudo mais então dá Uma segurada emplacamento.
+2602.0,1,"O carro subiu de preço um monte, né nesse período aí depois da pandemia Inacreditável, né? Que eles não tinham venda e o preço aumentava e eu e o vermelho então eu que"
+2615.0,3,combustível
+2616.0,1,"combustível e veja aqui também o combustível. Ele não tá subindo nem com emplacamento, né? E nem muito cupibi, né?"
+2628.0,3,"É em relação aos veículos, com"
+2628.0,1,"Provavelmente eu diria aqui que houve um aumento de eficiência, né?"
+2633.0,3,"certeza, ele não sobe da mesma taxa, né? Tá subindo um pouco, mas não na mesma taxa por conta do"
+2641.0,1,E una é isso 2021 de 2021 ali 2022
+2646.0,3,2020
+2650.0,1,"para frente quase que emplacamento e combustível foram juntos, né?"
+2656.0,3,iguais
+2657.0,1,"nesse período Eles foram iguais então você poderia até Usar isso como referência sabe eu projeto no futuro emplacamento. Baseado ou não no PIB, né que é uma dúvida se vale a pena fazer essa correlação cupibi. Que no [LOCATION_A] é complicado. Mas ali para frente a gente pode fazer a previsão as duas andarem meio juntas."
+2683.0,3,"Então, eu acabei. O que eu tentei fazer é projetar"
+2693.0,1,Fica muito fácil de você projetar
+2699.0,3,"tanto emplacamento. Quanto combustível? E aí na parte de emplacamento. Na verdade nem usei exatamente emplacamento, mas veículos em Que estão rodando né pelo senatran. E aí eu fiz a projeção tanto dos veículos mesmo que é bem linear, né? O aumento de veículos. Mas e aí a parcela de veículos eletrificados, né?"
+2730.0,1,"né? Porque se você fizer o ajuste de uma curva reta, né?"
+2734.0,3,isso
+2734.0,1,"No emplacamento histórico, ele é uma reta perfeita, né? Então eu prometo uma reta para frente."
+2740.0,3,"Sim, mas a parcela de eletrificados ela é exponencial, né?"
+2746.0,1,"Não daí, ela é aquela logística."
+2749.0,3,"Logística isso é ela tá no [UNRESOLVED_ENTITY], ela tá subindo bem forte agora. E aí e assim de combustível também assim se pegar é meio reto, mas tem uma subidinha no final então dá para tentar aproximar para uma uma reta também. Aumentando o meio linear, né? Aí o que eu fiz foi aqui tem a projeção primeiro dos veículos aqui tem tabela eu não coloquei no gráfico. Mas aqui até 2024 são dos últimos 10 anos, né dados de veículo então a participação de elétricos híbridos e o total."
+2797.0,3,"de veículos em circulação Dos últimos 10 anos e dá para ver que na verdade Cresceu mesmo nos últimos três assim que realmente cresceu aqui a parcela. E aí eu fiz uma projeção até fiz via chat GPT é a projeção dos próximos 10 anos. A gente pegar essa relação. E aí a conta de porcentagem de participação que que eu fiz? Essa porcentagem aqui eu fiz peguei sou meio elétrico com mais 10% do híbrido, porque o híbrido pelo que eu pesquisei é ele usa assim da parcela que ele usa entre combustível e eletricidade pura, né de ser carregado é mais ou menos 10% de eletricidade então. Peguei só 10% dessa parcela de híbrido mais o elétrico para dar o tanto de eletricidade que tá."
+2857.0,3,"Comendo a parcela do combustível, né? Que é o que eu vou pegar lá no do gráfico de venda de combustível."
+2864.0,1,E no final de 10 anos depois que atinge quanto de participação o veículo elétrico.
+2870.0,3,"Então entre elétricos e híbridos. Se somar 100% daria aí quase dois por cento, mas fazendo essa"
+2878.0,1,É muito.
+2880.0,3,consideração aí do 10% de híbrido. [UNRESOLVED_ENTITY] um por cento mais ou menos.
+2886.0,1,"Mas é muito baixo Imagine. A penetração vai ser muito maior que isso. Vamos dizer assim. Pode ser que tô entendendo coisa errada assim, você está dizendo 12 emplacamentos os carros circulando em 2024 ou dos emplacamentos de 2024. Melhor a pergunta é assim que vai ter vínculo elétrico híbrido e 100% bateria e vai ter gasolina diesel, né?"
+2920.0,3,"É aqui é mais os incirculação, né? Que aí que é o grande problema, né? Porque os emplacamentos realmente cresce bastante e ele pega mais a questão de híbrido elétrico, porque são os carros novos, né? Mas se você considerar que até a idade média de carros no [LOCATION_A] tem aumentado justamente por conta dos preços. Você vê que a participação dos elétricos fica um pouco mais tímida um pouco mais difícil de substituir a frota atual, né, mas é muito pela por preço e porque a frota atual vai ficando né? E ela é toda combustível, então além da frota atual tem a combustível ainda estão sendo vendidos, né? Então realmente fica mais difícil de aumentar esse mercado. [PARTNER_F] que aqui em [LOCATION_B] é um pouco mais fácil, mas mesmo assim tem essa dificuldade ainda."
+2978.0,1,"Não, mas então vamos lá tudo isso daí veja que você tá falando são os as Primícias da projeção, né?"
+2988.0,3,de emplacamento eu
+2989.0,1,"Fez uma premissa, né? Os carros elétrons agora a vida útil aumentou. Possivelmente por causa do investimento que aumentou né? Você tá Até você dá explicação porque que o combustível não sabe que nem a venda de carro, né? Aquela da eficiência, mas que eu vendo menos carro do que que tem tudo isso são as primeiras, mas daí o que eu tô dizendo assim em 2024. As vendas de veículos quanto por cento das vendas foram Veículos Elétricos e híbridos?"
+3027.0,3,"Não tá aqui eu tenho tem outra tabela que se eu não me engano tem essa informação. vou precisar procurar mas é ainda assim, não é muito coisa não eu"
+3044.0,1,"Esse é o percentual que é super importante agora a gente ter uma defesa sabe? Eu vou chutar ali no meu sentimento daqui 10 anos no mínimo entre 30 e 40% das vendas estão sendo feito com veículos elétricos. Pode ser que seja mais né? Eu não sou um especialista, né. Mas é muito tempo para só 30 com tudo isso que as indústrias estão investindo e todo mundo se voltando para elétrico."
+3082.0,1,"Eles estão prevendo muito mais né? Daí a pergunta é a gente não consegue uma informação de algum especialista de Quanto que seria a venda de veículos elétricos? Ou da própria [PARTNER_A], né? Porque a [PARTNER_A] também tem uma. Área de mercado futuro, né? Talvez não aqui no [LOCATION_A], né? Porque a inteligência da [PARTNER_A] tá mais na [LOCATION_E]. Mas ela a [PARTNER_A] para estar fazendo esse investimento em vínculo elétrico, ela tá prevendo que a participação dela vai ser importante."
+3121.0,1,Por isso que eu diria assim no mínimo 30.
+3131.0,3,Acho que na [UNRESOLVED_ENTITY] tem se dado bem rapidinho.
+3153.0,3,É mas o [PERSON_A] só hoje ó em 2024 foram vendidos veículos normais. Coisa de dois milhões e meio de veículos de veículos elétricos. Foi algo em torno de 120 mil Então ainda é um uma porcentagem.
+3180.0,1,"Então, mas é 4%, mas ela vai crescer tá certo? A pergunta agora é no final desses 10 anos, quanto que se quatro por cento vai estar Nessa tua projeção aí?"
+3195.0,3,De venda é?
+3199.0,1,"E que para isso, talvez a gente."
+3202.0,3,"Mas é que é que eu tentei fazer a projeção, mas baseada no número de veículos circulantes do que na venda, né? Porque é exatamente onde a gente tá. Tá tentando chegar, né atingir."
+3213.0,1,"Não não tá certo, mas veja é que eu tô preparando assim. Nisso, você não sabe responder do jeito que tá Qual é a participação em 2024 da venda de elétrico? Ele ficou perdido nesse"
+3229.0,3,tá
+3231.0,1,"número, né? E essa é uma pergunta que vão fazer. Que essa é uma pergunta mais fácil de das pessoas porque elas estão olhando todo ano, né? A modelo tal teve tanto por cento de participação modelo tal tanto por cento de participação, né? Então das vendas das vendas das vendas. Então vai ter a pergunta aí e você tem que estar com ela respondida, mas eu tenho certeza que ela tá aí"
+3255.0,3,sim
+3256.0,1,dentro.
+3257.0,2,"O Zé eu fiz uma pergunta rápida aqui óbvio, né? Não fiz o melhor prompt do mundo, mas tem 10 anos, qual seria a porcentagem da frota de elétricos e [UNRESOLVED_ENTITY] no [LOCATION_A], né? Ele colocou um monte de fonte aqui um monte de lugar. Falando que até 2035. É 65% das vendas de carros novos então 65% das vendas seriam de elétricos e híbridos plugin e que em 2004 se você a projeção é que a frota total."
+3297.0,2,É entre elétricos híbridos plugin a gente teria cerca de 11% da Frota.
+3307.0,1,"Então eu pegaria esse daí viria bem essa fonte, né? Se ela é uma fonte bem confiável que dá para a gente pôr ali no Na projeção, né e usaria esse número sabe e ele fez ali 2035 que nós estamos fazendo 2034, né? Em 2040 também é um pouquinho mais também daria para fazer assim, né?"
+3331.0,2,Mas acho que se já deu um número
+3332.0,1,"Veja tudo é premissa da projeção,"
+3334.0,2,"aqui com um monte de fonte. Mas a gente pode até escrever um promptzinho com calma, mas melhor e"
+3337.0,3,Melhor né?
+3339.0,2,tentar curar um pouquinho mais.
+3344.0,1,"né de vocês, né? Daí agora só para você entender como é que você põe a curva logística e assim nós chegamos ali em 2024 é quatro por cento. . Vamos dizer que a gente [UNRESOLVED_ENTITY] lá 2035. 50% né? Porque 60% era depois né? Mas essa 50% daí como é que eu"
+3364.0,3,"De venda, né?"
+3367.0,1,"faço esse quatro por cento chegar em 50% eu posso fazer uma reta? Eu posso fazer uma exponencial? Ou eu posso fazer a logística não posso fazer bolo também, então tem várias maneiras de fazer né? A única coisa que a logística é uma coisa assim. Ela é aceita para Projeção de venda de produtos novos. Porque todo produto novo demora para acelerar acelera e depois desacelera, né? Então em 10 anos chegou em 50% . Na curva do Meio, ela já tá virando dois potencial para o s segundo S da logística sabe então no meio disso, ela já começou a crescer menos."
+3421.0,1,"Então ela vem numa crescimento baixo crescimento bem alto, depois crescimento alto para crescimento baixo."
+3432.0,3,"Não, beleza."
+3434.0,1,Você tem todos os dados aí para fazer né?
+3436.0,3,Tá bom a gente vai por esse lado.
+3439.0,1,Tá daí Veja só o seguinte né? Você tá projetando direto que [UNRESOLVED_ENTITY] e hora né?
+3449.0,3,Ah então
+3449.0,1,Esse quilowattior como é que você correlacionou com combustível?
+3452.0,3,"então, eu fiz assim aqui é só Projeção de número de carros, né na questão do Combustível aliás do kilowatt hora né? Tem aqui o metro cúbico do combustível, né? [UNRESOLVED_ENTITY]. Então eu peguei etanol gasolina GLP e óleo diesel sendo que o óleo diesel seria para pesados. mais ou menos a eficiência do Etanoldo de consumo Km por litro, né? [UNRESOLVED_ENTITY] e GLP e diesel mais ou menos Com isso, eu peguei a quilometragem que os carros vão andar."
+3500.0,3,"Com essa litragem aqui, né? E aí multipliquei eu até fiz um slide disso."
+3510.0,1,"E daí, você fez uma projeção do quilômetro [UNRESOLVED_ENTITY]?"
+3514.0,3,"Foi assim, peguei o combustível vendido o consumo médio deu um quilometragem aí eu consumo médio dos veículos elétricos que é 6 Km por quilowatt-hora. E aí sim, peguei a porcentagem de veículos elétricos dentro da frota brasileira hoje. Aí deu quilowatt. Ora por ano total que é consumido hoje. E aí multipliquei pelo valor do kilowatt-hora médio e deu o marketing a mesma coisa para pesados. Fiquei um pouco na dúvida aqui do kilowatt, ora o preço do kilowatt hora se a gente considera o nosso preço para como se fosse o nosso valor de mercado ou se considera o a média hoje que é de 1 e 20."
+3559.0,3,"Considerando o carregamento em casa ou a média de venda que é r$ 2, eu fiquei um pouco na dúvida desse preço, eu acabei colocando em 20 que é a média total, né? Carregamento em casa que é bem menos de um real e carregamento na rua que é dois reais, mas tem uma parcela menor,"
+3576.0,1,É razoável fazer isso e mesmo que
+3577.0,3,né?
+3580.0,1,"eu de vocês seja mais caro, né?"
+3582.0,3,É o nosso é mais caro.
+3584.0,1,"Mas é mais caro, mas mesmo que seja mais caro, você pode fazer desse jeito quer dizer. Então seja você já fez o raciocínio para 2025, né?"
+3594.0,3,"É esse aqui é os dados atuais, né? Aí a partir disso. Aqui de acordo com o crescimento de veículos e tudo mais. Vou projetar o crescimento. Inclusive, eu projetei isso seria o tan, né? Aliás? Seria já o som, né? Porque eu já tô pegando a parcela dos elétricos, né?"
+3618.0,1,é o
+3620.0,3,"Não mentira. Esse é o tange ainda, né? É o [UNRESOLVED_ENTITY]. Aí o som seria. [LOCATION_B] e o [UNRESOLVED_ENTITY] o [UNRESOLVED_ENTITY] seria em [LOCATION_B] o som seria a nossa parcela, né? Quanto que a gente"
+3634.0,1,"O terno o terno é combustível e eletricidade que move carro, né É tudo né? Portanto é tudo o [UNRESOLVED_ENTITY] é eletricidade."
+3648.0,3,"Então, eu tava nessa dúvida [PERSON_A]. Pelo que eu tinha daí eu fui até caçar aí as coisas do tan Sansão, eu entendi até nas apresentações que vocês tinham mandado e eu dei uma olhada na apresentação da teseus também. Eu entendi que o tan seria o mercado geral. Mas aí o nosso mercado que é o dia elétrico não de combustível aí o som seria uma restrição geográfica. E o [UNRESOLVED_ENTITY], né? E o som seria o tanto que a gente vai abocanhar do mercado, quanto que a gente tem capacidade de pegar desse som e aí seria sei lá 10% do mercado de recarga de [LOCATION_B], vai ser nosso. Eu entendi isso."
+3693.0,1,"Pode ser feito assim também não tem não, tem aqui uma coisa assim de certo e errado, tá?"
+3700.0,3,tá
+3701.0,1,"Eu é que eu tô pensando assim o mais fácil aqui dentro dos números que você tem, né? Porque você tá projetando o tan é combustível eletricidade lá no final 2034, né. Então olha então em 2034. E você tem pouco erro, né? Porque você tá baseando no histórico de 10 anos da venda de combustível que Poxa a gente já viu lá que é uma reta muito boa de fazer né da projeção, né? Então veja eu tô discutindo aqui, qual é o mercado que vocês estão entrando é o mercado de combustíveis para veículos pesados e leves."
+3740.0,1,Certo. Qual que é o San eletricidade? Tá é um é só uma maneira de você fazer né? E qual que é o sono aí é a grande [LOCATION_B]. [LOCATION_B] [UNRESOLVED_ENTITY] ou alguma coisa?
+3757.0,3,É outra é outra consideração.
+3760.0,1,"Fica mais simples, né? Porque como é que você chegou no como, você não vai na explicação tua vai faltar uma explicação acima, né? Esse é o 300 e pouco é o mercado de eletricidade. Mas quanto que esse mercado de eletricidade é do mercado de combustível quanto por cento é tá vendo?"
+3782.0,3,"Esse aqui né 017% atualmente, né atualmente."
+3788.0,1,Nós tava projetado 2034 que vai ser
+3790.0,3,"aí a gente vai projetar sim, é"
+3790.0,1,melhor.
+3792.0,3,"então o que eu fiz aqui também o rascunho, mas foi mais ou menos o raciocínio que eu quero fazer para depois construir o [UNRESOLVED_ENTITY] mais bonito né o [UNRESOLVED_ENTITY] seria o mercado de combustível total, né aqui eu coloquei como quilometragem rodada, né? Mas e aí o market shared do EV aí dá o [UNRESOLVED_ENTITY]. Aí eu coloquei Mais um ponto que é. Bom tem duas coisas, né a porcentagem de [LOCATION_B] que é 30 e poucos por cento."
+3825.0,3,"E mais o shared apartamento porque a gente não vai carregar basicamente, né? Não vai carregar carro de pessoas que moram em casa mais de quem mora em apartamento que não tem infraestrutura. E aí é mais ou menos 25% mas a tendência é bem de alta pelo que eu pesquisei também aí saiu o [UNRESOLVED_ENTITY]. Que é geográfico e apartamento e aí o som seria o nosso Market share foi esse raciocínio que eu fiz que hoje é zero, né? [PARTNER_F] mas aí tentar projetar 40 e 60% alguma coisa do tipo."
+3862.0,3,tem todos esses crescimentos tem um crescimento de pessoas morando em apartamento crescimento do marketing dos veículos elétricos crescimento do mercado de combustível E o nosso crescimento.
+3878.0,1,"Está direitinho, não tenho nada contra tá muito bom, é só vamos tomar cuidado assim, né? É o som é o mercado que nós vamos mirar. Tá certo. Então é o mercado inteiro, mas vocês vão ter concorrentes, vocês não vão ser 100% dele. Daí é que entra a previsão de vendas. Aqui nós estamos falando de previsão de mercado, tá? Então é"
+3906.0,3,tá
+3907.0,1,"um só não é previsão de vendas. De vendas a gente vai fazer depois lá na planilha de excel lá, né?"
+3915.0,3,sim
+3915.0,1,"O som até 2034 lá ele vai ser tanto. Deve ser assim mais quanto que nós vamos pegar dele em 10 anos, talvez dizer assim 30% 40%, porque você nunca vai estar sozinho, né? É difícil porque se você tiver"
+3934.0,3,É [PARTNER_F].
+3936.0,1,três por cento tiver cinco concorrentes e você tiver 30% você é o maior de todos.
+3943.0,3,sim
+3944.0,1,"Porque seria 20% para cada um você tá provavelmente você é o maior de todos então você vê que daí é essa seria a previsão de vendas, então não confunda agora por visão de vendas com o som."
+3957.0,3,"Tá bom, beleza."
+3959.0,1,"Nesse teu comentário aqui nós estamos olhando o som e o que que nós temos que mostrar que esse som, vale a pena, né? Quanto que ele tá em Milhões ali?"
+3970.0,3,"É aqui 2027 28 milhões e assim considerando esses 40%, mas se considerar os 100% é 70 26 agora 70. e 270 em 2034"
+3985.0,1,Veja não é um mercado tão grande assim para uma tá mais mas depois a
+3989.0,3,Não.
+3991.0,1,[UNRESOLVED_ENTITY] pode ver se a gente brincando com esses números agora a gente consegue aumentar ele um pouquinho mais né?
+3996.0,3,"É mas é que nem a gente tava falando, né o market share dos veículos elétricos, se a gente considerar mais aqui, eu tô considerando 1% em 2034, a gente pode considerar cinco já multiplicou por cinco aqui esse número."
+4009.0,1,"Não e é bem mais, né? Porque você viu ali que o quanto que deu lá da do teu prompt no chat de [UNRESOLVED_ENTITY] ali."
+4016.0,3,"Tinha dado 11 em 2040, né?"
+4020.0,2,por cento da frota total em 2040
+4021.0,1,"então Então 11, por cento é 10 vezes isso daí agora veja como a tua apresentação ficou legal, né? Nós estamos no mercado de 2 bilhões. Esse é o brilho, né? Agora não quiser ver o resto da apresentação que não se interessou por no mercado 2 milhões. Mas é difícil alguém não querer ver o resto da apresentação com o mercado de 2 Bilhões, né? Eu acho que eu é por aí que a gente vai chegar."
+4058.0,1,Daí não confunda com as vendas que isso nós vamos depois fazer a projeção de vendas.
+4062.0,3,"Tá bom, beleza. Bom, tá bom. Acho que tem uma lição de casa aqui de dar uma."
+4068.0,1,"E daí veja volta naquela curva lá,"
+4068.0,3,esse aqui
+4070.0,1,"eu gosto daquela curva Inicial que você fez no histórico. Não aquela dos três dessa daí, né? Sabe para mim o legal era se você colocasse o tan Sansão assim. Para frente continuo continuando esse slide sabe como? Porque daí você mostraria que a curvinha verde, você tá prevendo uma reta desse jeito, né? Que é o veículos. Você tá prevendo desse jeito, né? E daí vai ter ali participação de veículos elétricos que tá começando com quatro por cento e vai chegar lá 40 50% daí ela vai vai aparecer a curva logística, a curva conhece, né? Coisa assim vai aparecer tudo no gráfico. Eu acho que fica super legal."
+4123.0,3,Eu vou colocar o gráfico aí faltou ainda.
+4127.0,1,"mas faz a partir desse daí e vai colocando [UNRESOLVED_ENTITY] porque isso Daí vai aparecer [UNRESOLVED_ENTITY] que é quanto que eu vou pegar do [UNRESOLVED_ENTITY] e vai aparecer som que é um percentual do mercado do [LOCATION_A], né? Mas eu acho que tá muito bom, não sei se vai vai conseguir todo esse detalhamento assim, se você consegue fazer para essa reunião agora, né?"
+4153.0,3,Não vou fazer.
+4154.0,1,"Quinta-feira né? Mas se você mostrar esse gráfico completinho, você não precisa mostrar mais nada. Só precisa ter a manchete é um mercado de 2 bilhões."
+4170.0,3,"É setor a planilha, né?"
+4175.0,1,"Não com tudo isso que a gente conversou e vai sabe essas [UNRESOLVED_ENTITY] que você dispõe, eu fiz aquilo o carro elétrico é tanto que não sei o que lá que o híbrida tanto tudo isso são premissas que você tem que deixar notadinho, né? Porque se você mudar uma premissa daí você muda tudo automático, né? Ah, vamos fazer um outro cenário com uma premissa tal daí ele já fez tudo. Já fez todo o ajuste para você."
+4202.0,1,"Que até em função da conversa com eles você pode sentir, né? Que premissas que eu tenho que melhorar a explicação. Excelente para a próxima por mim."
+4213.0,3,Beleza boa
+4218.0,2,show de bola Show deixa eu retomar o share aqui. Tem um botãozinho que retoma só tô tentando.
+4231.0,3,Já tá achariando?
+4232.0,2,Já tá na tela boa.
+4233.0,3,Ele não cai quando eu entro.
+4236.0,2,"pessoal, eu acho que essa aqui a gente fechou, né definir estratégia da Tá tudo fechado, né? Então, vamos. 36 39 isso dos 36 e 39 Foi feito foi feito então tá certo. São duas na verdade é 48. 48 Vamos colocar [UNRESOLVED_ENTITY] aqui."
+4323.0,2,Vamos dar uma olhada aí pessoal ver se a gente encontra mais alguma.
+4350.0,2,É que o Zé tá curando ainda.
+4353.0,4,59 já não foi feita.
+4357.0,1,"É só que nós estamos discutindo agora, né? Não ele tá no comecinho, né que"
+4373.0,4,isso
+4376.0,3,assim que Assim Considerando o número de veículos elétricos que a [PARTNER_A] tá tá vendendo para saber o tamanho de mercado de pesados e a gente descobriu que ele é ridiculamente pequeno.
+4393.0,1,"nós chegamos agora depois de três anos, né? Então você veja ele cresceu assim. Provavelmente o primeiro ano 05 um e-mail e chegou em quatro né?"
+4405.0,3,É mas esse é de
+4405.0,1,"Isso vai acontecer se você quiser fazer você pode usar até a tua curva S de novo, tá você pode dizer bem assim as vendas de veículos pesados, hoje é 0,1. Daí agora quanto que ela vai ser lá daqui 10 anos. Ah, ela vai ser tanto por cento da frota de veículos pesados, né? Daí você faz a mesma curva essa sabe? É o raciocínio é o mesmo daí? Fica bem legal fazer assim, sabe? Porque fica bem assim consistente, né? Ah daí uma coisa que esqueci de falar assim voltando lá, né? Porque eu fazia Projeção de mercado de eletricidade no [LOCATION_A], né? Trabalhava com isso."
+4454.0,1,"E daí tinha o estudo até que era feito lá na [UNRESOLVED_ENTITY] antigamente, depois passou lá para o governo, né? Que é a previsão da venda de energia no [LOCATION_A], né? E sempre eles começavam a venda de energia todas as energias combustível tudo sabe. E daí para fazer uma correlação entre a eletricidade gasolina álcool, eles usavam uma unidade chamada toneladas equivalentes de petróleo. Sabe porque para você ter tantos quilowatts, você gastou o equivalente a tantas toneladas equivalentes de petróleo."
+4495.0,1,"eu não sei se você não tem que Não sei se você já bateu com isso em algum lugar porque eu vi que você começou a fazer uma equivalência ali, né? dos combustíveis"
+4507.0,3,"é na verdade, eu acabei fazendo isso não para tipo btu, né que é energia meio [UNRESOLVED_ENTITY], mas barri de petróleo, não é um negócio assim,"
+4519.0,1,É que eu que é como se chega as
+4520.0,3,mas
+4520.0,1,"toneladas equivalentes de petróleo,"
+4521.0,3,É aí eu pela eficiência média dos veículos movidos a tal combustível. Aí eu tentei padronizar por esse lado.
+4534.0,1,"então só veja se você em algum momento se bater com isso utilize isso tá? Porque daí isso é uma coisa meio usual, né?"
+4546.0,3,Tá bom.
+4548.0,1,"Você não vai por essa eficiência que você fez e essa eficiência. Veja uma premissa que você tem que ter uma justificativa também, né"
+4554.0,3,sim
+4555.0,1,uma fonte né? essa 61 não é importante já que Vai existir vão começar os mvps.
+4579.0,2,"Na verdade a gente usando da plugin não tem esse problema, né com a tecnologia era a gente precisa de fato viabilizar. A gente já tem até um parceiro"
+4590.0,4,"Já tá interessado na 44, né?"
+4592.0,2,mapeado para isso.
+4594.0,1,E a tecnologia era não tá na lista dos mvps agora?
+4598.0,2,Tá tá assim é aquela que a gente tem que renegociar a proposta deles com o aluguel. Tava bem alto.
+4605.0,1,"Então e isso daqui não é importante aí para o MVP, não sei porque não é fácil viabilizar isso, né? é"
+4617.0,4,Não é tão difícil não.
+4621.0,2,Aqui não. Tem uma 44 que o Mateus está trabalhando já? Para viabilizar esses carregadores
+4631.0,1,Tranquilo então
+4633.0,2,Data um Track o que eu acho que a
+4634.0,1,tá
+4635.0,2,"[UNRESOLVED_ENTITY] pode gastar óbvio não vai dar tempo muito tempo, a gente tem até o fechamento aí 7 minutinhos. Mas só bateu o martelo a gente vai ter que apresentar algo para [UNRESOLVED_ENTITY] quanto ao Road map de como a gente pretende atender os pesados. Aí eu queria ver o que vocês pensam na minha opinião, a gente deveria seguir por um caminho. De falar sobre a reunião que a gente tem agendada para falar de [UNRESOLVED_ENTITY]."
+4665.0,2,E a intenção que o pessoal do lry da engenharia de validação teste da [PARTNER_A]. Da intenção deles fazerem MVP com a gente lá em [UNRESOLVED_ENTITY].
+4678.0,1,Isso que você que nos dez anos
+4678.0,2,"Eu acho eu acho que todas as outras coisas que a gente cogitou. Eu também não vejo muita solidez de levar para eles tipo grau e etc, entendeu? Eu queria ouvir de vocês também que vocês pensam vocês acham que é isso que a gente tem que levar porque eu acho bastante importante a gente levar algo de pesados para eles na quinta."
+4702.0,3,"Eu acho que dá para eu acho que é isso aí falar que a gente já conversou com o pessoal sabe que pelo menos aqui na [UNRESOLVED_ENTITY] o mercado ainda é muito pequeno. Para a gente entrar e ser minimamente rentável, mas que a gente já tá comprando."
+4718.0,2,"Até para mostrar que a gente dá um passo à frente, né?"
+4722.0,1,"aquilo que a gente comentou, né? Talvez o quatro por cento do pesado seja em 2030 agora, né? Por Exemplo né? Então, vocês já estão se preparando? E para isso vocês já conversaram? com a [PARTNER_A] já estão conversando com grau etc para ver como é que Pode encaixar isso, né? Pode pegar todas as conversas que vocês tenham onde pode envolver pesado, você já estamos investigando. Talvez não tenha ainda um aprendizado validado, né? Se tiver já apresenta ele também."
+4762.0,2,Talvez algo que me veio a cabeça agora mencionar que a gente já teve uma reunião com a Irineu pelo fato da Irineu ser uma iniciativa.
+4771.0,1,e isso
+4771.0,2,"E também tá no guarda-chuva da [UNRESOLVED_ENTITY] para que a gente já teve uma reunião que a gente gosta que a gente tá aprofundando nesse tema para entender de que forma também que a gente teria adesão aí ao negócio. da Irineu, eu acho que mais como uma questão de causar um impacto neles de que p**** que a gente tá"
+4791.0,1,Tá pensando no assunto?
+4792.0,2,Pensando que a gente está mergulhando no assunto que a gente tem feito contato assim importantes e tal.
+4798.0,1,"E isso que vocês estão no caminho da investigação ainda, né? Mas veja vocês estarem na investigação, não é um ponto negativo é um ponto positivo, vocês têm que transformar isso no ponto positivo. Olha eu não tenho um monte de coisa, né? Vocês se vocês forem colocar eu não tenho aí é muita coisa que vocês não tem né? Então vocês tem que pôr na artilharia não o que que eu já tenho. Eu já conversei para entender. Como é que é o ônibus, como é que vai ser pesado tá dentro dos dez anos mais agora é pouco. Talvez até um MVP surge aí com a com a [PARTNER_A], né? Para a gente já fazer um MVP pesado, mas ele não é uma solução que tem que estar pronto nesses seis meses muito menos, talvez mesmo um ano depois de vocês começarem, né? Mas vocês tem que mostrar que vocês estão indo para esse mercado."
+4857.0,1,"E vão vão com o aprendizado que você já estão do leve, né? Então você vê como vocês têm aprendizado, ele sabe e daí se vocês ainda não conversaram com Graal, estamos agendando reunião com os restaurantes tal da para a gente entender como é que é o problema deles e daí isso propor uma solução, né? As concessionárias né? Você vê como vocês tem coisa positiva, né? Se vocês disseram concessionárias grau e outros, né."
+4890.0,1,"Já é um super começo, né? E já é importante e daí vocês estão demonstrando que vocês têm capacidade de executar? Porque antes deles darem dinheiro para vocês, eles têm que ter a confiança que se der o dinheiro para vocês vocês vão fazer."
+4912.0,2,"Tá para aproveitar esses Três minutinhos aí antes de ir para o encerramento aí também outra dúvida que me veio a cabeça até para a gente tem desse declarar isso ou não? Na semana passada, [PERSON_A], a gente teve uma reunião com uma das pessoas que pilota o questão de Economia circular para baterias lá na desenvolvimento de bens na verdade, né, Mateus. o [UNRESOLVED_ENTITY]"
+4938.0,4,"É ele é responsável por economia circular de baterias, né? Eu"
+4942.0,2,É porque a gente que a gente tinha
+4942.0,4,utilizar a reciclar ou ressignificar.
+4947.0,2,"falado de colocar no nosso Road map, né? Inclusive ser um destino para baterias reutilizáveis no futuro, né? Fazer bateria segunda vida virarem os Power Banks. Mas a gente ouviu dele que tá tudo muito embrionário ainda, né? Que algo muito menor do que a gente. Imaginava que já tivesse né?"
+4969.0,1,Da onde que é esse da [PARTNER_A] mesmo?
+4972.0,2,[PARTNER_A] [LOCATION_E]
+4976.0,1,"E ele ele já tá preocupado com as baterias dos pesados, ele tem que dar um jeito nelas, é isso?"
+4982.0,2,É uma das [UNRESOLVED_ENTITY] dele.
+4985.0,1,"Tá é mais um aprendizado que vocês têm que demonstrar ali ó, já estamos falando com ele lá com Fulano, né para entender bem o problema que nós também. Podemos trabalhar com isso, né? Já está no nosso Road map que nós temos que dar um jeito de De cuidar das Baterias que não são reaproveitadas eu dar uma segunda vida, né? Então já estamos fazendo isso. Agora qual que seria a questão?"
+5012.0,2,"A questão é que pelo que ele mostrou para a gente ainda não nem ele sabe o que fazer direito, né?"
+5019.0,1,mas
+5020.0,2,É muito muito embrionário.
+5023.0,1,"É óbvio, né?"
+5023.0,3,Ele falou que não tem né? Não tem ainda e nos próximos sei lá três anos não vai ter ainda. bateria para eles fazerem nada
+5031.0,1,"É óbvio, né? É interessante que ele já estão pagando um cara para ficar estudando isso, né?"
+5036.0,2,Talvez o que a gente pode tirar de
+5037.0,1,Eu não teria pago mas mas tudo bem.
+5038.0,2,proveito.
+5040.0,1,"Vai de cada um né, mas veja a importância que as montadoras estão dando para um elétrico, né?"
+5047.0,2,"Talvez a gente possa colocar isso até como uma das unifar Advantage, né? Já tem time na scanner olhando desenvolvendo no hall para isso, né?"
+5055.0,1,"E isso e vocês vão vender lembra aquela historinha do [UNRESOLVED_ENTITY] lá, né? Que ele quando ele começou era duas horas para baixar um filme, né? Mas ele começou ele não ficou esperando a tecnologia vir para ele começar ele começou com duas horas. É a mesma coisa vocês aqui, vocês já sabem que nesse Road map de 10 anos o quanto por cento do mercado que tiver alguma coisa que já dá para começar a fazer uns MVP alguma coisa que dá para começar a fazer alguma receita daqui cinco anos."
+5093.0,1,"Mas vocês tem que dizer né? No aprendizado aí que você já falaram com ele que tá no Road map de vocês que encaixa lá com a solução que eles Possivelmente vão existir né que nem a [UNRESOLVED_ENTITY] Possivelmente vai existir download mais rápido. Mas o [UNRESOLVED_ENTITY] não ia investir em download mais rápido, né? Ele ficou contando que alguém ia estar fazendo façam esse paralelo e é mais uma investigação positiva que vocês estão fazendo."
+5124.0,1,E que vai encaixar no modelo de negócio de vocês.
+5129.0,2,Não excelente que tá tá [PARTNER_F].
+5131.0,1,"Porque daí veja como é que no negócio de avaliação que eles vão dizer. Ah, não encaixa com a estratégia da [PARTNER_A], você já estão pagando salário por um bosta lá que não tem nada para fazer agora vai dizer que o nosso Não interessa. Não fale desse jeito, tá?"
+5152.0,2,Como que a gente pode usar isso no discurso e acho que é válido que a gente coloque no Nesse discurso para quinta-feira.
+5158.0,1,"Eu achei a tua ideia super boa de você já colocar um slide para conversar com eles que vocês já estão trabalhando no roadmap do pesado que ele vem depois que hoje é muito pequeno vai começar só daqui quatro cinco anos que vai ter um mercado aí para trabalhar, mas que ele vai se encaixar direitinho no negócio de vocês."
+5182.0,2,show de bola perfeito
+5183.0,1,"Porque daí vocês estão justificando. Por que que vocês querem começar agora e não [UNRESOLVED_ENTITY] três anos. É todo um aprendizado que vocês vão ter veículos leves, né? Se vocês vão transformar para ver."
+5195.0,2,"E onde tem dinheiro para já começar a morder agora é no leve não tem no pesado ainda, né?"
+5200.0,1,"Onde tem mercado, né? Para eu testar que nem o [UNRESOLVED_ENTITY], ele tava testando o mercado."
+5207.0,2,Bom muito bom.
+5209.0,1,Aprendeu né. Que que o mercado fazia como é que ele pontua os filme tudo ele foi desenvolvendo antes da tecnologia tá pronta.
+5219.0,2,"Hoje a gente tem outras coisas para fazer mas acho que terça e quarta a gente consegue dar bastante foco Talvez né? Para ter essa apresentação pronta para para eles acho que seria bacana, de repente a gente dividir na Com vocês para você ir para o [PERSON_A] devem dar uma olhada."
+5240.0,1,É que vai ser vai ser.
+5243.0,2,"Vocês vão estar com a life na quinta também, né?"
+5247.0,1,"Na quinta nós vamos estar e também o Gabriel convidou a gente para uma reunião com eles pela manhã às 9 horas, sabe? Então e provavelmente vocês estão nessa nesse rol de reuniões aí. Mais provávelmente o [PERSON_A] ainda não definiu que ele tá olhando a agenda lá dele que talvez a gente só consiga participar mesmo não presencial, né? Mas se der a gente"
+5273.0,2,sim
+5274.0,1,"vai participar e daí quarta-feira, a gente estaria aí sabe?"
+5280.0,2,ok
+5280.0,1,"Se der, né agora mesmo que a gente não esteja se você estiver em algum ponto que vocês acham que vale a pena, manda um WhatsApp que a gente tenta encaixar uma conversazinha ali"
+5291.0,2,combinado
+5292.0,1,"daí [UNRESOLVED_ENTITY] os pontos que vocês estão em dúvida, se você achar que a gente pode ajudar, né? Não deixe de pelo menos a gente aqui e a gente agenda, né? Trabalhem aí acho que vocês têm dois dias, aí eu tô muito assim impressionado, né com a quantidade de aprendizado validado que você já tem o que vocês caminharam até agora, né? Se vocês compararem com que vocês estavam aqui? Dois meses atrás, né? E como vocês estão hoje, né? Vocês estão muito [UNRESOLVED_ENTITY], eu acho que tá espetacular vocês têm bastante material para fazer uma coisa boa, mas o mais importante vocês têm conteúdo para reunião porque não adianta nada ter material se vocês não tem conteúdo porque sempre vem uma questão que vocês não conseguiram colocar no material desse aprendizado de vocês."
+5352.0,2,show de bola show de bola se pintar alguma dúvida a gente manda assim para a gente fazer o
+5357.0,1,"E até a mesma coisa é isso? Se você quiser depois fazer a planilha compartilhar planilha comigo e dizer o que que você acha, né? Tô em dúvida nesse ponto naquele outro ponto. Não pode ser desculpa por uma coisa"
+5370.0,3,"Beleza, valeu."
+5373.0,1,dessa agora.
+5377.0,2,"Legal, acho que foi reunião hoje da minha parte, pelo menos não tem muito o que falar não, né? Conectamos todos no horário conseguimos discutir tudo passar por todos os pontos é 10 hoje."
+5388.0,3,Para mim também.
+5392.0,4,É também.
+5393.0,1,"Legal. Que bom. E vocês estão realmente fazendo uma reunião nota 10? Pessoal, parabéns nos vemos essa semana com certeza aí com vocês pessoalmente, né? Estamos super animados aí."
+5408.0,2,show de bola
+5409.0,1,Ativas são grandes e o trabalho de vocês vai ser enorme. Se prepare.
+5414.0,2,"Bora, bora trabalhar. Um abraço."
+5416.0,1,"Um abraço, tchau."
+5416.0,3,Beleza. Falou [PERSON_A].
+5418.0,4,valeu

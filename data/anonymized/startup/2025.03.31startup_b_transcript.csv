@@ -1,0 +1,442 @@
+onset_seconds,speaker_id,text
+0.0,1,Bom dia [PERSON_B].
+2.0,2,Esperar a turma aí aparecer.
+4.0,1,Tudo ótimo. Tem mais alguém chegando?
+55.0,1,[UNRESOLVED_ENTITY] dia Tainá.
+62.0,3,Bom dia tudo bem?
+63.0,1,tudo Que aconteceu com [UNRESOLVED_ENTITY]?
+76.0,2,"Acho que nada, deixa eu mandar uma mensagem para ele aqui."
+79.0,3,Ele tá online.
+92.0,4,"Hi, I’m transcribing this call with my Tactiq AI Extension: https://tactiq.io/r/transcribing"
+99.0,1,Outras notícias como é que foi essa semana?
+109.0,2,"Bom tivemos várias reuniões aí, né ficar mais importante delas com racha."
+110.0,3,Bom dia
+124.0,5,compartilhar
+144.0,2,"E foi bom o pessoal pode comentar também feeling deles, mas eu achei a reunião muito boa assim em relação ao que a gente a imaginava que ia acontecer e que aconteceu de verdade assim, ele foi bem solícito. Não questionou nada sobre a não tem nada a ver com [PARTNER_A] nada a ver com o trator no questionamento pensando nesse sentido. E ele também comentou que não tem dúvida sobre o problema que a gente está querendo resolver."
+174.0,2,"E também passou ele alguns direcionamento de algumas perguntas que ele quer que a gente responda então a gente até já trabalhou nisso, né ao longo da semana aquela coisa a gente comparar o kit aqui. e faz basicamente ele falou cara, me traz uma respostas de porque vocês porque agora é porque a [PARTNER_A] vocês conseguiram responder essas três perguntas, eu acho que a gente consegue ter um caminho então assim pelo menos meu sentimento é que foi bem melhor do que Va esperando a gente toma um monte pancada e não foi assim então trabalham bastante nos feedback escreveu."
+211.0,2,"Para colocar também tivemos uma reunião com o link para repassar a questão de cursos etc, então finalizando agora essa parte do Pit. E acho que é isso gente querem comentar alguma coisa."
+225.0,5,"Acho que em resumo Isso mesmo o feedback do [UNRESOLVED_ENTITY] foi muito bom a conversa com lindinei a gente conseguiu pegar bastante coisa também. Ele gostou do da forma como a gente só deu uma dica de como a gente segmentar melhor a questão das despesas que estava um negócio meio frutado assim, ele falou tá certo que é uma estimativa, vocês não vão conseguir descobrir o valor por hora das coisas certinho, mas tenta pensar por exemplo lá no começo a gente investe mais em marketing, depois a gente investe mais operacional como fazer esse balanço, ele deu algumas dicas. A gente considerou o da plataforma como operacional."
+263.0,1,"são três contas que você tem que fazer quatro no caso de vocês assim é o comercial, né que você tá todo o ou operacional e o administrativo financeiro Como vocês têm um pesado que é investimento na plataforma, né? É o quarto. Você tem que separar em quatro grupos. Não não dá porque ele não é despesa, ele é investimento. Então você para sabe? Porque quando é investimento não entra na dre sabe?"
+302.0,5,"Entende, mas aí no caso a manutenção mensal entraria o servidor essas coisas"
+306.0,1,enfim
+308.0,5,é só o desenvolvimento Inicial certo.
+312.0,1,"É que no caso de vocês não é Inicial tem que imaginar que uma [UNRESOLVED_ENTITY]. Capta dinheiro para investir na tecnologia, né? E as rodadas né? A primeira rodada vamos fazer isso e isso isso na segunda isso sempre vai estar atrás de dinheiro para Para desenvolver a tecnologia, né? Então separa porque daí é investimento, daí o que que entra na Dr. A depreciação ou do investimento só."
+345.0,1,"Que normalmente tecnologia você deprecia em 5 anos? Então, então vamos dizer bem assim, eu gastei vou pegar assim 5 anos são 60 meses, né? Gastei 60 mil. Então vai entrar na Dr. Mil por mês. Para tirar o lucro, né?"
+367.0,5,Tá certo
+367.0,1,"Tá certo para frente então mais alguma notícia é ser muito boa, né?"
+375.0,2,"Acho que essa foram as duas principais aí essa semana a gente vai ter reunião com o [UNRESOLVED_ENTITY] que é o VP de seus é marketing também vai ter a reunião com Ronaldo que é o diretor do Gil. e Tem mais [UNRESOLVED_ENTITY], né? Gente que eu tinha visto lá."
+391.0,3,Tem mais uma eu acho.
+392.0,1,do [UNRESOLVED_ENTITY] tá tranquilo também o
+397.0,2,"é já a gente está fazendo basicamente aquela esquema do Que a gente tinha feito com a massa, né? A gente teve a reunião com ele, aí acho que foi na última semana também, né com o pessoal da área dele para apresentar a ideia e tentar encontrar essas [UNRESOLVED_ENTITY], né? Que a gente tinha elaborado. É basicamente esse também de compartilhar um pouco do nosso trabalho, né? E também tentar ver se a gente consegue ter um feed com a área, né? A gente tem as perguntinhas ali."
+431.0,2,"A mão [PARTNER_F] que algumas alianças rápidas, mas para pelo menos e tentando cavar um pouquinho a nossa cova para ver se naqueles três opções que a gente tem a gente consegue encontrar mais alguma lá de home, né? Então estamos nessa linha."
+450.0,3,Tem com gel são de projetos.
+452.0,2,É temos que é o acima do tá massa lá que a gente. Falou na rock então duas delas são amanhã as três são amanhã.
+463.0,3,não acho que não o [PERSON_B] o
+467.0,2,aquele bate-papo projeto de inovação às 11 horas da manhã com ele com
+471.0,3,O [UNRESOLVED_ENTITY] mas ele é chefe do Ed.
+474.0,2,"Ah tá, mas ele tá acima tá off lá na office."
+478.0,3,Mas o tabasse ele tá na lmspi.
+483.0,2,"Então mas enfim as três serão amanhã, eu acho que Para quarta-feira a gente já consegue ter uma finaleira aí do que dá para agregar ou não uma vez que os anjos já é na sexta, né? Tá bom pode passar na no ids a gente pode e a gente dá uma passada."
+505.0,1,Dá uma passadinha.
+510.0,2,"Ainda não tem acho que o Gabriel ainda não marcou, né gente na sexta-feira. Você atualizou esses dados aí."
+531.0,5,"OK agora o score. Eu dei uma passada aqui no questão do E eu atualizei esses esse aqui o custo meu que estava 4 e meio passou para cinco e meio vocês querem abrir os tópicos. E depois eu passo para vocês um resumindo eu passei da outra vez, o que que a gente atende que a gente não atende pois."
+558.0,1,"Uma discussão boa assim vocês fazerem para se preparar, né? Para as perguntas se preparar, né? Porque ele eu categar levanta questões bem importantes e relevantes, né? Ela é uma régua, né? Eu diria assim que até a gente já fez uma reunião junto ali com a [STARTUP_A], né? Eu acho que assim a força do kth agora, ela perdeu um pouquinho de acender importância, né? Aquela importância de a gente fazer um pit que é que a vento e fosse investir a gente já sabe que a vento ele não investe nessa hora, né? Então ele não serve para Para nos ajudar com o vento porque ela não vai mesmo investir por mais que a gente pode se Tente pegar as evidências melhor possível. A gente não tem esse objetivo, mas Aplicativo de você saber lá que você tem que ter evidências de curso também como é que elas estão de tecnologia? Como é que elas estão é uma reflexão que vocês têm que ter porque é o assunto ideal de uma pergunta de qualquer um ali dos [UNRESOLVED_ENTITY] ou do próprio da vento, né? Então não sei como é que vocês querem fazer isso. Eu acho essa reflexão importante para preparação de vocês individualmente, né? Sabe como na fase da pergunta das colocações, você já tão voltando antecipado. Com certeza ele ajuda nisso."
+652.0,1,"Daí agora vocês vem se vocês querem passar ele agora ou depois o que seria mais importante, né?"
+661.0,5,Acho que por hora. Eu digo aí que a gente levantou esses dois pontos que é tecnologia e o time o time e [UNRESOLVED_ENTITY] ficaram dentro desse se não puder a gente trata a parte depois.
+677.0,1,"Tá bom então quer colocar uma discussão do kth para para preparação da equipe Para as reuniões, né? Esse é o objetivo, não é para Para convencer."
+694.0,5,E aí questão de
+703.0,1,"Aquele negócio que vocês têm que pegar as evidências. E torcer, né? Olha. Vocês falaram que o caminhão não não caminhão não porque não tem bateria de caminhão, né? Mas é só uma atrás do mercado do que tinha, né? então E isso é igual né? Isso é muito parecido. Tem que ter esse discurso meio afinado, né?"
+738.0,5,"número de vírus aqui, tá"
+740.0,1,"E aquele negócio [UNRESOLVED_ENTITY] como é que tá isso? Lembra é uma evidência boa também mesmo que vocês não conseguiram a conexão, né?"
+760.0,5,Eu peguei os últimos.
+764.0,2,Eu tinha visto isso.
+766.0,5,"aí Que me preocupou aquela questão da distribuição. Do [LOCATION_A] versus outros países, tipo assim metade está praticamente na [UNRESOLVED_ENTITY]."
+782.0,1,"Mas é veja eu acho que tem. Que demonstre a importância né? Vocês são uma solução Mundial, né?"
+793.0,2,Qual que é o número atualizado 4?
+797.0,5,Mas ao mesmo tempo.
+797.0,3,Mas precisa detalhar o local será?
+799.0,1,"Não é que se vocês forem usar isso como uma evidência de que essa dor é maior é tão importante fora do [LOCATION_A] quanto no [LOCATION_A] né? Porque talvez não seja uma dor lá na [LOCATION_E]. Tá certo? A [LOCATION_E] é mais organizado. Mas vocês terem essa evidência, puxa metade é bastante sabe? Talvez a sugestão seria assim número de visitantes. [LOCATION_A] e fora"
+829.0,5,Pode ser para mim Surge mais como uma preocupação porque a maior parte dos nossos visualizadores tá vindo de da questão do patrocinado dos anúncios. Então dá a entender que assim nossos alunos não caindo para o pessoal local tá caindo o professor de [UNRESOLVED_ENTITY].
+847.0,1,"Sim, você tem razão, mas veja o que que você pode fazer assim. [UNRESOLVED_ENTITY] esse número porque ele tá mostrando uma evidência de que o mercado é bom, né? Que o mercado é maior. E tem essa evidência e a partir de agora, vocês teriam que restringir lá no [PARTNER_E] AdWords de tal maneira que não fosse para os indianos. Porque daí também o Giovani tem razão, né, pô, vocês estão pagando o clique, né? Metade do clique. Então olha nós já descobrimos interrompemos, mas fizemos isso. Então tem que por aí já. Talvez uma tudo mas aí achou, né? Você pode pôr a Exu é metade dos cliques estão vendo da [UNRESOLVED_ENTITY]."
+895.0,1,"Essa é a eixo a tudo é eu preciso arrumar isso no [PARTNER_E] ADS lá para não pagar por esse clique, né? E talvez a outra tudo seria verificar se isso não é uma ficha de aprendizado para colocar no Pit, né?"
+926.0,5,Em 4.000 um pouquinho já desço lá eu vou colocar [UNRESOLVED_ENTITY]. Porque
+928.0,2,beleza
+930.0,5,também tem física aquela região toda lá.
+942.0,1,E pode ser que seja robô ainda fazendo clique.
+945.0,5,Pode ser?
+947.0,2,no site
+949.0,5,"E por exemplo as mensagens que estiveram no WhatsApp, muitas vezes era dos indianos que você vê que tipo não parecia que estava querendo falar de bateria tinha lá o negócio do site mas embaixo da pessoa falando de jogo sabe free Fire."
+967.0,1,"Mesmo é o jogo o jogo sempre é terrível, porque é como robozinho dele distribui lá para você jogar sabe? então Teoricamente um monte aí não é nada sabe mas [UNRESOLVED_ENTITY] torcer os números a nosso favor aí por enquanto."
+985.0,2,Ninguém precisa saber disso.
+985.0,1,"É não, vamos entrar no tanto detalhe, você pode dizer numa parte robô uma parte é jogo, mas uma parte. Possivelmente são interessados na solução, né?"
+1001.0,5,Quase 4000 visitantes e um pouco mais de 4.000 visualizações.
+1001.0,1,Por isso que é importante agora vocês darem uma ajeitadinha ali no [PARTNER_E] [UNRESOLVED_ENTITY]. Diminuir isso.
+1015.0,2,"É eu acho um número bom assim pela e bem crescendo assim, né? Se a gente olha"
+1017.0,5,Fornecedores e compradores então eles têm as oficinas o número de oficinas e desmanches. Tem uma piada.
+1028.0,1,"Mas anotou as duas tudo duas lá é uma vez se dá para utilizar esse dado no Pit, né? E a outra consertar o ajustar o [PARTNER_E] ADS."
+1057.0,1,"Peguei 4.000. Eu não sei eu não tenho muita sensibilidade, mas eu acho que é um número que impressiona sabe?"
+1068.0,2,o gráfico lá de visitantes.
+1071.0,1,"E isso tração consistente não lembra que minha extração consistente não é grande, mas tá crescendo então. Dá impressão, que metade seja frio, né? Que seja robô e seja. Isso deve ter asiático 2.000 no [LOCATION_A] tá ótimo na [UNRESOLVED_ENTITY], sei lá, né?"
+1098.0,2,"e Pelo menos assim as métricas ele dá comparado com os últimos 28 dias, né? Então comparado por mês de fevereiro. A gente cresceu 73%, 183.9 número de visitantes. Assim mesmo, que seja um crescimento meio desordenado ainda da Galera vim em lugares completamente diferentes, tá? Tá vindo gente então."
+1119.0,1,"tá ouvindo gente, agora vocês teriam vamos ver se fosse se você já tivesse em [UNRESOLVED_ENTITY] funcionando ajusta o Ed agora melhora o anúncio agora para tentar fazer a conversão depois mas isso agora não é hora de [UNRESOLVED_ENTITY] tempo e eu com isso."
+1136.0,2,Qualificar o público né?
+1138.0,1,isso É mais e lembra eu aprendizado isso está tendo um aprendizado e ser um aprendizado que tem uma evidência legal. Dá para colocar no [UNRESOLVED_ENTITY] tá ótimo.
+1153.0,5,perfeito rocks estratégia para ela estratégia para encaixe do no [UNRESOLVED_ENTITY] ou outra área que surgir estratégias
+1174.0,2,Entendemos como que pode ou não funcionar? Então acho que desse mato aí não vai sair mais com ele por enquanto.
+1179.0,1,Mas sai um slidezinho para o pet.
+1182.0,2,"Sim, tem um slide com isso escrito."
+1184.0,3,"Sim, mas eu acho que a opção 1 é mais fácil."
+1192.0,2,Eu acho que tá entre a 1 e a 3.
+1194.0,5,"Uma coisa que eu tava conversando também com [PERSON_B]. Será que Existe alguma maneira da gente considera também possibilidade de sei lá, pelo menos estender um pouco o tempo de incubação ou será que é uma coisa que é muito fora da realidade."
+1208.0,1,"Poxa mas nunca ouvimos falar essa discussão, sabe?"
+1212.0,5,porque é um projeto que ele
+1213.0,1,"se fosse Vocês tem ideia, o que que seria esse pouco? E o que que vocês fariam? Porque o [UNRESOLVED_ENTITY] aceita sabe essa hipótese eu queria né?"
+1228.0,5,"Então é uma coisa que teria que pensar com mais calma, mas eu imagino que assim às vezes seria o tempo para fechar uma transação seria o tempo para a gente conseguir algum parceiro muito bom, porque a gente teve muitos feedbacks recentes sobre o Marketplace de coisas que por exemplo coisa que a gente só começou a olhar agora solução, a gente está pensando em vender bateria, mas talvez já tentava vender uma solução completa, isso é um outro."
+1253.0,1,"Já ter o parceiro, né? O cara tem a bateria e já tem o parceiro que instala e é uma coisa desse tipo, né?"
+1261.0,5,"Isso por exemplo. Digamos que a gente pega um cara igual o celular teclar que faz aquela questão de implementação de painéis híbridos de bateria certo. Além da gente vender a bateria a gente vendeu o serviço dele. Ó, ele vai pegar essa bateria, ele vai instalar na sua casa para você economizar na conta de"
+1281.0,1,"Isso para você diminuir o consumo no horário de ponta, né? Você usa tarifa."
+1285.0,5,É um feedback recente que a gente teve uma possibilidade que a gente enxergou agora que a gente não teve tanto tempo de explorar então. Alguma forma de apresentar isso?
+1298.0,1,"eu não gosto de [UNRESOLVED_ENTITY] eu sou muito lá do bem [UNRESOLVED_ENTITY]. Ela ela merece ser discutida sabe? Então eu não eu não gosto de descartar eu diria assim. Colocaria uma e enxuta. Talvez lá dizendo bem assim. Que vocês têm que fazer um próximos passos, né? Aquele plano lá de 69 meses, né? Daí você poderiam dizer bem assim analisar se existe uma. oportunidade de curtíssimo prazo de alto valor Que pudesse no mínimo estender um pouco mais a uma outra criar [UNRESOLVED_ENTITY] de estender a incubação? Mais algum mês dois, né? Deixa como isso. Daí a gente vê no mínimo a tudo vale, né tentar nos próximos passos descobrir se tem alguma coisa de altíssimo valor, né de baixo um esforço que poderia fazer só com a estender a incubação."
+1373.0,5,Porque a minha preocupação é que os três itens que a gente está mapeando no nas nossas. São itens que a gente começou a olhar recentemente então o tempo para a gente atuar em cima disso. É meio corrido é dificilmente alguma área vai falar não [UNRESOLVED_ENTITY]. Pode vir para cá tipo no próximo mês.
+1390.0,1,"Tô pronto, né para te receber sem razão."
+1392.0,5,"E depois que cada um voltar para sua área, aí fica mais difícil ainda."
+1400.0,1,Eu acho que vale.
+1402.0,2,"Quando chegar no [UNRESOLVED_ENTITY] até naquele slide dos próximos passos, eu tinha"
+1404.0,5,Depois a gente discutiu então certo.
+1410.0,2,metrificado o tempo de cada um dos três próximos passos que a gente colocou a gente pode ver se é esse tipo de discussão é suficiente ou se a gente aprende um pouco mais o detalhe. Mas quais são os próximos passos ou quais estão
+1421.0,1,E acho que vale. [UNRESOLVED_ENTITY] esse olhar sabe isso vale tanto para vocês quanto para
+1426.0,2,acontecendo e qual que é o período de cada um deles tinha feito isso.
+1436.0,1,"outra também. É uma boa que o Giovani tem super razão, né? A não ser que ocorra uma sorte danada. Vocês vão chegar numa área e dizer assim p***, eu tava pensando nisso, né? Então vocês vem para cá para me ajudar, né? Inclusive eu tenho um orçamento previsto para esse ano que eu ainda não vou gastar tudo né, seria o ideal, né? Mas isso dificilmente ocorre né? O que pode é o cara dizer não. Então vamos pôr no orçamento do próximo ano. Você já vem aqui a gente já fica planejando para começar a partir de Janeiro, né? Um experimento, né? acho que dá Então já arrisca ela aí, né? Que nós gostamos de verificado."
+1486.0,5,"Custa uma [UNRESOLVED_ENTITY], a gente não tem novidades não que eu saiba vamos para as Rocks."
+1492.0,2,Não é o foco agora.
+1494.0,5,De aprendizado do [UNRESOLVED_ENTITY] aqui eu passei a limpo e tá ok? atualização final do scorecard íaco Ok atualização final do scorecard gráfico de evolução das métricas do número de potenciais consumidores e fornecedores Isso aqui eu coloquei o número lá aí.
+1536.0,1,já então
+1548.0,5,O teclado novo ficou apertando as coisas erradas. Adicionar slides no apêndice com dados do [PARTNER_E] Analytics.
+1558.0,2,foi Eu leve plen também o de baixo são atualizar a data. Vamos botar hoje?
+1587.0,5,"Mandar material para o [PERSON_B] com dolave plan, eu tinha mandado semana passada, eu já mandei uma atualização, né?"
+1596.0,2,Sim eu já até coloquei lá.
+1598.0,5,Você viu o valor do [UNRESOLVED_ENTITY]? Eu achei um negócio meio desproporcional.
+1602.0,2,"Eu vi achei estranho ia comentar a gente discutir. é que eu não sei se o retorno ao vivo investimento é uma coisa em porcentagem, mas a gente escute estranho"
+1616.0,1,Normalmente porcentagem mesmo.
+1618.0,2,Mas eu 3.097.
+1621.0,1,"É provavelmente vocês estão estimando gastar pouco no desenvolvimento, lembra o desenvolvimento é o investimento. O lucro dá um retorno sobre o investimento. Mas põe lá no ids daí a gente"
+1641.0,5,E os outros indicadores [PERSON_B] a gente não tem números bons para conseguir
+1647.0,2,revisar o valor do roi
+1661.0,5,fazer um negócio. Faça sentido tentei fazer mas não ficou legal não.
+1667.0,2,Eu deixei.
+1668.0,1,São os outros indicadores aí dá uma ideia para entender o problema.
+1672.0,5,Pode tinha.
+1676.0,2,A gente né?
+1682.0,5,"Aí tinha ficado pendente. então caqui a gente não tem números são específicos para conseguir fazer isso porque entra muito no na questão de clientes, a gente tem estimativas, mas"
+1698.0,1,"É você vocês até tem um card, né? Aqueles vamos dizer 4.000 clientes que depois vocês digam que é só dois mil que vale, né? Então vamos dizer assim, vocês gastaram quanto em [UNRESOLVED_ENTITY] para conseguir os 2.000. Daí se você ah, gastei dois mil dividido por 2.000. Eu gastei um card de um mas só que o kart normalmente não é para viu."
+1725.0,5,aí
+1726.0,1,"Então se a conversão seria por exemplo assim. O cara é uma oficina e Se cadastrou na plataforma, ele ainda não é um tipo de conversão, né? Ele já é o usuário da plataforma. Ele pode ser? Daí o outro tem o pessoal que tá fazendo consulta buscando bateria e já tem alguém que que foi atrás de uma bateria. Então você converteu ele ele foi atrás pode ser que ainda ele não tenha achado, né? E daí tem o último cara que quer quanto que eu gastei para cada? Conexão que eu fiz né? E isso e vocês acham que estão muito cedo para chegar nesse nível."
+1772.0,5,"Então nesse caso a gente conseguiria usar nosso favor, porque vai abrir esse tipo de discussão."
+1782.0,1,Eu diria que estrategicamente não se preocupa com isso agora nem com o [UNRESOLVED_ENTITY] também.
+1791.0,2,Ah então a gente monta os outros quatro que já tava do livec ficou mais fácil tirar.
+1795.0,1,"E daí, você tem ali, por exemplo o que mais interessaria ali é o Break even, né? Agora será que discutimos depois isso melhor lá, né?"
+1809.0,2,podemos
+1810.0,1,"Deixa lá para aquela discussão do [UNRESOLVED_ENTITY] pôr [UNRESOLVED_ENTITY] e outros indicadores, se for o caso."
+1818.0,2,Pode deixar do dia.
+1827.0,5,"Agendar reunião com a equipe de [UNRESOLVED_ENTITY] entrar em contato com o rapaz, ele me retornou. Aí primeiro eu queria entrar na discussão do que que a gente queria conversar. Eu respondi. Ele agora eu tô aguardando o segundo retorno."
+1843.0,1,Então continua
+1846.0,5,Vamos aguardar Pesquisar sobre empresa e contato da Green.
+1852.0,3,Eu comecei pesquisando. Mas eu ainda não fiz um relatório não. Terminei mas aí até hoje final do dia eu mostro para vocês.
+1861.0,5,Esse é o do que o [UNRESOLVED_ENTITY] tinha dado.
+1863.0,3,"E isso é assim mesmo e o do carinha também do [UNRESOLVED_ENTITY], eu tinha pesquisado"
+1865.0,5,Adicionar conteúdos mencionados pelo racha no Pit Wise proposta de valor
+1869.0,3,"ele no [UNRESOLVED_ENTITY] aqui, só que ele agora foi para Lourdes, né? O rancho até comentou que ele tinha ido para [UNRESOLVED_ENTITY]. Aí eu cheguei a mandar um e-mail para ele, mas não me retornou ainda. Eu tava vendo aqui ele tá até ele tipo, ele fica online no teams. Mas ele deixa uma mensagem que ele só responde pelado, aí eu vou tentar pelo jeans também."
+1902.0,5,"[UNRESOLVED_ENTITY] meu nome aqui, mas eu não lembro esse aqui tava mais."
+1907.0,3,agora
+1915.0,2,26
+1917.0,5,Adicionar informações solicitadas.
+1938.0,2,Quem isso? Viraram um dois. Três slides a mais ponto comentou que as perguntas seja de reflexões que ele
+1950.0,3,Depois mostra pra gente ver eu não vi esse.
+1951.0,2,trouxe que ele acharia legal a gente. Mostra uma ids a gente abre aqui.
+1956.0,5,E aí Chegou o momento então?
+1966.0,2,"Vamos lá, vocês querem discutir?"
+1971.0,5,Pode ser?
+1972.0,2,Pode ser eu já atualiza o slide e mostra ele atualizado com esse negócio.
+1976.0,5,Perfeito você compartilhou.
+1978.0,2,compartilhar
+1983.0,5,"É que eu ia mostrar aquela tabelinha lá que eu mandei. Porque lá tá resumido, né."
+1991.0,1,Mas eu não lembro de ter visto esse material que você mandou.
+1997.0,2,Ele veio.
+1999.0,5,"Calculado aqui pendências aí que o [UNRESOLVED_ENTITY] tinha passado é como que a gente ia fazer essa divisão de custos aí esse comercial é uma parte o operacional. Na verdade uma parte, entraria aí. Como investimento, né? Que a gente conversou pelo desenvolvimento da plataforma. e os"
+2032.0,1,o que que seria o patrimônio líquido e ele que
+2037.0,5,patrimônio líquido eu peguei o [UNRESOLVED_ENTITY] que a gente conseguiu de receita ao longo de todo o desenvolvimento de Startup.
+2049.0,1,Não. Patrimônio líquido é a diferença entre ativos e passivos da empresa. tá
+2062.0,5,E na sua casa a gente não tem ativo certo.
+2066.0,1,"Vocês têm ativo nessa previsão, aí vocês têm um ativo que é um investimento na solução, ele vai virar ele vai virar um ativo que seria valor"
+2071.0,2,sim
+2076.0,1,"do da plataforma, né? Então ele ele vai sendo contabilizado como [UNRESOLVED_ENTITY] um milhão no primeiro ano e gastei mais dois milhões no segundo ano, quanto que vale o ativo plataforma contabilmente 3 milhões. Menos a depreciação dela que já começou também, né? Então você assim que a contabilidade calcula o ativo plataforma, tá? e"
+2109.0,2,Quer compartilhar aí.
+2117.0,5,"Essa questão do investimento inicial como que eu fiz eu fiz considerando todas as despesas que a gente ia ter. Inclusive, eu tava considerando a plataforma como despesa não vai ser o caso, mas então considere as despesas que a gente teria como mão de obra. questão de manutenção no site questão do desenvolvimento da plataforma os anúncios A manutenção do site viagens tudo que a gente iria gastar eu considerei quanto que a gente ia precisar para fazer com que Startup não ficasse no negativo que seria esse investimento aí de um e quinhentos vai aproximado."
+2155.0,1,"Você precisa de um investimento inicial ali, né?"
+2158.0,5,"isso Talvez esse investimento inicial é uma parte que a gente vai ter que considerar que seria o nosso ativo da plataforma, é isso?"
+2169.0,1,"isso é porque Você consegue colocar Como investimento inicial tudo que são os gastos pré-operacionais, né? Vamos dizer assim. mas Mas aí tem que ver como é que você considerou. Porque tá ali no operacional, né 63 mil no ano, né?"
+2198.0,5,"Que você deixa ele aberto aqui, deixei."
+2219.0,5,Tão vendo né?
+2220.0,1,sim
+2221.0,2,sim
+2222.0,5,"ok Então, vamos aqui direto para a parte, onde tá despesas."
+2229.0,1,certo
+2230.0,5,E o segmento e aqui comercial viagens eu então dividir em três segmentos comercial administrativo e operacional e para cada um eu quebrei aqui na frente
+2240.0,1,ótimo
+2240.0,5,"então viagens, considerei um valor anual. Investindo principalmente no segundo ano que a gente já vai ter um pouco mais de base e vai ser quando é que vai querer fazer o negócio crescer mesmo que vai aumentar o potencial. O valor com publicidade também veio aqui um foco no segundo e terceiro ano. Aí a partir de brandinha que eu entendo que seria até um nesse caso entraria como um pré operacional, né?"
+2269.0,1,Veja só assim. O investimento no comercial ele é para aumentar a base de clientes. Tá certo Na projeção tua tá aumentando a base de clientes.
+2284.0,5,Eu entendo isso.
+2284.0,1,"E que nem aquela conta Imagine que eu fiz um custo que é um real de caqui por cliente, né? É se for um real de kart por cliente, você tá dizendo que o k que vai baixar quase metade em 2027. Mas como a base de cliente tá aumentando então está diminuindo o [UNRESOLVED_ENTITY] mesmo unitário tá baixando muito. Porque é meio é meio impossível você ganhar muita eficiência em ganho de escala no comercial, sabe? Você vai ter que gastar que é mais clientes é mais é de Words mais clientes é mais viagens mais clientes."
+2325.0,1,"A não ser que você descobriu um modo contínuo, né, agora não precisa mais fazer propaganda e o pessoal vem de graça, né? Só as indicações é suficiente, né, mas isso é uma estimativa muito otimista. Então, eu diria assim que o que o interessante aqui era você fazer ele crescer. Esse custo comercial né como um todo né? Menor que o crescimento da receita Tá certo não pode ser crescer mais que a receita que daí também você tá sendo ineficiente, né? Então se a receita cresceu 50% Poxa, você tem que ter crescido 40 30% naquele ano."
+2377.0,5,"posso colocar mais a gente tem que levar em consideração também que isso vai aumentar o valor do investimento inicial, porque a nossa receita mesmo começa a valer a pena até"
+2385.0,1,"Você vai ver que daí o teu lucro não é tudo aquilo, né?"
+2388.0,5,"Sim, sim."
+2389.0,1,"O teu lucro não é mais tudo aquilo que tava lá naquela projeção. Então, nós já estamos fazendo um ajuste para deixar mais real o lucro e o lucro estando mais real ou [UNRESOLVED_ENTITY] vai estar mais real também. Depois nós vamos discutir o investimento, mas nós temos as despesas se eu aumentei despesa eu diminui lucro, então o [UNRESOLVED_ENTITY] já foi para o número bem mais baixo, né? Agora vamos colocar o administrativo financeiro que ele é vocês vão colocar no curso de vocês ali, né? Porque eu tô vendo um curso muito baixo."
+2422.0,5,"É que o nosso custo ele entra aqui como personal, né?"
+2427.0,1,É que personal ele tem tudo né? Ele tem comercial operacional e tem.
+2437.0,5,Pensei que seria o gasto com mão de obra imposto para funcionário número do efetivo salário do efetivo.
+2445.0,1,Volta na anterior. Onde que tá o Personal aqui?
+2451.0,5,"Ele não entra aqui, ele é um lugar à parte aqui no Live play. Ele é separado"
+2456.0,1,Ah aquilo são vamos voltar lá para entender são que mas são despesas também.
+2463.0,5,"São mas são despesas com pessoal, não é despesa se a questão de despesas ligadas ao número de funcionários e é o salário dos funcionários."
+2472.0,1,Então aquele custo comercial. Teoricamente tem mais custo que ele absorveria parte desse custo aqui. certo
+2481.0,5,o comercial
+2483.0,1,"Sim, porque alguém de vocês vai estar fazendo comercial. Mas só para entender assim então além daquelas três categorias de custo e"
+2489.0,5,certo no caso
+2496.0,1,"mais um investimento 4 tem mais um custo com pessoal. Tá certo então, vamos não vamos brigar contra Life para Nessa altura do"
+2501.0,5,sim
+2505.0,1,"campeonato. Vamos só entender ele, né? Então são cinco categorias agora de custo, tá bom nessa categoria aqui há um ganho de escala enorme concorda. Mas de qualquer maneira vocês vão precisar crescer essa equipe, como é que está crescendo ela. Equipe tá ali ó, 75 150 330, né? 350, né?"
+2532.0,5,Isso aqui é o número de funcionários.
+2539.0,1,"Não tô entendendo o que você falou. Equipe o curso da equipe ó era zero foi para 75.000. 158 250 e 350 Você fez uma estimativa lá de funcionários de equipe salário médio e fez ela. Tá legal, então, só faça isso esse custo tem que ele ele tem que crescer até porque atendimento é proporcional a receita. Tá certo? Então esse custo aí ele tem que crescer conforme a receita, mas com ganho de escala bom também não pode colocar muito crescimento igual a receita, tá? então"
+2586.0,5,Também é ruim.
+2587.0,1,"É daí eu bem abaixo também tem que também é ruim, né bem abaixo e ele perde um pouquinho a lógica, tá? Por isso fica muito grande."
+2596.0,5,"É porque o nosso negócio da forma como mudar a estrutura da receita lá tá assim até final de 27. Até o final de 26 é caríssimo é só no negativo 27, fica aquele meio ponto neutro, só que chega 28 negócio escala que começa a ganhar muito então, talvez seja a casa de crescer muito também."
+2616.0,1,"Isso não e 28 e 28 é muito curto prazo para uma Startup sabe? Uma Startup ter ponto de equilíbrio eu jogaria lá no terceiro quarto ano. Sabe mas mas Senão também todo mundo. Olha se assim quando não serve para nada os empreendedores estão super otimista, né? Então acho que é um pouquinho aqui de mostrar um certo pessimismo certo Realismo aqui é importante também para vocês agora, por isso que eu tô dizendo assim faz ele crescer esse custo, mas cuidado olha como é que tá crescendo a receita, ele tem que crescer menos que a receita agora também não pode dizer bem assim esse curso não aumenta e a receita aumenta entendeu? É uma situação assim, se você pensar em engenharia tem lembra a expressão no limite no limite superior cresce igual a receita no limite inferior não cresce."
+2673.0,1,"Esses dois não limite não servem para nada, né?"
+2677.0,5,"Perfeito já deu para pensar no seguinte, por exemplo até 27 a gente mantém esse crescimento tranquilo e a partir de 28 que lucro vai ser absurdo porque a receita vai ser muito grande a equipe também. Tava com dois."
+2689.0,1,E daí você pode você pode explodir aqui a partir do 28 29?
+2695.0,5,Daqui para frente já jogaria 15 pessoas.
+2698.0,1,"Por exemplo, né? Vocês estão recebendo gente que quer se cadastrar para para"
+2699.0,5,Por exemplo.
+2705.0,1,"oferecer o desmanche, né? O desmanche todas as baterias que eu tô recebendo, eu quero cadastrar aí então todos os desmanches vão precisar se cadastrar eles precisam de um atendimento meio pessoal, né a plataforma, né? Lembra que vocês têm que ver se o desmanche não é ladrão, né? Se ele tem histórico, né? Você tem que fazer toda a recepção dele é a entrada dele na plataforma tem um custo elevado, né? Imagina que o Uber não você não entra assim. Ah, mande aqui teus documentos me dá o certificado do carro e amanhã você pode operar não é, né? Ele tem que ter certos cuidados, então isso vocês vão ter que fazer também os fornecedores tem que fazer e daí os clientes como o cara vai pagar. Sei lá com o cartão etc, então você pode."
+2757.0,1,"Mas tem que ver seu cartão é válido, né? Se der problema no cartão, tem que ir atrás, você tem que ter um custo comercial ali de atendimento meio subindo também. Então vai melhorar um pouquinho melhor, não nosso caso piorar as previsões"
+2776.0,5,É considerado o desenvolvimento da plataforma e a manutenção.
+2780.0,1,"vão ter que piorar o resultado e melhorar a previsão. não dá para E daí agora, vamos agora na sequência, nós estávamos no interior então aqui agora próximo é o pessoal, é isso? Não tranquilo aqui operacional. O que que você tem aqui? É a operação da plataforma, né? Então agora você vai separar. E no desenvolvimento você vai pôr muito mais dinheiro, principalmente lá que nem a mesma coisa a partir de 2028, né?"
+2826.0,5,No meu caso a gente teria sei lá duas etapas de investimento.
+2832.0,1,"Como dizer a primeira previsão ali no curto prazo 2025 26 vocês podem dizer aí eu preciso de três. Desenvolvedores quatro né? Ou eu contrato uma empresa tal que vai me cobrar tanto por mês, né? Agora quando começou a acelerar bastante daí você já tem a discussão, vamos ter uma equipe própria. E vamos fazer muito mais velocidade no desenvolvimento, né? E a solução nunca tá pronta, né? Porque o que que eu vejo lá se você for lá na [UNRESOLVED_ENTITY] lá, por exemplo [UNRESOLVED_ENTITY], você vai dizer faz quantos anos que eles começaram 20 anos 95, né? Já vai para quase 30, né? Então vamos imaginar mas vamos com 20 anos. Ah então o desenvolvimento deles é zero."
+2883.0,1,"E é interessante, né? A solução tá mais do que madura. Mas eles têm uma equipe grande de desenvolvimento. Aí eu não sou o cara de informática para explicar porque que é tão grande assim, você tem uma eficiência muito grande, o que que é que eles ficam fazendo lá porque eu já compro da [UNRESOLVED_ENTITY] livro lá no comecinho com um clique faz tempo, né? Que que eles estão desenvolvendo mais do que isso para mim. Eu não sei né? Eu não sou a pessoa, mas eu acho que você deve por um bom dinheiro de desenvolvimento aqui."
+2919.0,1,"Cresceu a receita até porque veja assim para você dizer bem assim, eu vou fazer a solução funcionar. Aqui no que nem assim na região de [LOCATION_B] aqui que vocês estão lá [UNRESOLVED_ENTITY] região metropolitana de [LOCATION_B] e tal é uma solução na hora que vocês forem assim [LOCATION_A]. Eu acho que tem ajustes da solução, né? Se for a [UNRESOLVED_ENTITY], mas ainda né? As regras outras o sistema são [UNRESOLVED_ENTITY], mas ainda né? Então veja que esse crescimento da receita vai exigir além daquele investimento em margem curso de aquisição, ele vai ter que exigir adaptações e desenvolvimento da solução deixar ela mais simples mais amigável, né? Então acho que o raciocínio serve o mesmo, né?"
+2977.0,2,"Tá puxando o gancho um pouquinho porque a realidade que a gente tinha lá na minha área, né? A versão web do sistema de vendas lá que a gente desenvolvi suportável, ela foi lançada em 2017. E nós estamos em 2025 que a gente continua com o time hoje, até maior do que já foi em alguns anos ali intermediários para continuar desenvolvendo entre essa a plataforma tá pronta, né? Ela funciona ela entrega tudo já sei lá 8 anos e até precisa de um time não só para corrigir bug que aparece né? Mas"
+3010.0,1,esse
+3011.0,2,"principalmente o que eu vejo que a gente Se gasta muito no desenvolvimento depois de uma plataforma pronta é novas funcionalidades. Então, [PARTNER_F] que quanto mais madura a plataforma menos a variedade de novas funcionalidades, mas maior A complexidade então por exemplo lá se a gente pegar o WhatsApp WhatsApp funciona do jeito mais ou menos que ele é muito tempo, mas para introduzir o meta Aí lá dentro Era um negócio gigantesco."
+3041.0,2,"E vai muito tempo e muito dinheiro, inclusive então assim apesar de às vezes parecer uma plataforma pronta, né? Você sempre vai ter demanda de negócio que você vai querer usar recursos tecnológicos mais avançados para resolver isso. e Você tá sempre trabalhando no back office assim tipo."
+3063.0,1,"Excelente [PERSON_B] isso que você falou agora. Inclusive, eu acho que você tem uma referência. Porque é uma referência super boa, vamos dizer essa é a melhor referência que nós temos né? Você tem um caso real da [PARTNER_A], né? Que tinha uma equipe de tanto e a equipe agora 5 6 anos, depois dobrou triplicou de tamanho, né?"
+3086.0,2,"Então até pegando o histórico quando eu tava na em 2017 no lançamento da plataforma web tinha 11 pessoas no time entre desenvolvedores de negócio pronto. [UNRESOLVED_ENTITY], enfim aqui tudo. E aí assim foi tendo tornou veio pandemia depois e a gente chegou a ficar com três pessoas no time ou seja de 11 para três. Primeiro tem pensamento que existiu quando as pessoas começaram a sair foi justamente esse não mas a plataforma Já tá pronto. A gente não vai precisar"
+3114.0,1,Esse vai precisar especialista de [UNRESOLVED_ENTITY]. E vai um monte de coisa aqui.
+3116.0,2,de tanta gente e o ano passado a gente tinha feito uma conta no começo do ano de quantas pessoas a gente precisaria para manter o mínimo ou seja para a gente não desenvolver nada muito novo e só manter a plataforma funcionante é andar de seis pessoas. Então assim mexicano interno precisava de seis desenvolvedoras só para manter a plataforma no ar assim desenvolvendo melhoria e corrigindo banner seja só pagando fogo.
+3143.0,2,"Então assim quando você começa a querer trazer novidades, porque né o público exige isso então assim quanto maior a plataforma. Vixe muito mais gente vai precisar. É porque antes era todo mundo generalista, né? Então assim todo fazer um pouco de tudo, mas a medida que a coisa vai avançando você vai ter que ter um cara de aço, vai ter que ter um cara de dados você vai ter que ter um cara de um cara de Frontier de um cara de paciente. Então assim o custo de pessoal a medida que a plataforma cresce ela só aumenta porque Se a gente for pensar na no coisa mais simples possível, se você começa a ter muito usuário. Você não tem uma boa equipe que cuida do [UNRESOLVED_ENTITY] ou seja o celular no site do [UNRESOLVED_ENTITY]."
+3189.0,2,Mesmo funcionando lindo começa a vir muita.
+3193.0,1,"É bem interessante, né? A impressão que deve é aquela da pandemia, né? Pô já tá funcionando então diminui para três, né?"
+3201.0,2,Três caras e a gente segura mas assim não. então
+3210.0,1,"Essa essa referência é a melhor que a gente tem aí para você fazer, né? E daí agora tem que fazer um exercício vai continuar crescendo enorme a receita, então nós precisamos também ter um crescimento então No Limite não cresce igual a receita no limite, ela não estabiliza. Os dois [UNRESOLVED_ENTITY] não existem né? Eu já fiz projeção assim, olha como eu não tinha ideia, né? E tinha que provocar o pessoal para dar ideia, né? Daí eu tinha que ir lá na área de informática e dizer bem assim. Ó, eu cresci metade da receita."
+3244.0,1,"Qual é o número que você me dá agora? Né? Porque porque veja a metade da receita eu fazer uma conta bem i*****, e isso a gente não pode nunca dizer, né para o diretor da gente lá o chefe da gente como é que se estimou isso, aí eu fiz metade da receita, porque daí eu explicava porque né? Eu sei que não é zero. Eu sei que não é sem o 50% é o mais próximo do número que pode ser entende como se fosse 70, se for 30 eu chutei 50 eu tô chutando um número, mas de probabilidade do que de alguma coisa, só que isso não serve para a gente colocar sabe? O ideal é que era dizer bem assim, ó, nós precisamos de uma equipe equivalente aqui mesmo, que seja terceirizada ou própria, né de três depois de seis depois."
+3298.0,1,"De 9 depois de 18 pessoas daí eu tenho um salário médio. Daí alguém vai dizer assim não mas podia ser menos que 18 podia ser 15. Não tem problema se você tem certeza, vamos colocar 15 aqui na estimativa. É o mais só que dá um trabalho danado, né? Fazer nesse nível de detalhe como vocês estão no nível de detalhe. Menor possível e não ter tempo fica calibrando com percentual do crescimento da receita."
+3330.0,1,"E daí se alguém pediu detalhe do número você precisa localizar nem a minha planilha eu te mando. E daí faz uma planilha para dar aquele nome, né? Essas alturas é então. O que que seria número efetivo pensar número de pessoas, né? Então nós vimos que vai aumentar bastante o número de pessoas aqui, né?"
+3355.0,2,"A gente pensar no maluco lá da da [UNRESOLVED_ENTITY] lá que tem o [UNRESOLVED_ENTITY] de desmanche desse tem 40 caras na empresa começaram com dois cara, era o dono que a gente conversou e"
+3362.0,1,pois é
+3363.0,5,Tudo bem.
+3366.0,2,"o sócio dele. Ah, sei lá quando ele falou 2000 e nada 2015, não sei quase 10 anos atrás oito, não sei e ele tem mais ou menos na cidade então hoje ele já tá com 20 vezes mais pessoas. Então assim por um cara que tem com faturamento que a gente tinha visto lá de 200 pau por mês. Louco 40 pessoas então assim a gente a gente tem."
+3394.0,2,28 é um número o tamanho da solução é até pouca gente a gente for pensar no quanto a [LOCATION_E] envolveu para fazer algumas coisas lá deve ter bem mais que isso. então
+3405.0,5,"Aí a gente considerar uma equipe genérico. Mas se a gente fosse pensar. Vou contratar uma equipe de desenvolvimento seria a parte que seriam salários altos seria um negócio mais diferente, não é salário de um administrativo que vai"
+3414.0,2,sim
+3417.0,5,atender o telefone e falar com
+3419.0,1,"Aquela divisão que o [PERSON_B] fez é meio clássico ali, né? Back office, né? Front Office e A equipe de desenvolvimento. Então você dá para vocês separarem desse jeito. Daí daí vamos dizer vai melhorar, né? Daí esse número aqui, né? Você pode até fazer um salário médio de tanto e o salário médio era alto baixou. Por exemplo, você pode fazer uma coisa desse tipo, né? Porque como você tem o número você tem a despesa de pessoal, você diz o salário médio. Portanto, ele começa meio alto porque eu tô gastando mais em desenvolvimento e as pessoas mais caras, né? E depois eu posso diminuir um pouquinho, mas veja são tudo número para vocês melhorarem o chute, né? Percebe. Não é quase que o pessoal era bom não não escutar a nossa conversa hoje, né? Mas é a realidade vocês estão Só usando esses parâmetros para melhorar a primeira Estimativa de vocês."
+3485.0,1,"Ou tem um raciocínio bem bom para chute. Não sei se já ouviram falar em referência. Então vamos começar a falar em referência, tá? E daí eu fui lá no dicionário uma vez e fui ver o que que era inferência. Inferência é dedução pelo raciocínio? Tá bom não tá?"
+3506.0,5,Tá bom.
+3506.0,2,Bem mais bonito.
+3509.0,1,"Então, toda vez que vocês escutarem eu falando chute é inferência. Então a inferência de vocês vai ser baseado mais ou menos no crescimento da receita que vocês colocaram."
+3522.0,5,perfeito
+3523.0,2,"Quanto mais refina quando você começa a pensar pelo lado de referência mesmo que você não chega no número exato ou melhor até um exemplo que rolou lembra quando caiu aquele avião da [UNRESOLVED_ENTITY] caiu no [UNRESOLVED_ENTITY] lá e eles ficaram dois anos tentando achar os destroços lá por pelos últimos sinais que tinha dado a caixa preta etc, não acharam aí o que fizeram chamaram um monte de matemática."
+3549.0,2,"Que pegaram vários dados que eles já tinham que são alguns era chutados e outros eram dados meio igual nossa assim alguns chute alguns meios um pouco mais embasados, eles usaram um negócio chamado imprensa parisiana é um modelo matemático e nada mais é um chute. Eles chegaram numa área estimada que poderia estar os destroços chegou lá acharam tudo assim era um raio grande, mas não tão grande para não ficar muito [UNRESOLVED_ENTITY] e nem tão pequena que você fica olhando um pouco só assim."
+3580.0,1,E os matemáticos já fizeram até modelo.
+3583.0,2,Então assim tem até modelo matemático para você descobrir coisas então assim quando quanto mais você consegue trazer chutes um alguns raciocínios por trás menos longe fica do desfecho final.
+3602.0,1,Agora Onde que nós estamos aí?
+3613.0,5,o valor
+3615.0,1,"De pessoal aí no mínimo lá em 2029 vai estar o dobro triplo, quem sabe o quadro, né? Não importa. Mas aí veja. Qual que é o roi, né? Ver como nós ajustamos o roi violentamente, né? Então agora vamos para frente que nós temos que chegar no investimento, né? Em algum lugar aí vai aparecer investimento. Pode ser como é que ele tá lá?"
+3650.0,5,Deixa eu ver.
+3651.0,1,"é que o [UNRESOLVED_ENTITY] se é Ele tá mais ligado ao fluxo de caixa, né? Que veja assim. a métrica mais importante de uma Startup é a taxa de crescimento dele queima de caixa que a Startup no começo ela é [UNRESOLVED_ENTITY] de caixa nela uma fogueira em cima do caixa dela, né? Ela quase não tem receita ela não tem geração de caixa, né? Então eles chamam de burn."
+3693.0,1,"Então o Burn Principalmente nos primeiros anos, né? Porque nós já vimos lá a receita tá começando Mas as despesas de desenvolvimento de aquisição de cliente, né? [UNRESOLVED_ENTITY] é baixa, mas tem despesa, né? Custo do produto ainda é baixo não. Tô com grandes servidores pagando lá muita coisa, mas ele tem também né? Então eu tô queimando caixa para desenvolver a solução e para gastar no Marketing né para aquisição de clientes basicamente o primeiro e segundo ano."
+3734.0,1,"Daí depois disso eu vou começar a ter receita, né? A receita vai começar a crescer depois disso e daí então eu tenho esse vermelhinho. É porque eu tô queimando caixa porque que ele tá crescendo aqui em dezembro deixa entender."
+3750.0,5,Você tá queimando mais caixas?
+3753.0,1,"Ah vou sim você você colocou aqui, você tá aumentando a despesa, né?"
+3757.0,5,Todo mês aumenta um pouquinho.
+3759.0,1,"Tá certo então, vamos discutir agora, o que que é esse fluxo de caixa dentro dos conceitos que a gente viu até agora, né? O fluxo do caixa Você concorda que o lado positivo dele aqui é o lucro. Tá certo? Só que veja bem assim a depreciação do investimento eu falei para vocês que vocês vão depreciar um investimento da solução em cinco anos, tá? Então cada mês que tem um investimento começa a depreciar 60 meses para frente."
+3791.0,1,"Então você tem a depreciação e a depreciação. Entra lá para diminuir o lucro, tá? Mas para quem que você pagou a depreciação para ninguém, né? Então a geração de fluxo de caixa é o lucro mais a depreciação. Entendeu raciocínio que é depreciação não fluxo de caixa ela entra como positivo. Ela é negativo na despesa, mas como ela não sai do caixa você bota ela como positivo. Quanto maior o investimento maior a depreciação e quanto maior o investimento? maior a sangria do caixa [UNRESOLVED_ENTITY] Então vai aumentar veja que não vai não vai."
+3845.0,1,"Não vai mudar esse esse gráfico. Tá certo a não ser a mudança de valores não vai mudar porque Porque vocês vão diminuir o lucro com a depreciação, mas a depreciação ela não sai do caixa. O que que vai piorar é que vocês vão gastar mais no investimento para desenvolvimento de solução, então vai sangrar mais ainda esse caixa nos primeiros. Anos né? Onde ainda não tem receita. Tá certo Daí por isso que vocês precisam de um investimento inicial, né? Então quando a gente vai num investidor anjo lá ele vai dizer. Ah, eu tô precisando captar 300 mil reais."
+3890.0,1,"Porque nos próximos 6 meses nos próximos 12 meses? Eu vou gastar esse para cobrir o caixa negativo. Que daí você chamou lá de investimento inicial, né? Então o investimento inicial é o aporte inicial para financiar esse caixa negativo. Então se vocês forem aumentar a despesa com desenvolvimento vai aumentar o investimento inicial. Então o investimento inicial na fase de vocês, não é bom vocês aumentarem muito. Deixa para aumentar depois nessa primeira rodada faz um investimento inicial. Vocês estão fazendo agora o mínimo possível."
+3937.0,2,"Então, será que não seria bom como a gente fala de rodadas quando a gente fala no investimento inicial a gente vê o quanto a gente precisaria para fechar 2025."
+3946.0,1,"Isso seria uma coisa fechado 2025 e 2026, por exemplo, né?"
+3952.0,2,É tipo porque se a gente for pegar o dinheiro que precisa de todo tempo não
+3956.0,1,Não isso e daí veja quando você chega na discussão do [UNRESOLVED_ENTITY]. Veja bem
+3956.0,2,vai ter sexo.
+3963.0,1,"interessante essa história. Eu sou investir durante o cara que é 300 mil nós vamos entrar em 10 sócios aqui, cada um vai por 30 mil. A gente não vai dar 300 mil para o cara assim, né? A gente vai perguntar para ele, o que que você vai ter no final desses 12 meses. Daí o cara pode dizer bem assim, eu vou ter as estratégias de aquisição de cliente já madura se vou saber qual é o caqui porque eu vou fazer experimento de [PARTNER_E] Ad ou de [UNRESOLVED_ENTITY] de YouTube, né? Eu vou fazer um monte de coisa e eu vou gastar o carro aqui para adquirir cliente aqui e eu vou fazer a minha solução."
+4005.0,1,"Funcionar só na web não ainda no celular por exemplo, só vou usar o celular adaptado, né? Não vou ter um app. Por exemplo. E com isso eu consigo aumentar minha base de clientes e chegar em tanto de faturamento. Tá certo Porque no final de 12 meses eu tô lá com tanto de faturamento. O ideal é que você diz assim e se você não conseguir mais dinheiro. Esse faturamento vai me pagar o meus custos e eu vou conseguir crescer só um pouquinho porque eu não vou ter dinheiro para aumentar a solução e não vou ter muito dinheiro para gastar em Marte, né, mas eu já vou conseguir estar sobrevivendo."
+4055.0,1,"E vou ficar com um negócio, que que é um hobby, né? É um hobby, eu não vou ficar rico, mas eu tenho uma oportunidade que tá ainda lá dentro ali até eu achar o investidor para segunda rodada, né? Daí não existe cor da segunda rodada, você vai dizer o quê? Ah agora eu preciso em vez de 300 mil. Eu preciso de 3 milhões. Ah, o que que você vai fazer? Vou espalhar Minha estratégia de tração no [LOCATION_A] inteiro."
+4084.0,1,"Vou pegar lojas do [LOCATION_A] inteiro desmanche do [LOCATION_A] inteiro todas as concessionária todos os fabricantes do [LOCATION_A] inteiro vão estar eu vou estar abordando eles ao final agora de mais 12 18 meses. E daí a minha receita vai chegar em tantos milhões, eu vou ter tantos clientes tantos milhões. E os meus custos operacionais vão estar em tantos mil se não tiver nova [UNRESOLVED_ENTITY]. Eu tenho um negócio que o lucro é maior. Sem muito crescimento."
+4122.0,1,"É a próxima rodada, vamos para [UNRESOLVED_ENTITY]. O que que você precisa mais agora três milhões agora preciso de 30 milhões. Então então, eu acho que até aquela conversa do Giovani, né? Puxa vamos fazer os nossos três meses quatro meses aqui para a gente testar mais um pouquinho. Tá dentro desse detalhado ali, né? O que que eu posso fazer nos quatro meses que eu entrego alguma coisa que o investidor Veja a razão veja o valor, né? E daí, não sei vocês estão fazendo um plano para mais 12 meses ou quantos? seis meses 12 plano detalhado"
+4169.0,2,Há pelo menos o que a gente tinha escrito a princípio era? Seis eu acho porque já que que a gente esperava fechar até o final desse ano
+4176.0,1,"Então, vocês pensem assim os seis meses que é um pouquinho mais até o final"
+4179.0,2,"[PARTNER_F] tem ideias futuros, mas eu pelo menos o que que a gente já começou a fazer um pouco que é principalmente educação no mercado e você?"
+4193.0,1,desse ano. Mais uma estimativa do que que vocês precisariam para o ano que vem. Que daí isso vai estar aqui no investimento. Tá certo? Tem um investimento lá de 2025 investimento de 2026. De 2027 para frente aí são números? resultantes da inferência Tá certo daí é uma inferência se a receita vai dobrar. Minha equipe pode quase dobrar. Tá certo
+4232.0,5,certo
+4233.0,1,"E daí e daí a pergunta do teu investidor é assim que é o investidor é a bu ou alguém ou sei os imagens? Vai te financiar os próximos seis meses, o que que você me entrega de valor em seis meses. Que tá me custando tanto, né? E o que que você me entrega de valor por mais 12 meses que eu ano que vem? Ah eu vou ter a solução, eu já vou estar cadastrando sei lá, tem que ter um Story aí de acordo com que vocês estão imaginando, né? Mas [UNRESOLVED_ENTITY] ficou meio longo essa história aqui, mas a minha pergunta até porque nós temos que ir para os Finalmente, né? dúvidas do roi"
+4284.0,5,"Eu vou ter que mexer mais um pouco nesses valores, vou abrir o Matilda para fazer esse agora, né?"
+4290.0,1,Mais um pouco não mais bastante.
+4292.0,5,Mas bastante.
+4293.0,1,"Não é um pouco não. E daí senta aí com o [PERSON_B] com a Tainá e vamos melhorar nossa inferência. Né usa essas referências aí tal empresa do cliente, pô, dobrou. Ah então vamos nós nesse caminho também, né? A unidade tua excelente referências porque se você disser isso em vez de você dizer que ficou 50% do crescimento da receita é bem melhor, né? Usei aqui a nossa equipe lá era tanto foi para tanto eu usei a equipe do fulano que fez uma solução parecida e era tanto e fez foi para tanto. É melhor do que o chute de metade do crescimento da receita."
+4343.0,1,"Daí nós vamos chegar num número de [UNRESOLVED_ENTITY] que eu vou dizer bem assim. Se vocês fizerem um roi. Para cinco anos, né? Que nós estamos olhando para frente que já tem retorno positivo e já chega maior que 20% em torno de 20% ao ano. Tá muito bom É lógico. Põe 30 25, né? Que você tem o risco maior aqui, né? Mas de 20 para cima agora também 50% aí não aí ninguém vai acreditar."
+4377.0,5,em 3097
+4381.0,1,"Não porque daí quando vocês forem lá um Uber que está estabilizado hoje, né? Por exemplo. Aí se eles estiverem com retorno aí de 20% 18% ao ano tá excelente. É lógico que é mais né? Porque veja Qual que é o grande ganho da plataforma, né? Lembra aquela balancinha até o [PERSON_A] usa muito aqui, né? O cliente paga por um valor que você tá entregando, né? E a plataforma tem um custo, né? Você veja o valor do Uber lá eu pegar numa [UNRESOLVED_ENTITY] que a qualquer hora em quatro cinco minutos eu ter um carro disponível aqui embaixo de um prédio que me leva lá em tal lugar e eu chego lá e ele vai embora, eu esqueço que ele existe, né? Não precisa uma manutenção não precisa estacionar. Não precisa fazer nada e que eu fico acompanhando aqui se ele tá chegando se ele tá atrasado que eu avalio ele eu vejo a avaliação dele, né? Por isso é muito valor, né? Mas olha o gasto disso é muito baixo, né? Então, ele tem uma ele tem uma uma lucratividade baixa, mas o investimento dele já tá feito já tá amortizado. Então ele tá Ganhando muito dinheiro, apesar de talvez ser um lucro baixo que ele cobra 20% da corrida, né? Ou 30% talvez seja assim uma receita muito baixa, né de 20 reais 30 reais, o cara tá ganhando não tá ganhando r$ 10, né? Ele ganha pouco por corrida, mas o que que ele faz quem faz mais é o motorista e o carro né? então"
+4481.0,2,Ele não paga o salário do motorista e ele tem um monte de carro e motorista.
+4489.0,1,Ele tem a maior fraca de carro e ele não é uma empresa de carro. né
+4495.0,2,É a maior Frota de apartamento e não é imobiliária.
+4499.0,1,"Então é essa é a lógica lá para mais para frente, então é essa lógica que é atraente para investir numa plataforma. Por isso que que eu digo assim que um tempo atrás né? Eu tava mais ativo acompanhando investidores anjo. [UNRESOLVED_ENTITY] buscando mais se o cara chegasse lá com software, reza-se era o que a gente queria sabe. Software reza service hoje o cara tem que chegar com uma plataforma."
+4531.0,1,Que a plataforma ou pega resolve a dor conecta dois caras e outro conectando eles eu ganho pela conexão é muito valor. Para pouco gasto.
+4543.0,2,É de hoje que é bom dar uma revisada nesses valores para deixar até mais
+4544.0,1,com esforço
+4548.0,2,"real. E aí a gente consegue com a gente vai precisar desses informações para o cute de sexta os outros cursos, a gente não deve apresentar completo, então assim seria bom ter até quarta-feira, sei lá para conseguir colocar e a gente tem lá."
+4564.0,1,"É mas você tem que sentar junto com ele lá equipe de desenvolvimento ou desenvolvimento vai ser uma conta de investimento, né? Não sei como é que entra no Deve ter um jeito de entrar em investimento."
+4580.0,5,Tem um lugar.
+4580.0,2,"[UNRESOLVED_ENTITY] estaremos todos juntos na [PARTNER_A], a gente vai ter um tempo ali para discutir coisas ali ao longo do dia. Acho que pode ser o melhor dia para a gente fazer isso."
+4592.0,1,"É desenvolvimento da plataforma. E daí cria uma linha ali, ó, como é que é automant twenty one time a mão. Ou Variant Over the time. S e daí automaticamente ele já vai colocar depreciação ele vai fazer tudo"
+4616.0,5,baseado no valor da receita
+4623.0,1,"vai entrar lá no caixa igualzinho, né? Ele só entrar e vai aumentar o lucro. Né, o lucro vai ser bem maior, mas o lucro é que faz a remuneração do investimento. Como investimento foi maior. Então não vai."
+4644.0,5,ok
+4645.0,1,"Muito bom, hein que você me mandou, viu?"
+4646.0,2,posso passar voando no
+4651.0,5,É porque a gente atualizar depois dessa detalhamento. Depois da conversa com
+4656.0,1,Ah tá ótimo precisaram. A facilitação dele né?
+4660.0,5,E isso porque tava meio genérico mesmo.
+4663.0,1,"Então, qualquer coisinha se tiver uma dúvida e não for mais fácil você tiver falando com ele, pede da dica. Como é que você coloca o investimento aí, mas também acione eu aí não fique apertado em nenhum momento. Me ligue no telefone, se eu ainda não respondeu o WhatsApp."
+4680.0,5,obrigado
+4685.0,1,tá
+4687.0,5,perfeito
+4690.0,1,"Tem mais algum pontinho que nós temos uns 5 minutinhos aí? Tem que ser voando mesmo, mas podemos atualizar um pouquinho também, vai."
+4702.0,2,"Vou passar rapidinho aqui. Eu montei já tava pronto depois da última semana passada, eu montei quatro versões uma em português e o inglês completa, né? O pit deck e duas elevator [UNRESOLVED_ENTITY] que a gente tem apresentado nas reuniões aí com as áreas, já que o tempo é mais curto. Aí eu tentei né? Até falei com o pessoal tentei seguir ao máximo possível, aquele The Pit que a gente falou na última rock então passando por cada um dos pontos."
+4732.0,2,"Então passando bem por cima aqui, vocês estão vendo minha tela então, né?"
+4735.0,3,sim
+4737.0,2,"então comecei apresentando o time então o começo aqui não mudou tanto ainda do que a gente conversou entre nossa semana passada um pouquinho da situação atual tem isso lá no roteiro do The Beat então, o que que a gente falou o que que a gente fez um jeito mais macro assim para passar uma ideia do que aconteceu até aqui depois entra a parte da dor tanta questão de Baterias que estão por aí, né? Coloquei fotos de das visitas que a gente fez em relação as baterias que basicamente viraram lixo."
+4769.0,2,"E também a uma reflexão pensando que a gente viu esse comportamento aí de não aproveitamento de peças e etc para veículos, né? E hoje os principais fornecedores estão nos desmanches são as pessoas procuram mais oficinas que trabalham com desmanche do que muitas vezes. Funcionar até por conta do valor e a gente já tá vendo isso acontecendo com veículos elétricos e a probabilidade de acontecer com caminhões elétricos no futuro é grande, porque com a caminhões a gente tem a mesma."
+4799.0,2,A mesma a situação senão a gente não teria startups aí que resolvem problema de peça para pesado e um pouquinho das implicações em que não trabalhar essas dores aqui leva para as empresas pensando já trazendo para cenário [PARTNER_A] que eles falaram que querem que tenham né? Tá depois é um pouquinho do nosso [UNRESOLVED_ENTITY]. Case então a gente conversou com uma Startup chamada Octa que foi o pessoal lá da Patrícia. Tinha falado deles pessoal da TV você também falou e a gente apresentou e eles falaram cara para vocês funcionarem de um jeito legal assim que atenda tanto que a [PARTNER_A] que é como se vocês forem para o mercado. Vocês também consigam se relacionar vocês têm que trabalhar de dois jeitos com os clientes finais que são as pessoas que a gente tá né? Foi falando ao longo desse tempo a gente funciona como Marketplace é uma conexão ali então montei de um jeito mais bonito.
+4849.0,2,Que o Business Model então conectando fornecedores recondicionadores quando necessário quando com os clientes finais e aqui Scanner no meio de ela ser uma esse intermediador já que a gente tem que fazer esse spinning. E no segundo modelo que o pessoal recomendou a gente fazer é se a gente for relacionar com grandes empresas. Então seja ela a própria [PARTNER_A] ou empresas do grupo trentom eles não vão querer usar a plataforma. Eles vão querer ter o modelo de negócio que eles têm o controle do que está acontecendo.
+4882.0,2,"Que é mais ou menos o mesmo caminho que a [LOCATION_E] faz só que na [LOCATION_E] a [PARTNER_A] tem relação com todos os recondicionadores lá que trabalham com Second Life. Então se vocês conseguirem centralizar todos esses através de vocês para serem melhor, porque ele se relaciona só com vocês então assim. Eu preciso se relacionar com todo mundo, então, você faz a conexão de um jeito não deixa de ser uma conexão de um Marketplace só funcionando de um jeito mais."
+4910.0,1,Não é ecossistema [PARTNER_A].
+4912.0,2,"É e tá aí, trouxe um pouquinho do que acontece hoje que as missionárias trazem toda trazem a troca da bateria inteira, então eles não aproveitam a saúde da bateria conforme os indicadores, só troca tudo e manda para reciclagem esses [UNRESOLVED_ENTITY] se Manteve, né? Explicando que dá para fazer com cada um aí depois já entra numa parte de mostrar soluções que dá para fazer com né. Essa questão de reutilização de baterias. Coloquei também o nosso MVP técnico com as informações que a gente começou a extrair para conseguir medir de forma a gente conseguiria trabalhar essas baterias aí um slide que o [UNRESOLVED_ENTITY] comentou é como que ele questionou."
+4954.0,2,"Você scanner não tinha esse tipo de relatório para nos fornecer na bateria, a gente falou que a gente tem as que ainda não tem a tecnologia aqui no [LOCATION_A] ainda para fazer isso e a gente não conseguiria usar uma tecnologia [PARTNER_A] para testar coisa no mundo afora. Então, ele também comentou de tipo, como que a gente imagina que a [PARTNER_A] conseguiria trabalhar com essas informações aqui uma vez que a gente começasse a usar. Nossa, própria tecnologia ou tecnologia desenvolvida por um parceiro. E aí eu trouxe um pouquinho bem modo geral, o que que dá para a gente trabalhar além dessas informações gerais com o sistema basicamente o que grandes montadoras tem ali de maquinário para extrair informações, então a gente consegue ter alguns ali com os relatórios que as pessoas fazem hoje no [LOCATION_A], mas a gente consegue ter mais informações mais precisas assim isso ajuda a entender melhor que fim dá para cada bateria aqui cheio."
+5011.0,1,"E ainda talvez com esses caminhão inteligente, vocês estão acompanhando isso em tempo real, né? A bateria era nova. Era desse jeito um ano, depois está desse jeito dois anos. Depois tá desse jeito. Três anos, depois ele foi para o cara ó, vamos lá dar uma paradinha aqui que tem que trocar algumas células."
+5032.0,2,"É até pegando o caso da [PARTNER_B] automóveis, né? O ai de 4 lá que é o carro elétrico deles lá, eles já tem tudo isso integrado assim em tempo real o pessoal consegue receber imagina que o da [PARTNER_A] também tem."
+5044.0,1,Vai fazer a mesma coisa?
+5046.0,2,"Então porque uma combustão já faz assim o elétrico com certeza vai fazer também. Que mais na [UNRESOLVED_ENTITY] aqui enquanto teve a mesma coisa aí trouxe um pouquinho de funcionalidades que a gente tá pensando por trás da plataforma um pouquinho de fotinho para fazer merchan. E o protótipo então, né? São explicações aí por trás de algumas coisas mais práticas que a gente fez e aí entra essa parte mais reflexiva que vai entrar dados investimento futuro e etc eu fiz um slide a gente ainda [UNRESOLVED_ENTITY] revisar layout ou não já é uma V2 todas as perguntas que o [UNRESOLVED_ENTITY] pediu para a gente responder assim bateu muito nessa tecla aí de dessas três perguntas"
+5085.0,1,Por que que agora?
+5090.0,2,então eu trouxe. então ele [UNRESOLVED_ENTITY] como eu respondi. Eu tinha colocado da gente estar pronto para encarar desafios do [UNRESOLVED_ENTITY] desse mercado seu primeiro a promover esse próximo capítulo da sustentabilidade no [LOCATION_A] falando de eletrificação e a gente ser o benchmark brasileiro para isso.
+5121.0,1,"Ser o benchmark brasileiro podia ter até porque porque isto né? Mas é porque agora né? Porque achar a pergunta dele é super importante nesse sentido aqui. Não tem caminhão ainda no [LOCATION_A]. Então vamos voltem aqui daqui dois anos. Não e ainda outra né? Se eu for mais crítico ainda ó, os fabricantes vão dar oito anos 10 anos de garantia. Tá certo então o problema Teoricamente que vocês estão resolvendo é daqui 10 anos depois das vida útil das Baterias, né? Que a gente já conversou bastante, né? Então porque agora né? Eu acho que vocês tem que por alguma coisa muito importante que é ajudar a [PARTNER_A]. A entrar no mercado com soluções para entrar no mercado. Né, porque veja os desafios do cara lá dos seios em Marte."
+5184.0,1,"Por que que acontece se a minha bateria pifar no meio do caminho? Já imaginou-se ó, nós temos uma [STARTUP_A] aqui que vai lá e Resgate esse caminhão. O cara não estão vendendo seguro para gente assim que eles trocam o pneu do nosso carro e ligo o nosso carro se ele ficar sem bateria isso para vender [UNRESOLVED_ENTITY]. Então acho que vocês têm. Um rol né de soluções tanto internamente, né? Porque ela vai ter que ter uma equipe cuidando disso, né? Pô, você já não são vocês são o embrião da equipe numa lógica de plataforma."
+5226.0,1,"É tudo né? Então. Acho que isso daí é muito importante sabe então a bio édito Face de filtro challenge. Então veja eu tô trabalhando com carros ainda leves. Então por que que eu tô fazendo isso? Eu sou i*****, não é o mercado que eu tenho para aprender, isso é muito bom ter Nexus sustentabilidade. Eu acho que eu não sei se é [UNRESOLVED_ENTITY] para mim é. [UNRESOLVED_ENTITY] é já nasci já nasci com a sustentabilidade."
+5271.0,1,"Né, a [PARTNER_A] já nascer a próxima solução dela com a sustentabilidade, né? e helpis clínicos"
+5284.0,5,"Tem como colocar de alguma forma bonita, tipo assim?"
+5286.0,1,Quer dizer você vende mais que os outros se você tem [UNRESOLVED_ENTITY].
+5294.0,2,"Falou junto, me perdi."
+5318.0,1,"Não é só para entrar no mercado, você tem que dar suporte para eles entrar no mercado. Mas o teu suporte for melhor, você vai ajudar eles a vender mais caminho. Eu acho que essa daí ficou boa."
+5336.0,2,"Coloquei um pouco mais a nível que ele pensou o nível [PARTNER_A]. Minha estratégia assim, então foi um pouco mais macro."
+5345.0,1,"Eu [UNRESOLVED_ENTITY] nós eu entendo assim, porque a equipe de vocês, né?"
+5350.0,2,"ele quis dizer o aeso sentido [PARTNER_A], ele deixou bem [PARTNER_F] é porque"
+5353.0,1,[PARTNER_A] não não entendi.
+5357.0,2,O bombeiro do próprio slogan da [PARTNER_A] que é driving vestir transportation
+5358.0,1,Ah entendi drive de ecossistema.
+5373.0,2,assim então só troquei para Battery slides. Coloquei ela como ser uma referência em produtos elétricos sustentáveis. e
+5383.0,1,"Nós ele falou alguma coisa, talvez seja mais com aquele inferno Advance."
+5389.0,2,"Ele não mencionou isso, mas [UNRESOLVED_ENTITY]. Ele só falou tipo porque que a [PARTNER_A]"
+5390.0,1,"uma coisa adventude É porque porque é uma coisa que tem que sempre se pergunta, né?"
+5396.0,2,investiga nisso.
+5403.0,1,"Isso isso proporciona uma anfer adventude para [PARTNER_A]. A fera de ventre não no sentido de uma uma vantagem desleal não é uma vantagem de desligar é uma vantagem injusta, por exemplo assim existe hoje uma empresa uma Startup lá no [UNRESOLVED_ENTITY] estudando a mesma coisa tá certo? Na hora que ele souber que vocês existem, eles vão dizer bem assim, pô, mas isso não é justo. Essa Startup vai ganhar o mercado muito antes de nós, porque ela é da [PARTNER_A]."
+5441.0,5,Para mim é muito mais no Animal.
+5447.0,2,"Eu acho que não acho que é mais um tipo, por que vai se enfiar nisso. Porque assim vai fazer alguém vai fazer"
+5456.0,1,"É isso e veja mais ou menos assim e se você estivesse uma ideia aqui que ajudasse a despoluir o planeta. né, aí a [PARTNER_A] vai dizendo mas sim porque eu o que que eu tenho a ver com a poluição do planeta não mas é sensacional vai ganhar um monte de dinheiro é a maior dor do planeta hoje é destruir e eu tenho isso e a [PARTNER_A] vai dizer mais porque nós Ou um exemplo mais fácil que eu até o [PERSON_A] usa lá né, pô, eu tenho um medicamento aqui que p*** vai matar o câncer aqui."
+5493.0,1,"A [PARTNER_A] vai dizer assim, mas isso não tinha que estar na fazer na faz. Ele é uma fera adventude."
+5501.0,2,Tá É acho que esse terceiro acho que a gente pode trazer uma reflexão mais
+5501.0,1,"Na [PARTNER_A] não é tá vendo? Na [PARTNER_A] é um abacaxi enorme, né? Então é porque que é nós a [PARTNER_A], né? Eu acho assim porque a [PARTNER_A] tá no negócio, né. Porque [PARTNER_A]? Ela já tá no negócio é conhecida. Sei lá. Pense um pouquinho lá. Tem Pipos lives é uma coisa meio. [UNRESOLVED_ENTITY] demais"
+5541.0,2,curtida.
+5542.0,1,transforme de Way of business talvez Então entendo que
+5557.0,2,Tá bom se escreve depois reflete.
+5559.0,1,"Depois até alguém dá uma ideia melhor, né?"
+5564.0,2,"Isso aí e o porquê disso é que a Tainá colocou de ter o lance de pioneirismo, ele vem aqui no porque isso coloquei também de antecipar algumas dores da scanias que pensando no cenário do [LOCATION_A] assim do que eles vão se deparar que é completamente diferente da [LOCATION_E]. E transformar o sistema de transporte no [LOCATION_A] de ponta a ponta."
+5590.0,1,"Excelente acho que tá bem bom. Tem mais alguma coisa para frente ali, vamos ver"
+5592.0,2,então
+5594.0,1,rapidinho.
+5596.0,2,"O resto acho que me que segue. Ele também falou que não tinha ficado muito [PARTNER_F] a nossa proposta de valor, então, eu recuperei um pouco do que a gente falava eu transformei num slide. Então a gente tem até hoje então que foi mais ou menos o que a gente escreveu naquele vantage."
+5611.0,1,Sim lembro
+5612.0,2,Lá e trouxe para cá formato slide.
+5618.0,5,"E ele comentou que tem que ter uma proposta de valor voltada para [PARTNER_A], porque a gente está muito voltado para o mercado dos usuários finais ele fala mas a proposta de valor no sentido dois cães. Precisa ver que tipo assim que para ela é muito bom isso."
+5634.0,2,"é o que eu pensei nisso, aí eu pensei nos dois da ponta aqui torçabelit é bom ok, mas muito mais essa questão de redução de custo e redução de resíduo"
+5647.0,1,Acho que ficou bom.
+5648.0,2,"Porque até pegando que a TVs falou é legal você falar que vai ter aumento de receita, mas é legal também é mais legal você falar que vai ter corte de gasto. Então tá aí aqui eu deslembrei basicamente todas as coisas que a gente falou dos dados analíticos. Eu consolidei numa frase porque eu achei que ia começar a ficar extenso demais trazer muito já tá grande para caramba, então coloquei os visitantes dos Contos canais do país e quantos produtos mais buscados por enquanto não sei se ainda não tive uma ideia melhor para fazer um slide disso sem ficar muito orgulhoso."
+5685.0,2,E aqui também coloquei explicando um pouquinho das parcerias só para explicar
+5685.0,5,Vamos lá?
+5690.0,2,"o que elas fazem o que que a gente tá querendo fazer com isso. Então dá uma explicação por trás e aí a parte final eu tinha colocado aqui os próximos passos. Acho que foi atualizando enquanto a gente ia conversando. De [UNRESOLVED_ENTITY] no mercado MVP de solução desenvolvimento da plataforma e tipo um passo mais o tópico assim futuro e parcerias provavelmente chinesas, aí eu fui colocando um período aqui. Não sei se é o melhor jeito da gente dizer isso, mas pelo menos ter uma ideia do tipo que que a gente faz são os maias tantos que a gente tem por aí, então não sei."
+5726.0,1,"Não sei se o [LOCATION_F] é uma boa provocação, né? Porque um ano vocês estão chegando em 20206, né? Não sei se não seria bom Colocar assim 2027 [LOCATION_A]. Né ou 2028 [LOCATION_A] e 2029 para cima carnes como se fosse agora podemos sonhar qualquer coisa, né?"
+5757.0,2,É tá legal. Vou colocar mais um.
+5757.0,1,"e fica bom isso já dá mais uma ideia de O que que vocês precisam de prazo agora, né?"
+5769.0,2,Então foi isso ensina que o Giovani tava falando.
+5771.0,1,E eu não sei se cabe que esse ano é o marketing do queixam só.
+5777.0,2,Coloquei esses dois aqui Marte do peixe O VP de solução.
+5778.0,1,"esses dois Para esse ano da plataforma para o ano que vem, tá?"
+5781.0,2,é A plataforma daqui um ano.
+5786.0,3,"Mas dá para colocar um banho não dá não, né?"
+5789.0,2,a gente fez alguma coisa de
+5793.0,3,Dissolução a gente estuda um pouco vai.
+5796.0,2,"É mais tipo, eu acho que se a gente falar que tá um gol e eles vão perguntar que que a gente pode perguntar, qual é o seu plano de MVP, a gente vai ser tipo. Ah, vamos pegar uma bateria e transformar em coisa x a gente vai ficar meio da cabeça assim. Por isso que eu acabei deixando um período ali, principalmente porque esse assunto surgiu com essa busca mano, a gente explode mais tempo para estudar."
+5819.0,2,"Como viabilizar. Isso. A gente fez o MVP técnico, mas a gente sabe que talvez o de solução fique mais fácil de fazer transação."
+5826.0,1,E veja aí ainda não surgiu MVP que conectou né? No mínimo é esse daqui seis
+5830.0,2,Então aí beleza adiciono mais um bloquinho aqui de [LOCATION_A].
+5832.0,1,"meses agora nós temos que fazer a conexão, né? Acho que isso é isso é uma entrega muito boa, sabe me dá mais seis meses para ver se a gente consegue conectar. Né? Eu preciso de seis meses e vai gastar quanto por praticamente só o nosso salário e mais alguma coisinha, né? Mas viagens e mais um desenvolver um pouquinho mais a solução, né? É uma coisa pequena. Mas tem que gastar de qualquer maneira, né? E daí o que que vocês vão ter se eu tô fazendo conexão. Eu tenho um negócio que tá validado."
+5870.0,1,"Né? Eu não sei se eu consigo escalar. Mas o negócio tá validado, eu não sei se [UNRESOLVED_ENTITY] é o ritmo que ele vai escalar, eu acho que fica legal daí acho que dá para resolver aquela eixo do Giovani, né. E eu sou é makers. porque"
+5905.0,2,"Então mas enfim aí, essa é a parte final basicamente tudo quem tá discutindo então assim coloquei aqui da onde a gente imagina que a gente conseguiria obter"
+5914.0,1,"O mercado faltou tudo no começo ainda, né?"
+5926.0,2,"o financiamento que a gente precisa, mas esse valor a gente provavelmente vai mudar e aí acho que pensando naquele lance da gente colocar o que a gente precisa para a primeira rodada, né?"
+5936.0,1,Por seis meses né? Você tira de seis meses e um ano talvez.
+5940.0,2,"Então, tipo, então assim deixa em aberto. Isso aqui, acho que a gente vai ter que mudar mas essa ideia no final colocar da onde a gente tá imaginando que possa ver o dinheiro por enquanto o quanto que ele vai ser distribuído ao longo do período, né tirar com os [UNRESOLVED_ENTITY] e quais o que que a gente quer entregar no final desse período. E aí aqui tinha colocado os dados, mas a gente vai ter que revisar pensando no futuro mais distante assim só para dar um"
+5967.0,1,Tá legal.
+5967.0,2,"Uma ideia Já que o lindinei falou que seria interessante para o investidor ter pelo menos um gás aqui do que isso. E é isso tá bem grande? Não sei se tá grande demais, mas"
+5978.0,1,"Não para Pit deck não tá grande demais para o kit deck, eu acho que vocês podiam chegar aqui em 60 slides."
+5986.0,2,Nossa é coisa aí então.
+5988.0,1,"Onde tem bastante mais detalhes tal que você vai utilizar? Seu cara quiser saber como é que você vai fazer atração de clientes. Ah vou fazer essas estratégias lá que até estava escrito no bem escrito nesse material que eu recebi ali do Então, daí você tem mais mais assim para eu dizer assim não se limitem por causa disso nesse momento agora acho que é mais importante ter espaço para vocês criarem do que para vocês pararem de criar agora, né?"
+6029.0,2,"Então, mas é mais ou menos por aí é bom a gente vai ver com o Gabriel. Quanto tempo a gente vai ter de apresentação a gente vê se a gente"
+6038.0,1,"Então, provavelmente vocês vão eu vou dizer assim, vocês vão ter que escolher 10 desses 30 e poucos 40 slides escolher 10."
+6047.0,2,Por isso que eu acabei criando as outras versões aqui de pits menores resumidos. Então vou completar eles depois que a gente fechar essa parte aqui ver o mais importante.
+6060.0,3,"A gente faz isso presencial, né?"
+6063.0,2,"É assim. Acho que precisa ter esses dados aqui para a gente conseguir matar o pit completo que provavelmente Eles vão pedir o beatbox antes, então a gente tem que ter isso aqui pronto. E para eu conseguir traduzir atualizar os demais e aí a gente junta depois e atualiza o menor assim, não sei se a mãe vai consegue fazer porque tem três reuniões. Mas se a gente conseguir até quarta-feira terminar os seus dados para colocar aqui e na quarta a gente discutir ensaiar acho que quarta é mais plausível porque a gente consiga ver isso. Mas a gente vai fazendo um tempo que dá amanhã."
+6099.0,1,"Muito bom, viu. Tá excelente o material tá muito melhor do que [UNRESOLVED_ENTITY] esperaria nessa fase de vocês, tá? Quase pronto de Talvez uma horinha converse lá com a outra charge, até porque vocês tem uma troca de experiência entre vocês eu tô fazendo desse jeito, eu não vi o deles tá então que lá tem alguma ideia legal, né que vocês podem usar. Ou eles podem usar ali. Talvez um Uma troca de experiência entre vocês se der tempo façam tá vocês estão meio junto aí, né? Aproveite."
+6133.0,1,Eu acho que vocês estão um pouquinho mais adiantado que eles mas sempre pode ter vindo uma ideia boa dela.
+6140.0,2,"Sim, então."
+6141.0,1,"Pessoal, vamos para o encerramento."
+6144.0,2,Já estamos quase meia hora.
+6146.0,5,nota 10
+6147.0,1,Não é 15 minutos só né? A 12:15 nós vamos terminar meio-dia e trinta.
+6153.0,2,Eu tenho acho que é o que tava ainda meio que confuso era essa questão do dos cursos. A gente discutiu bem aí precisando de ajuda a gente sem estar junto para resolver. Acho que é o que falta para fechar o pit.
+6166.0,5,"Eu vou desenhar hoje e amanhã a gente pode martelo junto, principalmente a questão do [UNRESOLVED_ENTITY]."
+6171.0,2,Beleza agora já deixo deixo uma sala reservada para a gente.
+6177.0,3,"Já deixou o dia inteiro, tem que deixar."
+6180.0,2,É porque a gente tem reunião de manhã a última é? Vou pegar tipo. A primeira é às 11 horas pega ali de umas 9:30 10 até 5 horas
+6187.0,3,É bom.
+6195.0,2,da tarde.
+6197.0,1,[UNRESOLVED_ENTITY] e Tainá
+6200.0,3,"10 também eu só tô um pouco por fora do Live play, mas aí amanhã acho que hoje eu consegui me dar uma informação sobre eu fico. Já sabendo mais as coisas."
+6212.0,1,"Mas eu sei que o pessoal é que nem assim, você gosta de matemática de detesta, né? Todo mundo diz isso quem não é engenheiro usa essa expressão, né? A gente está acostumado. Mas é super bom você dar uma olhadinha, sabe esse negócio de custos despesas investimento habilidade não se você gosta então entre nisso isso daí eu"
+6231.0,3,Não e eu gosto dessas.
+6237.0,1,"sempre digo assim foi um dos diferenciais que me deu espaço lá na [PARTNER_G] e eu vou contar como é que eu entrei nesse de Finanças para vocês que foi bem interessante, eu e o meu pai comprando quando ele se aposentou uma fábrica de bolsas. e mochilas Daí eu fiz um cursinho de uma semana no [UNRESOLVED_ENTITY] lá do financeiro do [UNRESOLVED_ENTITY], né? Daí eu já era superintendente comercial lá e tipo, eu quero fazer um curso, né? Assim pensei até fui pedir até um curso na [UNRESOLVED_ENTITY] tal daí o diretor me deu lá. Ah, mas vai ter um MBA de controladoria aqui que o pessoal da [UNRESOLVED_ENTITY] vai fazer aqui para nós o pessoal da [UNRESOLVED_ENTITY] aí que é referência, né? Você não prefere esse eu prefiro daí Controladoria e Finanças como eu tinha base do financeiro de uma pequena empresa, eu já conhecia todos esses conceitos. Então para mim foi então hoje tem MBA de controladoria, mas porque eu entrei num cursinho do [UNRESOLVED_ENTITY]."
+6306.0,1,Você tá fazendo melhor do que o cursinho do [UNRESOLVED_ENTITY] fazendo o exemplo e colar. Tá bom.
+6314.0,2,"Então beleza Gente, obrigado então."
+6317.0,1,Para vocês conversamos semana que vem boa sorte. Um abraço.
+6319.0,5,Ótima semana.
+6322.0,2,Segunda-feira a gente vai para a sinaleira.
+6325.0,1,"Tchau, tchau."

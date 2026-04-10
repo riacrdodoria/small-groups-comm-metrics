@@ -1,0 +1,505 @@
+onset_seconds,speaker_id,text
+0.0,1,Bom dia
+1.0,2,Bom dia
+3.0,1,Tudo bem.
+5.0,2,Tudo ótimo e você?
+6.0,1,Tudo certo também. Deixa ver se eu consigo abrir a câmera aqui. aí
+26.0,3,Bom dia
+26.0,2,estamos Bom dia Já tá aí também?
+33.0,3,O Tiago tá entrando.
+37.0,2,"Thiago tá aí também, podemos começar então. Bom dia tudo bom?"
+42.0,4,Bom dia Tudo joia.
+46.0,2,"Não deu para avançar muita coisa aí como é que estão. Teve um dia né dois, né? Quem que vai ser o responsável que eu Facilitador é integrador?"
+65.0,3,tchau
+65.0,2,"Então [UNRESOLVED_ENTITY], abre aí o iOS que ele vai ser de vocês aí, né? Daí vamos trabalhar com ele."
+89.0,3,"O seu microfone não tá pegando muito não, tchau."
+93.0,4,"Estava no mudo, eu tô pegando aqui o link não ficou salvo. E fizeram boa viagem de volta [PERSON_A]."
+107.0,2,"Deu tudo certinho assim tava Nós vamos demorar entre sair lá do hotel chegar em casa ia dar 5 horas que é uma viagem super boa, né? Mas no finalzinho ali 40 minutos"
+115.0,3,boa
+117.0,2,tinha um caminhão lá. [UNRESOLVED_ENTITY] a estrada lá bloqueou 40 minutos. Mas só isso. O que dá uma viagem rápida também 5:40 não é ruim?
+139.0,4,Deixa eu só localizar o share aqui.
+153.0,2,"Excelente. Então vamos seguir a agenda ali ó das reuniões, né?"
+159.0,4,certo
+160.0,2,Reuniões semanais ali aquela ali de cinco minutinhos aí essa continuação dessa conversa aí da viagem alguma notícia mais aí de vocês para compartilhar.
+172.0,4,"Eu tô meio adoentado desde ontem, vai ser hoje vai ser um desafio trabalhar com um pouco de febre dor de garganta. Hoje vai ser um dia um pouco"
+180.0,2,Dá certo.
+182.0,4,"arrastado aí para trabalhar, mas vamos tentar fazer acontecer mesmo assim."
+189.0,1,"Da minha da minha parte, acho que a gente teve um retorno legal de um parceiro. Que foi comprou o primeiro contato"
+194.0,4,sim
+198.0,1,com ele se mostrou bastante interessado em nos ajudar. Acho que é um ponto positivo.
+205.0,2,Muito bom.
+208.0,3,"Eu acho que da minha parte assim, apesar de a gente ter tido só dois dias a gente conseguiu progredir bastante. Fez bastante contato e então com boas expectativas para essa semana aqui, vamos ter mais tempo para trabalhar."
+230.0,2,"o próximo item é o Por enquanto escorcard só tá ali o O kth né? Que é a régua que O que a [PARTNER_A] vai usar aí na para escolher vocês né? A gente trabalhou lá fez essa nota. Aí do dia 7 aí né? E desafio a gente chegar ali no dia no dia 18, né com algum [UNRESOLVED_ENTITY] aí, né? Essa data do dia 18, você já validaram ali os valores."
+282.0,4,É foi o que a gente preencheu na sexta-feira a gente revendo as métricas a gente entendeu? Que com que a gente tem nas [UNRESOLVED_ENTITY] isso aqui é algo tangível algo que a gente acha que consegue chegar em 18/11.
+296.0,2,"legal Então, só faltou preencher fazer os intermediários ali, depois você faz tá? Entre um e outro só para a gente."
+307.0,4,"Tá bom o 14 do 10 acho que todo mundo concorda que hoje a gente tá igual ao dia 7, né?"
+312.0,1,Depois a gente faz os outros.
+322.0,2,E daí a gente tinha que ver outros
+322.0,4,beleza
+324.0,2,"Stories Card aí que vão ser importantes aí na sequência, né? Relacionados aquelas metas anuais que vocês colocaram né? então, se você colocar ali na Acho que até na Hot né, a gente escreveu alguma coisa, mas no plano de um ano Quer ver?"
+346.0,1,Ah então a gente precisa colocar ali
+350.0,2,"Então, a gente colocou ali não"
+352.0,4,"Aqui é o plano para o semestre, né?"
+352.0,2,colocou. É o que que tem ali de mensurável ali no que está escrito ali.
+363.0,4,"A gente está falando, né de atender três regiões diferentes. Ter 20 clientes mensalistas, né com duas recargas cada um contratadas. É ter condomínio em fila de espera depósitos em fila de espera. estudo de expansão para outros mercados e evidência de tração Para o modelo de pesados, né? Que aquilo que a gente vai comentado do ônibus. No [UNRESOLVED_ENTITY] a gente tinha falado em chegar uma modelagem financeira. Que atinja né? A fotografia de três anos que a gente desenhou."
+403.0,4,Desenvolveu o pitdeck para [PARTNER_A] ventres. Ter uma explicação muito clara das etapas de evolução do plano até a chegada na linha de pesados. de carregamento Tem um parceiro operacional. Tem um modelo de captação de clientes e cobrança já funcionando. E tem a primeira versão do algoritmo.
+434.0,2,"É então, você veja que tem vários aqui, né? Até você, pode por lá três regiões, né? Então o número de regiões atendidas lá é lógico que talvez isso no primeiro 45 dias se quiser, né? Mas é um indicador para a gente colocar como é zero não colocaria clientes mensalistas. Talvez não dê também não. Ficou 45 dias, não sei o que que vocês imaginam. Mas era interessante eu acho"
+465.0,4,É acredito que nos 45 não.
+465.0,3,Bom melhor.
+467.0,2,"interessante assim uma horinha, vocês só verem se não tem algum aqui que a gente já devia começar lá. Condomínio em fila de espera você poderia por lá ó contactar tantos condomínios, né? Porque os condomínios vocês vão ter que começar agora, né os contatos, né? Postos em fila de espera então ó número de postos contactados no número de postos embarcados número de postos que isso também eu acho que são duas essas duas métricas e beijo bem bacana assim para vocês acompanharem, tá? Então essas duas aí é garantia, depois vocês veem mais alguma lá se vocês querem daí eu daí eu [UNRESOLVED_ENTITY] fica completinho assim para para orientar a nossa discussão semanal."
+518.0,1,o realmente o que a gente vai atingir uns 45 dias.
+522.0,2,"e isso então por exemplo, Condomínio vocês podem colocar contactar condomínio ou Só que não é só contactar, né condomínios que é que vão aceitar trabalhar com vocês, né? Esses 45 dias nós temos que ter um ou dois aí vocês dão uma refletida, né? Três aí, vocês vão pensando, né? Porque ele vai ser importante daí nos próximos 45, né? Provavelmente."
+552.0,1,Vamos lá?
+556.0,2,Tudo isso já para não esquecer. E um responsável.
+567.0,4,Vamos atualizar. Tá bom assim.
+584.0,2,"Só por um responsável pelo importante, né?"
+587.0,4,"Colocando meu nome e a gente puxa. Eu puxo para a gente fazer. A gente vai precisar criar uma isca para isso, né?"
+604.0,2,"Pode pode pode começar com isso, né? Precisamos completar o scorecard Pode pôr assim com indicadores. Talvez desdobrados, né que é aquele lá, vocês não vão ter condomínio. é embarcado na já carregando, talvez não dê tempo, né, mas coloca lá o desdobrado que [UNRESOLVED_ENTITY] um compromisso ou conseguir um sim dos condomínios."
+660.0,1,curiosidade
+662.0,4,"Bom, então, temos esse tio do novo"
+668.0,2,"Isso talvez. [UNRESOLVED_ENTITY] ou não quero um placar é super importante sabe uma vez um diretor falou bem assim, não sei se você já jogaram no basquete. Por exemplo, né? Que jogar basquete sem contar o número de cestas. Eu sei que 10 minutos depois tá uma avacalhação, ninguém acerta nem a sexta sabe? Porque não tem o placar sabe então um jogo sem placar num jogo chato, né? Qualquer jogo né? Aí vamos jogar baralho, não vamos contar os pontos, né? Você acaba desistindo de jogar o baralho, né? Então o placar é uma assim."
+718.0,2,"Um motivo né de você estar ali sempre se alinhando sempre olhando colocando um desafio para vocês, né? criando a regrinha do jogo aí"
+736.0,4,"que a gente colocou que a gente já tinha né? O primeiro de custo de MVP a partir de três opções está em andamento ainda, né?"
+753.0,3,Em andamento eu comecei a fazer. O documento né documentar opções aí preços. Mas a gente não tem as três opções ainda.
+764.0,2,"Eu não vamos não, vamos discutir isso agora senão a gente não tem tempo de discutir depois tá? É só assim tá um track."
+772.0,3,tá
+774.0,2,Se tiver algum problema a gente anota isso né? A gente tava no exportar anotamos uma
+778.0,3,"Ah, ok então."
+779.0,2,"exu para vocês dar uma pensada ali no placar do jogo de vocês, né para esses 45 dias. Daí vamos para o próximo assunto lá."
+791.0,4,Terminar de preencher o Canvas a gente fechou no dia 10.
+794.0,2,Ah já fecharam
+796.0,4,Fechamos tá preenchido.
+799.0,2,mas agora você tá no Qual o item da
+803.0,4,É que eu não tenho dois terminar de preencher o Canvas.
+806.0,2,Não é que assim escolhe cara. Agora nós estamos na rock review.
+810.0,4,eu acho que as rocks elas estão
+813.0,2,"Porque o item três é rock review daí agora dá uma olhadinha, né nas rocks e nesses primeiros cinco minutos é só assim, o responsável vai dizer citar um track of Track. Isso tem alguma? Para pensar e todos podem colocar uma Exu."
+837.0,4,"track, a gente só tem eu gostaria de declarar uma icho que é respeito do A gente teve muita dificuldade para conseguir encontrar as uniques para o mei. Para um veículo autônomo para trabalhar junto com a gente isso, acho que faz parte da dessas Rocks funcionarem. A gente tá com bastante dúvida de como tornar o modelo atrativo para eles."
+864.0,2,Adicionar um problema bem importante anota lá essa aí chuva.
+891.0,4,Essa vocês acham que como marketing.
+896.0,2,é
+919.0,2,Como é que está escrito? É seria a proposta de valor as triunix. Cada um é responsável por uma né? Não tá aqui os responsáveis.
+958.0,4,"Não ficou anotado, né?"
+960.0,2,não é interessante que
+961.0,4,Ah não ficou aqui ó.
+967.0,2,Como embaixo não tô vendo.
+969.0,4,aqui ó na primeira não ficou na Por algum motivo desceu e ficou aqui.
+975.0,3,"Que as rocks de 45 dias essas aí, né?"
+978.0,4,"Essas 45 dias, né?"
+979.0,2,"Ah tá certo. Então Mateus, [UNRESOLVED_ENTITY] e o Zé, como é que estão contratec então o resto? alguma ok"
+1003.0,3,E a gente já risca o lixo também
+1006.0,2,Vamos para o próximo item lá da agenda.
+1009.0,4,"A gente não decorou ainda, né?"
+1013.0,2,Mas seria notícias se vocês têm alguma notícia uma notícia do de algum cliente ou consumidor ou da equipe mesmo aí que você
+1026.0,4,Assim uma notícia acho que importante é que a gente vai falar agora depois da nossa. A gente vai falar com o gerente do condomínio aqui do [UNRESOLVED_ENTITY].
+1039.0,2,Já marcaram
+1041.0,4,Marcamos ele queria fazer as 10 a gente pediu para fazer as 10 40.
+1045.0,2,"excelente Acho que eu comentei com vocês, né a verdade para vocês. Agora só tá aí fora do [UNRESOLVED_ENTITY]. Nunca work não tem muita verdade para vocês agora vocês têm que sair mesmo, né? O pessoal fala tirar a bunda da cadeira, né? E ir para fora no começo, até vocês vão se sentir meio. Mal, né que a gente não tá muito acostumado fazer isso, mas tem uma piadinha boas as primeiras duas mil vezes é difícil, depois fica fácil."
+1083.0,2,tudo
+1084.0,4,"tudo list Então essa já tinha falado que tá um track, né, Zé a primeira. A segunda a gente finalizou no dia 10/10 que era terminar de preencher o Canvas da plataforma."
+1104.0,2,"Se você finalizou você pode marcar ali a data de fim. E daí, você pode taxar ela?"
+1111.0,4,Tá bom.
+1115.0,2,"Eu gosto do tachar assim, porque daí a gente [UNRESOLVED_ENTITY] comemorando, né? E a gente e deixa registrado que a gente fez, né? Não não tô dizendo assim no visual aqui é legal essa."
+1137.0,3,que ele estava associado.
+1139.0,2,"Se aí chutar resolvida com essa ação, porque de vez em quando é o início da solução da icho né? Mas se ela tá resolvida aí também resolve põe a data lá."
+1153.0,4,Eu tô apanhando desse Word online formatar.
+1158.0,2,a gente
+1159.0,3,acho que vale acho que vale a dúvida
+1163.0,2,A gente fica mais acostumado com o [UNRESOLVED_ENTITY] da [UNRESOLVED_ENTITY].
+1171.0,4,"Terminar de preencher os três Unix para cada um dos clientes no marketing stratege. Isso aqui tá um track, mas a gente tem aí o que a gente declarou lá que é para a questão do meio. Então não foi finalizado."
+1188.0,2,Vamos finalizar então agora né?
+1193.0,4,Não.
+1193.0,3,também que a gente tinha anotado quando a gente tava não sei se agora o momento mas A gente tava na dúvida se os três Unix eles são o que a gente entrega para o cliente ou pode ser uma um [UNRESOLVED_ENTITY] relacionado ao modelo de negócio então que só a gente vai ver.
+1213.0,2,Não nesse caso é cliente é como se fosse assim.
+1217.0,3,tá
+1219.0,2,"Colocar imagine um material de comunicação, né? Se você fosse contratar uma agência, né? Para fazer lá alguma coisa ou o cara do site ou fazer um panfleto, né? Como é que você explica para a agência, né? O que que ela tem que escrever, né? Porque ela não sabe né? É a proposta de valor que vocês."
+1240.0,3,Para o cliente.
+1242.0,2,"Isso é a proposta de valor para ele, né que pode ser redução de tempo o aumento de venda. Facilidade status, pode ser qualquer coisa desse tipo, né? E essa proposta de valor é o que você comunica a ideia das triônicas é que é uma reflexão um pouquinho um pouquinho maior que a proposta de valor que é assim, tá bom? Mas o que dessa proposta de valor que nos torna único, né? Porque você pode preencher um monte de coisa da proposta de valor que você fica igualzinho a todo mundo, né? Daí ele não é uma proposta de valor que te deixou o único se eu não te deixa o único."
+1287.0,2,"A dificuldade de você vender depois é mais difícil, né? Você só você só tem um argumento assim que são eu faço mais barato, né? Tudo igual os outros. Mas então você vai ter que derrubar o preço, né? Essa triônicas é que dão foco na cabeça da gente na hora de até conversar com as pessoas, né? Mas vale a proposta de valor inteiro, então vocês podem começar a proposta de valor pode ter cinco seis elementos."
+1323.0,2,Mas o que que nos torna único?
+1329.0,3,"Boa beleza, acho que ficou [PARTNER_F]."
+1334.0,4,Estão seguindo né? A gente tem o preencher scorecard com o objetivo dos 45 dias do E se a gente fez?
+1344.0,2,Olha são 9:23.
+1347.0,4,"É eu já fiz agora, né? Na hora que a gente. ok Vamos riscar. E aí a gente tem essa que a gente colocou hoje, né que é atualizar scorecard com indicadores. Das [UNRESOLVED_ENTITY] track a gente entendeu aí o que tem que fazer. Vamos distribuir essa tarefa aí hoje no decorrer do dia."
+1377.0,2,"A previsão é na que a gente chegasse em 9:25 e começar a ser a solução de problema, tá?"
+1384.0,4,Ótimo excelente.
+1384.0,2,"Então ainda é uma reunião Inicial ainda, né que a gente conversa um pouco de outras outros assuntos aí para entendendo. A metodologia né? Eu diria que foi excelente, né? Já na primeira reunião a gente conseguiu os 25 minutos aí. Não é muito comum isso."
+1404.0,4,Muito bom.
+1406.0,2,"Então, agora nós vamos para a lista de exu para a gente vocês"
+1410.0,4,Aí sulista está na tela pessoal
+1413.0,2,"escolherem, qual que nós vamos solucionar hoje, né?"
+1427.0,4,alguns de vocês. Tem alguma sugestão de algo que vocês queiram já discutir. de forma inicial
+1436.0,3,Acho que dá para ir pela ordem que a gente tinha posto. É né?
+1444.0,2,"Vocês têm uma prioridade ali dos foguinho, né?"
+1448.0,4,Eu acho que essa dificuldade Para viabilizar a solução móvel como essa Light é uma boa né?
+1459.0,2,Qual que é o número dessa?
+1461.0,4,"Ela é a 8 e eu acho que ela conversa bastante com a 14. Elas estão bem associadas, né?"
+1478.0,2,"Eu achei interessante essa que vocês colocaram agora, né? Deixa eu ver qual que foi?"
+1484.0,4,a 28 tornar modelo
+1485.0,2,Então qual que vocês querem começar?
+1498.0,4,"Eu tenho uma opinião, não sei se vocês concordam. que eu acho que"
+1502.0,1,Sim foi exatamente a gente conversou.
+1505.0,4,"Essa dificuldade Para viabilizar a solução móvel como asseplight e o cão [UNRESOLVED_ENTITY]. Minha opinião tá? Posso estar errado, eu acho que no momento a gente teria conviver com ela até a gente esgotar um pouco mais as reuniões que a gente tem puxado. com as empresas de reciclagem com as empresas de pés Hoje a gente não vai conseguir sair muito do lugar com isso, né?"
+1531.0,3,"Eu concordo acho que principalmente com a empresa lá do [UNRESOLVED_ENTITY] de geração de energia. Acho que ele vai ser a chave da gente entender se realmente tem um investidor que pode colocar dinheiro e a reunião tentar bater um pouco mais nessas de reciclagem, né? Eu acho que não dá para resolver isso. Agora a gente vai ter que conversar com mais parceiros."
+1556.0,2,"Mais a discussão tá boa, viu? Eu acho que assim discuto para daí a gente quando quando não tiver mais discussão daí a solução caiu na Caiu no colo, né? Mas discussão tá boa? Porque veja só só tentando ajudar aí na discussão, né o equipamento de carregamento, né? Que é o caro aí de vocês, principalmente se for esses de ponta, né? Porque a gente viu que tem uns baratinho, né? Se for aqueles que dá uma carga mais rápida, né? Mas ele não me parece também tão caro assim, né? Desde que tenha a receita, né? Então acho que isso tem que pensar"
+1602.0,3,é o
+1603.0,2,"nesses dois lados, né?"
+1607.0,3,É o carregador.
+1607.0,2,porque você
+1609.0,3,"O carregador não é não é tão caro, né, mas o banco de baterias."
+1615.0,2,"E isso é então, mas aí é que tá"
+1616.0,3,É uma coisa interessante que a gente
+1619.0,2,"é que vocês têm a opção assim, ó, podemos começar com o carregador enquanto o banco de bateria vai cair o preço, lembra que ela acho que eu contei para vocês do [UNRESOLVED_ENTITY] que é o exemplo, né? Uma hora vai ter carregador estático melhor, né? Hoje é caro, né? Que nem uma das equipes queria ter uma ideia de fazer um. Carregador de indução já imaginou que bacana você estaciona na vaga, ela fica carregando, né igual um celular."
+1648.0,2,"Mas essa tecnologia ainda não está disponível, né? Não trabalhar com ela, mas nós temos que trabalhar então eu não sei aqui é uma coisa que vocês vão resolver também. Na hora que vocês começarem a fazer a pesquisa de equipamentos de soluções. Que você já começaram, né? Fazer aquelas planilhas e ter ideia de quanto que dá para cobrar, né? Porque você não tiver ideia de quanto dá para cobrar não vai fechar conta nunca né?"
+1684.0,3,teve nessa conversa. com o [UNRESOLVED_ENTITY] é que é o cara que comprou exatamente um produto muito parecido com que a gente tava em mente do lado da velha que é um banco de bateria de 150 kilowatt-hora com um carregador acoplado e a ideia dele é atender eventos de veículos
+1705.0,4,Uma queda de energia você consegue
+1706.0,3,"elétricos carregando ali remotamente, né e Ser um gerador como se fosse um gerador diesel, só que silencioso. Caiu a energia aqui"
+1722.0,4,nos ouvir ainda [PERSON_A].
+1725.0,2,Sim consigo não para mim não não mudou aqui.
+1727.0,3,Só ficou a internet sobreviveu.
+1730.0,4,A internet sobreviveu Deixa eu só
+1731.0,2,mesmo é
+1732.0,4,acho que eu vou ter que refazer o Ah não vocês ainda vem me matar.
+1736.0,3,"Sim sim aqui. É bom o E aí foi interessante a conversa porque? Assim ele inclusive estava pensando em algo bem parecido com a gente, mas ele se assim se mostrou ser um possível parceiro exatamente naquela naquela bolinha lá do investidor, né ele ser o dono do [UNRESOLVED_ENTITY] e a gente alugar dele. O banco de bateria né então. [PARTNER_F] precisamos conversar mais com ele, mas pareceu é uma possibilidade realmente apesar do banco de bateria secaram a gente precisa fazer as contas e tudo mais é possível alugar de um investidor que vai comprar o haste e a gente vai operacionalizar. O produto dele."
+1790.0,2,"A outra do alugar é o seguinte ele ele comprou imaginando que ele ia carregar ganhando dinheiro, né? Então vocês podem resolver arrumando o cliente para ele, né?"
+1802.0,3,Isso exatamente.
+1804.0,2,"Isso isso é essência da plataforma, né? O ideal seria."
+1809.0,4,"Aí o negócio começa a virar a plataforma de verdade, né?"
+1812.0,2,"Isso então como ele já é mais ou menos assim, o cara pode ter gasto um milhão, né? E não vai retornar nunca esse dinheiro. Mas se vocês oferecerem que então por mês é melhor que zero, né? Ele vai ter que aceitar, né? Então esse é quase que um ele é docker aí para vocês, sabe?"
+1834.0,3,Então o equipamento não tá pronto
+1834.0,2,"Para vocês testarem ali o aluguel, eu acho que isso é mais agora na planilha, né a consideração como alternativa. Mas é vocês verem se Vocês conseguem cliente para ele e resolvem o problema de cobrança, né? Um cartão de crédito, sei lá, como é que vocês vão resolver vocês tem e se possível, já que o equipamento tá pronto, né? Você está por aí, né? Ele já imaginar um MVP para testar isso."
+1869.0,3,"entregue ainda. Ele falou que vai receber em fevereiro que é um prazo meio chato, mas surgiu a ideia de se a gente"
+1875.0,4,A gente só consegue aí comprovar
+1876.0,3,"conseguir cliente para conseguir já testar o MVP. A gente pegaria um gerador diesel mesmo dele que no final das contas faz a mesma função, só que a matriz energética é diferente."
+1893.0,4,"que o cliente quer comprar recarga móvel, não importa como."
+1896.0,3,exato
+1898.0,2,"Nesse caso comprava muito mais, né? Porque daí você vai cobrar né? Entregar ver a satisfação do cliente depois né? Tem toda uma logística e que a contratação né? Como é que faz então você tem você faz um MVP super bom, né? Então você veja nesse caso aí vocês já estão colocando aqui dá para fazer um MVP com ele até sem a bateria por enquanto."
+1926.0,3,"A gente precisa acho que o grande ponto agora arranjar o cliente, né chegar no cliente, seja o"
+1932.0,4,"Bom então, a gente tem que tentar"
+1933.0,3,estacionamento. Chega um dono de carro elétrico mesmo.
+1938.0,2,Um evento né que ele que esse o [UNRESOLVED_ENTITY].
+1940.0,3,um evento exato
+1942.0,2,"Ele trabalha em eventos, né? Então poderia lá bater um evento"
+1945.0,3,isso
+1947.0,2,"aí de sei lá. Rural né? Vocês vão lá numa feira [UNRESOLVED_ENTITY]. Numa corrida de cavalo, qualquer coisa que tenham lá, né que tem a gente põe a placa dele e ele tá prestando serviço, né? É um MVP bem. Então veja vocês estavam dizendo que não tinha muito o que fazer. Eu tô vendo um monte de coisa para fazer com essa isso."
+1974.0,1,Não tem bastante coisa assim.
+1977.0,2,Agora é mas você está talvez não seja a hora ou eu tô achando que tá super na hora. Vocês estão com o negócio tudo me encaminhado.
+1990.0,4,transformar isso agora.
+1991.0,2,"agora É porque é uma solução para esse problema, né que vocês levantaram, né? Então qual que é a solução que surgiu aqui que dessa discussão? Não sei se a discussão Já chegou no final aí fiquem à vontade aí para colocar outros elementos, né, mas só do que foi feito até agora. Eu diria que teria assim estudar uma solução seria estudar um MVP com o [UNRESOLVED_ENTITY]."
+2025.0,3,"eu acho que tem duas coisas aí, minha opinião é que"
+2027.0,2,Mas vocês não vocês não precisam
+2032.0,3,Seria a gente se aproximar mais do
+2032.0,4,"eu achei interessante, acho que a"
+2032.0,3,"[UNRESOLVED_ENTITY], né? Inclusive fazer uma visita que ele até ofereceu fazer uma visita lá na no pátio dele. E o segundo ponto seria do MVP de fato é arranjar um cliente agora como eu não sei exatamente, mas a gente precisa de um cliente que a gente possa atender e fazer o MVP existir né?"
+2058.0,2,"definir isso agora, né? E lembra assim uma tudo é uma coisa que é para você fazer na semana, né? Então, se você colocar nessa tudo assim ó marcar uma visita com [UNRESOLVED_ENTITY] para discutir oportunidade como? Para tentar identificar oportunidades de fazer um MVP com ele. Daí esse MVP tá aberto pode ser esperar a bateria chegar pode ser a ideia que você mesmo colocaram agora, né? Poxa, mas nós podemos fazer um teste Inicial nós arrumamos um carregador."
+2102.0,2,"Da e você arruma um geradorzinho e nós vamos lá brincar de fazer isso lá no evento lá do [UNRESOLVED_ENTITY], né? Por Exemplo, né? Então você e isso daí é super interessante, vocês entenderem que essa reunião vocês não vão chegar lá com uma solução, né? Vocês vão tentar construir uma solução junto com ele? Tentar fazer isso junto com o cliente nesse caso, né? Então entender bem a dor dele e entender como essas todas essas oportunidades que vocês estão identificando, né? Podem casar com a dor dele."
+2145.0,4,gente podia interessar então aqui que o matildo conseguiu uma agenda com Com o [UNRESOLVED_ENTITY] para discutir MVP.
+2151.0,2,"Para discutir um MVP porque daí veja pode ser até mais de um né? Você pode dizer vamos fazer um MVP na próxima feira no próximo rodeio a gente faz com gerador diesel teu aí mas no próximo a gente já pode pensar em fazer com a bateria. Que é o que ele quer, né? Eu imagino né? Você se ele já gastou quanto que ele gastou que vocês falaram."
+2175.0,3,Acho que ele vai encomendar né?
+2176.0,1,"Por volta de é ele falou que encomendou mais três, não foi?"
+2181.0,3,"Eu entendi isso, mas ele pegou aquele menor né de 150 kilowatts o preço que a [PARTNER_D] passou para gente é 570 mil."
+2191.0,2,[UNRESOLVED_ENTITY] cutucando é milionário.
+2195.0,1,Inclusive ele falou que comprou um carro híbrido para testar o carregamento.
+2200.0,2,"Você vê lembra que aquela piadinha que tem lá o que que é um ele é Doctor, né? É um Jovem Rico."
+2209.0,1,"É ele não é tão jovem, mas ele é rico."
+2213.0,2,Mas diz muito ele é né?
+2213.0,1,mas
+2213.0,2,"Porque ele é um negócio super inovador gastou 570 mil. É lógico que provavelmente eu não preciso fazer a continha para ver que ele não vai retornar esse dinheiro, né?"
+2228.0,3,Não tão cedo.
+2228.0,4,Bom esse aqui então a gente coloca
+2229.0,1,Não.
+2229.0,2,"Pelo menos nesse né? Talvez ele retorna assim, ele tem a visão, né? Eu vou ter 300, né? E eu vou comprar por 200 mil daqui a pouco Daí é viável, né? Então vocês vão resolver acho o pit de vocês da primeira conversa é super bom é dizer bem assim. Vamos arrumar cliente para você? E vamos resolver o problema de cobrar de cartão de crédito de pics, vocês vão ter que ajudar ele a resolver isso, né? E daí o que que vocês vão querer, né? Não no futuro a gente é uma plataforma a gente quer um percentual do faturamento que for gerado, né? Vocês que só querem isso, né? Porque se vocês arrumarem todo o sistema, né? E aí mais ou menos que nem o Uber lá ganha 20% e não tem carro que não tem motorista."
+2286.0,2,"E não é ele que atende o cliente só o software dele, né É mais ou menos isso que vocês têm que vender para ele, né? A ideia é que o cara tá que nem o Uber lá, né? Ah eu tô aqui no rodeio p***, meu carro tá sem bateria. Entra ali, eu quero carregar a bateria. daí já entra no site de vocês o site de vocês já tá ali com ó, tem um disponível agora para os 14 horas Daí ele agenda para as 14 horas."
+2319.0,2,"Seria mais ou menos assim e isso tudo dá para fazer com ele. [UNRESOLVED_ENTITY], vamos anotar lá então. Ou tem mais algum assunto?"
+2342.0,4,hoje como data de solução.
+2345.0,2,Não a gente coloca endereçado na tudo.
+2349.0,4,"Ah entendi, coloca uma data aqui na endereçada."
+2378.0,4,Aí a gente vai colocar aqui.
+2383.0,2,"Eu gosto do sinaleirozinho aqui, né? Você viu que eu coloquei um verdinho aqui? Isso tá verdinho. Então sempre que a gente for olhar tá verdinho. A gente olha rapidinho e já passo para resolver o próximo."
+2402.0,4,agendar
+2408.0,2,"Aquele número que o [PERSON_A] colocou ali no 1, né? Tá vendo um no dia 9 é só para dizer qual que é o número da tudo só porque depois a gente para achar um e outro é difícil sempre né? Então na frente da data ali ou a gente põe mais uma coluna aqui, talvez."
+2438.0,4,"bom, essa é a eixo 8"
+2445.0,2,"Ou se você já quiser colocar junto a outra eixo que você tinha falado ali, qual que era?"
+2451.0,4,"A gente enxerga bastante aí 8 e aí fica 14, né? A gente pode colocar um 8/14 ali."
+2462.0,2,pode
+2462.0,4,Tá então já vou colocar aqui também. 14 10 24
+2473.0,3,Será que nessa 14 aí a gente não tem que colocar alguma coisa relacionado? A reciclagem de bateria também.
+2482.0,4,Eu colocaria uma ação aqui de a gente. Na verdade. Acho que a gente teria que discutir ela para ter tudo aqui só para 14 colocar a nossa discussão deveria ser cerca dos parceiros de reciclagem.
+2497.0,2,a reciclagem Eu [UNRESOLVED_ENTITY] para depois mesmo porque sem a Sem esse primeiro MVP. Não sei daí você já vai ver a reciclagem.
+2510.0,3,"Acho que a reciclagem ela é muito na linha de tipo assim, se a gente conseguir se ter uma empresa parceira aqui falar ó, eu consigo fazer um banco de bateria de segunda vida, aí a gente oferecia, por exemplo para o [UNRESOLVED_ENTITY] o [UNRESOLVED_ENTITY] a gente tem um aqui com um custo um pouco mais baixo. Entendeu? E aí?"
+2531.0,2,É quase que um desenvolvimento de produto.
+2535.0,3,Isso sim.
+2536.0,2,"Olha eu deixaria isso em isso separado, sabe?"
+2540.0,4,Deixa só oito aqui então.
+2542.0,2,"Deixa só oito porque essa daí é bem mais. E eu não sei se ela é tão urgente, vocês acham que é urgente começar a pensar nisso agora."
+2552.0,4,"Eu acho que aguenta mais urgente,"
+2553.0,1,Só um pouquinho.
+2554.0,4,né?
+2554.0,3,"É mais urgente sim e tem a ver com o teste do serviço, né?"
+2559.0,2,"É isso. Deixa essa Pode ser que você escolha discutir ela hoje mesmo, mas vamos vamos escolher a segunda, né agora para a gente resolver, né? Se for ela a gente discute também, como é que a gente faz essa? Mas talvez as triônicas agora é mais importante. a gente"
+2592.0,4,"Também acho que é uma boa a gente discutir isso aqui, né?"
+2596.0,2,"Mas todo mundo dá uma olhadinha, se não tem nada aí que tá."
+2615.0,4,Só descer.
+2634.0,2,"Olha, vocês vão ser. A grande surpresa do [UNRESOLVED_ENTITY], hein? Porque ele já criou um problema para ele. E ele bem ele bobo não é porque ele disse que pode comprar mais três, mas não pediu ainda, né?"
+2651.0,4,"Ele é muito forte [PERSON_A] em locação de gerador diesel, não tem o cara faz muito dinheiro com locação de gerador. E ele tá de olho em fazer algo novo,"
+2657.0,2,E ele já percebeu que é e não e
+2658.0,4,né?
+2659.0,2,"ele já percebeu provavelmente sintam lá com ele, né para entender bem o problema. Ele deve ter muito problema com o barulho. Daí o que que ele pensou? Então eu compro um banco de bateria, eu resolvo o problema do barulho e agora eu posso fazer um serviço adicional, né? Talvez é isso que ele tá."
+2681.0,3,"É isso e o que ele falou também. Foi assim para atender evento de carro elétrico que tem tido bastante ultimamente ninguém quer um gerador a diesel, né? Que seria meio hipocrisia usar um gerador, entendeu? Ele falou isso. Ele falou isso para eu conseguir atender evento de carro elétrico."
+2701.0,2,"É mas mas também mas não não fiquem preso nisso, né? Porque você faz um evento de carro elétrico é muito difícil que não tem uma tomada para você se conectar lá, viu? Então vocês."
+2712.0,3,sim
+2716.0,2,"E mais agora tendo a bateria, né? Porque você precisa carregar a bateria, né? Você desloca. Ela carrega e volta para carregar ela de volta, né numa bateria, né? Não precisa ser um gerador, né? É esse cara. Nossa, você tem uma coisa que precisa fazer e é isso."
+2735.0,1,Grudar ele.
+2736.0,3,"Virar amigo dele, né?"
+2740.0,2,"é dizer para ele, olha, vamos vamos achar uma solução boa aí para você, mas você não são boa para Nós temos três meses."
+2748.0,1,é
+2750.0,2,Imagina assim ele ganhou. três caras super competente da [PARTNER_A] para ajudar ele
+2758.0,4,"Sem ele ter que pagar nada, né?"
+2759.0,2,"E sem pagar nada. Nossa e que estão estudando o assunto, ele não consegue estudar oito horas por dia, vocês estão estudando 8 horas por dia. Vocês são nossa. Acho que isso daí foi eu diria assim, né? Pessoal disse que Aquela definição de sorte, né sorte é quanto a oportunidade e quando a competência né encontra a oportunidade, né? Não é sorte, né, mas parece uma sorte danada esse cara aí."
+2799.0,4,"É realmente, parecia algo muito difícil arrumar um investidor, né?"
+2800.0,2,então
+2801.0,4,E aí apareceu do nada.
+2804.0,2,"O cara já enterrou o dinheiro qualquer coisa que ele ganha agora porque se você tivesse que convencer ele né? Não vem aqui que eu vou te mostrar uma planilha que você vai ter um payback aí de quatro ou cinco anos, né? E aí ia ser difícil conseguir quatro cinco anos, né? Mas nesse caso não precisa né. Ele já gastou e qualquer 10.000"
+2827.0,1,Não.
+2829.0,2,"5.000. Qualquer coisa é melhor para ele do que a situação que ele tem hoje ou que ele [UNRESOLVED_ENTITY] porque ele vai chegar no [UNRESOLVED_ENTITY] chegar em fevereiro, né?"
+2841.0,1,mas a conversa com ele deu a entender que tipo ele comprou e Não sabe muito o que fazer sabe tá esperando a onda chegar gente quis pegar ele justamente nesse ponto a [UNRESOLVED_ENTITY] deixa a gente testar operacionalizar para você.
+2857.0,2,E vocês e vocês são aonde que chegou? Muito bom. Vamos discutir o 28.
+2867.0,1,O mais importante né?
+2871.0,2,"Então vamos lá, como é que vocês preencheram ao Canvas da plataforma, né."
+2879.0,4,É preenchemos.
+2881.0,2,Que a gente ver como é que tá e começar.
+2884.0,4,"Vamos colocar aqui quando a gente está falando de Nos três Unix, né? A gente colocou. A aumento do Ticket sem investimento inicial e maior divulgação do serviço do autônomo, só que a gente não consegue ver como que isso. Pode ser realmente um grande atrativo para um cara que já tem muito giro trabalhando com [UNRESOLVED_ENTITY], por exemplo como ela movie. O que garante para a gente que o cara vai aceitar a entrada de um serviço na plataforma em vez de pegar uma corrida para fazer?"
+2932.0,2,"É, mas então vamos lá, vocês estão imaginando. Alguém que tem um veículo que é o autônomo, né? E esse veículo? Vai ter que ter algumas características ali ou Qualquer veículo."
+2950.0,4,Na verdade vou ter que ter vai ter que ter algumas características aí de acordo com o tipo de bateria e carregador que ele foi transportar.
+2958.0,2,Mas vamos dizer se eu tenho um [UNRESOLVED_ENTITY] lá eu posso por no porta-mala.
+2963.0,4,Enxergamos que não nem no mais simples dos casos.
+2965.0,2,"Não. Tem que ser um uma [UNRESOLVED_ENTITY] alguma coisa assim, né?"
+2971.0,4,Daí para frente.
+2975.0,3,"Sim, eu acho que a grande pergunta é"
+2976.0,2,Mas aí você tá olhando que o teu
+2977.0,3,"porque que o cara trocaria o Uber, por exemplo ou lá movie por porque assim ele vai ter que ocupar o porta-mala dele, né com a bateria ele teria."
+2988.0,4,Eu acho que a gente teria que ter uma
+2990.0,3,Ele teria que realmente fazer essa troca. Eu imagino né do serviço de transporte do Lalá movie. Ou sei lá uma vez por semana que seja pelo nosso serviço.
+3004.0,2,cliente é alguém do Uber. Nesse caso.
+3013.0,3,"não cliente, né, mas o meio aí que Seria o nosso produtor, né lá naquela coluna seria alguém do Uber."
+3021.0,2,"mas porque do Uber vamos imaginar assim, eu eu vejo lá no cara que faz entrega para mim lá na [UNRESOLVED_ENTITY] eu acho que eu falei para vocês, né do [UNRESOLVED_ENTITY], né? Ele tem um carrinho bem velho. Só que é uma [UNRESOLVED_ENTITY] lá bem antiga. E que ele ele agora pode fazer um dinheiro com a [UNRESOLVED_ENTITY] dele. Ele não é do Uber, né?"
+3051.0,3,"Mas ele pode ser do Lala movie, por exemplo, né ou do [UNRESOLVED_ENTITY]? Por que que ele trocaria o [UNRESOLVED_ENTITY] por nós acho que essa é a pergunta?"
+3064.0,2,"É que nesse caso primeiro que não tem bem uma troca, né? Ele Pode Ele Pode fazer os dois, né? Porque ele provavelmente ele não fica. O dia inteiro. Talvez ele consiga encaixar na viagem dele alguma coisa assim agora outra coisa é assim. Falta oportunidade de trabalho para muita gente né no [LOCATION_A] e vai piorar mais ainda, né com esse negócio de Inteligência Artificial tudo as tendências é? Faltar mais gente ainda, né? Então vocês estão dando uma renda para ele, né? Que ele não tinha né? Em vez dele vender o carro dele porque ele tá sem emprego e sem renda ele pega o carro dele e vai fazer isso para vocês."
+3114.0,2,"Como é um fiorinozinho ele já não vai fazer lá move, né? Mas aí é questão de primeiro que assim não sei se é um ou outro se não dá para fazer os dois, né? Que é daí entra no aumento do Ticket, né? Que vocês estariam como possibilidade para ele, né?"
+3137.0,4,curadoria muito boa também para garantir que se entrar lá no aplicativo que ele tem que carregar um carro no bairro tal. Que ele não vai de alguma forma burlar e fazer uma corrida pela movie que seja mais vantajosa para ele. A gente vai se blindar disso.
+3157.0,2,"Você já tem uma referência para estudar aqui. É quanto que ele ganha da [UNRESOLVED_ENTITY] movie, né? Então e lá mover assim ele ele vai e faz a entrega e já pode buscar outro no vizinho. Se for o caso, né? Nesse caso ele perde um tempo, né? Uma hora sei lá duas horas carregando, né? Então vocês tem que garantir que ele tem um rendimento maior, né do que a possibilidade do Da entrega, né? Mas é uma boa referência de preço, né? Quanto que ele tá ganhando lá? E eu vou ter que pagar mais."
+3202.0,1,"Aí a gente precisa finalizar o quanto que a gente pode cobrar minimamente, né? Para ver se é competitiva, às vezes o nosso preço usa uma corrida que"
+3209.0,4,pode
+3211.0,1,"ele faz e ganha 50% a mais com a gente, entendeu?"
+3214.0,2,"Não é que daí se você se você chegar nessa conclusão e não deu certo, né? Daí eu essa parte do modelo do negócio não funcionou, né?"
+3227.0,1,"É porque assim o Uber ela muda ou imagina que ele tenha muito mais. Se ele quiser ele fica o dia todo trabalhando na minha opinião sem entender, né, mas o Uber seguramente. Se ele quiser ele fica onde Eu tô trabalhando. o nosso o nosso busão assim ou Imagino que Ele não vai ter o mesmo número de clientes."
+3251.0,4,"A gente tem outro problema, né do"
+3252.0,2,mas
+3253.0,3,"Seria mais para atender por exemplo, se ele for almoçar ou se ele foi fazer uma pausa de alguma forma, ele consegue ir enquanto ele tá fazendo a pausa, ele tá fazendo o carregamento. Talvez esse seja o aumento de Ticket ali, né?"
+3272.0,2,"Para mim um aumento de ti que tem assim, se der para encaixar entre uma corrida e outra do [UNRESOLVED_ENTITY]. E que seja financeiramente tão"
+3279.0,3,isso
+3281.0,2,"interessante para ele quando e daí ele tem que dar uma interrompida no [UNRESOLVED_ENTITY], né? Se ele dá uma interrompida ele vocês tem que cobrir esse ganho para ele, tá certo?"
+3293.0,4,cara do camarada trabalhando híbrido pra gente entre a gente e lá movie. Vamos supor o cara vai transportar um equipamento nosso que a gente ainda não tem certeza absoluta do volume. E aí o cara vai perder espaço que ele tem no veículo dele para fazer corridas da [UNRESOLVED_ENTITY] movie. Por que que ele vai aderir ao nosso com algo que vai fazer ele perder alguns fretes pela movie? Por falta de espaço.
+3320.0,2,"Não daí ele não vai querer por isso que você tem que pensar na hipótese que você já estão. Já são uma plataforma que tem bastante, né?"
+3331.0,3,"Eu acho que o cara teria que ficar meio dedicado a nós, né? Porque"
+3335.0,4,Não dá para ser híbrido.
+3338.0,3,"Eu acho difícil híbrido assim pelo menos no dia, né? Talvez se o cara conseguisse tirar tirar a bateria de terça-feira, ele faz carregamento de o resto dos dias da semana ele."
+3351.0,4,Aí dá a idade de acordo com a nossa
+3352.0,3,é
+3354.0,4,agenda o cara trabalhar dois dias por semana para gente.
+3357.0,2,Eu acho que a referência do [UNRESOLVED_ENTITY]
+3357.0,3,"Não com certeza, mas é que eu acho"
+3358.0,2,"movie não tá ajudando muito na discussão. Porque esse ele já tá com a renda resolvida, né? Lembra que ele O cara ele tem um carrinho velho lá ele vai vender o carro porque ele não tem emprego agora não tem não tem serviço, né? Daí agora vocês chegaram não mas é fácil é só você por aqui um banco de bateria um carregador e você agora vai ficar carregando."
+3386.0,2,"Só que daí você para ele fazer isso, você já tem que estar no volume de ter bastante gente, tá certo? Não vai."
+3394.0,3,que na visão desse cara realmente o [UNRESOLVED_ENTITY] um concorrente nosso né? Porque se o cara já tem um carro e
+3401.0,2,isso
+3402.0,3,"ele vai escolher um serviço meio aí para fazer. Ele tem as opções aí, ele pode fazer [UNRESOLVED_ENTITY] ele pode fazer lá movie, ele pode fazer o nosso né? Eu acho que"
+3414.0,2,"Tem mais referências, né? Veja não. esse pessoal que que é [UNRESOLVED_ENTITY], manda lá para"
+3423.0,3,É também.
+3423.0,2,"Quando a bateria do nosso carro estraga, né, o borracheiro que o cara tem que arrumar o pneu, né? Tem que trocar o pneu. Ou guincho, né? Todos esses também são potenciais, né?"
+3439.0,1,entender
+3440.0,3,"Sim, sim."
+3440.0,2,"E esses são mais complementares eu diria assim, não é tão Tão difícil, né? E então eu acho que eu podia ser segmentar assim, ó. tem o cara que faz para o Uber por lá na movie é um segmento tem o cara que Hoje ele faz bateria de carro a bateria comum, né. Ele vai agora fazer também carregamentos, né? Aí veja tá aumentando o ticket médio de qualquer maneira, né? Por que que vocês falaram sem investimento inicial?"
+3478.0,3,"Então, porque o dono do haste vai ser o investidor não vai ser ele, né?"
+3482.0,2,não mas [UNRESOLVED_ENTITY] tá dizendo alguém vai dar o carregador para ele?
+3487.0,4,Ele vai prestar um serviço com equipamento que não que ele não precisa comprar né?
+3492.0,2,"Que é a mesma coisa que tem hoje no mercado aí que a localiza aluga para eles, né?"
+3499.0,3,isso
+3500.0,2,"Então sem investimento inicial, daí você põe aluguel do equipamento. Talvez entre as entre parentes ali só para eu. Só para não pegar um distraído que nem eu aqui. aluguel do equipamento E maior divulgação do serviço do autônomo. Que nesse caso. Por que que vocês colocaram isso maior divulgação de serviço do autônomo?"
+3535.0,4,A gente pensou que nós somos uma plataforma mais que ele tá divulgando o serviço dele que a gente está aumentando.
+3540.0,2,"Tá naquele caso do segmento, né do segmento 1 e 2 lá que ele tem o guincho ou presta ao serviço, né? Maior divulgação é que daí isso para mim tá dentro do aumento do Ticket."
+3555.0,4,Faz sentido.
+3557.0,1,É quem seria mais uma parte de marketing?
+3561.0,2,"É mais nesse caso. O cliente não não volta a ser dele, né? A não ser que você dissesse que Que agora ele me atendeu aqui em casa e eu entro em contato com ele. Para fazer outro serviço, é isso? Acho que talvez esse daí seja um para a gente pensar num maior que esse eu não tô vendo muito valor, eu tô vendo isso mais momento do Ticket médio."
+3593.0,2,"Se quiser pôr assim, ó para não perder a ideia aí, né? Coloque os dois na mesma frase aumento do tipo também é de maior divulgação do serviço do autônomo, põe na mesma né? Mas agora fica um desafio, né? Nós temos que pensar numa terceira, né?"
+3610.0,1,Essas três já foram difíceis.
+3612.0,4,"É porque foi bem, por isso que a gente trouxe aí chora porque para a gente. A gente preencheu aqui, mas para a gente já não tava como 3 Unix convincentes."
+3623.0,2,"é que o aumento do Ticket médio é aquela que vocês estão pensando que ele tá no alamour que ele tá prestando serviço para Para [UNRESOLVED_ENTITY], todos esses é o aumento do tipo de médio e o cara que tá sem atividade, tá sem trabalho. Quer dar uma renda para ele?"
+3649.0,3,"É que daí eu acho que não é muito [UNRESOLVED_ENTITY], né no sentido de que já tem outras opções no mercado. ou é"
+3659.0,2,"As três não precisam ser únicas, né? Mas o conjunto sim, né? Como nós não temos outra põe essa daí por enquanto mas vamos gerar Mais acho que você tem razão, se der para colocar outra."
+3677.0,3,Porque mesmo tudo bem o aumento do Ticket.
+3681.0,2,"Ela podia estar junto, né? É oportunidade de aumento do tipo"
+3686.0,4,geração de renda
+3688.0,3,É a mesma coisa.
+3689.0,2,"maior divulgação é tudo uma coisa só porque são segmentos diferentes, né?"
+3693.0,3,"É não, mas o que eu ia dizer também é que assim juntar esses três aí dá para encaixar em outro outras empresas, entendeu? Que é exatamente o que o Uber faz exatamente o que todos esses fazem né?"
+3710.0,2,"Não, mas a minha proposta é assim colocar um mesmo ali. Mas é possibilidade de renda, né? Para quem ainda não tem né? Tem o seu aumento do Ticket barra maior divulgação do serviço barra e põe o da renda junto ali também. Lá em cima, é porque é assim é a"
+3728.0,4,Tá lá em cima.
+3729.0,3,Lá em cima.
+3731.0,2,"mesma coisa, né? Você tá dando faturamento receita para pessoa, né? Só que nesse caso ele tá sem né. Vamos dizer que o cara cansou do Uber não quer mais aguentar esse troço de ficar ali. Trabalhando tão pesado que ele quer mesmo é parar duas horas ficar carregando e ele tá lá no celular, ele vai fazer outra coisa. É uma outra. É uma outra atividade. Acho que até mais talvez mais prazerosa do que a do Uber sabe então não sei a gente poderia por isso também sabe."
+3776.0,2,Como uma iônica? É que eu não sei se a gente diria.
+3786.0,3,"É uma que a gente pensado. Mas acabou cartando daí é bom ter a sua opinião. [PERSON_A] é de aumento de demanda que assim o carro elétrico tá aumentando a demanda o Uber. Teoricamente tem a demanda dele que é alta, mas meio que não vai mudar muito além disso, né? Será que"
+3807.0,2,Tem um [UNRESOLVED_ENTITY] tem um monte de gente na fila para entrar no Uber.
+3814.0,4,E Mas será que irmão [UNRESOLVED_ENTITY] também não pode ser recebimento do treinamento e capacitação profissional para esses caras. Que a gente vai ter que treinar eles para operar o nosso negócio pode usar esse molde de que a gente está capacitando eles profissionalmente.
+3828.0,2,E isso vai dar uma vantagem para ele daqui a pouco.
+3831.0,4,"Na vida, né?"
+3833.0,2,Por isso né?
+3839.0,3,É uma ideia.
+3841.0,2,"Coloca aí, vamos fazer bem [UNRESOLVED_ENTITY]."
+3849.0,4,capacitação profissional
+3856.0,2,Daí. Mas eu só complementaria né no segmento. de carro elétrico
+3888.0,2,"Aí tem um já um monte de coisa para ele testando na sequência, né? Ver se é possível alguém de [UNRESOLVED_ENTITY]. Fazer isso né? Alguém do [UNRESOLVED_ENTITY] movie fazer isso daí conversar. Com eles para ver se se é interessante para eles, né? Porque que seria interessante, né? E daí essa possibilidade de aumento de renda é aquele cara que ainda não pensou nisso, né? Alcançou do Uber, sei lá."
+3922.0,2,"Tem bastante coisa para ir testando aí, né?"
+3927.0,4,bastante conta para fazer
+3929.0,2,"O aluguel do equipamento então vocês vão ter que ter a planilhazinha para montar né o caso. Tantas cargas por dia tanto tal tanto aí vai dar tanto para ele por mês, né? Então isso pode pagar. O pode pagar o curso de deslocamento e mais o aluguel do equipamento. capacitação profissional do segmento de vocês acham que O sentimento de vocês como é que é tá fraco isso?"
+3971.0,4,"Eu acho que já esteve Mais Fraco,"
+3971.0,1,não tinha que pagar já
+3972.0,4,mas ainda não tá forte. Aí a decisão é se a gente quer conviver com isso quer continuar martelando aqui.
+3979.0,3,"Concordo eu acho que assim já melhorou bastante, eu acho que Até então dos unics aí que a gente fez o mais fraco é o do meio mas já é alguma coisa agora."
+3988.0,4,Isso entraria no nosso curso de
+3993.0,2,"E aí acho que vai ter que conviver com isso, né? É lógico assim na hora que vocês forem efetivamente testar isso, né? Não sei se agora de colocar um tudo isso já que tem essas outras chances aí nessas outras já andando, né? Mas por exemplo. Conversar com o pessoal do Uber primeiro que [UNRESOLVED_ENTITY] você teria que dizer dá para por no porta-mala dele, né? O carregador né?"
+4024.0,3,"Aí é aquela ish lá do do fator volume, né?"
+4028.0,2,"É isso então daí então se veja ainda nem tá para conversar com o cara do Uber. Não não dá, né? Você teria que ser assim pessoal que faz aluguel de transporte hoje conversar com eles, né? O cara que já tem. Um carrinho, né? Um velhinho de preferência, porque eles vai estar mais disposto, né? Conversar com ele e de novo. Tem que ter a continha em pé, né? E como vocês não tem nem volume? Não sei nem como conversar com ele, né? Porque ele lembra que o Uber quando ele entrou ele dava corrida de graça para gente né? Vocês chegaram a acompanhar isso? Já tinha que pagar no comecinho lá chegava a ganhar a corrida de graça lá porque ele tava adquirindo clientes, né? Porque ele sabe E lembra a plataforma é assim se ela ela tem que ter uma quantidade boa nos dois lados, né? Ela não pode ter só um lado, né? Então nesse caso aqui Imagine que você teria que bancar, né? Eu pago o carregador e para o cliente lá eu não cobro Talvez né?"
+4115.0,4,"aquisição do cliente, né?"
+4117.0,2,"Você aquisição de cliente então. Então nesse caso é meio quando a solução já tá disponível, né? Não dá nem para fazer um teste desse tipo agora, né? Então me dá uma impressão. Que talvez nem dentro dos seis meses vão chegar nele. Ou muito lá no último mês, sabe como? Talvez esse daqui seja o teste para fazer quando vocês passarem. Foi selecionados para investimento, né? Entendeu?"
+4161.0,1,É o mais importante.
+4165.0,2,não sei se entenderam que
+4167.0,4,fazer roteiro
+4170.0,2,"É que assim daí, eu acho que assim a Daí até perde muito a necessidade da gente pensar muito mais do que isso nesse momento."
+4181.0,1,"Eu acho que hoje a gente tem que focar bastante nos outros. Acho que esse realmente tem menos ação a gente vai ter menos retorno, a gente vai gastar mais energia é essa."
+4193.0,2,"E ainda não sei nem se dá para testar direito porque como vocês não tem [UNRESOLVED_ENTITY] porque seria o ideal assim, né? Vamos imaginar que deu tudo certo, não vou dizer em 45 dias, mas em 90 dias vocês estão com 10 condomínios, né? E putia já viram que dá para por mais 10 tranquilamente ali, né? Daí nesse caso você poderia ter um cara desse para ir andando entre os condomínios, né? Mas é porque você é cliente."
+4230.0,2,"Daí você pode chegar para ele e dizer bem assim, pô, se não quer fazer para mim você aluga isso daqui. É tanto por mês e nós vamos te contratar para você fazer essas caras aqui, você vai ganhar tanto. Então me dá porque é uma possibilidade, né em vez de vocês. Terem uma alguma infraestrutura em cada Condomínio, né? Você ter uma móvel que atende Dois condomínios, né? Então, por isso que eu tô dizendo assim, não não é uma coisa de curto prazo para a gente se preocupar."
+4270.0,1,Não.
+4272.0,2,"Podemos achar que a solução foi feita. Não precisa nem anotar uma tudo, né?"
+4281.0,3,Acho que não tem.
+4282.0,2,Então pode tirar lá isso resolvemos hoje. Nós temos. 12 15 13 minutos Vamos ver se escolhemos mais alguma.
+4301.0,4,vamos Na verdade entra aqui 14/10.
+4314.0,1,colocar o número
+4316.0,2,Não não precisa porque nesse caso não.
+4319.0,1,a verdade
+4321.0,2,"Aí teve a solução, né? É 14/10 já é a solução está"
+4324.0,1,verdade
+4324.0,2,"colocando a data na [UNRESOLVED_ENTITY] coloca a data na data de tinha ali a próxima coluna. Não não essa daí tá certo. Foi aonde? Você criou, né? daí a próxima agora é a data da"
+4342.0,4,Ah ela na terceira.
+4344.0,2,"No terceiro, isso é isso? E pode fazer outra chata."
+4361.0,4,Aqui já tô taxado. boa
+4371.0,2,Tem mais.
+4371.0,4,Vamos escolher mais uma acho que dá tempo da gente tentar mais uma né?
+4375.0,2,"Dá uma corrida na lista aí. Ou nós podemos também pegar assim ali. O mercado ser só [UNRESOLVED_ENTITY]. O mercado ser só [UNRESOLVED_ENTITY]. Tem a gente podia Aproveitar esses minutinhos para dar uma repriorizada uma limpada aqui, né? Não sei se Por exemplo esse mercado ser só [UNRESOLVED_ENTITY]. Tem alguma coisa para a gente estudar?"
+4432.0,3,Acho que não grande problema agora não.
+4435.0,4,Também não acho que a gente mais
+4435.0,2,então não dá
+4436.0,4,tem que ter um plano lá na frente de mostrar como atender os pesados que a gente até falou do ônibus do que discutir agora.
+4445.0,2,E é a minha proposta seria mais ainda. Tira ele daí.
+4451.0,4,A solução na verdade deixa eu
+4452.0,2,"Não sei veja. Quem colocou que pensa lá, né?"
+4457.0,1,Eu acho que vai tesão nenhuma.
+4469.0,2,solução
+4471.0,4,"colocar entre parentes quando a gente fez aqui, né?"
+4474.0,2,descartada
+4475.0,3,É um exemplo que eu peguei de pegar
+4475.0,4,descartada
+4488.0,2,"E a solução foi na data de hoje? Essa outra também ele é [UNRESOLVED_ENTITY]. Acho que a gente já discutiu bastante o eledoptero. Né o [UNRESOLVED_ENTITY] aí né? Achar um condomínio que tá preocupado que precisa ter carregador, né? Esses são a importância do ele é docker. Eles aceitam erro, não sei qual que seria ia a questão por trás disso. Tem alguma problema mesmo aí?"
+4524.0,4,"[PARTNER_F] eu enxergo que a gente já tem ação definida para isso, né? Hoje a gente já vai falar aqui com o gerente do domo e a gente. Já discutiu entre a gente vai montar uma lista Aí de bairros de [LOCATION_B] começa a ligar para os condomínios, né e bater nas portas."
+4538.0,2,"Então, aí xu seria encontrar ele"
+4540.0,4,Exato eu acho que a gente pode até na minha opinião. Colocar uma teodo relacionada a essa isso que algo que a gente já definiu que faríamos né? Que é criar lista de condomínios que a gente pretende visitar. Não sei se vocês concordam.
+4563.0,2,adopta. Então arruma Ela ali.
+4565.0,4,isso
+4581.0,2,Então tá bom. E essa daí por exemplo você já
+4583.0,1,sim
+4586.0,2,"estão fazendo inclusive, né?"
+4588.0,4,"É e acho que a gente já pode colocar aqui a data de hoje no então e declarar [UNRESOLVED_ENTITY] lá embaixo, né?"
+4593.0,2,"Isso e daí, isso é super importante, né?"
+4640.0,4,Essa era a eixo 32. E é marketing entrar eu aqui na parada.
+4654.0,2,"Então como vocês vão atrás dele assim Jovem Rico? Que tá consciente do problema e de preferência, já tem um orçamento para resolver o problema."
+4665.0,4,"É a gente a gente já fez algumas pesquisas, né? Os anti [UNRESOLVED_ENTITY] e agora a gente vai começar a apurar um pouquinho melhor essa essa lista são os bairros com condomínios corporativos em [UNRESOLVED_ENTITY] na grande [LOCATION_B] com maior circulação de veículos elétricos. então, daí vai surgir a lista de prioridade aí do Dos condomínios que a gente vai."
+4692.0,2,"E daí dessa vez quando vocês fizeram o contato fazer algumas perguntinhas para ver se ele [UNRESOLVED_ENTITY] mesmo, ele é conservador, sabe?"
+4699.0,4,tá
+4702.0,2,"E aí vocês não perdem muito tempo tentando convencer alguém que é muito difícil convencê-la. É mais ou menos pensar assim, o [UNRESOLVED_ENTITY] é o Cara Ideal, né? O cara p*** já gastou o dinheiro, ele já tinha orçamento já gastou o dinheiro já tá com problema. Ele tá louco para uma solução, né? Então vamos chegar no condomínio lá, eles assim p*** para eu carregar carro elétrico aqui, eu vou ter que a minha infraestrutura que vai ter que mudar muito, não sei como é que faz as vagas tá complicada não tem um lugar aqui para pôr, né o carregador, né? Tô decidindo se eu vou por pegar umas largas não mas eu tenho uma solução, você nem precisa se preocupar com isso, né? O cara já tava tentando achar a solução, né? Agora se você chega lá o cara já achou a solução, né? Agora já resolvi já pôs."
+4761.0,2,"Aqui tem 10 vagas. Tá tudo direitinho. Daí talvez vocês possam ajudar assim no faturamento, né? Recebimento né? Que também ele tem essa dor ainda, né? Mas não vai ser a solução de vocês terem aquele carregador que fica andando lá dentro para resolver ou tá vindo um veículo para carregar, né? É uma outra solução para um outro problema dele. Daí vocês tem que descobrir como é que ele vai resolver esses outros problemas, daí ele pode ser um ele [UNRESOLVED_ENTITY] também."
+4801.0,2,Esse os clientes não precisam porque carregam em casa e serviço muito caro pouca demanda.
+4809.0,4,"Eu tenho eu tenho uma opinião sobre essa isso. Cara, desde o começo a gente fez uma pesquisa que na verdade a gente tem mercado porque nós moramos num lugar aqui muito vertical. E é uma realidade das grandes metrópoles e outra realidade é todos os empecilhos relacionados a bombeiro e defesa civil. Para que você coloque em condomínios, principalmente os mais antigos a estrutura necessária para carregar os carros? Né? Por risco de incêndio etc."
+4846.0,4,"Esse cliente não precisam que carregam em casa no meu ponto de vista. É o que a gente vai conviver quem carrega em casa carrega em casa, a nossa fatia de mercado é quem não consegue carregar em casa e quer uma parceria importante."
+4858.0,2,"Aí tem ainda os que carregam em casa e assim mesmo ainda vão precisar, né? Porque"
+4862.0,4,Se o cara roda muito.
+4863.0,2,"Sem rodou muito se esqueceu, você não carregou, né? Sendo mais do que andou mais do que previa, né?"
+4873.0,4,O cara visitou o cliente com o carro dele antes de ir embora para casa precisa carregar.
+4877.0,2,ser conviver
+4880.0,3,"[UNRESOLVED_ENTITY] é o cara que ele falou que ele carrega em casa. Ele mora em casa, né? Isso possibilitou ele carregar em casa, mas Ele carrega na rua também justamente porque ele é [UNRESOLVED_ENTITY] ele roda muito e aí o tempo de carga em"
+4892.0,4,muito
+4895.0,3,"casa, vai demorar sei lá 10 horas, né? Porque no 220 e durante a semana ele não tem esse tempo para ficar carregando lá na casa dele. E aí é melhor ele gastar. No carregador rápido na rua, né? Esse é um potencial cliente, né? Nosso também."
+4913.0,4,Excelente que que vocês acham da gente colocar aqui. descartada com ela
+4922.0,2,Para mim tá certo.
+4926.0,4,bora
+4961.0,4,"A gente tem dois minutos. Acho que foi a parte, né?"
+4966.0,2,"Então vamos fazer lá os cinco minutinhos finais né e cinco minutinhos a gente dá uma última olhada na tudo. Que é o que vai ser o foco de vocês agora, né?"
+4986.0,4,"A gente ainda tem então aí cinco. Parece pouco, mas acho que é bastante trabalho para uma semana, né? Até porque se a gente conseguir que o [UNRESOLVED_ENTITY] nos receba até o fim da semana ou no início da próxima coisa linda também. E criar essa lista vai dar bastante trabalho também, não é algo. Não é trabalho de uma hora, né? Trabalho de mais de um dia aí."
+5016.0,2,Eu acho que estão com uma agenda
+5017.0,4,Não sei o que vocês acham.
+5021.0,1,Acho que a primeira semana Cheia aí tá?
+5024.0,4,Se a gente for enxergando [PERSON_A]
+5026.0,2,boa.
+5030.0,4,novos.
+5030.0,2,"Eu acho que a prioridade está muito bem colocada. Acho que tá um foco bem bom sabe para garantir isso, né? Porque colocar muita coisa mais também pode? Prejudicar o foco uma outra coisa também é o seguinte. O legal é quando a gente chega aqui numa lista de tudo que vocês não tiveram uma semana, né? E vou chutar aqui 70% delas, nós fizemos. Se você colocar um Brainstorm que não dá 70% da 30% daí começa a ficar chato, sabe? Então O legal é chegar na semana que vem fizemos tudo certo."
+5070.0,2,Então a dica sempre assim escrever de um jeito que dê para fazer durante a semana e também não colocar muita coisa. Se você não vai conseguir fazer né?
+5081.0,4,"Foi hoje, né?"
+5082.0,2,"Que que vocês acham tá boa para semana? Primeira semana efetivamente, né? Que vocês vão? ter foco"
+5090.0,1,Tá bom.
+5091.0,2,agora terminar de preencher as três ênix de cada um dos clientes ainda tem que
+5096.0,3,"Sim, acho que foi né? Acho que foi."
+5099.0,2,Já foi eu não sei se tem mais alguma né?
+5103.0,1,Na hora só aquela que tinha ficado.
+5104.0,4,sim
+5106.0,2,"Então essa daí também não tem então ficou atualizar as opções de custo de MVP a partir de três opções, pois isso daí dá um trabalhando. Para terminar numa semana é difícil"
+5117.0,3,sim
+5118.0,2,"terminar de preencher já foi atualizar. Com as outras indicadores, né? Vocês vão fazer um placar lá agendar visita comércio criar lista de policiais condomínios e na verdade vocês têm que fazer as visitas os condomínios, né? Que já tem uma marcada, né? Então, vocês podiam já pôr aí, né? Vocês já tem a visita do Domus nessa semana, né?"
+5145.0,1,"É vamos colocar aquela que a gente visitar o shopping aqui até o hotel. Onde vocês ficaram hospedados, né? Tá tudo ali perto na hora do almoço mesmo, a gente consegue fazer na"
+5153.0,2,então
+5155.0,1,volta.
+5156.0,2,"Então coloquem essa essas duas, né? O Domus e mais alguma se der para fazer você não também pode pôr agendar um próximo."
+5165.0,3,Pelo menos a gente.
+5167.0,2,"Pelo menos agendar, né? E talvez não dê para realizar visita, né? Que essas coisas de agenda depende dos outros não é da agenda. Nossa também né?"
+5181.0,1,Também se tem vaga se não você tem
+5181.0,4,Quer falar Zé?
+5186.0,1,pelo menos alguma infraestrutura já né? Acho que já vai.
+5193.0,2,"Legal. Três minutinhos, agora a gente faz a perguntinha nele que nota Dá para reunião. de 0 a 10 tem que"
+5205.0,1,"Eu vou dar um por ser a primeira reunião, vou dar um seis. Eu acho que bom a gente rodou bem, na verdade, a gente colocou mas como tem. A gente não pegou ainda o jeito vai fazer tá um pouco não tá sumido, né?"
+5227.0,2,Então é seis porque faltou uma
+5227.0,1,"Mas acho que ficou um tempo mesmo, a gente vai pegando como que funciona vai ficar mais fluido e a gente consegue dar mais razão."
+5238.0,2,fluidez certo.
+5239.0,1,E isso mas acho que é indivíduo por ser a primeira.
+5244.0,2,legal [UNRESOLVED_ENTITY] assim.
+5248.0,4,Você tá pensando ainda eu vou falar
+5249.0,3,Tô pensando pode falar se já tá
+5251.0,4,eu vou eu vou ser um pouco mais
+5251.0,3,decidido.
+5253.0,4,"otimista que o Mateus eu vou dar um oito porque eu acho que a gente cumpriu a agenda. Acho que [UNRESOLVED_ENTITY] o fluxo ainda não tava muito [PARTNER_F]. Acho que vai ficar com o andamento das reuniões, né? Mas que a gente conseguiu obedecer bem acho que por uma primeira reunião tava contando aqui. A gente endereçou a gente tratou né seis, eixos acho que foi um bom número por ser uma primeira e cumprir mais ainda. Acho que eu vou dar um oito."
+5280.0,4,"Acho que a gente pode buscar melhorar e nas próximas de conseguir tratar mais nichos, né?"
+5284.0,2,"E melhorar a fluidez, né? Talvez também, né?"
+5290.0,3,Eu vou dar pode falar.
+5291.0,2,mas Não pode falar.
+5295.0,3,"Eu vou dar seis também é muito pela fluidez, eu fiquei feliz que a gente cumpriu os tempos, né de cada coisa também que nem você falou lá no começo. Mas eu acho que ainda tem muita"
+5306.0,4,"Tá meio [UNRESOLVED_ENTITY] ainda, né?"
+5307.0,3,"coisa, tipo assim, tem apesar de a gente ter resolvido bastante lixo, eu acho que ainda tem muito assunto para discutir e que acho que ao longo da semana da gente vai pegar mais um jeito da reunião e vai conseguir ser talvez mais assertivo e resolver mais coisas na reunião. acho que ainda ainda tá um pouco acho que bagunçado é uma palavra muito forte, mas é mas é mais ou menos isso sabe ainda tem muita coisa na frente e para É sabe não sei tá meio que fluidez."
+5343.0,3,"Talvez seja a palavra mais certa assim. Mas é a gente precisa de mais direcionamento, né? Do que que a gente tem que fazer a divisão de tarefas mais certinha. E aí as coisas vão andando melhor."
+5355.0,2,"A gente a gente colocou a divisão de a gente colocou. Quem que é o responsável de cada tudo não, né?"
+5361.0,3,o
+5363.0,2,Então tá bom.
+5363.0,4,"A gente tem que atualizar também aqui, né? A gente descartou mais duas então isso vai para três, né? E a gente endereçou. Mais quatro então isso aqui vai para oito."
+5385.0,2,"Vocês foram. Com cor aqui na minha experiência aí tá? Eu diria que vocês andaram numa até numa fluidez impressionante comparando assim por ser a primeira, né? O tempo [UNRESOLVED_ENTITY] exatamente também é outro coisa que é super importante porque é sempre bom a gente se programar, né? [UNRESOLVED_ENTITY] é das notas 10:30. Quer dizer 10:45 a outra coisa então não tem porque não fazer a reunião e participar dela."
+5422.0,2,"Então isso foi muito importante, né? E só assim, né? O próprio autor do livro diz bem assim a reunião para ficar boa mesmo precisa. Né que seria umas quatro reuniões, né? Então eu acho que não o que não nada para notar. Que não seja assim fazer mais reuniões vai ficar bom, né? Não tem nenhuma coisa assim achando comportamento de vocês que poderia dizer assim, não discutimos demais polimizamos demais ou exagerando nessa discussão e tal vocês pelo contrário foram super atenciosos ouviram, né? Acho então super de parabéns, viu?"
+5461.0,4,obrigado
+5463.0,2,"eu acho que quem deu vocês aí deu muito pouco, mas A reunião para mim foi perto do 10 sabe? Ainda mais se comparar assim que isso foi a primeira reunião, né? Pessoal. Muito obrigado, boa semana, né?"
+5483.0,4,[PERSON_A] boa semana
+5483.0,1,"Obrigado, valeu [PERSON_A]."
+5485.0,3,[PERSON_A]

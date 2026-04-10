@@ -4,6 +4,7 @@ data/raw/
 # Speaker and entity mapping files — contain PII
 data/anonymized/**/*_speaker_map.csv
 data/anonymized/**/*_entity_map.csv
+data/anonymized/**/review_flagged.csv
 
 # System files
 **/.DS_Store

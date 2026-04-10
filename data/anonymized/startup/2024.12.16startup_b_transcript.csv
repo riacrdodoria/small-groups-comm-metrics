@@ -1,0 +1,663 @@
+onset_seconds,speaker_id,text
+0.0,1,Bom dia [UNRESOLVED_ENTITY].
+1.0,2,Bom dia tudo bem?
+3.0,1,Tudo ótimo e você?
+4.0,2,"Tudo na paz, graças a [UNRESOLVED_ENTITY]. As nossas meninas aí vão atrasar uns minutinhos aí mas estão chegando viu?"
+15.0,1,Então esperamos.
+17.0,2,Vamos lá enquanto isso eu vou compartilhar na tela aqui e já vou mostrando para o seu material do [UNRESOLVED_ENTITY] que a gente tá puxando aqui.
+26.0,1,Tá bom.
+28.0,2,Vamos ver aqui. Deixa eu compartilhar tela certa dessa vez. Já tá aparecendo aí?
+46.0,1,Está sim
+47.0,2,beleza
+48.0,1,É meio pequeno dá para aumentar.
+50.0,2,Tá sim [UNRESOLVED_ENTITY] aqui os dados dos emplacamentos dos últimos anos aqui desde 2021. E consegui na base de dados tudo isso que eu puxei direto da base de dados aqui da fenabre que é o lugar que é associação. Aí de emplacamentos. Aí eu consegui aqui o número dos veículos tanto o geral quanto eletrificado para todas as categorias de automóveis comerciais caminhões ônibus motocicletas.
+86.0,1,o híbrido
+88.0,2,"A junto exatamente. E aí aqui ó consegui colocar um comparativo aqui de como que tá o crescimento e ao longo dos anos. Aí eu coloquei na escala. Logarítmica aqui para ficar uma proporção melhor para enxergar. Mas aqui dá para ver essa crescente, né? E aqui ó mostrando aqui o quanto que representa aqueles emplacamentos do eletrificado que em 2024 aí subiu para quatro por cento. , que já é um bocadinho, né? Já"
+116.0,1,"E tem tem por tipo de veículo, como"
+118.0,2,"dá uma valorizada. Aí em paralelo isso eu tô puxando os dados do sinistros. Aí esse aqui eu a parte da Brave tudo isso aqui ele tem um boletim anual aí com um resumo de todas as informações eu consolidar no lugar só de todos os últimos boletins. Agora do sinistro eles têm aí uma tem uma empresa que regula todos eles. Como que chama deixa eu ver? [UNRESOLVED_ENTITY] Então essas o [UNRESOLVED_ENTITY] aqui ela é a empresa é o superintendência de seguros privados aí o governamental só que eles não têm o boletim arrumadinho igual a gente tem o do dos emplacamentos esse aqui vocês permitem os dados brutos, né? E eu tô puxando também esse material puxei de alguns anos aí."
+184.0,2,E vou terminar ainda de fazer não consegui as mais atualizadas o mais novo que eu consegui foi até 2020.
+194.0,1,é que é?
+195.0,2,"Tem por modelo de veículo, mas não é separado que aqui é elétrico que é híbrido não é nada. O que?"
+203.0,1,teria que fazer um uma separação
+208.0,2,"isso o que eu fiz para começar uma análise ainda, não sei se é o melhor caminho, mas assim o que que deu para ver que pegando aí questão de É que tem que ver se eles estão correlacionados. Mas se for comparar a quantidade de veículos emplacados com a quantidade de veículos sinistrados aqui nos anos de 2018 e 19 a gente teve um equivalente a 9 por cento."
+235.0,2,"De a cada 100 carros emplacados novos passam por sinistro só que não os mesmos carros, né a quantidade."
+244.0,1,E mais sinistros não esses que dá perda total.
+249.0,2,Só de perda total eu separei só os que são perda total.
+252.0,1,o renove por cento
+253.0,2,"É um bocado, né?"
+254.0,1,E isso daí pegando todos né e
+256.0,2,pois é
+261.0,1,híbridos elétricos.
+263.0,2,Aqui tudo na verdade é esse valor é para carros no geral.
+267.0,1,"Eu acho que dá para usar esse sabe. Para você estimar, né o número de baterias, né que você teria disponível, por sinistro a não ser algum sinistros que a bateria também vai ser perdida, né?"
+282.0,2,"É bem difícil, né conseguir perder a bateria sinistra porque a bateria ela realmente ela fica. Debaixo do carro lá e é um negócio que é super."
+293.0,1,É que ele perde quando pelo menos
+294.0,2,por causa
+296.0,1,"quando o veículo pega fogo, né?"
+298.0,2,É aí sim. Mas de qualquer forma é assim a gente
+303.0,1,"Ali para estimar, né?"
+307.0,2,"Então na hora de puxar os dados do sinistro tinha lá as opções se era roubo se era acidente tipo vítimas fatais não sei mas tinha um que era separado de uma categoria específica para dando o material de perda total Aí eu puxei específico desse aqui, acho que é o que mais caracteriza e o que a gente tá procurando"
+329.0,1,Tem alguma coisa com incêndio ou não?
+332.0,2,Olha eu não me lembro eu vou dar uma
+333.0,1,"Talvez tentar ir atrás, né? Quantos"
+334.0,2,"olhada, mas eu acho que não tinha nenhum dado específico disso."
+341.0,1,"do perda total que pega fogo só para ter porque senão a gente vai ter que inventar um número, né?"
+349.0,2,"Sim, vai ter que estimar alguma coisa aí. Da nossa cabeça, né?"
+355.0,1,"isso daí vamos ter que [UNRESOLVED_ENTITY] deve ser muito pouco, mas não sei tinha que"
+363.0,2,"Que aprofundar, né?"
+364.0,1,"Dar mais uma está ótimo com isso, daí já dá para começar o tamanho fazer a projeção do tamanho de mercado de veículos, né?"
+371.0,2,"E isso aqui ó as categorias que ele tem são essas aqui, ó."
+377.0,1,Se completar 10 anos para trás aí. é cedo em
+382.0,2,"Então o de emplacados eu consigo os 10 anos para trás, só que aí eu perco eu perco os dados do elétrico elétrico, ele só toma a pena de 21 para frente."
+392.0,1,"Não, mas é que não tinha né?"
+394.0,2,"Acho que era muito pouco considerável, né? Muito pouco expressivo."
+398.0,1,"Isso é praticamente zero, né?"
+400.0,2,Mas tem sim tem todos esses dados para baixar lá posso continuar
+403.0,1,Tá então ontem ela porque daí a
+404.0,2,fazendo levantamento.
+406.0,1,[UNRESOLVED_ENTITY] pode fazer uma um ajuste de curva e fazer a previsão de venda de mais de 10 anos para frente.
+413.0,2,"perfeito, vou até abrir aqui, vou colocar observação lá na minha tarefa"
+418.0,1,"Porque daí quando você faz a projeção de venda de 10 anos e daí você pega esse percentual aí que você conseguiu estimar, né de perda total. Você tem o número de baterias que supostamente estarão disponíveis a ano, né? Se bem que esse nome por cento. Você fez o cálculo sobre todos os"
+437.0,2,É sobre todos os veículos em
+438.0,1,"vídeos todos os veículos emplacados não os emplacados do ano, né?"
+444.0,2,circulação.
+445.0,1,todos os veículos em circulação
+447.0,2,"Por isso que eu falo assim é uma coisa que dá para a gente usar mas não não sei se é diretamente correlacionado, né? Talvez ainda deixa alguma margem aí para duvidar."
+457.0,1,Qual o relacionado com o que não entendi?
+461.0,2,Será que é proporcional a quantidade de carros que a gente em placa com a proporção de carros? elétricos que a gente vai se misturar eu acho que
+471.0,1,Não isso você tem um erro a gente não sabe se o sinistro é maior ou menor no carro elétrico.
+479.0,2,Sim exatamente.
+480.0,1,"Não mas tudo bem é isso. Depois a gente tem que dizer usamos o mesmo mas a gente ainda não tem histórico para Para saber se é menor, né? Porque pode ser que seja menor, pode ser que seja melhor o carro mais seguro. Sei lá, né? Ou pior pega mais Bateria, sei lá."
+501.0,2,"O [PERSON_B] tá pedindo para aceitar ele, né?"
+504.0,1,"Tá bom. Bom dia [PERSON_B], tudo bom?"
+520.0,3,"Bom dia, beleza. Você [UNRESOLVED_ENTITY] pai, tava na fila aqui esperando vai entrar. Eu vi o papo inteiro quase falei não deixa eu terminar aí que eu tava aqui, tá bom o assunto."
+535.0,1,"Daí Veja com isso, você consegue a estimativa de baterias disponíveis, né? Não ainda disponíveis pelo sinistro, depois eles vão ter disponíveis pela vida útil, né?"
+550.0,2,"isso a gente tava considerando pensar em torno de 8 anos aí de vida útil,"
+555.0,3,É mas é eu tava pensando nisso.
+560.0,2,"deixa eu abrir aqui o [UNRESOLVED_ENTITY] a gente começou já fazendo uma estimativa aqui de emplacamentos sinistros. A gente pegou o número de emplacamento de veículos elétricos. E a gente estimou aí os 9% em cima desses emplacamentos para ver quanto que isso aí daria certo. Então a gente se fosse proporcional aqui, a gente teria aí vai começar a dois mil e 21 com 3 mil sinistro de elétricos. A que seja 20 21."
+601.0,2,aqui 22 20 23 20 24 Então aí seria equivalente aí a um total de 13 mil sinistros de carros elétricos no ano de 2024. E a gente ficou fazendo umas estimativas aí considerando.
+620.0,1,Você usa o acumulado também?
+625.0,2,Aqui a gente tava usando só para o ano acumulado pelo ano inteiro.
+630.0,1,não mas
+632.0,3,Depois tô montado.
+635.0,2,Não não pode falar.
+636.0,3,"Porque tipo emplacou 153.360 em 2024, mas tem os 92.843 que podem ser sinistrados também?"
+646.0,1,"Na mesma percentual, então teria que ter uma linha de emplacamentos acumulado, né? E depois você desconta os sinistrados. Você já tira da base o sinistrado, né?"
+665.0,2,É verdade
+666.0,1,Daí você faz uma estimativa do acumulado menos os sinistrados para daí no ano seguinte você pega novo o novo indicador do sinistrados. o novo parâmetro do sinistrado
+683.0,2,"Bom vamos lá, vamos dar sequência, Tainá tá entrando também. Deixa eu voltar aqui no vídeo, ela"
+695.0,1,Ainda não apareceu.
+699.0,2,tá ligando aqui. Então das boas notícias aí [PERSON_B] tem alguma coisa para falar?
+709.0,3,Então o negócio lá a gente vai passar [UNRESOLVED_ENTITY] Sem muitas novidades assim relevantes até chegar a conversar. Acho que até entrando um pouquinho no câncer ele cheguei a conversar com o contato com a Tainá me passou até mandei a resposta para vocês. Ele me respondeu só na de noite viver hoje só. E das Baterias que os caras que o pai dele usa lá e tal e tipo daria super para encaixar porque o pai dele que fez o motor home não foi nem uma empresa ele usa uma bateria de chumbo ácido.
+742.0,3,"Então aí né? Deu uma sequência na conversa, porque o contato tal e expliquei um pouquinho por cima que a gente tá fazendo. E assim tipo Dá para ver que dá para usar, entendeu? Ele usa uma boato mas ela tem a mesma amperagem que a gente tava vendo lá no catálogo. e mas foi isso, a gente tá enrolado com o negócio do [UNRESOLVED_ENTITY] eu não recebi uma resposta ainda, então assim eu acho que a gente vai ter que Da andamento de alguma outra forma aqui porque eu não entrei em contato com a empresa e nada então assim."
+778.0,3,Foi meio travado essa semana e o cara da renova também tá enrolado então do meu lado. Pelo menos foi. Travou o negócio.
+789.0,1,"Talvez já seja reflexo aí de 16 de Dezembro, né."
+792.0,3,Ninguém quer mais saber de nada.
+796.0,1,Só fechar o ano mesmo.
+798.0,3,então A minha parte é isso aí.
+804.0,2,"Beleza a gente também deu agora passando para o próximo item aqui que é o score Card na sexta-feira, a gente deu uma passada nos nossos mensuráveis que a gente não tinha fechado para essa nova para essas rocks agora."
+818.0,1,Tinha esquecido disso.
+819.0,2,"Então, aí a gente considerou aqui uma transação o volume de 20 mil e a gente tá focando aqui medir, anúncios via contatos realizados de anúncio e contatos diretos conforme a gente vai indo atrás dos possíveis clientes contatos com interesse em realização de venda. De compra então, a gente tá mapeando principalmente a questão da uma transação. E isso exatamente."
+850.0,1,E vamos de 10 contatos então tentar fechar uma né? Acho que está ótimo.
+857.0,2,"E a gente passou também todos os itens do scorecard aqui. E a gente deu uma revisada nos valores isso aqui, ela não tá atualizado, mas eu vou. Atualizar aqui conforme esses mensuráveis aqui que a gente colocou."
+876.0,1,"É bom por lá o número de contatos, né? Ver se a gente consegue fazer esse indicador andar que se esse não andar não."
+884.0,2,É o principal aí? rock you A Tainá testar oferta de baterias de módulos para todos os segmentos através de abordagens comerciais. O Mágico de Oz consegue deixar no mundo muito confuso ouvindo minha própria voz. Ele tá vendo aí?
+920.0,1,é Não consegui achar ela aqui.
+929.0,2,Não apareceu ainda.
+931.0,1,Deixa eu alguém quer participar agora bem? aguardando
+952.0,2,Então ela acabou de falar que tá um Track. Agora aqui da minha parte aqui estudando de volume de baterias esperadas pelos próximos anos pesado e levei tá um track a gente tá fazendo. E o [PERSON_B] ele era menos uma transição imediata.
+969.0,3,"As atividades estão seguindo o ombro, mas a resposta do pessoal tá off."
+976.0,1,Mas ainda tem algumas semanas.
+981.0,3,Ainda temos acho que ainda não chegou no climax.
+988.0,2,Que estão aqui de costumer inclui Redline que a gente tinha de novidade a gente comentou já né? Tem alguma coisa para comentar?
+998.0,4,"Não não sobre isso não, por"
+998.0,2,Também não.
+1002.0,4,enquanto não.
+1002.0,2,então
+1004.0,4,Talvez a gente tenha.
+1008.0,2,"Vamos lá questão da renova aqui. [PERSON_B] tá travado também, né?"
+1015.0,3,"Então semana passada, né? Foi o que eu comentei com eles aqui ficaram pedindo 322 mil informações. Então, se não desenrolar nada lá com o diretor, né que tá em contato comigo, independente uma resposta para mim aí se vier mais uma negativa já vou tentar desenrolar com ele para ver com outros players que ele. Que ele trabalha lá junto para ver se a gente consegue encaixar alguma outra coisa ou mesmo com ele, mas isso aí tá? Burocracia 100% nesse negócio."
+1048.0,1,Tá esse vale a pena abrir uma questão para discutir.
+1054.0,4,Não assim eu acho que é
+1055.0,3,eu acho que
+1056.0,4,"interessante, você vai ser bem interessante a gente conseguir na"
+1060.0,3,"É Seria legal, se a gente"
+1060.0,4,verdade.
+1061.0,3,"conseguisse ir, mas os caras não querem receber a gente."
+1065.0,4,Tem que esperar ele falou que talvez ia entrar com algumas outras opções caso não realmente não desce na renova em si.
+1071.0,3,"Ele ia me dar um último retorno para ver se a gente ia conseguir marcar lá ou se a gente procurava algum Player semelhante, né? É que a porta é a única que tem um desmanche dela, né? As outras não tem então."
+1082.0,4,Mas será que só tem essa é a
+1084.0,3,Essa é a única deles. é
+1086.0,4,única?
+1088.0,3,"Não sei se ela tem essa franqueada, né? Mas ela é a única pelo menos o endereço tudo que você procura só tem aqui de [LOCATION_B]."
+1095.0,4,Entendeu?
+1097.0,2,Por hora então a gente deixa a tia aberta certo?
+1100.0,4,É acho que também talvez dividir
+1101.0,2,"É que busca pelos potenciais clientes off Grid, eu não cheguei a procurar mais contato direto, agora acho que o foco é a gente conseguir realmente fazer os anúncios, né?"
+1115.0,3,"São duas frentes. Eu acho que o anúncio é uma frente e a gente tentar oferecendo a mais que a gente está com um catálogo [UNRESOLVED_ENTITY] lá montado, acho que é a outra frente. Nós estamos em três justamente para conseguir se dividir."
+1132.0,4,"essa Gil com a gente, mas talvez buscar mais clientes ali no meio Rural. Dá uma olhada ali até o a gente comentou que a DS ia ser feito mais para região do [UNRESOLVED_ENTITY], talvez e buscando um pouco mais de possíveis clientes."
+1148.0,2,legal
+1149.0,4,"Sem ser só pelo [UNRESOLVED_ENTITY] porque também às vezes tem muita gente que não utiliza, né? O Facebook [UNRESOLVED_ENTITY] ou não leva muito a sério ainda mais essas pessoas assim então, talvez a gente atrás delas. Fora as mídias sociais seja interessante sim."
+1166.0,2,"Legal agora com o catálogo montado é mais fácil também de atrás, porque a gente tem um material para oferecer, né? Legal, esse aqui das bikes a gente já fechou aí aqui a questão do motor home o [PERSON_B] comentou já certo. A gente deixa aberto também"
+1182.0,4,ão
+1183.0,2,"para a gente continuar indo atrás, né, [PERSON_B]?"
+1190.0,3,"É sim, é o último contato que faltava fazer por hora era o que a Tainá me passou e eu conversei com o cara já até dei uma deixa ali. Então eu acho que a gente pode colocar ela como encerrada porque todos os outros motorhomes e camps que eu encontrei. Todos os motorhomemos nenhum deles eu usava a bateria nem usar bateria usada, né usar a bateria nova ou própria deles, né? Não sei alguns deviam produzir a própria bateria e os campings é só um eu encontrei."
+1221.0,3,"E aí a gente ficou de depois que eu catálogo tivesse pronto, eu se eu mandar uma outra mensagem para ele, eu posso então fechar essa atividade e mandar esse contato para o cara e ver que ele acha porque a gente eu peguei as especificações, né que a gente falou semana passada veio das opções que a gente tem e ver se Não sei, sei lá."
+1242.0,1,Encerrando e qual que é o aprendizado aí?
+1246.0,3,"Cara e vamos acho que talvez vale a pena. Mandar mensagem para o cara do camping lá, já que a gente tem um catálogo a gente pega as especificação mais parecida. Mas pelo menos falando de motor Homes assim o que eu observei é que quem monta os próprios, né? Os entusiastas da vida, talvez eles adquiram alguma coisa assim, mas as grandes montadoras entre aspas de motorhomem os caras usam um produto novo é um produto deles assim é um mercado um pouco mais difícil de entrar eu acho."
+1277.0,4,O fato de que não só Rural pessoas
+1279.0,3,"É não, cheguei a fazer um cálculo de tamanho de mercado de motorhome, mas assim é menor que de energia solar provavelmente muito por conta do Hype."
+1295.0,4,que não tem energia elétrica utilizam off Grid. Vocês lembram que ele explicou isso para a gente.
+1301.0,2,"A gente não comentou não, mas tem realmente isso também, né? Quem que foi?"
+1311.0,1,Mas por que que alguém investiria na
+1312.0,2,Uma das coisas que eles falaram é a
+1313.0,1,bateria o que que ele falou?
+1316.0,4,É não vale a pena parece se eles
+1321.0,2,"questão de imposto mesmo, né? Porque às vezes dependendo da carga que eles têm eles deixam essa carga destinada para trabalhar com off Grid e não precisa pagar imposto nenhum em cima, já era para aprender energia consome lá na hora e deixa tipo uma parte principal vai conectada a rede elétrica. Realmente eles vão reator alimentando e tem essa outra questão de você poder deixar algumas cargas à parte direta alimentada pela energia solar."
+1353.0,4,usarem não sei uma parte digital ou quantidade lá de kilowatts não vale a pena para eles por conta dos impostos. Então eles usam até o limite e aí depois ele já passam para bateria é um câncer.
+1371.0,2,Isso e acho que ele tinha comentado alguma coisa sobre acho que dependendo da quantidade de energia que ele gera. E vai ficar.
+1380.0,1,"Então vamos vamos abrir uma questão aí então para a gente discutir, né?"
+1384.0,4,Para vocês.
+1386.0,1,"Talvez porque senão também. Agora nós estamos tentando resolver tentando entender o problema, né? Vamos deixar isso para na hora de que a gente tem o tempo, né? Senão a gente se perde aqui, né?"
+1400.0,2,Vou abrir aqui uma mercado certo.
+1403.0,1,"É mercado e seria assim entender, né? Como que o armazenamento? Pode ser atrativo mesmo em instalações solar que tem. Que estão conectadas a rede, né? É isso, né? Vamos só pegar assim um aprendizado"
+1441.0,2,não tem
+1445.0,3,"Bom falando da minha tia dura mais, mas enfim. Eu vou só então fazer isso aí que eu comentei de pegar lá, especificação e ver. No catálogo se tem alguma coisa aqui desse Milar pelo menos para dar uma testada assim no spin selenzinho e depois eu faço uma ficha de aprendizado sobre isso aí mas basicamente é isso camping em boa parte tá na rede."
+1469.0,1,assim o fabricante puxa para ele pôr uma numa linha de produção produtos. Essa é o aprendizado.
+1479.0,3,próprio
+1481.0,1,"Daí teria que ser o pessoal que e normalmente é assim, né? O pessoal que tem esse camping, eles acabam consertando arrumando, né? Mas achar nada também é difícil,"
+1490.0,3,é
+1492.0,1,"né? Como achar eles, né?"
+1495.0,3,"Um só que usa bateria estacionária os outros, eles já usavam mas conectaram na rede recentemente."
+1503.0,1,"Eu acho que talvez o que vale a pena aí é ver se você consegue fazer com que esse mude para bateria. Esse teu contato aí, né?"
+1513.0,3,Tem vários?
+1515.0,1,"Então pega pega esses né? E vê se algum dele é candidato para fazer uma reforma ali no Na bateria, né e adaptar uma bateria de carro, né?"
+1528.0,2,"Tem que ver não sei quanto tempo, eles têm já. O motor home né do [UNRESOLVED_ENTITY] Com"
+1535.0,3,É vamos fazer o seguinte então
+1536.0,2,"quanto tempo já tá em operação porque uma coisa que pega muito da bateria de carro a vantagem dela é justamente a vida útil, né? Às vezes o negócio dele tá morrendo lá já trabalhou três anos não vai"
+1548.0,1,Isso é uma bateria de chumbo ácido
+1548.0,2,aguentar muita coisa mais que isso.
+1552.0,1,"aí o pessoal fala que não dura mais do que 45 anos, né? Isso a gente tem experiência nos carros da gente."
+1557.0,2,exatamente
+1559.0,1,"É quatro cinco anos dependendo ali até de vez em quando ela vai embora antes, né, mas não é muito mais do que isso, né? E eu imagino que do [UNRESOLVED_ENTITY] seja pior ainda sabe?"
+1574.0,2,Porque os a menos também.
+1576.0,1,"É o cuidado que você tem que ter por exemplo, eu sei dizer para vocês assim, se você não vai usar uma bateria, você tem que esvaziar o chumbo ácido dela. Tirar fora [UNRESOLVED_ENTITY], você tem que jogar no outro. Para depois pôr de volta, sabe ou tem que ficar dando cargas de tempos em tempos sabe e assim mesmo essa carga não vai ser igual, né? Porque é de tempo em tempo então ela vai ter ela vai pegar um efeito memória ali dela de ficar vazia, sabe? Então tem esse mercado a gente só não sabe dizer se ele se ele vale a pena."
+1614.0,1,"Mas é que eu tô só pensando assim como você tem esses contatos e essas baterias não duram talvez. Dê sorte de um deles querer usar uma bateria mais moderna, né?"
+1644.0,3,porque os outros que eu contratei
+1661.0,1,E fazer uma adaptação e vocês
+1662.0,3,"todos estão na rede, né?"
+1669.0,1,"ajudarem e Vocês fecham o caso, né?"
+1694.0,1,todos aqui
+1694.0,3,"Tirando um né? O contato tem uns 10 por aí campings oito devem ter me respondidos 7 estão na rede elétrica assim, eu achei esse um pouco mais difícil de conseguir fazer o cara ir para rede elétrica, mas o outro ele usa de chumbo ácido, né? Então posso tentar convencê-lo ele a trocar de chumbo ácido porque ele já usou de caminhão e hoje ele usa de chumbo ácido e tem bateria de lítio também, mas não é de carro ele o que deu as especificações lá, então, ele já passou por algumas opções aí né? Então tentar."
+1699.0,3,"Colar nesse aí com o catálogo agora. Então, beleza. A gente não estender mais essa atitude, né?"
+1699.0,1,Ele tá procurando uma.
+1699.0,3,Não tô te ouvindo.
+1699.0,4,"Mas eu não tô vindo da hora vocês estão. Eu acho que foi a dele então, né? Porque a gente se mexe ele não."
+1701.0,1,É o meu tem estável.
+1706.0,3,Agora vou então agora estamos.
+1711.0,1,O meu aqui tá difícil.
+1712.0,2,A gente perdeu o que você falou por último.
+1716.0,1,É mas eu tô perdendo que e eu tô
+1716.0,4,É mas tá cortando ainda agora.
+1720.0,1,"perdendo o que vocês estão falando, tá? Eu vou tentar ir na outra sala ali para ver se Eu acredito que não é esse. Tá melhor estão ouvindo?"
+1743.0,4,"Sim, agora sim."
+1743.0,1,"Alô, agora melhorou. Vamos tentar então por aqui, eu perdi um pouco da conversa aí, né? Do camping"
+1758.0,3,"A gente só tinha concluído aqui de pegar então um catálogo a gente construiu e eu conversar com esse cara que já usa bateria e tá trocando de X para y e y para [UNRESOLVED_ENTITY] para ver o que a gente consegue ver os demais estão na [UNRESOLVED_ENTITY] então, talvez seja um pouco mais difícil fazer eu sair da rede elétrica."
+1777.0,1,"É o da rede, eu acho que ele tem pouco interesse."
+1782.0,3,é
+1784.0,1,Sabe o que que vai acontecer?
+1785.0,3,Porque ele já ele já saiu alguns falassem a gente usava baterias a gente tá na rede. então
+1794.0,1,Provavelmente algum camping of Grid? Mas daí vocês vão pegar ele do outro lado.
+1799.0,3,É energia solar.
+1799.0,1,"E daí, ele precisa da bateria, né? Então tá bom, vamos para o próximo."
+1810.0,3,Vamos para o próximo que já fica muito nesse.
+1814.0,2,"Beleza então busca pelos potenciais clientes aqui. Esse aqui já foi certo da sinditec, essa reunião foi semana passada, eu não lembro."
+1826.0,4,Foi na sexta quinta.
+1827.0,2,"pois É quinta-feira então, esse a gente não chegou a comentar nada com [UNRESOLVED_ENTITY], né?"
+1834.0,4,"É esse aí que a gente falou, né? Mais ou menos. é verdade"
+1847.0,2,Esse de quinta-feira.
+1849.0,4,"É que nasce na verdade esse cara ele é a gente foi pela questão da destinação de baterias, né para ter uma opção quando a gente pegasse uma bateria que não tivesse segunda vida para ele fazer a separação dos materiais. Esse foi o intuito que a gente encontrou eles que eu marquei a reunião. Porém a gente conversando com ele, eles também essa empresa, ela tem outra [UNRESOLVED_ENTITY], né? Tem Outras ideias outros projetos dentro não só da destinação de baterias. Eles coletam essas baterias, mas eles também estão com o intuito de destinar para segunda vida e fazer Inclusive a manutenção dessas baterias e destinar isso para of Grid que ele comentou. Acho que só isso."
+1900.0,2,Ele se demonstrou muito aberto para
+1904.0,3,"É hoje é tudo por contrato, né? Então assim é ele não sai pegando bateria na sua casa."
+1910.0,4,"É meio que ele faz um contrato com empresas, né? Hoje ele tem gwm de contrato e [PARTNER_C] então todas as baterias essas duas empresas são destinadas para eles e"
+1921.0,3,E aí pode falar?
+1923.0,4,"Aí ele acho que não tem Como reutilizar eles fazem a separação dos materiais normalmente de acordo e as outras que tem se dá para segunda vida, eles fazem manutenção e destinam para o projeto de segunda vida que eles montam todo um Business, né?"
+1945.0,3,"Falaram que havia contrato então, por exemplo contrato com a [PARTNER_C]. É só para destruição então mesmo que eles peguem baterias que ainda tem uma utilização contrata com destruição e acabou. Ele sempre o que a empresa que tem a bateria quer nunca eu só o que eles querem. E aí esse questão do of Grid, eles estão desenvolvendo com algumas empresas um projeto para as empresas, né de pegar as baterias da empresa x recondicionar ou verificar se elas têm uma segunda vida interessante ou não. E aí devolver esse projeto para empresa. Eles não pega a bateria e fazem eles um projeto não"
+1981.0,4,E vendem para outras eles fazem o
+1983.0,3,eles.
+1983.0,4,projeto para a própria empresa.
+1985.0,3,A própria empresa então.
+1986.0,4,Mas eles queriam todo o [UNRESOLVED_ENTITY] é fazem o estudo é tudo ele né?
+1991.0,3,"É sim, só que aí é para aquele cliente, né? Então tipo, eles não eles não têm se você não consegue chegar neles e falar eu quero um projeto de energia solar of Grid com bateria de carro não você tem que dar a bateria para eles fazerem assim. E você tem que ir né fornecer eles não saem coletando na rua assim, qualquer coisa então o negócio e eles são mais também no nível, macro, eles não eles não chegam no desmanche para pegar a bateria."
+2017.0,3,Eles vão emocionaria a indústria lugar [UNRESOLVED_ENTITY].
+2022.0,4,"Aí a gente ficou meio que não sei se ele é concorrente se ele é parceiro se ele é. Cliente ah de certa forma eu acho que parte ele é concorrente porque ele já tem duas duas montadoras, mas parte também ele pode ser um parceiro porque as baterias que é para a gente não sei lá, se não que não existe opção de segunda a vida a gente destinaria para eles aí Nessa parte ele é."
+2050.0,3,Cliente nesse caso.
+2052.0,4,um cliente
+2052.0,3,Cliente o parceiro seria se ele começasse a vender os projetos dele através da gente.
+2059.0,4,"É parceiro não então, mas de certa forma ele pode ser até cliente, como também concorrer."
+2064.0,3,Gerou dúvida nos três Cada um pensa de um jeito depois da reunião.
+2067.0,4,"É parceiro, eu não entendi o parceiro, né?"
+2069.0,3,A gente fala no ids então. Para discutir melhor.
+2073.0,1,"Então vamos Então abrir uma questão lá, porque eu acho bem interessante para mim, ele é parceiro e cliente. Mas eu não sei se ele tem a dor que"
+2084.0,3,Não.
+2087.0,1,"vocês resolvem, né? Aparentemente ainda não, né? Porque ele não tá com a dor ainda de aumentar o mercado dele, né? Ele"
+2096.0,3,"É não porque é grande, né? O"
+2096.0,1,tá
+2098.0,3,mercado dele já que ele tem.
+2100.0,1,"Ele tá pegando o contratos grandes, né? Então ele é assim, ele é um potencial, mas talvez ele ainda não estejam ele [UNRESOLVED_ENTITY] sabe? Com certeza ele é potencial, mas eu não sei se ele é um ele é [UNRESOLVED_ENTITY], talvez a solução de vocês quando vocês estiverem prontos ele entra. Isso agora Tem que olhar lá dentro"
+2122.0,3,Quando já tiver um fluxo de recebimento de bater nele e falar também quero aí ele entra. Mas por hora ele.
+2129.0,1,"da empresa, talvez tem um cara mais inovador lá de desenvolvimento de produto essas novas frentes que você falou sabe? Que eles estão estudando novos negócios, né?"
+2144.0,2,"essa questão de novos negócios uma coisa que ele deixou [PARTNER_F] foi assim, ó, é lógico que tem o interesse no nome [PARTNER_A]. Aí ele que ele queria"
+2150.0,3,"na hora que ele quer fechar contrato, mas"
+2153.0,2,"provavelmente fazer parecido com o que ele faz com a [PARTNER_B] com a [PARTNER_C]. Mas é uma coisa que ele deixou aberto e assim meu se vocês têm alguma ideia algum desenvolvimento que vocês querem fazer não tem certeza se vai dar certo não vai chama a gente a gente tenta participar com vocês a gente vê o que a gente pode contribuir então assim ele quer vender o negócio dele, mas ao mesmo tempo é um parceiro como experiência que está disposto a tentar pensar em novas soluções também."
+2180.0,1,Então abra uma questão lá assim estudar oportunidades de novos de negócios com a Essa empresa é o nome dela.
+2194.0,2,Eu vou mudar aqui.
+2195.0,1,"E deixa como uma questão, se não for urgente, né? Porque vocês vão ter outros, talvez mais quente que ele né? Pelo menos ele fica aí registrado."
+2204.0,3,"Eu acho que ele vai ser importante algum momento, mas agora acho que ele pode esperar manias."
+2207.0,1,"Talvez agora da de vocês, vocês têm coisa mais importante a oportunidades melhores, né?"
+2217.0,2,certo revisar score de aposta pivotagem
+2222.0,1,"Aprendizado lá, você aprendeu bastante aí nessas. Certo fazer o histórico de 10 anos,"
+2227.0,4,eu tenho que fazer tem que abrir para fazer a O aprendizado né?
+2235.0,2,"Essa que revisar. Foi feito. Mas eu só vou colocar o ok aqui, quando eu passar limpo bonitinho lá na frente. Daqui a pouco eu faço quando acaba na reunião. Revisar sensação considerando todo o mercado de veículos, curva de veículos elétricos penetração nesse mercado aí eu coloquei agora pouco dar sequência no levantamento para os últimos 10 anos certo que a gente conversou."
+2261.0,1,né?
+2263.0,2,"Porque eu puxei de 2021 para frente tá conversando vocês não tinham chegado para reunião. Acho que o [PERSON_B] estava ouvindo de eu dar sequência naquele estudo lá que eu fiz é puxar os últimos 10 anos inteiros para a gente conseguir ver aí, como que foi esse crescimento do mercado e a gente fazendo essas projeções com base nisso."
+2283.0,1,"Eu acho que tá na semana que vem você acho que tem essa planilha terminada, né?"
+2289.0,2,Eu também acho que sim.
+2291.0,1,legal
+2295.0,2,agendar visita na [PARTNER_B] de [UNRESOLVED_ENTITY] conhecer fábrica [UNRESOLVED_ENTITY] e eletrificação para pesados Tainá
+2303.0,4,"Ai, então eu tô esperando na verdade um retorno do Gabriel. Ele tá vendo com o pessoal lá da lá da [PARTNER_B] parece estar um pouquinho enrolado, mas acredito que essa visita [UNRESOLVED_ENTITY] ser sólida para começo de Janeiro mesmo, viu, gente? Mas é mas eu vou pedir um novo novo"
+2321.0,3,deve rolar mas
+2327.0,4,retorno para o Gabriel. E aí eu atualizo aí. Melhor vou mandar até agora.
+2337.0,2,"Vamos lá? Construir uma tabela comparando a aplicação das baterias em cada segmento juntamente com juntamente com comparativo de bateria de veículos elétricos e híbridos. Esse aqui eu fiz mas dá para melhorar também, eu fiz uma tabela mais especificando a diferença é que tem a ganhar trabalhando com as baterias de lítio dos carros elétricos comparado com a tradicional com a clássica estacionária de chumbo ácido mas eu não fiz uma separação por segmento também essa semana dá para dar sequência deixar melhorzinha."
+2379.0,2,Ficou bem simples assim foi um negócio bem genérico.
+2383.0,1,[UNRESOLVED_ENTITY] a pena detalhar e por segmento.
+2388.0,2,Talvez focar no elétrico no off Grid mesmo.
+2392.0,3,E tipos dá para fazer do câmbio
+2392.0,4,A gente conversou a gente gostaria de focar primeiro no off Grid.
+2397.0,3,"porque o cara passou especificação. Então assim tá fácil, esse não precisa ficar procurando o que eu coloquei. A necessidade técnica mas acho que sei lá dá para fazer dos dois e a gente vê se tem mais necessidade depois."
+2411.0,2,"Então esse aqui eu vou tirar esse cada segmento e vou colocar aqui para off Grid para off Grid. Eu fiz um genérico, mas eu vou dar sequência agora conforme atualizar conforme. Catálogo certo conforme peças do catálogo porque eu posso pegar por exemplo pega uma bateria estacionária de mercado que já tem aí de prateleira que eles vendem para o sistema elétrico e faça um comparativo comparativo com uma dessas que vocês mapearam um pouco mais de uma."
+2451.0,3,"A lista de concorrentes lá né? Que eu deixei no Excel, você pode pegar uma da Uma daquelas empresas não é nem concorrente, mas naquelas empresas que eu achei que vende só kit vai no celular você cata uma lá [UNRESOLVED_ENTITY]."
+2466.0,2,ok Identificar concorrentes nacionais internacionais isso aí você fez certo aquela tabela lá. Você completou.
+2476.0,3,"Feito que faz exatamente o que a gente faz eu achei só essa. Chamar hoje sola [UNRESOLVED_ENTITY], acho que é dos [UNRESOLVED_ENTITY], eles fazem tipo pega uma bateria de carro e vende como tipo que tipo a projeto de energia solar of Grid, então assim é exatamente a mesma ideia só catálogo dele estende por três peças. E tipo, sei lá não tem feedback é bem embrionário. O negócio assim é tem cara de ser um negócio que os caras tipo. Tão tentando entender como é que faz ou um negócio que os caras tentaram fazer largar assim sabe? Tipo não parece não é um site atualizado tem pouca coisa, mas tipo, acho que é o concorrente mais direto assim os outros, eles acabam a gente acaba trabalhando com uma fatia deles, né? Se a gente pensar Verde MercadoLivre, tipo. Talvez você encontre também bateria lá, só que lá não tem uma especialização da Integração dessas baterias, né, então."
+2535.0,3,"Concorrente direto É só um mas ele não é nada comparado a peça verde, não tem nem foto direito lá tem umas fotinho Meia. Boca lá, mas não tem nem especificação técnica, não tem nada então concorrente direto, mas é isso é? Como é que faz combatível? então"
+2555.0,1,Tá começando também provavelmente.
+2557.0,3,sim
+2560.0,2,Beleza então concluído esse aqui construir o posicionamento de mercado.
+2565.0,3,Isso também com base naquele documento que o [UNRESOLVED_ENTITY] pai mandou. Então tá tudo no teens. Deixei lá escrito e o nicho de mercado que a gente está também então. feito
+2578.0,1,"Querem discutir isso em algum momento, não preciso."
+2581.0,3,"A gente discutiu um pouco aqui, né? Que eu fiz a gente tava nós três aqui então, mas basicamente acho que"
+2586.0,1,legal
+2589.0,3,"a grande estratégia aí que a gente para a gente conseguir tentar superar um pouco os concorrentes diretos e indiretos ali é tudo gira em torno de política de garantir devolução. E a gente conseguir ser mais específico do que os demais nos segmentos que a gente quer. Então se a gente consegue ter esses dois diferenciais de ter uma especificidade no segmento que a gente colocou de clientes e consegue garantir que um MVP né funciona bem com garantia de evolução conseguir garantir alguns pontos chave ali tipo avançar bastante assim em relação aos demais, então é isso, mas a gente já ficou bem. [PARTNER_F] que a gente é um segmento. Acho que tá lá é um segmento de mercado nosso posicionamento. Ele é uma parte de um mercado maior."
+2643.0,3,E é isso aí?
+2643.0,2,Muito bom. Quero roteiro para reunião com a cientista que foi feito certo [UNRESOLVED_ENTITY]. Quem que é o ganso? Vou colocar aqui a data do dia.
+2656.0,3,quinta-feira
+2658.0,2,12 24 concluído criar um Rios no canva aí para a gente trabalhar com [UNRESOLVED_ENTITY] se você fez o rio certo.
+2666.0,3,"Olá e a gente ficou meio quebrando a cabeça para ver como é que vai fazer o negócio com a [PARTNER_A], só que assim."
+2672.0,4,"Não chegou a mostrar para a gente, né muito?"
+2677.0,3,"Então, só que assim. Entrei em contato com a empresa e a [PARTNER_A] passou lá, hein, meu. Tô achando que a gente não vai ter resposta disso aí tão cedo eu acho melhor cada um da proveta que caiu o décimo terceiro cada um dá r$ 15 e a gente faz um"
+2692.0,4,Beleza a gente fala disso daqui a
+2694.0,3,um desencontro velho
+2697.0,2,Não reclama de 15 conto não.
+2698.0,3,"Então pelo menos para a gente conseguir fazer um primeiro teste assim, sabe? Não eu também acho só que assim quanto mais a gente fica dependendo dessa burocracia mais vai demorar para a gente ter uma resposta do quanto isso é interessante no marketing digital, então sei lá."
+2719.0,4,pouco aqui.
+2720.0,3,É isso.
+2720.0,2,Isso depois a gente entra nisso e aqui.
+2723.0,4,"E aqui tá catalogado também, gente."
+2725.0,1,Quem anotar um lixo para isso?
+2727.0,2,Vamos anotar.
+2729.0,4,É não tinha que ter perguntado.
+2730.0,2,Para a questão da burocracia na hora de colocar o rio você vai fazer por conta se vai.
+2735.0,3,"a gente tem mais de fazer o conteúdo, mas acho que a gente precisa de uma eixo de interna aí de"
+2741.0,2,Como que eu chamo isso aqui?
+2742.0,3,Como trabalhar com marketing digital no projeto coloca como equipe?
+2745.0,2,Qual que é a categoria disso?
+2750.0,1,Ou o mercado né? Você é
+2752.0,3,Como é que eu acho que a questão não é o problema não é o mercado em si é a [PARTNER_A].
+2756.0,2,É o problema.
+2758.0,1,"Mas eu já falei para vocês, né?"
+2760.0,3,"Assim como trabalhar como é que edital notion Factory perguntas reflexivas do fim de ano? então Foi tipo eu concordo que a gente tem que tirar do nosso bolso, só que assim. A gente falou se a gente fosse meter o [UNRESOLVED_ENTITY]."
+2781.0,2,E eu por exemplo não faria eu tive uma reunião com um cara que responsável pelo cartão corporativo e ele tirou o pé falou que não que não é com ele isso.
+2793.0,1,"Vocês tem que cuidar. Que numa empresa grande se você pergunta a chance de ter ou não é enorme. Daí daí é complicado voltar atrás, sabe? Então, sempre eu acho que já falei para vocês, né, que eu aprendi que eu trabalhava numa empresa grande, né? Aprendi com um colega lá, né? É melhor você fazer e pedir desculpa depois. É que eu precisava fazer o teste não sabia. Ah, tá bom, então, vamos arrumar isso."
+2827.0,1,"Mas já fez né? Então você tem que pensar quando vocês vão perguntar para alguém aí dentro e isso não é não é agora no no nosso projeto aqui não. Deixa não é nessa incubação, isso é em tudo para vida profissional de vocês. Tem que dar uma paradinha em pensar bem assim, se eu perguntar para o advogado, o que que ele vai dizer a chance de lhe dizer não é enorme."
+2853.0,1,"Então tá bom, qual que é a consequência? Se eu fizer sem falar com ele? Se for só dizer assim, pô, desculpe, eu não sabia vamos arrumar. É melhor fazer agora, se for grave não pode né? Um acidente fatal aí um acidente com"
+2869.0,2,Bom coloquei aqui concluído foi na
+2871.0,1,vídeo aí não não pode não pode pedir desculpa depois né? Mas
+2880.0,3,Não tem como mas não é esse não vai matar ninguém é um [UNRESOLVED_ENTITY].
+2883.0,1,"Pois é então e a maioria é assim, viu? A minha experiência pelo menos."
+2893.0,2,"semana passada foi na sexta que finalizou o catálogo, né? dia 13 Ok eu abri lá e chão por todos atualizou e as que tem mais coisas para serem feitas."
+2911.0,1,"Então, agora vamos resolver."
+2912.0,2,Vamos lá?
+2915.0,1,"Estamos só um pouquinho atrasado, mas começou um pouquinho atrasado. Acho que tá ótimo o ritmo."
+2921.0,2,Vamos lá que alguém quer puxar algum item específico para a gente começar querem falar já desse de marketing digital.
+2931.0,3,Ainda de duas uma ou a gente vai colocar do nosso bolso uma quantidade menor ou a gente vai colocar a mesma quantidade no cartão por curativo e ver que acontece que que vocês preferem.
+2943.0,2,"e eu ligaria lá na empresa e pediu um contato de alguém que resolva isso porque Se a gente descobrir quem quer que cuida disso e fala a gente está precisando fazer só colocar o anúncio. Já tá tudo pronto, se a gente não puder fazer com vocês, a gente vai ter que abrir uma concorrência para uma outra empresa fazer acho que eles dão um jeito de alguém ajudar."
+2964.0,3,Ah mas já faz duas semanas que nós
+2964.0,1,E vocês precisam dessa empresa ou
+2965.0,3,estamos aí.
+2968.0,1,não? Pode vocês fazerem?
+2969.0,2,Não alguém da própria empresa.
+2969.0,3,É uma empresa terceira que cuida de hélices na [PARTNER_A]. Mas a gente já tá duas semanas com isso já e cara.
+2974.0,2,mas a gente
+2981.0,3,"Essa pergunta que ninguém sabe responder, só que já fazem duas semanas que a gente tá buscando a resposta. Tipo a gente."
+2987.0,1,"Não, mas eu tô tendo eu tô dizendo assim. Vocês tem conhecimento para fazer sem a empresa?"
+2996.0,3,Eu Tenho Um Projeto Paralelo aqui de música eletrônica eu faço isso aí já fazem uns 5 anos então assim vídeo tá pronto plataforma tá pronta É só botar o dinheiro e já era então.
+3007.0,1,Então e veja eu não vejo motivo nenhum para vocês falarem com essa empresa.
+3014.0,4,"Eu também relaxa, eu concordo eu"
+3014.0,3,Eu também
+3016.0,4,acho que a gente deveria passar de
+3016.0,1,Eu acho que é um projeto é uma
+3018.0,4,novo.
+3018.0,1,"experiência é um teste tão pequeno, né? Porque veja eu até entendo me pondo no lugar deles, né? Dessa empresa, né? Eles têm que dar vazão porque tá chegando lá, né? Lógico tem clientes [PARTNER_A], mas tem os outros então eles têm demanda da [PARTNER_A] e tem dos outros, né? Daí eles vão fazer um teste de 50 reais com vocês."
+3043.0,3,É eu acho melhor passa no corporativo.
+3047.0,1,E depois pede desculpa.
+3049.0,3,E não deu bosta aí é dizer muito mais fácil justificar falar cara. É parte fundamental do nosso teste não coisa.
+3057.0,1,"Nós estamos aqui na incubação é para fazer teste, né? Estamos fazendo teste."
+3062.0,4,Eu acho também.
+3063.0,1,"Para fazer teste, né? Então fazendo um contrato que nós fazendo nós"
+3067.0,3,comendo churrasco
+3069.0,1,vamos gastar seis meses um ano três meses não é um teste vai ter
+3073.0,4,E outra.
+3074.0,1,"segundo teste, né?"
+3077.0,4,E tem uma solução é porque eles eles são meio preguiçosos também. Tem muito isso.
+3085.0,3,Que não tem remédio remediado está a gente vai fazer no cartão e marcha depois.
+3089.0,4,É isso.
+3089.0,1,"Depois pede desculpa, se for conhecer"
+3091.0,3,É vai falar.
+3094.0,1,muito se for uma estratégia que vale a pena a gente investir bastante daí quem sabe pega ajuda deles.
+3102.0,3,É foi que a gente aumentou assim de
+3103.0,1,tá
+3105.0,3,"Ah, vamos deu certo, vamos botar uns três mil agora aí já tenta a gente fazendo um caminho mais."
+3117.0,1,então
+3119.0,3,resolvido
+3125.0,4,Mas é ruim mesmo.
+3127.0,3,"Cara, tipo isso é fundamental para o nosso projeto avançar outros os moleques da outra charges também vão precisar disso. Em algum momento e os cara tá pagando tudo do bússola."
+3142.0,2,Bom como mas aí a gente querem
+3146.0,4,É hoje mesmo que a gente coloca isso no ar então.
+3150.0,3,Até aberto.
+3150.0,4,"Tudo bem final do ano, né? Eu sempre acho que final do ano galera nunca para de se interessar tanto."
+3156.0,1,É tudo.
+3157.0,3,Ah mas
+3161.0,4,Até essas coisas assim sabe de chamar para fazer serviço e tudo mais mas vamos tentar. Qualquer coisa a gente faz outra.
+3168.0,3,"Qualquer coisa a gente fala. Ah, foi"
+3169.0,4,Não sei.
+3170.0,3,engano lunar.
+3172.0,1,Uma ficha de aprendizado vocês vão preencher lá e pode ser que chegue a conclusão assim realmente dezembro.
+3179.0,3,Esquece dezembro é recesso.
+3179.0,1,Não deu certo. É desenho não deu certo. Qual é o aprendizado vamos fazer em Janeiro?
+3195.0,2,passar por todos ou você tem algum específico que vocês acharam mais importante a gente puxar aqui. Podemos passar todos.
+3204.0,3,"A gente não foi atrás ainda de na 71 ali a gente ainda não foi atrás de ver outras fontes de bateria tirando a gente sabe concessionária tem e a gente sabe que desmanche tem [UNRESOLVED_ENTITY]. Cada um tá dando o seu próprio pulo aí, né? O desmanche vende por ele próprio a concessionária a gente viu na sente técnico que provavelmente existem, né? Cada concessionária tem a sua empresa de recolhimento."
+3229.0,3,"Mas a gente ainda não abriu para ir dar uma olhada em fabricante frutista. Acho que talvez valeria a pena uma isso aí. Tipo fabricante tudo bem? Tem um pouco da amor, mas devem ter outras que fazem alguma coisa do tipo tentar ver se tem alguma aqui no [LOCATION_A], relevante suficiente e frutisa. Pode ser interessante, cara. A gente já tem uns contatos por perfil [PARTNER_A] de tipo. Eles devolvem todas as baterias na concessionária."
+3260.0,1,é que se
+3261.0,4,"Que vai abrir um aqui para a gente,"
+3263.0,3,então
+3263.0,4,viu?
+3265.0,1,"Vamos discutir essa questão. Então vamos Então é porque eu vejo assim,"
+3267.0,3,É um amor.
+3268.0,2,isso
+3271.0,1,"olha o fabricante, eu acho que esse aprendizado de vocês quase que dá para dizer que é meio deve ser meio [UNRESOLVED_ENTITY], né? Um fabricante contrata uma empresa especializada para resolver um problema dela, né?"
+3287.0,3,"É uma assistente da vida, talvez a"
+3289.0,1,"Daí daí o fabricante não vai ser cliente de vocês pelo menos agora, ele não vai fazer um teste com vocês, não precisa de fazer esse teste, né? Daí o cliente de vocês é essas empresas que eles contratam. daí vocês tem que"
+3311.0,3,gente possa tentar achar uma citytec pequena.
+3314.0,1,"Não, talvez vocês possam fazer"
+3315.0,3,menor
+3317.0,1,"assim entrar em contato com os fabricantes e tentar descobrir qual é a empresa que eles fazem né? Podem ir com aquela conversa Inicial, né? Ó nós estamos tentando resolver vocês. Como é que vocês estão resolvendo agora? A gente pode ajudar. Ah não nós temos um contrato com a empresa tal É isso aí fazer o contato com a empresa tal, né?"
+3337.0,3,"Essa sentir Até que a gente pegou na [PARTNER_C], né?"
+3341.0,1,Então mas a b a dia sempre é interessante porque ela é a maior né? hoje
+3347.0,3,"Eu acho que talvez vale a pena dar uma olhada em outra sinditex, entendeu?"
+3352.0,1,a partir das concessionárias ou a partir dos [UNRESOLVED_ENTITY]
+3358.0,3,tipo da [UNRESOLVED_ENTITY]
+3360.0,4,"Eu acho que primeiro a gente tem que ver o que a gente tem na manga, né que é a [PARTNER_B] que são empresas do nosso grupo que é grupo trator."
+3367.0,3,Eu concordo mas tipo até a gente ir na [PARTNER_B]. Vai demorar um pouquinho.
+3377.0,4,Mas e da [PARTNER_A] para onde que vai essas baterias?
+3380.0,3,"É que a gente tem que pegar uma é onde não sabe, talvez a gente possa olhar para [PARTNER_A] agora tentar achar mais rápido."
+3388.0,4,Tipo já estão trocando as baterias.
+3390.0,3,"ok Se já estão trocando. Não sei a gente pode tentar descobrir a gente tem o contato dos maluco lá, tenho a gente fez uma reunião lá com a primeira que a gente fez lá que o cara de ônibus eu não lembro da gente ter perguntado essa canetinha contrato para recolhimento de bateria."
+3412.0,4,Eu acho que a gente pode.
+3415.0,3,"E se a gente quiser ir para uma outra concessionária, talvez a gente possa ir na elétrica."
+3423.0,4,[UNRESOLVED_ENTITY] Eu também acho.
+3424.0,3,ninguém vai conseguir bater elétrico do jeito que tá
+3434.0,4,[UNRESOLVED_ENTITY] abrir hein? Acho bom.
+3436.0,3,E outra elétrica.
+3438.0,4,Vamos abrir uma tinta também disso. Tem sobre o tema né? Eu não lembro a gente tem que ver
+3448.0,3,"Então, a isso é 71."
+3452.0,2,[UNRESOLVED_ENTITY] certinho. Que bonito.
+3454.0,3,Nossa é.
+3457.0,2,contato
+3459.0,4,com o responsável da [PARTNER_A] de [UNRESOLVED_ENTITY]
+3460.0,3,"Como é que é o nome dele o primeiro lá, pô."
+3465.0,4,elétricos.
+3466.0,3,Era o primeiro.
+3467.0,4,Eu vou achar aqui o contato.
+3470.0,3,[UNRESOLVED_ENTITY] lá [UNRESOLVED_ENTITY]
+3475.0,4,"Ele mesmo, viu?"
+3480.0,3,E eletrificação [PARTNER_A] dúvidas esse aqui não esse aqui que os trem não é?
+3484.0,2,Como que era?
+3487.0,3,"Costume Sim veio antes disso. [UNRESOLVED_ENTITY] marketing Não é esse cara aqui [UNRESOLVED_ENTITY] É isso mesmo é que [UNRESOLVED_ENTITY]. Ele até mandou lá que é que mostra quantos ônibus elétricos tem no [UNRESOLVED_ENTITY]? Pode mandar bom quem ficar pode mandar só uma mensagem assim. Só para gente saber se não precisa saber, talvez muitos detalhes do contrato, a gente não sabe ser confidencial."
+3523.0,4,Já mandei oi para ele.
+3525.0,3,Deixar aqui o nome dele.
+3543.0,4,ter encontrado de
+3545.0,3,"recolhimento de bateria de [UNRESOLVED_ENTITY] aí Abre uma outra que o [UNRESOLVED_ENTITY] a gente investigar cara da [UNRESOLVED_ENTITY], a gente tem que começar do zero basicamente, mas talvez investigar como que tem sido feito o gerenciamento de bateria de segunda vida. Do jeito que fala né?"
+3573.0,1,Não vale a pena não vale a pena
+3577.0,3,Cara é uma opção a gente tem algum
+3577.0,1,pôr na mesma eu bebo.
+3583.0,3,"contato do histórico aí fácil e quando a gente foi conversar lá na feira lá, o cara falou que eles mandava de volta tudo para a [LOCATION_F]."
+3590.0,4,"Aí eu não gosto, mas pode ser."
+3593.0,3,A Tainá tá com ranço são as coisas muito específica no negócio.
+3600.0,4,"Ah eles não abrem nada é Super Eletro normal, viu igual o [PERSON_B] falou."
+3606.0,1,se eles estão mandando para De volta vocês têm vocês têm
+3614.0,4,Você acha para a [LOCATION_F]?
+3618.0,1,vocês têm a solução de menor baixo?
+3622.0,3,"Eu acho que talvez vale a pena sim, talvez a gente tem que ir para um outro tentar entrar numa outra porta, entendeu? Talvez as que a gente tentou bater ali que o pessoal acabou não sendo tão solicito. Não era melhor. Talvez a gente precisa encontrar algum outra pessoa aí de"
+3637.0,1,"A pessoa que assina esse cheque, né? Vamos mandar essas baterias de volta isso tem um custo para eles, né? Você bem que sempre o chinês é"
+3646.0,3,Acho que vale.
+3647.0,4,Tá bom.
+3648.0,1,"mais barato em tudo, né? Talvez seja."
+3651.0,3,E que ele ainda não viu que tem mais né?
+3653.0,1,Mas até uma descoberta para vocês vejam numa dessa vocês fazem isso também. Manda para gente.
+3659.0,3,Não tô falando dos carros de
+3660.0,4,"Acho que a letra é tipo benefício maior, né?"
+3667.0,3,"passeio que tá vendendo mais. Então beleza Pode ser? Eu você, Tainá, você tá com [UNRESOLVED_ENTITY]?"
+3681.0,4,Quer separar?
+3683.0,3,Tá bom.
+3687.0,1,E põe ali o visando ou para né? O que que vocês vão tentar descobrir?
+3694.0,4,noite
+3696.0,3,visando visando fluxo de gestinação baterias
+3702.0,1,"O fluxo ou descobrir o nome da empresa que faz isso, né? Para eles, né? Que daí vocês porque tem dois objetivos vocês entendem? Como é que é o dia a dia deles, né a jornada, mas se eles"
+3717.0,3,Da vida ou os cara tá fazendo alguma
+3720.0,1,têm uma empresa que faz vocês tem que pegar esse contato para ir lá conversar com eles.
+3729.0,3,outra coisa. Uma versão uma menor talvez alguma outra.
+3734.0,1,"E esses que fazem os contratos são potenciais clientes da solução de vocês que daí vocês vão lá investigar o problema deles solução, como é que vocês resolvem? E fica bom sabe essas oportunidades são excelentes. Eu acho eu já contei para vocês,"
+3753.0,3,a gente
+3756.0,1,"né um tempo das Startup aqui que a gente acompanha Startup aqui já faz uns 15 anos, né as [UNRESOLVED_ENTITY] as que saíam, né bastante né? Que conseguia investimento, né? Depois começou a um hábito bi sabe? Todo mundo começou a ver que começar com o [UNRESOLVED_ENTITY] é sempre mais fácil porque você já começa com mais volume, né? Então você imagina assim se essas empresas que pegam das concessionárias, né? E Vocês conseguem uma solução junto com eles, então vocês crescem rápido sabe então, por isso que é melhor, né? E hoje a moda é Plataforma é resolver através da plataforma juntar dois cantos, né?"
+3806.0,3,É engraçado que a no começo do projeto a gente estava com uma p*** dificuldade de conseguir achar as baterias agora é mais bem mais fácil achar as baterias os clientes que estão escondidos. safados
+3818.0,1,"Plataforma é isso, daí lembra o ovo ou a galinha agora? Giovani tá mudo?"
+3832.0,2,Então deixei a descrição aqui investigar o gerenciamento das baterias de segunda vida com [UNRESOLVED_ENTITY] visando entender o fluxo de digestimação das Baterias e empresas responsável aí dupliquei para bioed. Aí deixei [UNRESOLVED_ENTITY]. [UNRESOLVED_ENTITY] com o [PERSON_B].
+3847.0,1,"excelente Então tem ficou interessado na tudo, né?"
+3856.0,2,Isso dos dois endereçados aí. Que mais aí que a gente pode puxar.
+3863.0,1,"Ó tem um assunto aí que vocês falaram aqui que é entender. Qual é o benefício do off Grid da bateria, né? Que eu posso ajudar um pouquinho na discussão, porque eu sou do Grid. Então eu posso ajudar a tentar resolver com alguma coisa, né? Eu posso contribuir aí então, essa é uma questão interessante para a gente fazer junto, sabe?"
+3889.0,2,Legal entender como armazenamento de energia em baterias pode ser atrativo em Sistemas de energia solar que tem acesso à rede elétrica certo? Desse tem aqui.
+3901.0,1,Isso e eu queria só entender porque vocês falaram que alguém falou que tem uma vantagem de imposto.
+3908.0,2,"Era o rapaz da sinditec, não foi ou não? Eu não lembro quem foi que falou isso foi ele. Então tá."
+3915.0,4,Foi da sinditec é bom abrir uma tinta para estudar um pouquinho isso daí entender mais sobre esse mercado. Não.
+3926.0,1,"Vamos fazer meio junto agora porque daí eu posso tentar ajudar, né? Então veja só uma coisa que uma bateria resolve um monte é quando você você diminui interrupções. Sabe então mesmo eu tendo eu estou ligado na rede a rede falha, né? Sempre tem então e tem consumidores que a falha é muito cara para eles."
+3960.0,2,Sim verdade.
+3962.0,1,"Então, por exemplo todo mundo que mora num condomínio sabe, né que as luzes do [UNRESOLVED_ENTITY] o cara dá um jeito com entram no mínimo entre um gerador a diesel ali, né? Para o corredor ficar com [UNRESOLVED_ENTITY], né? As áreas comuns, né? Se você precisar fazer uma fuga etc a questão até de segurança, né? Você tem uma luz ali. Então esse é um exemplo, né? O cara tá gastando um monte de dinheiro num gerador manutenção dele combustível, tem que ligar de vez em quando e esse gerador faz um barulhão enorme né? Então se você tem um conjunto de baterias para fazer essas horas."
+4007.0,1,"Pode ser uma solução e tem outros que não podem ter interrupção mesmo sabe o sistema produtivo deles não pode então essas duas essa. É uma vantagem da bateria, mas são poucos, né? Não é não é todo mundo né? Por exemplo eu aqui em casa, não vou investir numa bateria tanto que falta luz aqui em casa aqui em casa. É muito raro, falo tal luz, né? Então não tem essa necessidade agora tem outros que estão em ponto da rede que falta a luz toda hora, talvez esse interesse. Vocês aí falta muita luz na casa."
+4054.0,1,"Então vocês não se interessariam também então, talvez talvez o cara"
+4057.0,3,Não.
+4058.0,1,"que mora mais afastado entende? Que daí a rede é mais complicada tem muita árvore começa a dar muita interrupção ali e e a concessionária tem demora mais para ir lá, né? Porque a concessionária tem uma equipe dentro das cidades a equipe chega no instantinho, mas se ela tiver que viajar 20 30 km já não é?"
+4082.0,3,[UNRESOLVED_ENTITY]
+4083.0,1,"Não é tão pouquinho assim, né? Agora que Outra vantagem daí eu fiquei curioso para ver essa do que o cara falou tem vantagem no imposto e queria entender o que que é essa vantagem no imposto, né?"
+4101.0,2,"Então Pior que eu não consigo lembrar certinho, o que que ele falou?"
+4104.0,4,Desse desconto ou porque não é ruim
+4108.0,3,Eu não tenho não.
+4119.0,4,utilizar só da energia alguma coisa assim.
+4124.0,3,"eu anotei lá a resposta dele no roteiro, deixa eu ver se foi alguma coisa que"
+4130.0,1,"Tentar fazer um exercício assim quando você compra a energia, né que nem a gente compra em casa uma indústria compra. Tem um impostos e taxas. Eu não vou te dizer o número exato que eu não sei mas eram uns 30% sabe? Da fatura que você paga a energia elétrica."
+4154.0,4,imposto
+4154.0,1,"É imposto e taxas do governo, sabe? Pode ser até que seja mais mas eu vou chutar uns 30% aí pelo menos. Então quando você produz a tua energia Você esse é custo que você não tem né? Se você tá produzindo a tua energia nos no painel solar ali, você não tem. agora daí Você poderia dizer bem assim, então, eu armazena uma bateria. E eu quero ficar isolado do sistema, né?"
+4194.0,2,"É às vezes por algumas [UNRESOLVED_ENTITY] em específico, né? Você pega os itens"
+4196.0,3,a gente
+4198.0,2,que mais consome energia pega por exemplo uma geladeira um chuveiro liga nesse of Grid e o restante deixando.
+4207.0,1,"Isso e isso vale você fez um exercício bem bacana que é pensando na gente né? Mas se você pensar uma indústria, talvez ela tenha capacidade de fazer isso, né? Ó essa linha de produção aqui eu deixo ela ligada na bateria, né? O dia que eu Eu que der problema na minha bateria. Eu tô eu tô com um problema nessa linha de produção aqui, mas eu posso fazer isso, né? O cara Pode Ele Pode armazenar né fazer um estoque né? Daí quando ele para para manutenção etc não tem problema isso seria uma segunda possibilidade, tá?"
+4252.0,2,"E aí seria uma coisa assim, você tem vai chamamos que seja esses 30% aí que acaba entrando com imposto eu avaliação do custo-benefício, né? O quanto vale a pena investir numa bateria em relação a pagar esse imposto Às vezes pode ser que vale a pena."
+4270.0,1,Dependendo da solução da situação pode valer a pena?
+4274.0,3,"Acho que até por isso que assim A princípio eu acho que funciona muito melhor a gente focar sempre no [UNRESOLVED_ENTITY] be cara. Vai ter uma necessidade maior assim de energia tipo. Beleza, por mais que os caras instalam depois um sistema Off Grid em algum. Para um Beats deles, né? Tipo numa fazenda qualquer outra coisa do tipo vai ser um lugar que precisa de mais energia do que um uso comum de casa."
+4306.0,2,"A minha preocupação só é assim agora no começo do mercado, eu acho difícil conseguir alguma coisa forte. Justamente porque a gente tem é difícil conseguir negócio com bichos bi agora convite be é porque"
+4322.0,1,isso
+4326.0,2,as baterias a gente ainda tem pouca bateria disponível no mercado. Então você vai ter uma bateria x uma bateria y + z dificilmente grandes empresas vão querer trabalhar fora de um padrão eles normalmente preferem trabalhar com uma coisa já muito bem estruturada e eu acho que isso para mercados grandes assim é mais difícil enquanto não tem tanta oferta de bateria assim.
+4351.0,3,"Ah, não, mas você concorda que o mesmo cara que tem um uso que não é um Beat si Urbano, por exemplo."
+4359.0,2,"Sim, sim, isso eu concordo."
+4361.0,1,Não é [UNRESOLVED_ENTITY] se mais parruda não é maior.
+4370.0,3,"o cara não vai usar para É quase ele vai usar para um Business na verdade. Ah não assim não dá para a gente chegar numa [PARTNER_C] da vida na própria [PARTNER_A] tipo fazendo teste, entendeu? Você tem que chegar com um negócio que funciona."
+4396.0,2,Mas eu digo assim para empresa.
+4397.0,4,"Eu tenho um contato de uma eu tenho não né? Uma amiga minha tem um contato da eles têm uma fazenda [UNRESOLVED_ENTITY]. Acho que é que eu não sei eles são maiores produtores de não sei o quê do [LOCATION_A], eu posso pegar o telefone dela."
+4412.0,3,vários produtores e não sei o quê do [LOCATION_A]
+4415.0,4,"É [UNRESOLVED_ENTITY], inclusive eles também para ver se eles utilizam esse tipo de coisa."
+4422.0,2,É muito isso de tentar encontrar. Quais são os negócios que estariam interessados em aplicar isso? A gente pode tentar tanto com Grandes Negócios quanto pequenos mas eu enxergo mais potencial dos pequenos
+4431.0,4,Eu acho.
+4433.0,2,para começar.
+4433.0,4,"Ah eu já acho que pode ser que a gente consiga grande também, não sei"
+4439.0,3,"Eu acho que a gente foi que a gente conversou algumas vezes lá conseguindo que é o que tá difícil na verdade, né? A gente conseguiu fazer um MVP num cenário controlado fica mais fácil chegar nas empresas maiores falando assim, ó, a gente já tá fazendo assim já funciona. Tipo enquanto a gente ainda não consegui testar no ambiente controlado que talvez seja o mais difícil, né o ambiente das grandes empresas ali volume é muito maior então talvez seja menos difícil conseguir fazer esse tipo de coisa, mas é fazer isso nos dar argumento para falar esse mercado existe e é interessante."
+4477.0,3,"Mas enquanto isso assim as grandes empresas, elas não vão olhar assim, por causa não vão querer ver se dá certo ou não que é o que a gente tá fazendo, né, então?"
+4487.0,2,"Legal, é sobre isso aqui de entender, o que pode ser atrativo. O que que a gente consegue usar isso para o nosso negócio agora, tipo? Tem algum motivo para a gente abrir tem alguma coisa que faz sentido a gente dá sequência ou é só?"
+4500.0,1,"Eu pensei na tudo que a Tainá falou lá voltar para ele perguntar qual é o benefício do imposto que ele que ele percebeu, eu não entendi direito. Você podia me explicar né."
+4513.0,3,Pode ser um e-mail.
+4518.0,4,"agora eu tô falando a gente pode voltar com ele por e-mail sim para perguntar, mas eu pesquisei aqui e eu vi que tem incentivo fiscal redução de impostos evitar curso de"
+4531.0,3,de imóveis
+4534.0,4,Só tem que ler melhor.
+4537.0,3,Mandar um e-mail para o cara lá.
+4542.0,4,"Então, talvez seja alguma coisa dessa aqui, mas aí a gente bate as informações."
+4552.0,1,"Porque eu acho assim. Que o entendimento de que a bateria ela dá mais confiabilidade, né? Isso não não precisamos fazer nada, né, É lógico a hora que vocês acharem um cliente que precisa de mais confiabilidade que ele não pode ficar sem luz. Ele é um potencial para uma bateria, né? Ou um cliente que possa pegar uma parte da produção dele e por uma bateria que pode que daí ele vai ele"
+4584.0,3,o saco do [UNRESOLVED_ENTITY]
+4587.0,1,"vai ter uma desvantagem que é ele que vai ter que fazer a manutenção no sistema, né? Se faltar ele é o problema tá na rede. Você telefona lá e fica enchendo o saco para o pessoal ir lá, né? Então são oportunidades, mas eu acho que isso não dá nenhuma tudo assim. Acho que é só um entendimento mesmo, né? Que ajuda vocês na hora de investigar na hora que vocês acharem o cliente deles esse esse aprendizado já é suficiente, né?"
+4618.0,2,"Entendi, é se tivesse alguma tido seria mais para questão de aprendizado mesmo. A gente abre vocês que mandam nesse sentido aí faz sentido. Não precisa."
+4627.0,1,"Era só se tivesse assim, vamos investigar aonde tem um pessoal tem necessidade de maior confiabilidade, pô, mas isso é um custo tão alto"
+4637.0,2,Entendi.
+4639.0,1,de fazer uma investigação dessa.
+4642.0,2,Mas não trabalho para quem trabalha
+4642.0,1,O resultado que eu não sei nem se vocês vão conseguir sabe?
+4645.0,3,Não da gente.
+4647.0,2,com figurinha para a gente que tá atrás deles.
+4650.0,1,"Não para vocês, pois é."
+4652.0,3,Muito porque assim a gente imagina
+4652.0,2,ok
+4653.0,3,que a gente vai dar garantia do produto. Mas a gente não vai dar garantia do serviço que o cara presta.
+4658.0,1,assim
+4659.0,3,"Então, tipo, [PARTNER_F] que a gente no MVP a gente meio que costura umas partes ali para conseguir fazer a venda meio aqui direta. Mas tipo depois é a ideia é que o cara compra a bateria de um fornecedor e ele seja o responsável, cara que comprou né de dar manutenção no serviço dele ou sei lá atender o"
+4681.0,1,Vocês vão conectar um com o outro e
+4682.0,3,"cara lá que comprou dele, entendeu?"
+4687.0,1,"os dois têm que se garantir, né?"
+4689.0,3,"Sim, então."
+4691.0,1,Vocês vão mediando.
+4693.0,3,"Tipo que a gente vai garantir a política do produto, né se Tipo pô, o cara foi fez uma instalação lá usando uma bateria que ele comprou e deu problema lá porque caiu um raio e queimou a gente não tem nada a ver com isso."
+4707.0,1,legal
+4708.0,3,"O cara o cara que comprou a bateria e usou ela no pacote do serviço dele que era responsável, mas vai acontecer tipo. Ah, se ele comprou uma bateria de um lugar que os caras não garantia de sei lá um ano. Se der pau lá, eles trocam aí beleza? A gente intermedia com o fornecedor, mas o cliente lá o cliente final lá ele vai ligar para o cara da empresa que instalou, né? Não vai ligar para a gente."
+4732.0,3,"Tipo. Pode ser que depois a gente veja que certas regiões ou certas coisas tem uma tendência ou um risco maior, mas isso é mais fácil a gente né? Deus queira a gente olhar para os dados que a gente tem que a gente né a partir da plataforma e tomar a decisão do que a gente corre atrás. Minha opinião corre atrás agora pelo menos."
+4757.0,1,Vamos escolher outra. Ainda temos cinco minutos aí.
+4767.0,3,"Esse lance de bateria nova, hein, gente? A gente escreveu e a gente não é"
+4773.0,1,certo
+4775.0,3,81.
+4779.0,2,possibilidade de compra de baterias novas na plataforma
+4786.0,3,"Porque assim quando a gente vai começa pelo menos que a gente pensa semana passada, quando a gente vai falar de bateria nova, a gente tá falando deixa de falar de circularidade certo? Então a gente falaria só de eletrificação, se a gente for pensar naquele na tese do fundo ali. Só que para falar de eletrificação a gente teria que falar de bateria de elétrico ou híbrido tipo não pode vender bateria da [UNRESOLVED_ENTITY], entendeu? Mas que ela possa ser usada num jeito veicular, mas acho que teria que ter a produção teria que vir a partir de uma empresa que trabalha com isso."
+4827.0,4,A gente oferece as baterias.
+4829.0,3,É que a gente pensou né na 81 eu fiquei pensando depois eu falei meu não cheguei a lugar nenhum tipo. Como vender bateria nova? E ainda continua na tese.
+4845.0,1,Eu acho que se tá anotado ali é bom
+4846.0,2,Às vezes a bateria nova podia ser só um plus na plataforma. Mas o foco continua sendo as outras.
+4851.0,4,Eu não sei se a gente deve olhar para isso agora viu?
+4855.0,3,"Não, mas às vezes o que a gente não vai olhar para isso, agora acho que vale a reflexão assim a gente vai tem que olhar para esse momento."
+4862.0,4,Então também não sei.
+4865.0,1,a gente discutir. Acho que vale a discussão aí.
+4869.0,3,Você tem o tese do fundo?
+4871.0,1,"Não não é você tá certo, eu acho que não precisa nem olhar ali essa possibilidade ela existe. Sem dúvida nenhuma, né? Na hora que vocês tiverem, imagine vocês tem um mercado enorme de gente procurando bateria e ele não acha né? Porque é enorme a chance de ter alguém que não ache dentro da plataforma a bateria que precisa né? Mas aí você tem o mercado, né na mão o mercado é teu, né? Ele tá ele tá junto com você, você pode um produto novo, né? Eu eu tô achando que você tem razão, sabe isso não dá para a gente encaixar no pit agora."
+4912.0,4,É também acho.
+4913.0,1,"Não dá para encaixar no Pit, né? Então eu não sei para mim, esse é um problema resolvido, desde que a gente entendo, né? Não dá para fazer isso por enquanto. Essa é a solução, né?"
+4928.0,3,"É tipo um plus agora, a gente"
+4928.0,1,E daí você põe ela tá resolvida essa tudo não. Pode ser?
+4932.0,4,sim
+4934.0,2,Sim de acordo.
+4936.0,1,"Esse é como se fosse assim poder é um produto novo numa plataforma consolidada, né?"
+4945.0,3,também vende bateria nova etc.
+4948.0,1,mas não
+4948.0,3,Mas aí você já tem um mercado tipo esse já.
+4950.0,1,"Isso não é com certeza não, vai ocorrer isso nesses seis meses."
+4955.0,3,"Não nem os meus três anos, eu acho."
+4958.0,1,"E talvez nem no próximo ano, se vocês conseguirem mais um ano aí de pista de decolagem, sabe? Mas pode ser que no final do primeiro ano a volta é ter essa possibilidade, mas eu acho eu colocaria isso como resolvido, sabe?"
+4973.0,2,"acho que isso seria meio equivalente, se você tivesse um aplicativo do Uber que depois de um tempo vamos lá e coloca um táxi disponível, também, vamos colocar aqui também,"
+4980.0,3,Pior que ele fez.
+4981.0,4,Até me ajudou esses dias a fazer.
+4984.0,2,mas
+4985.0,3,Eles até consegue acreditar.
+4989.0,1,"[UNRESOLVED_ENTITY] você tirou dali pois lá não resolvido, né."
+4992.0,3,[UNRESOLVED_ENTITY] eu eu risquei já coloquei lá
+4993.0,2,O [PERSON_B] colocou.
+4995.0,3,embaixo.
+4995.0,1,Já colocou lá embaixo. Então tá
+4996.0,3,Já para deixar Clean.
+4996.0,1,"bom. Só para ter certeza que a gente não perde, né?"
+5000.0,2,"Não sumiu, né?"
+5001.0,3,Não tá tudo lá fui dando uma limpadinha enquanto a gente fala.
+5004.0,1,"Então tá ótimo. Então mais uma resolvida, né? Acho que agora talvez"
+5008.0,2,mais uma
+5009.0,1,não dê mais para a gente
+5010.0,3,é
+5010.0,1,começarmos uma né? 129
+5014.0,3,E estamos com [UNRESOLVED_ENTITY] tá com tanta
+5016.0,2,cinco minutinhos
+5017.0,3,já tá com todo mundo no ninho.
+5021.0,2,Então aí é algumas mantiveram outras a gente atualizou colocou mais coisas certo e entrou mais essas duas novas aqui essas três novas. Que entrar em contato com o [UNRESOLVED_ENTITY] para ver a questão do recolhimento das Baterias da [PARTNER_A] e a questão do fluxo de baterias tanto da Elétrica quanto da bioid?
+5041.0,1,2 2 investigação que
+5043.0,2,duas investigações exatamente
+5045.0,3,"E vamos ver se essa 69 aqui ó, vê lá ele 169 aqui ela na saída, ela"
+5051.0,2,Sai hoje.
+5053.0,3,vai sair vamos ver o que que é o resultado que vai sair disso então.
+5056.0,1,"Não mas vocês vão ficar aqui meio quietinho, né?"
+5060.0,3,"Ah não assim então o resultado eu digo o resultado prático mesmo, se a gente vai ter contato ou não, vamos"
+5065.0,1,e isso
+5065.0,3,ver se que vira isso.
+5067.0,1,É isso é legal também super bacana.
+5070.0,3,Vídeo tá pronto hoje a gente já bota isso aí para rodar e reza.
+5075.0,1,"É e aproveitar a tua expertise, aí você tem essa experiência que você falou fora, né?"
+5080.0,3,Aí eu fiz até curso desses negócio aí para não ficar dependendo de terceiros. Os caras cobram uma fortuna para
+5093.0,1,"Então isso no mundo de hoje tem um valor enorme. Porque a demanda em cima desse tipo de atividade tá só crescendo, né?"
+5103.0,3,fazer um trabalho Nossa lamentável.
+5106.0,1,"E muitas vezes o pessoal tem mais intenção de fazer do que tem garantia de que faz, né? É o mercado ainda. Mas é que todo mundo que todo o mercado que cresce muito é assim, sabe ele como ele cresce muito tem espaço para todo mundo. Pois ruim para os péssimo e Eles continuam sobrevivendo porque eles perdem um contrato, mas ganham outros sabe?"
+5132.0,3,É e eles não cobram barato então assim mesmo que eles percam dois
+5135.0,1,Mas é um mercado quando cresce aí
+5136.0,3,três. Eles vão ganhar outros dois três avisado.
+5143.0,1,"que nem deve estar crescendo aí pelo menos três dígito, tem espaço para todo mundo."
+5152.0,4,é
+5152.0,1,"Mas legal Aproveita e isso é um aprendizado que serve para todos sabe então. Vão aprendendo [UNRESOLVED_ENTITY] aprende [UNRESOLVED_ENTITY] aprende daí vai e o mundo futuro é esse não tem outro marketing. Pessoal, vamos então para nota da reunião."
+5172.0,3,"Eu ia dar uma nota baixa, mas a gente conseguiu nos atrasos aqui se organizar para a gente terminar no tempo, então vamos dar um oi."
+5180.0,4,É eu também.
+5180.0,3,Não fosse pelo tempo que né? Acabei me atrasando. Tainá também Seria
+5183.0,4,Eu também me atrasei.
+5185.0,3,"uma boa reunião, mas a gente conseguiu correr atrás ali se organizar então."
+5189.0,4,Mas mais pelo nosso lado do que ao contrário apesar dos atrasos e tal a gente conseguiu passar o que a gente fez na semana passada os detalhes a gente conseguiu resolver algumas coisas que estavam que a gente estava em dúvida que gerou discussão e
+5205.0,3,A gente não se interrompeu tanto.
+5210.0,4,"abri bastante tudo né, gente? A gente abriu bastante coisa para essa semana que praticamente é uma das"
+5215.0,3,É a última.
+5216.0,4,últimas.
+5217.0,3,Foi cancelada.
+5221.0,4,"E eu também vou entrar em eu entrar de férias, mas aí. Na semana que eu vou entrar de qualquer jeito, mas aí na semana que"
+5228.0,3,A sua as suas férias foram canceladas.
+5231.0,4,"vem eu vou entrar mesmo assim na reunião, eu acho que não."
+5234.0,3,de dezembro
+5238.0,4,Tá viajando também.
+5240.0,3,É na outra estaremos eu e Gil então.
+5244.0,2,Ok bom isso aí eu vou dar 10 aí para reunião para mim foi?
+5249.0,3,Nossa 10 assim
+5254.0,4,A gente atrasou se vai dar 10.
+5256.0,2,mas a gente fechou dentro do
+5259.0,1,"Eu acho que assim vocês foram muito bem eu fico contente de olhar tudo as novas aí tudo de peso, viu?"
+5267.0,3,[UNRESOLVED_ENTITY] Essa semana tá de gente assim.
+5271.0,1,legal
+5273.0,4,Para nós.
+5275.0,2,Beleza então gente.
+5277.0,1,Boa semana aí para vocês então.
+5278.0,3,"Obrigado, obrigado. Você também nos"
+5279.0,2,igualmente
+5280.0,4,"Obrigada, tchau."
+5281.0,3,vemos segunda.
+5282.0,1,Segundo um abraço.
+5283.0,3,tchau

@@ -1,0 +1,658 @@
+onset_seconds,speaker_id,text
+0.0,1,Fala [PERSON_A]. Bom dia tudo bom?
+1.0,2,Bom dia tudo ótimo e você?
+3.0,1,Tudo certo.
+6.0,2,Tudo ótimo também.
+8.0,1,Tudo bem e por aí?
+14.0,2,O Mateus disse que tava. O micro dele atualizando. E atrasar um pouco.
+26.0,1,Ah é o [UNRESOLVED_ENTITY] talvez porque o Mateus
+28.0,2,"É o Tiago, né? O [UNRESOLVED_ENTITY]."
+29.0,1,É eu sei que o Mateus ele tá viajando e não vai conseguir entrar.
+36.0,2,Foi para onde?
+41.0,1,"Vou te falar que eu não me lembro agora, mas acho que era a praia alguma coisa assim. Mas ele falou que ia não ia viajar exatamente no ano novo e eu viajar depois. Que para falar a verdade nós três essa semana ainda tão de férias, né? Mas eu e o [UNRESOLVED_ENTITY]. Já viajamos que tinha que viajar estamos aqui de volta, então dá para voltar a trabalhar já."
+71.0,2,fazer pelo menos a reunião para retomar aí
+73.0,1,"É e a gente tem até algumas outras reuniões essa semana então. Vai voltar mais devagar, talvez essa semana, mas vai voltar já."
+86.0,2,Já tá entrando.
+89.0,1,"Ficar de casa, né que nem hoje estou de casa, não fui para o escritório, mas estamos voltando."
+95.0,3,Bom dia pessoal perdão pelo meu
+95.0,2,E foi bem de festas.
+97.0,1,E aí Thiago?
+98.0,3,"atraso, cheguei meio aqui em cima aqui no [UNRESOLVED_ENTITY]. E aí"
+102.0,1,Acho que foi presencial da hora.
+104.0,3,"Cara, eu vim porque eu tenho eu tenho consulta hoje com ortopedista. Depois da nossa reunião e aqui no prédio."
+112.0,1,Ah sim
+112.0,3,"Fazer nem sentido ficar de casa, eu tenho outras tarefas para fazer. Já aproveita que estou aqui. E a gente focar né? Só que é o"
+124.0,1,melhor
+124.0,3,"[UNRESOLVED_ENTITY], né? Cheguei cinco para as 9 aqui no escritório quando eu ligo o computador atualização do Windows muitos dias desligado."
+132.0,1,lógico
+134.0,3,"Aí hoje a gente vai perder nota por minha culpa. Tranquilo, infelizmente esse ano eu não consegui tá com os meus pais porque minha mãe tem uma loja em [UNRESOLVED_ENTITY] isso tudo funcionário. [UNRESOLVED_ENTITY] não tinha ninguém experiente para deixar a loja lá e eu já tinha outros planos por aqui. Mas foi tranquilo, foi bom."
+163.0,2,Então vamos começar.
+165.0,3,Vamos lá pessoal.
+166.0,2,Você puxa aí Thiago?
+167.0,1,Bem agitado.
+168.0,3,"[PARTNER_F] é cinco minutinhos, né? A gente tem o Segue eu posso começar acho que a gente parou, mas não parou, né? A gente fez algumas coisas nesse período mesmo de festas. Aí cabe a gente conseguiu fazer. Reunião com o pessoal da do grau a gente conseguiu fazer reunião com o pessoal da artesp que a artes ela é uma porque entendi na explicação deles Inicial é como é uma autarquia do [UNRESOLVED_ENTITY] de [LOCATION_B] e a função eles são a secretaria reguladora das concessões. Então eles que regulam quando uma concessionária assume uma rodovia."
+213.0,3,"Tivemos uma reunião bem boa com eles. Acho que o principal altitude aí dessa desse papo com eles, foi? Muito contato que a gente está fazendo com concessionárias com outras empresas são contatos que eles nos indicariam eles falaram que a gente tá no caminho muito bom com contatos muito. quentes E acho que isso né? E Já começamos o ano aí com bastante tarefa, a gente tem quando falar dos tios e das [UNRESOLVED_ENTITY] aí né? A gente vai falar disso, mas nós temos aí."
+251.0,3,É uma uma MVP já agendado no pátio da [CLIENT_A] a gente já tem inclusive preciso fazer folow up hoje na [UNRESOLVED_ENTITY]. Que eles vão dar devolutiva da data para fazer na TV Gazeta e temos também as conversas já com os prédios mapeados com o pessoal da administradora do condomínio do [UNRESOLVED_ENTITY] aqui do lado que eles querem que a gente faça o mesmo que a gente fez lá em outros dois prédios deles um [UNRESOLVED_ENTITY] e um comercial aqui em [LOCATION_C].
+282.0,2,legal
+283.0,3,"E aí tem os pessoal da vento e semana que vem temos nosso encontro com vocês semana que vem temos a [UNRESOLVED_ENTITY], né? O ano como vai começar a mil por hora."
+298.0,1,"Bom teve a reunião com a raiz em também que a gente fez segunda-feira da semana do Natal. Foi bem legal assim a gente ouviu bastante dele a gente. Assim a gente viu o tamanho da empresa que é a raiz, né também preocupados com essa parte de eletrificação. Eles têm eles já fazem algo até parecido com a Evolution lá que a gente já conversou de conversar com frotista de tentar adaptar as rotas dos caminhões ali para tentar trocar o caminhão."
+341.0,1,"Seja elétrico seja o caminhão a diesel a gás pelo elétrico, mas já aproveitando a infraestrutura que eles têm têm colocado aí nas rodovias e tudo mais os caras são bem fortes. Quanto é isso e Se mostraram bem abertos para para a gente tentar construir alguma coisa junto tentar modelar alguma coisa para Para fazer um teste que seja mais no âmbito de estradas aí. Essa coisa de pesados que a gente tem pensado de tentar começar a desenhar, né para o nosso lado."
+378.0,1,"Então acho que foi uma reunião bem bem positiva nesse sentido nada assim de baixo pronto igual a [CLIENT_A], né? Que a gente já consegue fazer mas ele Se mostraram bem parceiro para tentar fazer algum tipo de MVP junto com eles já focado no pesado, né?"
+398.0,2,Tudo isso são questões aí tem que trabalhar rápido.
+402.0,1,É exato e quanto aquela ideia lá do
+404.0,2,Legal. O duro é que agora vocês.
+408.0,1,"MVP com a própria [PARTNER_A], né com"
+408.0,3,sim
+411.0,1,"[UNRESOLVED_ENTITY] eu conversei com o meu amigo lá da lotes ele. Tentou falar com o responsável pela operação lá do caminhão elétrico para a gente tentar fazer aquele MVP. E só que ele tá de férias, parece que a logística inteira tá de férias até o final do mês. Inclusive o [UNRESOLVED_ENTITY] que a gente tentou marcar uma reunião também tudo final do mês, então vai ser lá para o dia."
+436.0,3,2
+438.0,1,"Lá para frente exato, então, inclusive o cara da operação do elétrico. Então assim infelizmente vai ter que a gente vai ter que deixar um pouquinho mais para frente essa questão, mas pelo menos temos um apoio ali da lotes, eu acho que vai dar certo. Tô com pensamento positivo."
+463.0,2,"A partir da reunião Nossa e semana que vem nós estamos na metade, né? Só tem metade, né?"
+470.0,1,felizmente
+473.0,2,"Aí você vai depois da metade fazer o contato com a scanner, né? Mas vai sobrar um pouquinho tempo para fazer"
+480.0,1,É mas assim a gente pelo que a gente
+481.0,2,qualquer.
+484.0,1,"tem conversado vai ser meio que um a mais essa questão dos pesados, né? Vamos focar bem nos leve."
+490.0,2,E vocês estão fazendo as ficha de aprendizado ali com essas [UNRESOLVED_ENTITY]
+495.0,1,"Sim, sim."
+496.0,3,"A gente fez uma bem robusta, né do"
+497.0,2,"quanto de aprendizado que tem aí, né? É impressionante."
+500.0,1,estamos
+502.0,2,e
+503.0,3,MVP.
+504.0,2,"Eu melhoro indicador segundo [UNRESOLVED_ENTITY] agora indicador de aprendizado sabe então. Não se preocupem tanto que não tá fechando não tá fazendo a conexão, né? Mas o aprendizado vale né e vale muito viu?"
+520.0,1,"Sim, é a própria questão de pesados a gente com os números. A gente já aprendeu que não vai ser uma coisa para agora. então a gente não tá se preocupando tanto a gente quer tentar deixar no Hold map mostrar que a gente Tem esse caminho é e tem esse"
+536.0,2,Vocês têm que mostrar um
+538.0,1,caminho.
+538.0,3,"Algo mais sólido, né Zé não colocação uma promessa no vade [UNRESOLVED_ENTITY] colocar."
+542.0,1,exato to isso e a gente
+546.0,2,"aprendizado do problema, né? Vamos dizer assim exato, qual é o problema e o aprendizado de que vocês têm que ter uma solução ser testada, né para raízes com as concessionárias é um teste válido, não é ainda [UNRESOLVED_ENTITY] ninguém vai montar uma estação alguma coisa assim. Agora imediatamente, né? Talvez uma ou outra até saia. Mas é difícil"
+569.0,3,Mas talvez a gente esteja sendo
+570.0,2,"montar nesse prazo, né?"
+572.0,3,"antecipando lá nas eixos. A gente consegue falar melhor, mas eu acho que com a volta do [UNRESOLVED_ENTITY] aí com a conversa que a gente tem com a lotes essa semana. Eu acho que a gente consegue deixar muito bem mapeado aí para fazer o teste com [UNRESOLVED_ENTITY]. e eu acho que isso aí é uma [UNRESOLVED_ENTITY] no bolo para Para Ventures ver o nosso plano para pesado e eu vou falar uma coisa acho que lotes. Eu acho que o próprio Board da [PARTNER_A] vão brilhar os olhinhos. Com esse teste."
+605.0,1,é tá bem [PARTNER_F] para gente que
+608.0,2,"Conversamos com [UNRESOLVED_ENTITY], né? O problema era esse nós podemos fazer isso, né?"
+618.0,1,"No plano de três anos não dá para atender pesados, mas não por culpa nossa, né? Acho que é isso que a gente é [PARTNER_F] que a gente já consegue operacionalizar a exemplo do Eloi, se [UNRESOLVED_ENTITY] quiser, mas o mercado."
+629.0,2,"O que vocês têm em três anos é fazer algum MVP? Sempre vai ser assim, né fazer sei lá."
+633.0,1,É o mercado tá engatinhando muito ainda isso.
+637.0,2,É uma estação a primeira estação vamos estar junto entre [UNRESOLVED_ENTITY] e [UNRESOLVED_ENTITY] e tal como?
+645.0,3,"Se a lotes quiser fazer mil. A gente faz né, Zé?"
+650.0,2,Sim a hora que o pessoal começar
+651.0,1,Exatamente exatamente
+658.0,2,"nós vamos estar junto a nossa solução vai servir para eles, né."
+663.0,3,"Bom é score [UNRESOLVED_ENTITY]. Fiz uma revisãozinha dele na última semana do ano. Né, considerando aí até a data de hoje, vocês querem passar ou vocês acham que é mais pertinente a gente discutir na semana que vem presencial."
+683.0,1,"É eu acho que bom desde a última reunião as coisas não evoluíram muito né? Porque a gente fez umas reuniões, mas daí entrou Ano Novo e tal, a gente não trabalhou muito nisso, eu acho que a gente podia pular."
+696.0,2,Você preencheu aí? De alguma questão na tua cabeça que
+701.0,3,na verdade na verdade a única a
+704.0,2,o céu.
+706.0,3,"única [PERSON_A] que Vocês observarem aqui a única que andou meio pontinho no final do ano agora? Foi customer porque a gente porque eu consegui colocar no papel. Eu documentei todos tudo que a gente tem mapeado, qual que é o status, você já tá agendado tá [UNRESOLVED_ENTITY]? Sinal verde tá para agendar a gente tá ali com sinalzinho amarelo, mas já tá mapeado já tem as reuniões só falta bater a data. Então tá tudo documentado, a gente tem os novos mvps para fazer em diferentes estabelecimento. Acho que a gente andou."
+737.0,3,esse meio pontinho em E na parte de funding se eu abrir até o kth aqui porque que eu enxerguei que a gente andou. Meio pontinho também eu vou abrir o café aqui. No kth na parte de [UNRESOLVED_ENTITY] é para o 4 ele fala da gente ter um plano. Já para verificar o potencial comercial das ideias no lugar quase hipóteses verificações ao papá. Identificar o relevante eu acho que aqui a gente identificou e a gente tem documentado.
+789.0,3,"porque a gente falou com [UNRESOLVED_ENTITY] a gente falou com o grupo Patria lá com a Com a Evolution, a gente tem tudo documentado, então a gente Já identificou esses potenciais relevantes investidores, eu acho que a gente andou um dos pontinhos ali para chegar no quatro. Então acho que a gente tá no três e meio eu acho que agora para a gente chegar no quatro, cabe uma discussão nas lixos seja hoje seja com vocês dois presencial na semana que vem para a gente ver se o que a gente tem na mão já é um quatro, você precisa de algo a mais."
+832.0,2,"Certo, é isso mesmo. Vamos fazer bem na semana que vem, né? Então tá joia."
+838.0,3,Mas basicamente isso aí na rockerview que a próxima. Próximo item 0 item um aí que é seu né que eu estudo de viabilidade de todas as possibilidades estão Track.
+855.0,1,O [UNRESOLVED_ENTITY] me mandou esses contatos da
+856.0,3,"Boa a minha parte aqui que é os testes de tração e comercialização também é um Tracker. Fiz um gráfico de farol com tudo que a gente tem. Já de MVP agendado MVP encaminhado mdp que a gente tá tentando quais seriam como que a gente cobraria em cada lugar, então tá bem um track tá praticamente pronto aí para semana que vem. A gente fechar Esse item três aqui que é do Mateus também, tá bem um track a gente só tem um ponto que a gente vai tentar solucionar."
+897.0,3,"Talvez segunda-feira que vem quer tentar uns carregadores emprestados para mim ver. Com o veículo da tecnogera. Então já tem um parceiro que é Trovão que aqui em [LOCATION_C] a gente vai ver se a gente consegue local ou pegar emprestado com eles também um track também. E aqui o item 4 também tá tá bem? Encaminhado tá no meu nome aqui, mas basicamente é as fichas base na ficha de aprendizagem que a gente fez MVP a gente voltou o Zé tá fazendo as contas."
+933.0,3,Tá tudo documentado também um track sem muita. surpresa Aí antes da tudo costuma. [UNRESOLVED_ENTITY] a gente falou bem no segue
+951.0,2,"Já começou a planilha, depois a"
+952.0,3,"você [UNRESOLVED_ENTITY] bem desafiador aí não sei se o Zé quer falar alguma coisa. Boa. Bora para tio dos eu vou abrir uma colinha aqui comigo que o Mateus não pode participar hoje, mas ele deixou todas as anotações. dele é bom aqui na Na 28. A gente tá faltando ter um retorno da [UNRESOLVED_ENTITY]. E da vibra e da IMC. As outras que já estão gripadas a gente já teve uma reunião."
+1002.0,3,"Ou tá agendada a reunião? Então tá não fechou ainda, mas tá bem um trike são muitas opções, né? Realizar o plano de marketing a gente já tinha combinado na última reunião que deixaríamos isso para a próxima rock. Aqui em segundo plano organizar o scorecard com as metas de segunda rock feito, deixa eu colocar a data de hoje. [UNRESOLVED_ENTITY] com a [UNRESOLVED_ENTITY] ainda não tem data. Tá em aberto com a Uber, eu mandei mensagem no [UNRESOLVED_ENTITY] para oito contatos entre gerentes executivos da Uber ainda não tive."
+1057.0,3,"resposta a [UNRESOLVED_ENTITY] da 99 pediu para retornar para ela a partir do dia 13 para a gente marcar reunião, então tá no track, mas também não Não tá fechado."
+1073.0,1,[UNRESOLVED_ENTITY] para fazer aquela estratégia
+1075.0,3,fazendo
+1076.0,1,"lá, aí eu mando também."
+1083.0,3,"42 né? Que é essa questão do entender o dia a dia de operação dos veículos deve da [PARTNER_A], né? Esse aqui a gente já tem uma reunião marcada. Né um pessoal de teste que eles são os donos da operação desse veículo. A reunião vai acontecer essa semana. Já tá marcado aqui tem 42. Mas vamos esperar fazer a reunião para fechar né? Com a 43 mesma coisa a gente tem uma reunião com a [UNRESOLVED_ENTITY]."
+1116.0,3,"Então tá um track não vamos fechar porque vamos esperar a reunião para entender esse itinerário. O item 44 aquele que eu falei de conseguir os carregadores. Então, eu já falei com o pessoal da Trovão, eles ficaram de me devolver se eles vão estar lá presencialmente. Na segunda ou na terça para que a gente deu um pulinho lá é muito perto daqui e Nem vale a pena fazer online."
+1140.0,3,Mas também então track isso que era do Mateus. Então são PIB e frotas.
+1147.0,1,"Cara, deixa aberto, eu peguei dados do PIB tava jogando tudo no mesmo lugar, mas não terminei."
+1156.0,2,[UNRESOLVED_ENTITY] pode dar uma olhadinha na planilha aí para ver se eu consigo ajudar alguma coisa.
+1160.0,3,"Bom, talvez nazistas agora a gente pode."
+1163.0,2,Pode dar uma olhadinha.
+1165.0,1,já vou caçar ela aqui que
+1165.0,3,beleza
+1168.0,1,Ela deve tá uma bagunça.
+1169.0,3,Vamos dar uma olhadinha nas eixos então e para empreendesse.
+1173.0,2,No fundo no fundo vocês eles devem
+1183.0,3,Que essas primeiras a gente combinou de tudo que não era meio que Oriente.
+1191.0,1,"Bom só para comentar né? Acho que a gente acabou nem falando teve umas reuniões que a gente teve com o LC. Foi bem bom né, Thiago que acabou aquela questão do que o Enem evoluiu bastante eles retornaram com a gente. A gente revisou tudo. Aí a gente mandou de novo, eles estão revisando pela segunda vez, né? Depois das correções acho que"
+1214.0,3,"Mas o [UNRESOLVED_ENTITY] deu uma devolutiva, o [UNRESOLVED_ENTITY] enviou a gente ele enviou"
+1216.0,1,Você é louco.
+1218.0,3,"agora durante esse período que a gente está de folga perto do ano novo. É uma das coisas que eu quero fazer hoje aqui presencial é dar uma olhadinha nos comentários dele. Mas realmente Zé, acho que a gente a gente a gente achou que não tinha muito que mudar mas depois da reunião [PERSON_A] a [UNRESOLVED_ENTITY] deu uma e a [UNRESOLVED_ENTITY] também, né? É uma gerente que responde para [UNRESOLVED_ENTITY]."
+1242.0,3,"Deram uma aula para gente ali de porque a gente fica muito com aquela mentalidade de engenheiro e também baseado no que a gente está desenvolvendo aqui com vocês e eles têm eles têm a cabeça que eles conhecem a malícia da Imprensa, né? E eles falam cara, eles vão c**** ela falou você não deu né? Vocês vão meio que c**** projeto, eles vão tentar fazer vocês falarem alguma coisa."
+1269.0,3,"Que dê clique falando em nome da [PARTNER_A], então vocês são muito bem. Treinados preparados. Porque vão falar foram jogar no seguro não falar nada que comprometa. Então cara A aula foi. Sensacional o que o Enem tá no nível bem a gente começou com o nível de que o Enem que eu acho que não dá nem para comparar com que a gente tem hoje, né?"
+1290.0,1,Com certeza
+1290.0,3,Tá bem completo. Eles colocaram a parte que fala do programa do inovation Factor lá. E eu acho que caminhou bem e é mais. Talvez seja mais uma coisa aí para a gente colocar fazer mais uma ficha de aprendizagem. porque
+1313.0,2,"ter repassado como se fosse escrever a reportagem para eles, né?"
+1318.0,3,"Basicamente isso, quais seriam as perguntas chave e o que que a gente"
+1322.0,2,Que você tem que ter ali e a loja se
+1322.0,3,tá treinando a responder?
+1324.0,1,"É não, acho que vai ser até Pelo"
+1330.0,2,"vocês puderem já escrever como se fosse repórter da Quatro Rodas ajuda eles lá, mas eu não sei até que ponto eles vão gostar de ver tudo prontinho, sabe? Já que eles estão construindo dá uma conversada com eles, o que que vocês podem ajudar, né? Porque hoje põe no chat GPT ali você escreve uma reportagem."
+1354.0,1,que eu entendi da conversa com eles são uma coisa mais para a gente mesmo ficar lendo e relento e
+1359.0,3,O pessoal deixar aproveitar que falar
+1361.0,1,"gravando na cabeça para não só na hora da quatro rodas, mas quando qualquer pessoa perguntar a gente"
+1369.0,2,sim
+1369.0,1,"não falar besteira, né falar o que é de verdade. Inclusive a gente tinha escrito coisas que na nossa cabeça era uma coisa e falar não é bem assim vai mais para esse lado, tá?"
+1381.0,2,Que bom então.
+1385.0,3,"eu acho que tem um aqui que a gente pode considerar como fechado porque só falta a gente já tem o acordo aperto de mãos para fazer ele só tá levantando, quando que vão ter os eventos de maior movimento lá no teatro e no cinema da Gazeta. Que é esse aqui é oportunidade de realizar um MVP com a maxipark já tá fechado, né? Só estamos batendo martelo com ele da data. Acho que"
+1407.0,1,É só falta a data.
+1410.0,2,mas aí
+1414.0,1,Eu vou esperar a data.
+1416.0,2,"Eu acho que assim para mim a oportunidade tá identificada, né? Tá aberto. Você tem razão fechar. Mas agora ela tem a segunda parte, né? Que"
+1427.0,3,executar
+1427.0,2,"Executar né ela né, daí não sei se vale a notar aí ou então vocês estão com alguma coisa quer dizer o MVP da Gazeta, né? Então vocês tem que viabilizar agora, tem que estar no radar aí né? Planejar ele quando é que vai você já estão fazendo também, né?"
+1443.0,3,já
+1445.0,2,"então, não sei se encerra esse Abre uma outra ou dar uma"
+1451.0,3,"Talvez colocar um comentário aqui, ó."
+1455.0,2,data marcada
+1457.0,3,acordado Definir data.
+1463.0,2,"Já foi acertado tá na fase definir a data e daí vai o planejamento. Acho que vale não para não dado a importância, né? Eu acho que esse é um dos mais importantes aí para vocês agora, né?"
+1480.0,3,beleza
+1483.0,2,"Tem que tentar fechar o máximo de MVP possível, né? E o aprendizado deles para demonstrar lá para vento."
+1496.0,3,"Eu tinha visto outra aqui que a gente podia discutir sobre Ah, esse aqui ó 52, como montar. os primeiros mvps com venda sem quebrar regras da [PARTNER_A] e validando o negócio eu acho que agora com [UNRESOLVED_ENTITY] e como você tendo colocado o pagamento lá, Zé, acho que isso tá resolvido, né? A gente tinha isso de não conseguir cobrar no site e agora a gente consegue. Então a gente consegue dar o found lá também."
+1535.0,1,É dá conta do wix mesmo lá.
+1535.0,2,Pela própria conta do [UNRESOLVED_ENTITY] lá uma coisa assim.
+1540.0,3,é aí o cara faz o pagamento a gente
+1542.0,2,Ele entra lá e de lá vocês transferem para onde vocês quiserem.
+1551.0,3,usa tem um comando que ele [UNRESOLVED_ENTITY]
+1552.0,1,cancela
+1554.0,3,"aí não cobra do cartão do cara, então o cara pagou mostrou a intenção de pagar, só que a gente foi lá de"
+1560.0,2,Certo e não e também dá para mais para frente até cobrar e pagar o cara da [UNRESOLVED_ENTITY] pagar o cara da infraestrutura é dá para começar a
+1567.0,1,E for o caso sim.
+1570.0,2,"pagar os aluguéis, né? Que vocês precisam fazer um fluxo que funciona, né? Então acho que com isso daí vocês resolveram o problema de receber, né? Porque vai receber nessa conta é lógico que se fosse legalmente legalmente lá tinha que ter um CNPJ tinha que ter não sei o que lá, mas vocês só vão fazer um repasse, né?"
+1593.0,1,"E para falar a verdade, acho que nenhum repasse a gente vai acabar fazendo se a gente tiver que pagar alguém a gente usa a verba e paga."
+1600.0,3,É porque pelo que a gente entendeu vai cair na se a gente cobrar e usar esse dinheiro no projeto. Vai estar seguindo a regra do programa.
+1609.0,2,"Eu digo assim, não poderia ser"
+1611.0,1,Mas tudo bem.
+1612.0,2,"assim, vamos dizer você faz um acordo lá com o cara que vai pôr a vai levar o carregador, né? O que entrar de dinheiro aqui é teu entrou dinheiro Repassa para ele, né?"
+1625.0,1,"É que o nosso medo ele tá em ele passar por nós em algum momento, né?"
+1630.0,3,Algum momento esse dinheiro passar pela nossa mão pelo que a gente deu.
+1633.0,1,assim fica
+1634.0,2,"É por isso que eu tava pensando ali não essa conta não é uma conta assim que fica meio na nuvem, vamos dizer você. Começa pela mão de vocês, mas é uma uma conta meio."
+1648.0,1,"É como eu que abri fica no meu CPF, né?"
+1651.0,2,"Tem você mas pense assim, se você"
+1652.0,1,"Então de alguma forma tem eu lá no meio, entendeu?"
+1661.0,2,"tiver repassando 100% do que que o pessoal pode te acusar. Né, não sobrou nenhum real, né?"
+1668.0,1,O ponto é esse?
+1668.0,2,"Tudo que entra é tudo que sai, né? Tudo que entra é tudo que sai ou refanda, né? Então se alguém disser. Não isso não é legalmente correto. Ele sabe não é? Mas também não estamos fazendo nada errado, né? Então estamos desviando dinheiro não então fazendo nada, então dá para pensar numa coisinha assim. É lógico, se você perguntar na scanner, eles vão dizer não, né?"
+1697.0,3,"Faz sentido. Faz sentido é com certeza, se a gente pedir lá para comprar eles vão falar que não pode."
+1704.0,2,"Não pode que vocês teria que ser uma conta no CNPJ de vocês que vocês terem que abrir uma conta, né? O [UNRESOLVED_ENTITY] também não acho que que é um problema abrir CNPJ hoje, não é tão demorado e não custa caro, sabe? Mas dentro do compliance da [PARTNER_A], né? Porque tem que ser um Tem que ter lá tem que estar dito que é 100% da [PARTNER_A], né? Esse CNPJ daí é um problema."
+1740.0,2,Eu tava vendo esse um aqui que nós não fechamos não dá para fechar também.
+1748.0,1,serviço muito caro
+1750.0,2,"Ela é caro, mas ele tem seus ganhos,"
+1751.0,1,"Acho que sim, a gente já percebeu bom até então, né. E tem seu lugar, né?"
+1759.0,2,"né? Ele tem o seu valor, né? Então ele não é aquilo é caro é caro comparativamente com alguma coisa que não entrega a mesma coisa, né? Se você comparar com Uma estacionária que o cara tem que entrar na fila é diferente, né? Eu achei esse daí limpa a área aí já."
+1782.0,3,Já fechei deixa eu colocar aqui.
+1784.0,2,Vai a data.
+1785.0,3,Outro que eu tava pensando que a gente pode conviver. Até porque a gente tem visto aí já alguns.
+1792.0,2,"E até Pode pôr ali na ali onde você arriscou, né? Conviver com ele, né? A solução é qual é a solução, né?"
+1800.0,1,Não é baratear.
+1805.0,3,"Outro que eu acho que dá para conviver até porque o próprio a própria jornada aqui, tem sido um aprendizado e a gente tá até vendo outros cursos para fazer fora essa questão da falta experiência com elétrico. Eu não tô vendo isso como um problema mais, eu acho que a gente tem que conversar com Muita gente que tem mais experiência com elétrico do que a gente e não tem sido um GAP. Você tem sentido que tem sido um GAP."
+1831.0,1,"Não não assim a gente acho que o maior. Sim falta de experiência até uma coisa que a gente já conversou de se a gente nunca dirigiu e sentiu na pele o problema do carregamento, mas através. De conversa com quem já sentiu isso, a gente está aprendendo. Então também não acho."
+1851.0,3,É quanto mais estiver descartado para a gente ganhar tempo assim.
+1856.0,2,Põe conviver também tá no mesmo
+1857.0,1,Assim para mim.
+1860.0,2,nível. Já deu para ver assim a
+1863.0,1,e ao longo do
+1865.0,2,"preocupação na época, lembra que isso daí é um dos primeiros, né? Era nós começando o problema a definição de questões, né? Ou é uma questão que nós temos que pensar né? Mas agora a gente já viu que Estamos pensando estamos resolvendo não tem nada que seja um problema adicional. Que não dê para conviver. Dando uma olhadinha numa dessa a gente já limpa isso daí para reunião dela é bom deixar só as questões."
+1909.0,2,Dá uma limpada aí que eu vou recomeçando dá uma olhadinha. Porque já foram duas né?
+1915.0,3,"Essa questão da regulação dos carregadores. Eu também vejo como algo a conviver porque os carregadores que a gente usou no MVP. Isso que a gente está viabilizando para os próximos mvps, já são carregadores que hoje. Eles são regulamentados."
+1931.0,2,De alguma maneira.
+1932.0,3,"Pode usar o que eu acho que a gente não pode ficar esperando a boa vontade a evolução da coisa que é pública que é [UNRESOLVED_ENTITY] que está fora do nosso controle, a gente vai caminhando com Conforme a lei."
+1948.0,2,Lembra aquele exemplo do Uber?
+1948.0,3,Se não tem lugar nenhum falando que
+1952.0,2,Seu Uber fosse o seguinte. Cada
+1954.0,1,"É isso que o Mateus tem feito assim,"
+1958.0,2,cidade que a gente foi primeiro a gente acerta uma lei na com os vereadores e depois no executivo a gente acerta o licenciamento. Imagine
+1970.0,3,não pode você faz se alguém vem falar que não pode aí.
+1972.0,2,Você arruma você arruma então.
+1976.0,3,Também acho
+1978.0,2,"O do bombeiro também que tá com dificuldade na verdade, talvez até um tiro no pé lá no bombeiro, já imaginou-se por causa de vocês eles fazem uma legislação."
+1988.0,3,"E aí eles vai lá e mata, nossa ideia no momento que já tá ficando difícil pilotar, né? A gente já tá na metade do programa. Não seria [UNRESOLVED_ENTITY] por culpa do bombeiro. A gente tem que votar agora, né? Mas concordo essa do bombeiro também, acho que é conviver. Eu acho que a gente pode manter os tios lá porque o Mateus não tá perdendo tempo. Ele tá tentando a reunião lá, mas não é."
+2018.0,2,"É mas também a gente pode discutir lance. Para de perder tempo com isso não tá dando nada mesmo. Tem que ver dentro das prioridades de vocês, né? Não custa nada também de vez em quando dá um toque lá ver como é que tá tal, né? Mas"
+2034.0,1,"não é uma prioridade, mas de vez em"
+2037.0,3,Esse da plugin a gente conseguiu já
+2037.0,1,"quando é mas sei lá uma vez por semana, ele liga lá e vê pô. E aí dá para fazer a reunião ou não?"
+2044.0,2,Vamos conversar.
+2045.0,1,Né é meio que isso.
+2054.0,3,a gente tem um acordo com ele para quatro rodas.
+2057.0,2,Qual que é o número?
+2059.0,1,Que é o 26?
+2059.0,3,"A gente fez o primeiro MVP com ele. A gente tem um acordo com ele para fazer quatro rodas e para fazer esta parte. É o tipo do 26, vamos ver como é"
+2075.0,2,E agora você solucionaram assim para fazer o MVP?
+2086.0,3,que ele tá. Tá fechado.
+2088.0,1,"Que é o modelo de contrato. Inclusive, eu acho que eles nem mandaram de volta mandaram eu não lembro."
+2096.0,3,Eu acho que ele só mandaram o do MVP do domar. Você fez um comodato?
+2106.0,1,"É sim, a gente manda de novo o outro mas mas assim. Acho que tá bem."
+2109.0,3,Mas o modelo e ele já assinaram o primeiro.
+2113.0,1,"Tá ok, né. É que tem data daquele lá, né? Teria que refazer com a outra data, né? Mas"
+2121.0,3,"É, mas como a gente já tem um modelo pronto, talvez vale a pena fazer um por."
+2126.0,2,um poder
+2127.0,3,"porque vai sei lá, cara, a gente não sabe como são as coisas, mas vamos supor o cara vai lá e Vai fazer MVP com a gente aí fora do horário que ele tá fazendo com a gente dá uma m**** no carro, ele tenta responsabilizar a gente por exemplo. Talvez seja bom fazer um"
+2143.0,1,"Pô, eu lembrei aqui agora que a"
+2146.0,3,por. Mas assim tá fechado essa né?
+2149.0,2,Deixar essa parte.
+2161.0,1,"gente tinha comentado com o [UNRESOLVED_ENTITY] da plugin e chamar ele para reunião com a quatro rodas, mas a gente não não fez. Será que ele consegue participar no na quarta-feira?"
+2174.0,3,"Manda aí vai um caminho invite para ele, se ele não puder paciência, porque para gente assim usa o que o que eu penso, né? Para a gente ele tá lá ou ele não tá lá a gente que vai definir que a [UNRESOLVED_ENTITY] como vai acontecer na verdade a [UNRESOLVED_ENTITY] vai explicar e a gente vai se adequar."
+2192.0,1,É sim
+2192.0,3,"Ia é essa então, o [UNRESOLVED_ENTITY] não tem muito capital é mas para ele tá a par."
+2197.0,1,"Ei para se sentir junto também, né"
+2197.0,3,Entre a reunião sentir parte porque
+2199.0,1,a gente
+2201.0,3,ele não está pendurado.
+2203.0,2,"É o valor, né? Quer dizer vocês já dá em um ganho na [UNRESOLVED_ENTITY], né? Porque ele aumentava visibilidade dele já é um ganho para ele, né?"
+2211.0,3,"Mas se ele for inteligente ele consegue dar uma trabalhada lá na sua prima no pessoal lá, por exemplo"
+2216.0,2,e
+2219.0,3,a repórter a [UNRESOLVED_ENTITY] ela que faz todas as matérias de elétrico. Se ele for esperto ele vende o peixe para fazer uma matéria do Core Business dele o courbismo dele
+2228.0,1,Vou encaminhar agora.
+2229.0,3,"eletrificar caminhão a diesel. Cara, ele tem um produto legal."
+2233.0,2,não é um parágrafo que sai lá segundo Fulano da
+2239.0,3,login
+2240.0,2,[UNRESOLVED_ENTITY] ou já está no Road map ou já estão pensando em outros pesados Pronto já apareceu o nome plugin na reportagem. Poxa para ele.
+2250.0,3,Ele ganha os pontos dele.
+2254.0,2,"É um ganho enorme daí vocês estão mais no sentido de parceria, né? Porque parceria tem que ter um ganha né?"
+2264.0,3,Eu acho que vale a pena encaminhar assim.
+2267.0,2,"Vamos lá, eu vou te apresentar você"
+2268.0,3,E aí a gente pede para o quem fala com ele.
+2272.0,2,"vai conhecer o pessoal da Quatro Rodas, tá? Vamos conversar com eles. Vamos ver."
+2276.0,3,"E aí a gente manda uma mensagem para o Matheus, quando ele terminar a viagem dele lá para ele. Mandar um WhatsApp para o [UNRESOLVED_ENTITY] para ele dar uma olhadinha nesse convite."
+2287.0,2,"Legal, quer anotar uma? Não precisa."
+2291.0,1,Não precisa vou encaminhar que eu só tô caçando o e-mail dele.
+2296.0,2,tá
+2296.0,1,E eu já mando.
+2321.0,2,"Nesse que você chamando gráfico de radar que você está fazendo está colocando todos esses possibilidades de MVP, né?"
+2328.0,3,"Sim todas as oportunidades e tem um que tá macro lá, né também porque é inovate já falou de dois condomínios, só que eles gerenciam mais então a gente está trabalhando, eles para que eles abram o máximo possível, porque a tecnologia era que tá para devolver a cotação para a gente. Já era para ter devolvido, né? A gente espera até essa semana a resposta deles, a nossa ideia é alugar a partir de final de Janeiro aí o equipamento da tecnologia."
+2361.0,3,E ficar com ele praticamente fevereiro e março ou parte de [UNRESOLVED_ENTITY]. E aí quanto mais MVP de como o veículo estaria 100% do tempo disponível para a gente.
+2375.0,2,Ele tem que estar carregando.
+2375.0,3,Conseguiu no máximo no máximo de MVP é possível?
+2378.0,2,"Sim, é não e deixa é legal, né? Já põe todas essas localizações no mapa aí. Né, a gente vai virar nós já"
+2386.0,3,Nada para colocar colocar no [PARTNER_E] Maps e tirar.
+2390.0,2,"estamos aqui com esse esse já deu certo, esse tá entrando esse nós estamos falando esse não sei o que lá, né? Daí já dá uma visão assim de que olha já tem um espalhado e a gente acha que talvez um ainda vai dar problema, talvez a gente precisa ser de dois carregadores. O que é ótimo, né? Então acho que já dá uma uma planejada bem legal e é um slide para mostrar no ventre."
+2415.0,3,"Sim, sim."
+2417.0,2,"Porque você nessa fase vocês o pessoal tem até uma gozação do próprio [UNRESOLVED_ENTITY], né? Que eles assim que tem Startup que faz só um teatro do sucesso, né? O teatro daí você vai apertar lá, né? Acho que eu já falei para vocês um exemplo assim, né? O cara conseguiu 500 clientes no primeiro mês mil no segundo e dois mil no terceiro, né? Deve ser assim. Nossa, o cara tá bombando, né? Tá ou não e os primeiros clientes ainda são clientes ou já foram embora, né? Porque seus primeiros clientes você já perdeu 90% não adiantou nada de ter feito 2 mil no outro sabe? Então é meio que um teatro do [UNRESOLVED_ENTITY], mas veja o teatro do sucesso é necessário. Eu não sou tão radical assim, né? Então vocês fazerem uma um mapa com todas as conversas que vocês fizeram é um teatro de sucesso alguns, vocês sabem que não vão virar, né? Mas você não vai dizer isso, né? Você não vai dizer. Olha já fechei com todos esses né? Você vai dizer a verdade, né? A verdade é estou conversando com todos esses aqui que Estão interessados em fazer."
+2494.0,2,"Essa então não é um teatro de sucesso é mentiroso, né que você vai esconder que você perdeu 500 clientes não eu perdi 500. Agora eu vou dizer mas estou fazendo isso para manter né? Então dos Mil eu não quero perder 90%, só vou perder 50 né? Então você você conta a verdade, mas tem que fazer um teatro sabe? Porque pelo que eu tô vendo aqui, você já tem uns seis sete locais prontos, né encaminhados."
+2530.0,1,"Isso que é o da inovate lá, né?"
+2531.0,2,"Pelo menos isso, né?"
+2532.0,3,"Olha a gente já fez em um a gente já fez em um a gente tem mais um dois três. Quatro bem encaminhados bem encaminhados quatro que são esses dois da inovate. Mais o TV Gazeta, mas o brascão paymol com o domo home que a gente"
+2551.0,2,mas
+2552.0,3,já fez dá um total de cinco.
+2555.0,2,"Cinco bem encaminhado, mas tem o dono você falou que tem mais um ou dois, né? no radar"
+2562.0,3,A gente pretende também falar como
+2563.0,2,Cadê o sete?
+2570.0,3,"lindinei. Na nossa próxima conversa com ele, porque ele é síndico do prédio dele, né com a chorada para ele."
+2578.0,1,para ver se
+2580.0,2,"Mas veja é 8 para todos os efeitos é oito contatos que você já tem. Agora quantos que estão virado? Ah não cinco já tá garantido, pô, não é um número bom oito é bom e o 5 é bom."
+2594.0,3,Sim para o tempo de projeto.
+2594.0,2,"Então em todos Tá bom, já vamos fazendo lá porque quanto mais vocês souberem nesse mapa, né? Você já vão ter ideia derrota de infraestrutura necessária de tempo é um monte de coisa, já vai a cabeça de vocês vai para um outro nível. só um pouquinho que tão batendo aqui, eu vou ter que"
+2617.0,3,tranquilo
+2619.0,1,beleza
+2628.0,2,Só um pouquinho.
+2666.0,2,Pronto. Desculpa aí a interrupção.
+2671.0,3,"Imagina, imagina. Eu queria falar de outra isso aqui que eu acho que dá para a gente. Como eu posso falar meio que descartar? Não sei o que vocês acham dessa 49 o estacionamento do dono não cooperou em ceder o contato e aí a gente fez a pesquisa. A gente colocou lá Oscar codes com o nosso número de celular nos veículos e saindo bem honesto. A gente achou que não funcionou muito bem apenas um proprietário entrou em contato."
+2711.0,3,Perguntas muito lacônica os cara demorava semanas para responder eu tentei fazer um CRM na raça com ele lá. De vez em quando perguntando mas o cara sumiu jamais de um mês. Eu diria que como pegando até o gancho que a gente estava falando se a gente já tem 7 8 lugares aí que a gente tá falando com cinco que já tá com a mão apertada. Eu pararia por enquanto eu preferia gastar energia em outros potenciais clientes do que aqui a gente tá vendo que tá sendo uma p*** dificuldade.
+2750.0,3,E eu acho que a gente a energia que a gente gasta aqui a gente pode gastar em outros lugares que a gente vai fazer acontecer.
+2757.0,2,Naquela ideia na imagem de você ter uma [UNRESOLVED_ENTITY]. Esse é um ponto vermelho. Foi um contato que ainda não virou que tá difícil de virar. Mas é um contato.
+2769.0,3,Mas aí vocês concordam a gente?
+2771.0,2,"Até porque daqui a pouquinho né? Se ele olha o sucesso do outro dono se ele olha o sucesso dos outros 5, né? A conversa com ele é diferente na sequência, sabe? Então ele é um contato, mas no momento ele é frio é quase que assim né? Lembra que a gente sempre fala do ele é docker, né? Se você tem que grudar não ele adota definitivamente esse grupo, né de gerente ali não é? Ele é ele sabe que eles conservadores que querem a solução pronta então quando tiver uma solução pronta aí você volta para eles, mas ele já é um radar de vocês. Ele já tá ali sabe? Mas tá vermelhinho tá suspenso, né?"
+2813.0,3,Vocês acham que a gente pode conviver com essa.
+2816.0,2,"Isso deixa lá põe no [UNRESOLVED_ENTITY], já fizemos isso, né? Não deu certo ainda de tá com dificuldade de viabilizar, mas eu tenho que gastar energia nos outros que são os Mas não quer dizer que a hora que você estiver em uma solução, ele não entra sabe?"
+2837.0,3,"Eu tô colocando. Então ela assim, ô, Zé quem que foi que falou para a gente e até a gente teve aquela ideia legal. Ah, às vezes o cara leva um ano para conseguir viabilizar infra colocar rede o cara para a gente poderia ele entregar de imediatos fazer o serviço foi as [UNRESOLVED_ENTITY]."
+2854.0,1,foi a [UNRESOLVED_ENTITY] foi a
+2857.0,3,"Com [UNRESOLVED_ENTITY], eu acho que esse é um ponto legal da gente já discutir com [PERSON_A], porque eu acho que pode ser uma boa isso para semana que vem. A raiz em o [PERSON_A] porque eles falaram para a gente a raiz, ela é p**** hoje a gente um dado que surpreendeu a gente ele só a quarta maior empresa do [LOCATION_A] hoje em número de funcionários."
+2876.0,1,em faturamento
+2877.0,3,"São os [UNRESOLVED_ENTITY], na verdade eles operam a raiz em Reda Shell, né?"
+2882.0,2,Não.
+2882.0,3,"e é isso e que que acontece cara,"
+2886.0,1,a raiz
+2886.0,2,"Eu conheci a raiz e quando a gente fez um programa de aceleração na [UNRESOLVED_ENTITY] a [UNRESOLVED_ENTITY] tinha parceria com a raiz e também porque ela é muito do Agro, né? Oito meses eu posso fazer um"
+2901.0,3,"eles falaram que eles pegam os locais, às vezes meio mesmos aí para [UNRESOLVED_ENTITY] né para colocar os eletropostos, né? E às vezes eles querem entregar rápido, só que assim até ter Grid de energia elétrica lá demanda. Oferta suficiente né para aquela demanda tal porque às vezes o projeto pode bater um ano. Só que para eles falaram cara para gente pode ser pode ser uma discussão. [PARTNER_A] e [UNRESOLVED_ENTITY] de repente uma parceria para peguei um local que me contratar um eletroposto que no meu cronograma eu vou levar 8 meses 6 meses um ano para entregar, só que o carro já quer começar a carregar carro elétrico no dia seguinte que assinar o contrato."
+2954.0,3,Contrata vocês para entregar o
+2956.0,2,itinerário?
+2957.0,3,móvel. Enquanto a gente prepara para o fixo.
+2959.0,1,É que essa parte de essa parte.
+2961.0,3,"E eu acho que isso pode estar no nosso modelo de negócio, porque pode ser algo também. Sei lá, que seja um fluxo de caixa, mas garantido ali você tem um lugar que por seis meses por oito meses vai ser um faturamento diário."
+2975.0,2,"Não e vocês tem que estar aberto assim O que que vocês podem ajudar depois né, veja vocês vão estar montando um sistema de faturamento cobrança de cartão etc. Serve para ele operar depois sabe? Porque essa parte do sistema né? Então vocês têm que estar aberto assim, qual que é o problema de da [UNRESOLVED_ENTITY] e como que vocês podem resolver, né? Então, o problema é tudo ele tem que cobrar ele tem que distribuir o dinheiro para o parceiro, ele tem que fazer um monte de coisa, né pagar energia do parceiro. Se não há entrada de luz não é dele, né? Então ele tem um monte de problema, vocês têm que estar como investigadores, sabe e vê se vocês."
+3021.0,2,E vocês não aprovam a solução é ele sabe.
+3025.0,1,"Essa parte de pagamento para falar a verdade, eles estão até bem na nossa frente, porque eles compraram."
+3030.0,3,Era mais fácil.
+3033.0,1,"Eles praticamente compraram A Tupi quase toda né? Tipo, eles compraram a operação física da Tupi. Que a Tupi tinha apostas de carregamento e o software aí eles compraram todos os postos deles aí agora eles compraram 40% do software"
+3053.0,3,Hoje eles ganham dinheiro até em
+3053.0,1,"da empresa de software, Tupi. Então imagina que até daqui um tempo compre tudo assim, né para eles terem um sistema completo."
+3063.0,3,"eletropostos que não são deles, né? Porque o"
+3066.0,1,Não é exato os caras foram abocanhando assim e pegaram tudo.
+3073.0,3,"Eu acho que de todo mundo que a gente conversou beleza elétrica é grande aí é grande, mas eu acho que sem meio que sem dúvida a [UNRESOLVED_ENTITY] a liderança."
+3084.0,1,Equipamento de manutenção né?
+3087.0,3,"hoje hoje eles são um exemplo você seguido hoje, eles são benchmark o espelho aí para Para infra de carregamento eles O que"
+3096.0,2,Como é que vocês se encaixam uma
+3096.0,3,é legal para a gente?
+3100.0,2,"maneira é dizer assim, ó, seis meses ou em reforma né? O cara vai ter que fazer uma reforma volte meia, né? Tem que fazer uma reforma."
+3109.0,3,"E para ele é interessante para o cliente, né serviços."
+3111.0,2,"Manutenção né? Então tem oportunidades. É isso que vocês têm que ver assim o problema e linkar como problema perguntar para ele se a solução é Ele vai dizer que interessa a ficha de aprendizado e tal, o cara tá interessado. Já deu para fazer o contrato não não tenho nenhuma eu não tenho nenhum ainda na mãos os carregadores."
+3135.0,3,"O que é bem legal também é que não tá no roadmap deles o móvel, né? Eles acharam bem legal, porque algo que eles não tinham uma piada."
+3145.0,2,É o móvel. Sem dúvida nenhuma. É o gancho de vocês é o principal [UNRESOLVED_ENTITY]. Mas vocês tem que ver se você o Que Vocês conseguem a mais.
+3157.0,1,sim
+3160.0,3,"Na verdade é óbvio, né? Que a gente já tá antecipando a discussão que seria para o futuro, mas acho que é o farol adequado. se um cara desse chega para gente e fala que preciso de vocês para Para operar aqui por oito meses que é o meu cronograma de obra. Eu acho que a gente não precisa nem com o nosso carro lá, a gente tem um parceiro que colocam 10 lá que a tecnologia era."
+3184.0,2,"Isso e daí, vocês vão ganhar lá?"
+3186.0,3,Deixo mais.
+3187.0,2,"Um vocês vão ganhar uma taxa, né? Mas veja a ideia da plataforma é sempre ganhar uma taxa, mas estão conectando né? Quem tem o carregador com quem tá carregando vocês com"
+3197.0,3,É informatização do
+3197.0,2,uma parte.
+3199.0,3,intermediário.
+3200.0,2,"É vocês têm essa possibilidade de fazer a intermediação? E isso é um ganho enorme porque imagine a tecnologia era lá preocupada em produzir e instalar [UNRESOLVED_ENTITY] agora tem que se preocupar com mais um negócio de vender achar cliente, pô, se vocês estão resolvendo esse problema."
+3223.0,3,"[UNRESOLVED_ENTITY], eles são uma potência aí para gerador diesel, né? O 10 pelo que a gente entendeu, eles também estão aprendendo ainda para quem vender como vender, né? Então se a gente falar a gente sabe de colocar seu [UNRESOLVED_ENTITY] a gente vira o intermediário interessante para ele."
+3242.0,2,sim
+3243.0,3,Falar a gente tem o contato o contato é nosso a gente quer ter o produto. Para é ganhar.
+3252.0,2,Querem anotar uma iso para isso assim.
+3254.0,3,"Eu gostaria acho legal. concorda, Zé"
+3259.0,1,criar um
+3263.0,3,"De mercado, né? mercado colocar como desenhar modelo de negócio para instalação provisória isso seria ele falou que o que"
+3306.0,2,"É uma instalação. Provisória é que a raiz quer dizer ela assim enquanto a infraestrutura não está pronta, né? Estrutura fixa é para atender na falta da estrutura durante a falta da estrutura física?"
+3323.0,3,"Isso o que ele falou que não vai mudar que é o business deles é colocar o fixo, só que ele falou cara. É a gente é muito interessante. Se a gente de repente puder falar para o cliente que tá querendo colocar eletroposto ali, parceiro, fala ó. Você assinou o contrato comigo na semana seguinte já tá operando mesmo sem ter infra ainda."
+3343.0,2,"E eu até não sei se não é mais barato um carro andando do que uma infraestrutura física, sabe? Não sei não é tão mais caro, sabe? Porque toda a estrutura fixa podia ser móvel sabe se você pensar né. Ela só precisa ter um ponto ali que o cara chega carrega, se ele precisar ele fica parado lá um tempão, né"
+3366.0,3,O cara o cara não tem infralar.
+3368.0,2,"pessoal que que mora em motorhome, né? O cara mora muito longe, ele chega até tirar a roda do outro, ele tá morando ali dentro, né? Até a mesma coisa pode tirar os pneu aquela lá Nunca mexemos nela mesmo."
+3387.0,3,"É de uma certa forma mesmo sendo deixando [UNRESOLVED_ENTITY] lá se o local realmente não tiver nenhuma infraestrutura é aquilo que a gente está até discutindo três semanas atrás aí de certa forma, por exemplo. Vamos supor que seja da tecnologia era ele teria que a operação de lá buscar esse 10. Deixar um carregado buscar esse para"
+3408.0,1,sim
+3410.0,3,"carregar, né? Toda vez que zerar."
+3414.0,1,"É o problema é esse, né? Normalmente onde tem."
+3418.0,2,"Vou arrumar uma tomada para carregar no local, né?"
+3422.0,1,"É mas aí ia ter que carregar na lenta para descarregar na rápida, a gente fez umas conta aqui não fecha a conta."
+3429.0,3,Só se o cara tivesse provisório.
+3432.0,1,Um rápido mas aí não faz sentido também.
+3435.0,3,"Também se o cara tivesse provisório lá umas placas fotovoltaicas, mas"
+3438.0,1,É também.
+3438.0,3,teria que ser placa para cacete também.
+3440.0,2,"Ele faz sentido assim, porque vamos dizer assim é uma curva de demanda, né? Se você for atender a demanda pelo pico, né? De que é quando você tem o fixo, né? O fixo é o pico, né? O cara conectou. Então me conectou 10 caminhões ali 10 carros, ele vai em uma hora, né? Ele ele precisa atender aquela demanda mas [UNRESOLVED_ENTITY] dizer que é aquele negócio é só na hora de pico, né? Que ele tem né? E no resto do dia ele tá Ocioso, né? Então a bateria ela tem esse sentido, né? Você de noite tá carregando ela."
+3481.0,1,"Sim, não é que o que a gente."
+3482.0,2,"Para atender uma demanda um pico de demanda, né? Hora que chega lá é os cara lá, né, então?"
+3488.0,1,quer conta que a gente fez é que a
+3490.0,2,"Isso ele é um banco de baterias,"
+3490.0,1,gente
+3491.0,2,"né? Um banco de carregadores, né?"
+3494.0,1,"a conta que a gente fez aqui assim, por exemplo se a gente Carregar 12 horas na lenta à noite a gente vai conseguir carregar um carro só de dia sabe a mais vai digamos assim, então fizeram a bateria ele vai ficar a noite toda carregando ele vai carregar um carro só em tipo uma hora então por isso que tem que"
+3513.0,2,E já vai.
+3515.0,1,trocar mesmo a bateria não fecha muito mas e aí o segundo problema é onde não tem infraestrutura. É onde é onde é mais longe que é mais difícil da gente chegar e ficar trocando. Sei lá que seja três uma
+3530.0,2,esse que daí
+3532.0,1,"vez a cada três dias, então é também a gente começou a falar cara."
+3535.0,2,Isso seria só se a solução tivesse
+3536.0,3,É por isso.
+3538.0,2,difundido em tudo que é cantinho.
+3541.0,1,Entendeu?
+3541.0,3,"Por isso que essa é uma enche legal de discutir porque desenhar esse modelo de negócio. A ideia é boa, mas desenhar esse modelo de negócio aí é um desafio."
+3551.0,2,"É a oportunidade, né? É uma"
+3553.0,3,A oportunidade é excelente.
+3555.0,2,"A oportunidades e isso daí que é enquanto não tem infraestrutura o móvel que é a mesma coisa que vocês estão fazendo nos condomínio, né? A qual se você"
+3563.0,1,"Não aí faz sentido, né? Porque aí"
+3563.0,2,"pensar né o condomínio atual. Por que que eles estão interessados para não ter que fazer a obra da infraestrutura, né?"
+3572.0,1,"tá dentro da cidade. A gente já tem um acesso um pouco mais fácil, né? O problema é esse. Preciso andar 200 km para chegar no lugar. Aí quando tiver voltando já descarregou lá, eu vou ter que ir lá de novo, né, então."
+3586.0,2,"Não daí você tem que ter uma Frota, né? Você você chega lá."
+3588.0,1,é
+3594.0,2,"Deixa um em movimento o outro de volta, deixa um movimento outro."
+3597.0,1,"Eu preciso ter uma capilaridade maior, né? Que nem a gente falou na questão dos pesados que a o caso da [PARTNER_A] é carregar em [UNRESOLVED_ENTITY], né? O carro. Cara, não faz sentido eu saí de [LOCATION_B] junto com o caminhão da [PARTNER_A] elétrico nós dois irmos lá, aí eu carrego ele lá e eu não consigo voltar também sabe, tipo não faz sentido agora faz sentido se eu tiver um [UNRESOLVED_ENTITY] lá em [UNRESOLVED_ENTITY], por exemplo que é ali do lado aí beleza? Aí aí mudou completamente o cenário então se eu tivesse a"
+3630.0,2,"Mas é isso, esse é o cenário que"
+3631.0,1,capilaridade vai funcionar.
+3634.0,2,[UNRESOLVED_ENTITY] tem que vender vai ser assim.
+3637.0,1,Ah sim
+3638.0,2,"Vai ser assim agora, quanto tempo vai ser assim boa, pode ser que demore 5 10 anos, né?"
+3645.0,1,"Sim, é nos grandes centros, eu acho que assim é bem possível, né, [UNRESOLVED_ENTITY], [UNRESOLVED_ENTITY], [UNRESOLVED_ENTITY]."
+3652.0,2,"É nos grandes centros e nas rodovias com bastante movimento que é [LOCATION_B] é o melhor exemplo do [LOCATION_A], né? Você tem rodovias aí que Poxa"
+3661.0,1,o papo que a gente teve tanto
+3662.0,2,"pode fazer lá que vai dar certo, né? Porque é muita gente, né? Que pensar, talvez tem que ter uns"
+3672.0,1,"É o povo que a gente teve tanto quartésico, quanto com a própria raiz? mostraram bastante assim as rodovias, eles falaram comentaram sobre as rodovias que tem mais trânsito de [UNRESOLVED_ENTITY] e inclusive de veículos pesados, né que eles atendem até a conversa que a gente teve com o Graal também teve deu um [UNRESOLVED_ENTITY] isso tem umas rodovias que tem uns tem mais demanda por isso e que daria para ter um Hub ali pertinho para atender mais prontamente, né?"
+3708.0,2,"três quatro na região, né?"
+3710.0,1,é
+3710.0,2,Uns carregando outros entregando.
+3713.0,1,exato
+3716.0,2,"Mas dá eu acho que essa é Exu, não é só a raiz, né? Falta da infraestrutura do pesado mas ótima oportunidade. Demos uma passada e o que vocês foram olhando mais que eu aí né? Mas conhecem."
+3740.0,3,"Para a gente dar uma olhada nesse aqui também, por exemplo definir assertivamente o sangue O Som do mercado de combustível. Você chegou até fez."
+3751.0,1,"Sim, é então, porque para falar a verdade na última reunião, a gente conversou bastante sobre isso, né sobre quem tinha o [UNRESOLVED_ENTITY]. E aí a gente quer fazer o sonho o som e assim para mim ficou ficou [PARTNER_F] da última reunião. Que na verdade eu tava com pensamento pouco errado, mas o tan na verdade é o mercado inteiro de combustível."
+3773.0,2,isso
+3773.0,1,Aí o [UNRESOLVED_ENTITY] é a parcela elétrico que o elétrico vai abocanhar dessa desse mercado e o som seria o nosso caso
+3779.0,2,isso
+3782.0,1,"aqui [UNRESOLVED_ENTITY], [LOCATION_B] algo do tipo, né? Pelo menos por enquanto."
+3785.0,2,"É o que eu sempre ponho assim, o que vocês está no radar nos próximos quatro anos."
+3791.0,1,É então seria um pouquinho mais.
+3792.0,2,"Não não é não, não é o que não é o que está no radar hoje, né? Que hoje no radar tá os condomínios aí da região do [UNRESOLVED_ENTITY], né? Esse é o"
+3802.0,1,"Sim, é aí seria vai [LOCATION_A], talvez."
+3804.0,2,"público alvo imediato, né? O som não é público-alvo, não é o público que eu vou pegar agora no início estratégia de marcha. Minha estratégia de marketing normalmente. Ela é para um ano sabe? Ninguém faz margem lá uma estratégia de marketing detalhada para muito mais do que um ano. Né, então num ano você pode dizer bem assim é o [UNRESOLVED_ENTITY], né? Agora aqui é só é quatro anos pelo menos né? Para pensar assim."
+3838.0,1,"a parcela de elétrico Ou [UNRESOLVED_ENTITY] [LOCATION_B] e [UNRESOLVED_ENTITY] algo do tipo, né?"
+3845.0,2,"Isso algo desse tipo, acho que seria algo de vocês darem uma refletida nesse sentido eu acho que [LOCATION_A] em"
+3851.0,1,"Não, beleza."
+3853.0,2,quatro anos é muito né? Porque o
+3856.0,1,sim
+3856.0,2,"[LOCATION_A] tá lá no som, o [LOCATION_A] está"
+3858.0,1,é
+3861.0,2,no santo.
+3862.0,1,Não são assim é que assim bom só
+3862.0,2,nossa
+3865.0,1,[LOCATION_B] já é 30% da frota então.
+3869.0,2,[LOCATION_B]
+3874.0,1,Interior pega mais um pouquinho é assim é bem tá bem aqui mesmo. Então se a gente pegasse só só [UNRESOLVED_ENTITY] [LOCATION_B] já seria bastante para ser bem sincero.
+3888.0,2,"Sim, então esse aí e o que que eu imagino lá, não sei como é que tá a tua planilha, né? Essa tua planilha tem que estar lá o mês o ano, né? E a estimativa desse mercado o som chegando lá nos quatro anos, né?"
+3911.0,1,"Sim, sim, é isso que eu vou fazer."
+3914.0,2,"então a gente tinha dito lá, você quer dar uma olhadinha nessa planilha agora ou"
+3919.0,1,"Então para falar a verdade, eu acho"
+3919.0,2,deixar
+3920.0,1,"que eu prefiro [UNRESOLVED_ENTITY] para depois o [PERSON_A] porque assim os dados estão bem separados e bagunçados, eu tenho uma tabela com o PIB assim, eu sei o que tem que fazer. Acho que tá"
+3933.0,2,Tá bom.
+3934.0,1,"tranquilo, eu só só já tem os"
+3937.0,2,E esse daqui ele até não é bem uma
+3938.0,1,dados.
+3940.0,2,"prioridade nossa, né? É porque a prioridade Nossa é os MVP já viabilizar isso que nós estamos fazendo, mas é que esse daqui eu acho necessário assim até para vocês vão ter uma conversa semana que vem, né com eles, né? Poxa eu acho assim que a única coisa"
+3962.0,1,Isso semana que vem.
+3963.0,2,"firme que a gente tem é esse trança noção, né? Que esse é um número que a gente cria justifica faz e depois a gente explica você mas você percebe que se a gente não mostrar um som legal. A conversa do segundo tempo os MVP meio que perde o brilho né?"
+3986.0,1,"Sim, sim, não também acho."
+3987.0,2,"Então, ele não é prioritário agora, ele é super prioritário lá no final, né no pente final, né? Ele é superprobitar, mas veja é que a conversa já começa a semana que vem, né com eles, né?"
+4000.0,1,É como os caras vão vir para cá é bom. Realmente a gente ter.
+4003.0,2,"É bom a gente ter isso, se possível a gente ter uma primeira versão, quase final sabe disso daí daí"
+4009.0,1,"Sim, sim."
+4010.0,2,"mostra para eles, pode ser até que eles Não gostem ou que eles critiquem alguma coisa. O que é bom, né?"
+4018.0,1,"Eu vou eu vou tentar bom essa semana agora, a gente tem reunião, mas tá um pouco mais tranquilo em relação a semana que vem então eu vou tentar dar uma puxada nisso aí e até colocar bonitinho no PowerPoint essa questão do [UNRESOLVED_ENTITY]. E aí. Já Deixa pronto para semana que vem."
+4039.0,2,fazer uma planilha de Excel
+4042.0,1,"Sim, sim, sim."
+4042.0,2,"PIB é tradição só planilha de excel mês a mês 10 anos. Para frente e daí depois a gente vai fazer o PowerPoint, né? Correspondente, né?"
+4055.0,1,Tá bom.
+4057.0,2,"Mas faz o seguinte faz a planilha, se você tiver alguma dúvida, já mencione ali no WhatsApp. A gente já conversa. Você aproveitar não fique parado. Se você tiver alguma [UNRESOLVED_ENTITY] só"
+4066.0,1,combinado
+4069.0,2,para não perder essa oportunidade aí da semana que vem com eles.
+4073.0,1,inclusive bom só complementando essa questão da
+4079.0,2,"Não põe lá no tudo, tá?"
+4081.0,1,Não tá eu acho que tá. Veio tem essa parte do PIB com a frota. Eu acho que eu já vou.
+4089.0,3,Então deixa na mesma tintura.
+4091.0,2,Agora preparar uma primeira versão
+4091.0,1,englobar
+4094.0,2,do [UNRESOLVED_ENTITY] para [UNRESOLVED_ENTITY]. para discussão com a [UNRESOLVED_ENTITY] seria a continuação da 46 né
+4105.0,1,é
+4106.0,2,"correlacionado cansanção com o PIB e Frota, né? Então que você Então veja nessa planilha tem PIB tem Frota, né? E eu vou daí fazer as correlações e daí [UNRESOLVED_ENTITY] esse ponto preparar uma primeira versão para conversar com a [UNRESOLVED_ENTITY]. Esse na mesma tudo."
+4124.0,1,beleza E bom eu ia falar só assim complementando pegando esse gancho aí da aventures ou [PERSON_A] a gente tá tentando falar com o Gabriel. Para ele tentar levar o pessoal da aventures no nosso MVP da Quatro Rodas. Para sei lá para mostrar para eles o nosso MVP tentar vender o nosso peixe nessa.
+4152.0,3,"Vai mostrar valor, né? Que o nosso trabalho. Mandou bem nessa primeira metade."
+4158.0,2,"não sei se [UNRESOLVED_ENTITY] sempre é legal, né, mas eu não sei se nesse caso vai gerar alguma coisa, talvez o para ele seria mais legal se vocês mostrasse um MVP de vocês carregando. Eles vão estar aí vai ter algum MVP andando?"
+4180.0,1,Então MVP a reportagem da Quatro Rodas que a gente vai carregar os carros na estrada.
+4187.0,2,"Ah tá, então essa parte eu acho que é legal de mostrar o carregamento é"
+4194.0,1,É a ideia é essa?
+4196.0,2,"a operação funcionando, né?"
+4197.0,1,A ideia eles estarem juntos exatamente na operação.
+4203.0,2,"Tá legal, então entendi."
+4206.0,3,No resgate dos carros mesmo eles vendo.
+4208.0,2,"E é que quando eu pensei assim,"
+4210.0,3,"Dia 15, né?"
+4213.0,2,"pensei assim na hora que vocês estão montando a reportagem com a torrada, não é não é?"
+4217.0,1,Não não não é o dia do teste mesmo que é vai ser acho que vai ser na quarta-feira que vem algum tipo. é
+4228.0,2,"Poxa já tá aí, né? Nós? Vamos a nossa reunião, né? Nós vamos estar aí, né?"
+4235.0,3,Pelo que eu entendi e a gente até
+4235.0,1,"Não é antes, né? Eu acho que na mesma semana"
+4238.0,2,Deixa eu.
+4239.0,1,inclusive.
+4244.0,3,falado com Gabriel. Eu acho que o nosso grupo vai ser dia 17 outro dia 16.
+4248.0,1,na sexta
+4251.0,2,Sete dezesseis né? Porque a gente
+4253.0,1,"É justamente por causa da reportagem que a gente vai estar vai fazer na quarta, a gente pediu para jogar para sexta a nossa reunião. Acho que vai ser bem puxada vai ser bem puxado."
+4262.0,3,Meu Gabriel não falou nada para a
+4265.0,2,"Então 17, vou anotar aqui para confirmar lá deixar tudo certinho, porque na nossa planilha ali Acho que tá no dia 20 e pouco que a gente pois a segunda-feira, né?"
+4279.0,3,gente ainda.
+4282.0,2,"Então vamos lá, vocês estão achando que é 17 e 18 de um."
+4284.0,3,É o Gabriel passou para gente é um grupo 16 outro 17.
+4291.0,2,"Tá bom. Para nós tanto faz eu acho tem mais agenda do [PERSON_A], eu vou confirmar com ele e já vamos trabalhar como 16 e 17 e daí vocês estão preferindo."
+4308.0,1,beleza
+4308.0,2,"Eu prefiro fazer assim, vamos deixar"
+4309.0,3,"17 porque a gente como vai rodar até o interior no dia 15, a gente não sabe se de repente vai ficar muito corrido para voltar se dorme por lá e volta de manhã, então fica mais seguro a gente ser dia 17, né? Caso seja 16 17 mesmo."
+4325.0,2,"marcado dia 17, se não der certo a gente corrige, né? Mas a gente já trabalha com uma data fixa 18 a 19 e 20 dá um jeito, né? Mas vamos deixar então 17. Outra charge e 16 lilás, eu já combino com eles hoje também e daí se precisar mudar a gente muda mas"
+4348.0,1,Tá bom.
+4353.0,2,"Então vamos ver aqui nós temos uns minutos ainda, né? Temos 10 minutos. o que que vocês acham ele essa da"
+4359.0,1,"Beleza trabalhar, eu vou juntar aqui"
+4362.0,2,"planilha de chama para Talvez a gente faça comigo fazer uma meio especial aí intermediária aí se você precisar, tá? Com os dados põe a planilha ali."
+4375.0,1,e aí eu chamo para a gente revisar pelo menos.
+4378.0,3,"Que a gente de verdade a gente não tem tempo para explorar ela. o quanto eu gostaria hoje, mas só para a gente já tem em mente [PERSON_A], até para a gente já ir pensando para Na vinda de vocês aí no dia 17 a gente discutir com mais calma. É essa questão do como se atrativo no [UNRESOLVED_ENTITY] em comparação com fixo que já tem lá, né? Porque lá que a gente vai fazer um VP da"
+4412.0,2,mas
+4413.0,3,"É então, a gente vai ter que a"
+4414.0,1,Eu acho que não precisa.
+4415.0,3,"gente vai ter que pensar uma forma por exemplo se o fixo tiver desocupado. A gente enxerga isso é um baita problema para gente lá, né? Lá a gente estaria porque o que por que que a [CLIENT_A] falou de fazer lá que segundo está para o normal é que haja fila. no fixo Então mas mesmo assim por exemplo um cara que vai ficar lá mais tempo aquele poderia entrar na fila a gente queria entender uma forma de como abordar esse proprietário."
+4445.0,2,Tá então eu eu colocaria mais uma
+4446.0,3,Mostrar vantagem mostrar valor.
+4451.0,2,eixo lá. Que é que é da raiz em ali enquanto não tem a infraestrutura seja por obra ou reforma vocês entram né? E Você acabou de dizer mais uma filas vocês atendem?
+4467.0,3,"É na verdade, a gente já tem falado isso para todos os estacionamentos que a gente tem procurado para todos os parceiros. O nosso discurso é não atender apenas local que ele não tem carregador, mas local que tem pouco carregador que a oferta não atende a demanda. Então você tem muita demanda tá com muita fila, a gente vai lá carregar."
+4488.0,2,Não não precisamos anotar isso a oportunidade de atender fila. carregadores isso
+4500.0,3,o nosso modelo de negócio
+4503.0,2,Então tá bom.
+4505.0,1,"O acho que o grande ponto é essa questão de Por que que o cara vai pagar mais caro para a gente? Se ele não tem pressa, né? Porque ele tá lá trabalhando e tudo bem que tem fila. Mas uma hora vai sair a fila. Talvez o tempo não é uma grande prioridade, porque ele já vai passar lá 9 horas lá no prédio, sabe? Então talvez ele fala. Ah não eu espero ou depois eu carrego, entendeu? Não vou querer pagar mais caro, sendo que tem um aqui do lado que é mais barato, entendeu? Acho que é essa nossa dor de convencer o cara a comprar com a gente, entendeu?"
+4546.0,2,Então mas veja vamos dizer que eu cheguei lá com pouca bateria e tem fila. Eu não tenho alternativa.
+4559.0,3,"É então. Mas qual que é a nossa preocupação e até eu lembrei de outra isso que eu já falo. Nossa, preocupação é chegar lá. E por exemplo, tô com a nossa unidade móvel lá, mas os dois carregadores que estão operacionais lá, né? Porque tem um que não tá tão sendo usados. E tem um cara que fala não vou ficar o dia inteiro aqui o que eu enxergo primeiro ponto mas aí o [UNRESOLVED_ENTITY] não Pode falhar com a gente o [UNRESOLVED_ENTITY] da pulinho."
+4590.0,3,"Uma vantagem que a gente pode falar para o cara falar. Ô [UNRESOLVED_ENTITY], se você precisar sair alguma coisa o carregador tem aqui o fixo é lento, por que que você vai pagar mais caro no nosso Nossa é rápido."
+4601.0,1,Mas aí tem que ser rápido.
+4601.0,3,"[UNRESOLVED_ENTITY], porque por exemplo o Song Plus da bioid que é um híbrido que só aceita lento para esse cara. A gente tem vantagem nenhuma. A gente precisa mais caro. Se ele tiver tempo para encarar a fila. A gente só é vantagem se ele tiver urgência. Agora eu já enxergo um potencial"
+4617.0,2,Então mas esse é o segmento de
+4619.0,3,para o 100% elétrico e para os híbridos que suportam o rápido que a gente fala pó minha carga aqui cara 40 minutinhos. Eu tô te avisando que o seu carro tá carregado.
+4630.0,1,É isso.
+4635.0,2,"cliente de vocês o público alvo, né? É quem quer o carregamento mais rápido e precisa."
+4641.0,3,É porque tem clientes potenciais nosso que tem o carro que não suporta carregamento rápido. Ele só suportam.
+4649.0,2,"Eu não sabia disso que por exemplo esse tá vendendo um monte não suporta, né?"
+4653.0,1,"Não. Eu acho que uma da uma das preocupações Nossa exatamente essa porque [UNRESOLVED_ENTITY] a gente ganha quando o cara tem pressa, mas o cara não tem pressa num prédio comercial que ele vai passar 8 horas lá, né? Talvez no fim da tarde que ele vai embora, tipo já são 6 horas da tarde, ele vai embora 7 e ele não conseguiu carregar. Beleza? Mas aí a"
+4680.0,2,Esse daí é você.
+4681.0,1,gente vai ficar o dia inteiro lá para carregar para ter a demanda só no fim da tarde e entendeu? A
+4686.0,2,Não não Teoricamente o cara entrou
+4688.0,1,preocupação é essa.
+4690.0,2,"no app e programou o horário para você estarem lá. Né? Ele vai chegar lá e diz assim, pô, eu preciso da [UNRESOLVED_ENTITY] hoje, olha, mas tem quatro na tua frente. Talvez no final da tarde dê certo. Aí agora ele tem uma outra opção."
+4709.0,1,Será que talvez
+4709.0,2,Ele ele tem para garantir a gente pode trazer o móvel aqui foi uma carga rápida. É um pouquinho mais caro.
+4718.0,1,"Será que vale a pena para nós porque assim a gente tava pensando em chegar lá coisa de 6 horas da manhã, assim que é quando segundo o gerente do estacionamento começa a chegar o pessoal, né? É um pouco antes de Que o pessoal começa a chegar de fato. Será que vale a pena a gente chegar mais tarde para quando já tiver fila e a gente pega essa oportunidade da fila."
+4743.0,2,"É que acho que nós temos que separar a conversa aqui em dois momentos, né? Você tem um momento agora que qualquer MVP é válido, né? Você chegar às 6 horas da manhã e sair"
+4755.0,1,"Ah sim, tudo bem?"
+4756.0,2,"de lá e 6 da manhã do dia seguinte o que que nós estamos fazendo o carregamento, estamos aprendendo um monte de coisa cobrança paga mais"
+4763.0,1,"Sim, é verdade."
+4764.0,2,"caro. Então tem um monte de aprendizado ali, né? É que daí eu tava com a cabeça assim, olha, vamos imaginar que vocês estão no mapa. Lá que votar imagem do mapa, vocês tem 20 pontos de carregamento no mapa marcado estacionamento tal estacionamento, né? Como é que vai funcionar alguém lá dentro do estacionamento e diz eu quero uma carga aqui. Para tal hora e daí vai entrar na central de vocês. Vocês vão deslocar um para estar lá tal hora."
+4799.0,2,"Para fazer o carregamento, né? Daí provavelmente alguém vai entrar eu quero para mim mesma hora desse não não na mesma hora eu já tô carregando aí um outro pode esperar meia hora ou uma hora. E já programa. O carregamento dele. Daí você já vai sair com o teu roteirinho otimizado de carregamentos, né? Mas eu tô imaginando lá, vocês tem 20 pontos e tem cinco carregadores móveis, né? é que"
+4828.0,1,"É sim no futuro, eu acho que faz sentido acho que a maior preocupação era agora mas Assim qualquer coisa é válida, né?"
+4837.0,2,"Nesse futuro o seu vigésimo primeiro entrar para você, isso é bem assim, eu tenho um problema que sempre tá dando fila aqui, ó. Eu até acho que eu vou ter que aumentar a infraestrutura, mas eu vou demorar alguns meses, vocês não atendem. Se a gente chamar atende, né é justamente isso que vocês vão fazer, né? Que é o diferencial de vocês Móvel rápido, né? É lógico que é assim um dia vocês vão fazer fixo lento."
+4869.0,2,"Pode fazer né? Um dia pode fazer só não vão testar isso agora né nesse momento nesse. Não tem sentido acho que a gente testar esse tipo de solução agora, né? Já que o de vocês é. [UNRESOLVED_ENTITY] rápido, né? E o [UNRESOLVED_ENTITY] rápido serve a gente já tava mapeando lá [UNRESOLVED_ENTITY], tá fazendo uma infraestrutura, mas precisa dele agora atrasou a infraestrutura dá para pôr dá. o [UNRESOLVED_ENTITY] Não tem infraestrutura dá para pôr dá o domo fez uma infraestrutura e infraestrutura está pequena da fila. Dá para vocês atenderem."
+4913.0,2,"É tudo sim, né? Por isso que eu digo assim, eu acho que não tem agora você tem um problema agora, eu só tenho um carregador então o que que eu faço eu vou lá alguns dias da semana chega 6 e vou embora às 6 horas, né? Mas eu tô começando, né?"
+4934.0,1,"Inclusive para testar esse horário de pico digamos assim, né? De quando"
+4939.0,2,"E para descobrir, nossa."
+4939.0,1,realmente as pessoas precisam da gente. Tá Não beleza.
+4946.0,2,Então eu não sei eu acho que
+4947.0,1,Acho que deu a velocidade.
+4950.0,2,"separando isso, né a solução futura p*** é isso que nós precisamos um monte de gente chamando a gente para atender filas e para atender demandas urgente, né? Esse é o nosso mercado, né? Veja que o nosso mercado Antes era só quem precisava do móvel, né? Agora a gente que o fixo precisa de vocês quem tem carregador fixo precisa de vocês. E quem tem uma infraestrutura ainda em desenvolvimento vai precisar de vocês e quem tem uma infraestrutura que deu gargalo. Vai precisar de vocês."
+4987.0,1,É isso é isso que a gente tem que
+4988.0,2,É um mercado.
+4990.0,1,vender é isso que a gente tem que vender.
+4992.0,2,"Aumentou bastante, né? Porque se você pensar assim não a gente só vai atender quando o cara [UNRESOLVED_ENTITY] para a gente. E ele tá numa emergência, ele tá no meio da rua no meio da estrada de uma emergência, guincho de emergência. Lembra que a gente pensava disso, né? Agora não a gente já viu que tem outras emergências que não são tão emergentes, né? E que tem valor também, né? Que o cara vai precisar da carga e vai precisar pagar mais caro, né? Não sei se isso Resolveu a questão aí para vocês."
+5028.0,1,"Eu acho que sim. Acho que pelo menos da minha parte assim matou um pouco essa preocupação que a nossa preocupação era no hoje, principalmente né e chegar lá e ficar à toa e não consegui convencer ninguém de comprar com a gente, mas talvez pensando sempre"
+5043.0,3,No site também.
+5046.0,1,"pelo lado do aprendizado até uma situação de que a gente não faça carga nenhuma é um aprendizado, né? Então acho que"
+5055.0,2,"Não e assim, talvez o que tem aí uma questão para ser desenvolvida mesmo. É assim vocês têm que bolar como é que vai ser o atendimento sabe? E é lógico que nesse momento já tá definido é o WhatsApp, né?"
+5070.0,1,"Por enquanto sim, mas tem um agendamento pelo site também."
+5076.0,2,Opa Então veja isso daí é super
+5077.0,1,sim
+5080.0,2,"legal, né? Então porque até vejo vocês podem atender um WhatsApp entrar no site fazer o agendamento e o site ser o principal né? Mas o"
+5090.0,1,O calendário tá lá?
+5091.0,2,"calendário tá lá os horários estão lá, né? Então acho que talvez vocês tenham que dar uma pensada em como estruturar isso direitinho agora. Que daí vai resolver essa questão também, né? Só que o problema é o seguinte vocês só estão com um carregador parte time, né?"
+5111.0,1,"Sim, esse é o problema."
+5113.0,2,"Fazer um agendamento é só para aquele período que vocês estão lá naquela semana, né?"
+5117.0,1,"É a gente sabe que se a gente tivesse 10 a gente teria o site bem mais estruturado e ele seria útil que no momento ele não é tão útil porque não dá para o cara agendar aleatoriamente, né? Ele tem que falar ó agenda hoje porque é hoje que a gente tem sabe então ele não"
+5140.0,2,mas
+5140.0,1,"ele tá funcionando, mas não tá na prática digamos assim."
+5144.0,2,"Vamos dizer bem assim, dá um exemplo assim, tá? Vamos estourar um pouquinho o tempo mas só um pouquinho. Qual que é o próximo MVP que o carregador vai estar lá?"
+5155.0,1,"Vai ser o brascan, né?"
+5157.0,2,Para Scan que dias.
+5158.0,1,é
+5160.0,3,"[UNRESOLVED_ENTITY] vai ser antes, mas é uma matéria."
+5164.0,2,É isso.
+5164.0,3,"O MVP e inclusive isso é um ponto tá? A gente agendou com a Com o [UNRESOLVED_ENTITY] baseado numa data que voltaria ter movimento e Com base no que o Gabriel tinha passado para a gente então por exemplo dia 20 21, a gente vai estar lá."
+5179.0,1,Na outra semana.
+5180.0,3,"A gente vai estar na semana do dia 20, a gente vai estar inteira lá no [UNRESOLVED_ENTITY]."
+5184.0,1,isso
+5186.0,2,"Então veja assim, olha. Então a semana toda né?"
+5191.0,1,Dá sim
+5191.0,2,"Então, então já dá para programar no site a disponibilidade da semana toda no brascan. E jogar para fazer agendamento, né? Eu acho que só o fato é lógico que talvez ninguém vai fazer, né? Mas você já tem a solução pronta, né?"
+5213.0,1,É dá para deixar arredondado isso no site e talvez pedir para o pessoal
+5217.0,2,no site
+5221.0,1,"do brascam enviar e-mail com o link do site algo do tipo, né?"
+5225.0,2,"E dizendo no dia 20 ou 21, você pode fazer o agendamento porque também se"
+5228.0,1,Já pode.
+5230.0,3,dia 10 agora dia 10
+5233.0,2,tiver qualquer dificuldade pode entrar no WhatsApp e tal.
+5237.0,1,A gente tem reunião ou [UNRESOLVED_ENTITY]?
+5239.0,3,Dia 10 a gente tem uma reunião com o pessoal da [CLIENT_A] e a ideia. Já é discutir tudo isso com eles de que
+5246.0,2,então
+5246.0,3,forma. Eles já podem fazer essa divulgação lá no [UNRESOLVED_ENTITY] e eu digo mais também na minha opinião na semana que antecede o MVP a gente podia tirar um dia.
+5257.0,1,"Teria que ser tipo segunda-feira,"
+5257.0,3,Completar abordar motorista porque lá tem muito carro elétrico.
+5261.0,2,"Então vamos lá, então não vai dar"
+5261.0,3,Então de repente nos postos de gasolina abordar motorista de carro
+5264.0,2,"para a gente resolver agora, mas"
+5265.0,3,elétrico.
+5266.0,2,"coloca aí chuva, né? fazer todos os preparativos para o MVP do"
+5276.0,1,né? Porque a semana que vem vai ser cheia para caramba segundo o texto.
+5280.0,2,"G já estamos meio atrasado, né, mas assim todos os preparativos o que que é agendamento pelo site atendimento"
+5285.0,3,Qualquer coisa a gente se divide.
+5289.0,2,"pelo WhatsApp, né. É panfletagem ou outra coisa, né tração, né? Então o que vocês"
+5297.0,3,Qualquer coisa a gente se
+5298.0,2,"lembrarem agora coloquem nessa Y aí que não vai dar para a gente fazer né? Mas essa daí acho que é super importante porque na hora que vocês prepararem esse o próximo lá, né? Vai entrar nesse cronograma, né? Na semana seguinte nós vamos fazer um teste então estacionamento, então, vamos fazer uma Uma investida no tal estacionamento usar o site usar o WhatsApp fazer a panfletagem ou o código de barras ou a lista de e-mails, né que se vocês tiverem a lista de WhatsApp, pode ser que vocês consigam lista de WhatsApp de vocês fazerem a aviso para ele."
+5341.0,2,"Então, põe entre parentes ali, né?"
+5343.0,1,sim
+5344.0,2,Tração de clientes. agendamento no site E atendimento ao WhatsApp. Esse vai ser importante na próxima reunião a gente pegar essa daí. Ou não vai dar tempo.
+5373.0,3,acho que dá
+5373.0,1,Acho que dá também.
+5374.0,3,acho que dá A gente tem pelo menos o plano porque daí na verdade ele deve ter executar antes como eu falei Zé semana que vem vai ser muito muito punk. Mas é com a gente divide. Vai uma falar com a [UNRESOLVED_ENTITY]. Vai um ou dois lá para o [UNRESOLVED_ENTITY] fazer divulgação colocar banner no estacionamento panfletar na rua.
+5399.0,2,Ou adiar essas outras coisas porque esse daí tem que sair direitinho.
+5405.0,1,Mas acho que terça é um bom dia para a gente fazer isso terça da semana que vem.
+5410.0,3,"Tem que ser na outra semana, porque"
+5411.0,1,"É acho que nem viagem ainda aqui, mas eu acredito que"
+5418.0,3,acho que a gente precisa alinhar com a [UNRESOLVED_ENTITY] na sexta.
+5420.0,1,Eu também acho exato.
+5422.0,3,"A gente fala com eles na sexta. Pede essa autorização para ir lá na outra terça. e bora a gente vai lá eu lembro muito de uma lição que a gente teve no bootcamp Que foi quando vocês passaram para gente [PERSON_A] que vale mais tempo prototipando fazendo MVP do que discutindo o sexo dos [UNRESOLVED_ENTITY] aqui no escritório, né?"
+5446.0,2,isso
+5447.0,3,Acho que tem que tirar a bunda daqui para lá e gastar esse tempo lá.
+5450.0,2,"É não e o protótipo ele sempre ele leva o raciocínio da gente numa profundidade que a gente nunca faria se a gente não tivesse desenvolvendo protótipo. Então é vocês vão preparar um protótipos é super rico, né? O agendamento atendimento vão por um robozinho. Vamos por umas questão ali tudo tem que começar a pensar agora, né? E é esse nível de detalhe aí é só com protótipo, né? Que é o MVP aí do da brascanner. Eu achei esse daí é o carro chefe aí de vocês agora."
+5488.0,3,A questão é a agenda que está pai
+5488.0,2,Sem dúvida nenhuma eu só fico preocupado por terça-feira da semana que vem hoje é segunda.
+5494.0,1,Pois é vamos embora.
+5497.0,2,Tem coisa mais importante para fazer.
+5499.0,1,A gente vai precisar falar com eles
+5502.0,3,só tinha para falar com a gente na sexta.
+5505.0,1,"antes com certeza, com certeza."
+5506.0,3,"Eles a gente não pode fazer nada lá sem autorização deles lá dentro é bem burocrático, só que assim eu acho que a gente pode transformar isso em oportunidade, a gente tem essa semana. Para colocar todas as nossas ideias no papel até para ter uma reunião."
+5519.0,2,Um papel e já vai lidar com eles na reunião.
+5523.0,3,A gente tem uma hora de agenda com eles na sexta dá para fazer uma reunião bem rica com eles na sexta-feira.
+5527.0,2,Tá legal.
+5529.0,3,E aí na terça-feira?
+5531.0,2,Tudo é preparar. Então tem que ter uma tudo lá preparar a reunião com a Isso tem que ser imediato.
+5540.0,1,É isso.
+5541.0,3,Mais importante da semana.
+5544.0,2,E ela tá linkada com essa.
+5550.0,3,"Então vamos lá [UNRESOLVED_ENTITY]. reunião com a [CLIENT_A] Eu sugiro Vamos fazer uma espécie de juntar as ideias que tiver você vai ter pessoas idéias, daí eu vou tendo as"
+5575.0,1,Vamos lá?
+5575.0,3,minhas ideias daqui e aí eu vou deixar uma agendinha para gente. Para a gente juntar essas ideias e botar o plano no papel.
+5585.0,2,Pessoal agora [UNRESOLVED_ENTITY] a passar
+5587.0,3,Seja um monte de água é a 69. Tá ligado a 69 e a 69 tá em cada 47.
+5604.0,2,"por encerramento. Sim, não só aproveitamos."
+5607.0,3,"Eu vou dar eu ia dar outro, mas vou dar nove porque a gente conseguiu recuperar aquele atraso do começo. E a gente entendeu? Acho que agora porque todo mundo tava com agenda tranquila, não foi porque o papo tava bom e a gente ainda tá tranquila e eu vou te falar. [UNRESOLVED_ENTITY] a pena a gente ter furado as férias aí para marcar essa reunião porque foi muito boa discussão de hoje, eu vou te falar que temos de discussão das instituições das melhores que a gente teve."
+5636.0,2,"Legal, né? Tivemos bastante tempo foi bom para por o raciocínio na fase certa, né? legal"
+5644.0,1,"Eu vou eu vou dar 10 porque a gente recuperou aí o atraso vi como um grande problema. E um ponto extra aí para exatamente ter feito apesar das férias. Acho que foi realmente valeu a pena e as discussões foram muito boas, então"
+5662.0,3,Obrigado [PERSON_A] para nós.
+5662.0,1,eu vou dar 10.
+5664.0,2,"Pessoal, boa semana para vocês voltem com bastante energia agora depois das férias, né que vai precisar."
+5674.0,1,Valeu [PERSON_A]
+5674.0,2,Agora tá chegando um Sprint final aí de vocês.
+5681.0,3,Precisa dar aquela acelerada.
+5681.0,2,E bom ano para vocês aí.
+5684.0,3,Boa para nós um abraço.
+5684.0,1,Boa tarde

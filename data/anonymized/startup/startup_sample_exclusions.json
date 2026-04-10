@@ -1,0 +1,14 @@
+[
+  {
+    "file_name": "2025.03.02PulsoE-life.txt",
+    "reason": "Corrupted transcript dominated by nonsensical transcription output."
+  },
+  {
+    "file_name": "2025.03.10xPulsoUltraCharge.txt",
+    "reason": "Corrupted transcript with unstable transcription language and insufficient usable structure."
+  },
+  {
+    "file_name": "pasted_content.txt",
+    "reason": "Instruction file accidentally included with uploads; not a meeting transcript."
+  }
+]
