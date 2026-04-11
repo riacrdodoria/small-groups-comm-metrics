@@ -1,0 +1,17 @@
+source_file,sheet_name,team_id,context,domain,n_seconds,silence_pct,speaker_id_column,status,notes
+E2S1-Transcript.xlsx,E2S1-InBound-T,E2S1-Transcript,submarine_experienced,submarine,5233,27.097267341868907,Spkr Codes,processed,
+E2S2-Transcript.xlsx,E2S2-OutBound-T,E2S2-Transcript,submarine_experienced,submarine,5743,27.929653491206686,Spkr Codes,processed,
+E3S2-Transcript.xlsx,E3S2,E3S2-Transcript,submarine_experienced,submarine,4355,30.21814006888634,Unnamed: 8,processed,
+E4S2-Transcript.xlsx,"""New Mexico""-OutB-E4S2-All",E4S2-Transcript,submarine_experienced,submarine,4275,43.78947368421053,Spkr Codes,processed,
+T4S2-Transcript.xlsx,T4S2-OutBound-T ,T4S2-Transcript,submarine_less_experienced,submarine,4832,40.521523178807946,Spkr Code,processed,
+T4S3-Transcript.xlsx,T4S3-InBound-T,T4S3-Transcript,submarine_less_experienced,submarine,5298,39.12797281993205,Spkr Code,processed,
+T5S5-Transcript.xlsx,T5S5-OutBound-T,T5S5-Transcript,submarine_less_experienced,submarine,3969,45.5026455026455,Spkr Codes,processed,
+J10T3Output-Cz_Seq.xls,J10T3-trans,J10T3Output-Cz_Seq,surgical_student,surgical,1065,26.76056338028169,Speaker,processed,
+J11T1-OutputsT4.xls,J11T1-trans,J11T1-OutputsT4,surgical_student,surgical,2213,23.181201988251242,Speaker,processed,
+J11T2-OutputsT4.xls,J11T2-trans,J11T2-OutputsT4,surgical_student,surgical,1746,31.38602520045819,Speaker,processed,
+J1S2-Transcript.xlsx,J1S2,J1S2-Transcript,surgical_student,surgical,2594,30.146491904394757,Speaker,processed,
+J4S1-Transcript.xlsx,J4S1,J4S1-Transcript,surgical_student,surgical,2595,30.481695568400767,Speaker,processed,
+J5S2BatchUtt-CzP0.xls,J5S2,J5S2BatchUtt-CzP0,surgical_student,surgical,2898,28.191856452726014,Speaker,processed,
+J6S1Batch-CzP0.xls,J6S1,J6S1Batch-CzP0,surgical_student,surgical,1843,19.696147585458494,Speaker,processed,
+J7S1Batch-CzP0.xls,J7S2,J7S1Batch-CzP0,surgical_student,surgical,2330,17.72532188841202,Speaker,processed,
+J5S2_Team6_ScenarioB.xlsx,,J5S2_Team6_ScenarioB,unsupported_schema,unknown,0,,,skipped,Unsupported workbook schema for speaker time series in J5S2_Team6_ScenarioB.xlsx: missing usable second/speaker columns on sheet 'Sheet1'.
