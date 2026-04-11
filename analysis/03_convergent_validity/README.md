@@ -45,6 +45,9 @@ The corrected per-meeting plots and summary are written to the following v2 loca
 | Per-meeting figures | `figures/03_convergent_validity/temporal_meetings_v2/` |
 | Per-meeting summary table | `data/processed/convergent_validity/temporal_comparison_v2/meeting_temporal_correlation_summary.csv` |
 | Per-meeting summary report | `data/processed/convergent_validity/temporal_comparison_v2/meeting_temporal_correlation_summary.md` |
+| Archived legacy exclusions | `figures/03_convergent_validity/temporal_meetings_archived_exclusions/` |
+
+To avoid confusion with the corrected v2 analytical set, the former v1 figure for `J5S2_Team6_ScenarioB` was archived under `temporal_meetings_archived_exclusions/`. A replacement placeholder with the same meeting name is now written to `temporal_meetings_v2/` so the exclusion is explicit rather than silently missing.
 
 ### Files
 
@@ -57,4 +60,4 @@ The corrected per-meeting plots and summary are written to the following v2 loca
 | `data/processed/convergent_validity/metrics_lsh_all.csv` | Stores pooled second-level metrics for the LSH-equivalent series. |
 | `data/processed/convergent_validity/domain_summary.csv` | Stores pooled domain-level correlations used in this README. |
 | `data/processed/convergent_validity/gorman_series_inventory.csv` | Records which Gorman workbooks were processed versus skipped, including the reason for any exclusion. |
-| `figures/03_convergent_validity/` | Stores the scatter plots, silence distribution figure, and temporal comparison directories. |
+| `figures/03_convergent_validity/` | Stores the scatter plots, silence distribution figure, corrected temporal comparison directories, and archived legacy exclusions. |
