@@ -9,8 +9,8 @@ onset_seconds,speaker_id,text
 332.0,1,Tudo ótimo.
 334.0,2,Que bom.
 335.0,1,E a correria de vocês aí?
-337.0,2,"Olha de novo, né? A gente tá nessa reta final onde a gente quer muito muito fazer dar certo. Um espinho então todo dia uma novidade todo dia uma surpresa na agenda. nós estamos muito focado em Algumas frentes né uma delas é nós temos apresentação essa semana. Para o [UNRESOLVED_ENTITY] e para o [UNRESOLVED_ENTITY] separadas, né foram separados Nós temos na próxima semana, né? Hoje não desculpa essa semana na sexta-feira, a gente tem um primeiro round que é com [UNRESOLVED_ENTITY]. Para na outra quarta-feira, a gente tem um round com [UNRESOLVED_ENTITY] e o galão juntos."
-383.0,2,"Então a gente já aí tem esse fórum com o harcha aí tem o pente final para os [UNRESOLVED_ENTITY] e para as nossas lideranças atuais, então a gente está trabalhando muito focado, né em como mostrar tudo que a gente fez de uma forma que mostra valor para o negócio [PARTNER_A]. Muito no sentido do que a gente conversou na segunda passada, né? De que o que"
+337.0,2,"Olha de novo, né? A gente tá nessa reta final onde a gente quer muito muito fazer dar certo. Um espinho então todo dia uma novidade todo dia uma surpresa na agenda. nós estamos muito focado em Algumas frentes né uma delas é nós temos apresentação essa semana. Para o [UNRESOLVED_ENTITY] e para o [PERSON_H] separadas, né foram separados Nós temos na próxima semana, né? Hoje não desculpa essa semana na sexta-feira, a gente tem um primeiro round que é com [UNRESOLVED_ENTITY]. Para na outra quarta-feira, a gente tem um round com [UNRESOLVED_ENTITY] e o galão juntos."
+383.0,2,"Então a gente já aí tem esse fórum com o harcha aí tem o pente final para os [INVESTOR_A] e para as nossas lideranças atuais, então a gente está trabalhando muito focado, né em como mostrar tudo que a gente fez de uma forma que mostra valor para o negócio [PARTNER_A]. Muito no sentido do que a gente conversou na segunda passada, né? De que o que"
 405.0,1,"É vocês têm também a da [PARTNER_A] esse caminhão da [PARTNER_A], né? Que vocês"
 405.0,2,"a gente fez não era. Não era descartável, né que a gente podia aproveitar isso para provar o valor para [PARTNER_A]. E a gente também tem o que vai acontecer essa semana, só estamos acertando o dia. A data deve sair hoje. Que é o toque com a [PARTNER_B] que esse aí a gente até acha que vai ser uma bala de prata no nosso Pit porque? É uma validação com pesado dentro do grupo, né dentro do grupo."
 436.0,2,"então, isso aí é uma a gente vê que enxerga que vai ser um trunfo porque"
@@ -46,7 +46,7 @@ onset_seconds,speaker_id,text
 768.0,2,"Deixa eu dar o Chefe aqui, aí a gente já. Boa acho que o Segue vai ser mais curtinho hoje, né? Eu vou começar aqui falando que tivemos a confirmação no final da semana com o pessoal da [PARTNER_B] de que vai rolar o teste e Só precisamos bater o martelo de qual dia dessa semana que vai rolar essa resposta deve vir hoje durante o dia eu tô em contato direto aqui com o pessoal da [UNRESOLVED_ENTITY] que cuida dessa Operação lá. Eu particularmente Trago essa boa notícia."
 811.0,1,nossa
 813.0,2,Alguém quer trazer mais alguma pessoa?
-816.0,5,"Bom a gente começou o curso lá da [UNRESOLVED_ENTITY], né? Na quinta-feira Foi bem bom, inclusive o já valeu a pena um Network que a gente fez um dos caras lá que se apresentou ele é dono de uma. De uma empresa de logística 100% elétrica ela lá de [UNRESOLVED_ENTITY], mas que atua aqui em [LOCATION_B] também e a gente já conversou com ele já se dispôs, ele inclusive se dispôs a fazer um teste com a gente falou que ia ver alguma rota que ele tem para a gente fazer um piloto, né carregar em no meio da rua e tudo mais e também já deixamos disponível aí nas próximas duas semanas para ele caso ele precise emergência de resgate, a gente pode ir lá resgatar, né com o tecnologia."
+816.0,5,"Bom a gente começou o curso lá da [LOCATION_H], né? Na quinta-feira Foi bem bom, inclusive o já valeu a pena um Network que a gente fez um dos caras lá que se apresentou ele é dono de uma. De uma empresa de logística 100% elétrica ela lá de [UNRESOLVED_ENTITY], mas que atua aqui em [LOCATION_B] também e a gente já conversou com ele já se dispôs, ele inclusive se dispôs a fazer um teste com a gente falou que ia ver alguma rota que ele tem para a gente fazer um piloto, né carregar em no meio da rua e tudo mais e também já deixamos disponível aí nas próximas duas semanas para ele caso ele precise emergência de resgate, a gente pode ir lá resgatar, né com o tecnologia."
 868.0,1,Então esse é um esse é o entrevista que tava faltando.
 874.0,5,O cara bem.
 876.0,1,É não e daí já tem um compromisso já tem um acerto e já conversaram assim os problemas que ele tem agora com os carregadores que vocês podem ajudar.
@@ -80,7 +80,7 @@ onset_seconds,speaker_id,text
 1352.0,1,Não que a gente viu.
 1354.0,2,Dia 4 agora que é sexta-feira na verdade quarta-feira que é dia 2. A gente tem
 1362.0,1,"Agora é o pit e as reuniões que vocês estão fazendo são as coisas mais importantes e caprichando no Pit melhorando o pit melhorando nas reuniões. Estamos na reta final, né? Já marcaram alguma data ainda não."
-1384.0,2,"o racha. Sexta-feira dia 4 a gente tem um fórum só com [UNRESOLVED_ENTITY] que é o [UNRESOLVED_ENTITY] marketing. Aí nós temos no dia 9 um outro uma outra rodada que é com o Marcelo, galão eu [UNRESOLVED_ENTITY]. Nós temos no dia 11 é um fórum com os [UNRESOLVED_ENTITY]. Por enquanto são esses mas a gente vai encontrar na verdade pelo que a gente"
+1384.0,2,"o racha. Sexta-feira dia 4 a gente tem um fórum só com [PERSON_H] que é o [UNRESOLVED_ENTITY] marketing. Aí nós temos no dia 9 um outro uma outra rodada que é com o Marcelo, galão eu [PERSON_H]. Nós temos no dia 11 é um fórum com os [INVESTOR_A]. Por enquanto são esses mas a gente vai encontrar na verdade pelo que a gente"
 1412.0,1,"Não marcou lá com a linda lá na [LOCATION_E] não marcou, né? Porque sempre tem uma apresentação para eles lá, sabe?"
 1421.0,2,"entendeu com a língua Gabriel, nem Tá previsto, isso é a gente."
 1425.0,1,Não previram.
@@ -88,7 +88,7 @@ onset_seconds,speaker_id,text
 1439.0,1,"Porque eu acho que tem que ter um dia de fechamento assim sabe, eu acho que essa formalização eles não vão abrir mão. Mas vocês vão estar pronto, né? Acho que não é de se preocupar e Provavelmente é depois do dia 11, né?"
 1454.0,2,"É na verdade. Na verdade, eu entendi que o Gabriel não vai ter esse dia, né?"
 1458.0,1,Você existir.
-1463.0,2,Cresceu. Parece que vai ter parece que o pente final oficial é o dos [UNRESOLVED_ENTITY] dia
+1463.0,2,Cresceu. Parece que vai ter parece que o pente final oficial é o dos [INVESTOR_A] dia
 1464.0,4,Não parece.
 1470.0,2,11 e aí depois meio que acabou assim o que a gente tem pelo que a gente entendeu com a vento está na mão dos grupos.
 1478.0,1,"Depois dos índios. Daí eles marcam né? É mais mas tudo bem, mas se não existir também nessas alturas."
@@ -110,15 +110,15 @@ onset_seconds,speaker_id,text
 1624.0,4,E volta dia 20. Eu não sei.
 1629.0,2,Mas a gente é bom até que o [PERSON_E] Não Sai que ele vai ficar sendo nossa
 1630.0,1,é uma enrolação agora que
-1633.0,2,fonte aí para a gente saber o que que tá acontecendo. nas discussões porque a gente já ouviu inclusive do [UNRESOLVED_ENTITY] que É muito provavelmente não vai ter uma decisão tomada no dia da gente voltar para a área. Então que algumas discussões vão ficar rolando por algum tempo ainda.
-1655.0,1,Os anjos para dar um parecer para dar um vão demorar sabe daí vai para não sei quem daí vai o assunto vai para o [UNRESOLVED_ENTITY] até eles analisarem até não sei o que lá é vocês. Tem que estar preparado para esse tipo de desgaste estiverem
-1670.0,2,"Teve uma conduta com os [UNRESOLVED_ENTITY], né? Que a gente teve suporte da Patrícia, não"
+1633.0,2,fonte aí para a gente saber o que que tá acontecendo. nas discussões porque a gente já ouviu inclusive do [DEPT_B] que É muito provavelmente não vai ter uma decisão tomada no dia da gente voltar para a área. Então que algumas discussões vão ficar rolando por algum tempo ainda.
+1655.0,1,Os anjos para dar um parecer para dar um vão demorar sabe daí vai para não sei quem daí vai o assunto vai para o [DEPT_B] até eles analisarem até não sei o que lá é vocês. Tem que estar preparado para esse tipo de desgaste estiverem
+1670.0,2,"Teve uma conduta com os [INVESTOR_A], né? Que a gente teve suporte da Patrícia, não"
 1671.0,1,preparado não vão se desgastar.
 1674.0,4,A gente teve.
 1679.0,2,dá para reclamar nada dela. Quando a gente precisou ela botou o time dela para ajudar a gente mas a gente teve uma oportunidade muito grande com Ronaldo.
 1691.0,1,sim
 1692.0,2,"Eles acabaram sumindo até um papel aí de mentoria, nós tivemos na sexta-feira ou na quinta agora não me recordo. Um papo com eles acho que foi sexta tivemos esse papo presencial lá com eles na [PARTNER_A] é seria presencial. Chegou lá acabou sendo online, né? Mas enfim. Eles parecem que compraram muito o nosso time, né? E a gente tem abertura com eles, eles serem sinceros Critical que tem criticar. Falar o que tem que votar."
-1728.0,2,E cara eu pelo menos fiquei muito satisfeito com por exemplo. O Ronaldo falou pra gente que cruzando com [UNRESOLVED_ENTITY] e com o galão lá pela [PARTNER_A] pelas reuniões de board tal ele [UNRESOLVED_ENTITY] que nos recomendaria. Aquele falou que acredita na gente enquanto o time né? Acho que com os anjos é um caminho que a gente pode buscar também essa recomendação.
+1728.0,2,E cara eu pelo menos fiquei muito satisfeito com por exemplo. O Ronaldo falou pra gente que cruzando com [PERSON_H] e com o galão lá pela [PARTNER_A] pelas reuniões de board tal ele [UNRESOLVED_ENTITY] que nos recomendaria. Aquele falou que acredita na gente enquanto o time né? Acho que com os anjos é um caminho que a gente pode buscar também essa recomendação.
 1759.0,1,"Super bom tá super bem encaminhada, vamos vamos ver dá uma passadinha."
 1765.0,2,A primeira é sua [PERSON_F] do análise de mercado e projeções parte de Tentação
 1767.0,1,vamos passar só as rotas assim também para
@@ -136,7 +136,7 @@ onset_seconds,speaker_id,text
 1983.0,1,a própria força
 1986.0,5,"[UNRESOLVED_ENTITY] lá e aí ter cartas de intenção que mostrem pelo menos assim, demonstre sem sem obrigação, né? Qual seria a demanda? De sei lá no ano que vem a gente vai ter a demanda para 10 serviços."
 2007.0,1,sim
-2007.0,5,"O número aleatório aqui e aí com isso a gente leva para [UNRESOLVED_ENTITY] e com a proposta de eles bancarem, né? Então mostrando que a [PARTNER_A] vai entrar com a nossa força de trabalho e com a demanda com os clientes prontamente. E Eles teriam que entrar com todos os custos operacionais de equipamento manutenção e motorista."
+2007.0,5,"O número aleatório aqui e aí com isso a gente leva para [PARTNER_P] e com a proposta de eles bancarem, né? Então mostrando que a [PARTNER_A] vai entrar com a nossa força de trabalho e com a demanda com os clientes prontamente. E Eles teriam que entrar com todos os custos operacionais de equipamento manutenção e motorista."
 2032.0,1,Só a Livina carta de intenção assim com prazos a negociar né?
 2038.0,5,e não é e ele sempre ele ressaltou bastante assim que
 2039.0,1,"Toda carta de intenção, ela é uma carta de intenção, né? Mas é que assim,"
@@ -155,15 +155,15 @@ onset_seconds,speaker_id,text
 2222.0,1,"Se você já não conseguiu ir atrás agora você já tem as evidências já tem [PARTNER_A] já tem [PARTNER_B] já tem o colega da faculdade. Quase que eu diria assim. Vocês podiam ter mais três, né? Lógico 3 se tivesse mais 3 era melhor, mas é melhor quanto Pelo esforço que daria sabe. Melhor assim. Ah tá bom. Só três é nota 5. Tá bom, se você fizer 6 vai ser o quê nota 6 7."
 2257.0,1,"Porque é tudo só conversa, né?"
 2263.0,5,kit para ele
-2264.0,2,"[UNRESOLVED_ENTITY] + b u tá no caminho, né? A gente já tem ele."
+2264.0,2,"[DEPT_A] + b u tá no caminho, né? A gente já tem ele."
 2268.0,1,agendar
 2269.0,2,Uma espinha dorsal já tá agendado eu vou deixar ele aberto aqui porque como a gente vai fazer ainda esses [UNRESOLVED_ENTITY].
 2274.0,1,"Aí eu diria sim, pode encerrar. Vocês já estão já prepararam o pit agora é lógico que ele vai entrar na vida normal de vocês aí, mas essa é uma tudo que vocês não tem mais que para se preocupar não."
-2296.0,2,"bichos então [UNRESOLVED_ENTITY] [PERSON_A] um dos professores que vai dar aula para gente no curso da [UNRESOLVED_ENTITY], ele vai dar aula de infraestrutura inclusive. O cara ele é daí do [UNRESOLVED_ENTITY]. Ele trabalha em alguma secretaria do governo e ele trabalhou muitos anos na [PARTNER_G]."
+2296.0,2,"bichos então [UNRESOLVED_ENTITY] [PERSON_A] um dos professores que vai dar aula para gente no curso da [LOCATION_H], ele vai dar aula de infraestrutura inclusive. O cara ele é daí do [UNRESOLVED_ENTITY]. Ele trabalha em alguma secretaria do governo e ele trabalhou muitos anos na [PARTNER_G]."
 2312.0,1,"Aí como é que é o nome dele, provavelmente eu conheço."
 2313.0,2,[UNRESOLVED_ENTITY]
 2318.0,1,Não lembro.
-2318.0,2,Depois depois no final eu compartilho [UNRESOLVED_ENTITY] dele aqui para ver. Essa cara dele
+2318.0,2,Depois depois no final eu compartilho [PARTNER_H] dele aqui para ver. Essa cara dele
 2325.0,1,Eu tinha que conhecer.
 2330.0,2,"Eu acho que vale mais a pena a gente olhar para essas últimas lixos que a gente. Pensou né? Depois a gente pode fazer como lição de casa limpar o que já não é mais lixo, né?"
 2342.0,1,"Não vamos indo no mesmo tempo ainda, vamos uma de cada vez aí qual que vocês querem conversar e vamos limpando se for o caso."
@@ -181,7 +181,7 @@ onset_seconds,speaker_id,text
 2476.0,1,"E a plugin sempre vai estar no radar, né? Uma hora pode voltar também. Eu acho que volta. No momento certo."
 2496.0,2,"Precisamos atingir as metas do scorecard, chegamos à conclusão que não necessariamente, né?"
 2501.0,1,"Não está ótimo, não é mais uma questão, né?"
-2507.0,2,Essa jayvia [PARTNER_A] tecnogera com a última eixo que eu coloquei lá a gente deve
+2507.0,2,Essa jayvia [PARTNER_A] [PARTNER_P] com a última eixo que eu coloquei lá a gente deve
 2538.0,2,discutir ela já né? Fizemos né?
 2541.0,1,"Também você já fizeram, né? Você fez aquela mudança de linha coluna deixar no formatinho de Dr. E?"
 2551.0,5,"Então, eu acabei migrando totalmente para o Live plana."
@@ -197,8 +197,8 @@ onset_seconds,speaker_id,text
 2678.0,2,PVP que pretendemos fazer numa segunda pista de decolagem se essa segunda pista
 2683.0,1,Isso sim.
 2685.0,2,acontecer a gente tem o certo é o Eloi e atacar usar. A gente não tem a declarado eu não sei.
-2695.0,1,"Não daí já pode pôr ali o [UNRESOLVED_ENTITY], né? Que vocês estão no radar aí não pegou nenhum, mas é lógico que tendo mais tempo vai atrás, né? Que nesses tem um posto que é um eletroposto no meio então tá bom? Vamos conversar lá no eletroposto. Ele vai ser um parceiro do investimento."
-2728.0,2,"trazer uma polêmica aqui agora vocês acham que vale a pena a gente ter alguma lixo de como abordar para [UNRESOLVED_ENTITY] e para [UNRESOLVED_ENTITY] porque a gente sabe que Se absorvidos por ele passa por isso como a gente abordar a questão do biogás. Qual que seria a nossa estratégia para abordar biogás com essas áreas? Eu acho que é somente importante não é? Acho que é bom anotar, a gente chegou a conversar já né? Depois da reunião."
+2695.0,1,"Não daí já pode pôr ali o [LOCATION_G], né? Que vocês estão no radar aí não pegou nenhum, mas é lógico que tendo mais tempo vai atrás, né? Que nesses tem um posto que é um eletroposto no meio então tá bom? Vamos conversar lá no eletroposto. Ele vai ser um parceiro do investimento."
+2728.0,2,"trazer uma polêmica aqui agora vocês acham que vale a pena a gente ter alguma lixo de como abordar para [DEPT_A] e para bu porque a gente sabe que Se absorvidos por ele passa por isso como a gente abordar a questão do biogás. Qual que seria a nossa estratégia para abordar biogás com essas áreas? Eu acho que é somente importante não é? Acho que é bom anotar, a gente chegou a conversar já né? Depois da reunião."
 2759.0,1,"Deixa eu por mais uma coisinha aqui nessa Exu aí que sabe começou a passar pela minha cabeça não né? Vocês Com certeza não conhecem como que a energia elétrica é cobrada direitinho, né? Ou vocês têm ideia que você cobra pela demanda? Cobra pelo consumo que tem horário mais caro, vocês têm ideia disso?"
 2786.0,5,"[UNRESOLVED_ENTITY] exatamente para driblar isso, né?"
 2791.0,1,"É porque veja só o seguinte a melhor tarifa que você conseguia, vamos ver se você conseguir lá uma tarifa azul na época lá era bem assim que o consumo seja uma reta na madrugada no dia inteiro na hora do almoço uma reta. Essa é a tarifa mais barata que tem tá? Na hora da ponta ali que é 19 18 21 horas, né? Diminuir o máximo o consumo sabe e depois você volta 21 horas imaginaram essa essa reta sem essa essa figura no gráfico, né? Meia-noite vamos ver 10 10 megawatts demanda, né demanda daí o 10 megabytes fica retinho retinho retinho até às 18 horas nas 18 horas é bem mais caro, então você desliga."
@@ -218,7 +218,7 @@ onset_seconds,speaker_id,text
 3244.0,1,Engenharia né?
 3248.0,2,"É seria seria como a [PARTNER_A] tem um braço de engenharia também para chegar para o cara da usina de gás, beleza? Hoje você tá coletando esse biometano que você produz aí como consequência do seu processo. E você tá comercializando, ele tá vindo caminhão aqui. Encher caminhão embora com biometano coisas do tipo, a gente seria empresa engenharia que montaria infra para esse cara usar o próprio biometano dele."
 3278.0,1,certo
-3278.0,2,"Isso numa usina de cana e numa [UNRESOLVED_ENTITY] ou numa operação de papel celulose a gente teria que ser [STARTUP_A] do da [UNRESOLVED_ENTITY], a gente tem que ser [UNRESOLVED_ENTITY]. Tem uma forma de chegar lá é? E aí eu vou fazer um follow para me mandar o contato do cara que já tem esse bagulho de entrega de gás. Eu acho que o caminho é esse assim, como ele fez com a bateria conversar com os caras que já tem né? E aí tentar ver a gente quer fazer uma operação de levar de levar o biometano no local remoto onde o cara."
+3278.0,2,"Isso numa usina de cana e numa [UNRESOLVED_ENTITY] ou numa operação de papel celulose a gente teria que ser [STARTUP_A] do da [PARTNER_O], a gente tem que ser [PARTNER_O]. Tem uma forma de chegar lá é? E aí eu vou fazer um follow para me mandar o contato do cara que já tem esse bagulho de entrega de gás. Eu acho que o caminho é esse assim, como ele fez com a bateria conversar com os caras que já tem né? E aí tentar ver a gente quer fazer uma operação de levar de levar o biometano no local remoto onde o cara."
 3322.0,2,"Um desafio de capilaridade que a gente tinha com elétrico, né? É um trabalho mais difícil de escalar não é um mercado altamente escalável não, mas por exemplo você teria que ter um dois caminhões operando por exemplo em região [UNRESOLVED_ENTITY] tem mineradora para as [UNRESOLVED_ENTITY] é o forte administradora, [UNRESOLVED_ENTITY]? É papel e celulose é mais interior de [LOCATION_B], né? [UNRESOLVED_ENTITY] também eu não sei aí eu vou."
 3358.0,2,talvez [UNRESOLVED_ENTITY] aqui jogar meio polêmica assim. Mas será que a gente deveria?
 3366.0,5,"Se preocupar e gastar muito tempo agora com isso. Será que não seria melhor a gente? Dizer que a gente vai fazer ter uma noção, talvez de fato conversar com esse cara aí com esse contato não acho ruim. Mas não perder tempo detalhando tanto a operação sabe? Tô com medo da gente gastar porque assim é uma operação nova praticamente, né? A gente teria que talvez desenhar muito e gastar muito tempo com isso."
@@ -261,7 +261,7 @@ onset_seconds,speaker_id,text
 3971.0,2,É o João não vai ficar indo atrás de operação off road para carregar
 3973.0,1,"Renda cobrança, né? Vocês tem que"
 3974.0,2,"caminhão elétrico, é nós. Acho que a gente poderia colocar tudo isso aí falar que eles assumem."
-3982.0,1,[UNRESOLVED_ENTITY] uma folha em branco. Pega uma folha em branco e vai escrevendo isso
+3982.0,1,[PERSON_G] Pega uma folha em branco. Pega uma folha em branco e vai escrevendo isso
 3987.0,2,"E é o operacional e a gente assume toda a parte comercial tecnológica, é? protege"
 4000.0,1,aí. Que já tá já tá surgindo a solução aí?
 4006.0,4,E esse seria um momento sem falar para eles que a gente tá indo mais pesado ou
@@ -279,7 +279,7 @@ onset_seconds,speaker_id,text
 4088.0,4,eu
 4088.0,2,Eu [UNRESOLVED_ENTITY] genérico colocaria continuar o estudo de mercado de veículos
 4090.0,1,desenvolvimento tecnológico
-4094.0,2,elétricos aí tá bem genérico explorado. ponto porque depois se evolui se a [UNRESOLVED_ENTITY]
+4094.0,2,elétricos aí tá bem genérico explorado. ponto porque depois se evolui se a [PARTNER_Q]
 4099.0,4,porque depois
 4104.0,2,"Para estudo de mercado evoluir por uma dia em vídeo operação e a [PARTNER_A] fala não quero para leve pode colocar no contrato que a tecnologia era tem liberdade para usar o serviço para operar leve. Para eles até melhor. Então, eu deixaria o mais genérico agora para esses pentes finais só para ter a carta eu deixaria o mais genérico possível. E para não perder eles então, beleza? Eu Tô anotando aqui, deixa eu até dar O shared outra coisa apresentar outra coisa bloco de notas. Cadê meu bloco de notas Windows? de mercado explorado tecno gera assume operacional [PARTNER_A] assume desenvolvimento tecno"
 4185.0,1,O desenvolvimento da forma né que é isso é a plataforma.
@@ -288,21 +288,21 @@ onset_seconds,speaker_id,text
 4276.0,2,"Eu acho que são as principais pontos que a gente tem que contemplar, né? Porque é só a carta de intenção a gente fala para eles cara. Na hora que"
 4280.0,1,"É que eu colocaria ele na frente do eco-te, né? É uma carta de intenção"
 4283.0,2,"você assinar a gente coloca é que eu te até porque eles tem que vir com a proposta deles a gente encara nossa, né?"
-4296.0,1,"para discutir a formalização. Do negócio né? Ou da [UNRESOLVED_ENTITY] ou da parceria, né? na frente do na frente do"
+4296.0,1,"para discutir a formalização. Do negócio né? Ou da [PARTNER_Q] ou da parceria, né? na frente do na frente do"
 4311.0,2,Eu só vou colocar aqui depois eu mudei ela na carta certinho.
 4314.0,1,"Porque daí você diz bem assim nessa cara nessa carta de que a gente vai fazer, né? Não a carta de intenção demonstra."
 4337.0,2,Aí eu venho aqui.
-4343.0,1,Não é que eu tava dizendo assim. É como se fosse uma etapa vai ter uma etapa que vai ser o estudo e definição da [UNRESOLVED_ENTITY] e barra parceria. Eu tô me comprometendo a fazer junto com vocês um estudo. para definição da [UNRESOLVED_ENTITY] Não tira a carta é o estudo. propor a parceria para continuar no mercado e explorar E daí a formalização formalização da parceria barra de ao evento?
+4343.0,1,Não é que eu tava dizendo assim. É como se fosse uma etapa vai ter uma etapa que vai ser o estudo e definição da [PARTNER_Q] e barra parceria. Eu tô me comprometendo a fazer junto com vocês um estudo. para definição da [PARTNER_Q] Não tira a carta é o estudo. propor a parceria para continuar no mercado e explorar E daí a formalização formalização da parceria barra de ao evento?
 4391.0,2,time
 4412.0,1,"É uma etapa sabe? O que que vocês vão fazer na [UNRESOLVED_ENTITY], nós vamos propor uma parceria, vocês não vão só propor. Vocês já vão fazer a formalização dela?"
 4426.0,2,"É que a carta de intenção não formaliza parceria, né? Só mostra que tem interesse."
 4430.0,1,A carta de intenção diz que vocês vão formalizar no futuro.
 4435.0,2,Não podemos A gente assistiu isso com [PARTNER_A] a carta de intenção não garante não ela não é garantidora de nada.
 4443.0,1,Não eu sei mas vocês vão ter uma etapa uma discussão nesse daqui para frente tá certo? isso
-4452.0,2,"Não na verdade a carta de intenção se jogando bem [UNRESOLVED_ENTITY], né, se a gente discutiu bastante tem que ter [PARTNER_A], ela é para a gente mostrar para os stakeholders entre [PARTNER_A] que a tecnologia era tem a intenção de te fazer essa parceria com a gente, mas a gente não pode colocar absolutamente nada nessa carta de intenção e [UNRESOLVED_ENTITY] nada para [UNRESOLVED_ENTITY]. Então se a gente colocar"
+4452.0,2,"Não na verdade a carta de intenção se jogando bem [UNRESOLVED_ENTITY], né, se a gente discutiu bastante tem que ter [PARTNER_A], ela é para a gente mostrar para os stakeholders entre [PARTNER_A] que a tecnologia era tem a intenção de te fazer essa parceria com a gente, mas a gente não pode colocar absolutamente nada nessa carta de intenção e Garanta nada para [PARTNER_P]. Então se a gente colocar"
 4474.0,1,Não não não não não não não.
 4474.0,2,"desse jeito, eu tô garantindo para ele, entendeu?"
-4479.0,1,"Eu não consegui procurar eu tô dizendo assim, olha. Até que não gera assume os assédios na sequência, a [PARTNER_A] assume atração comercial e etc isso nós vamos fazer estamos dizendo cada um vai fazer isso daqui como carta de intenção e nós vamos estudar as melhores alternativas para formalização. Pode pôr então estudar as alternativas para formalização da [UNRESOLVED_ENTITY]. E daí daí você vai dizer bem assim. Eco de não sei o que lá, você põe entre parênteses."
+4479.0,1,"Eu não consegui procurar eu tô dizendo assim, olha. Até que não gera assume os assédios na sequência, a [PARTNER_A] assume atração comercial e etc isso nós vamos fazer estamos dizendo cada um vai fazer isso daqui como carta de intenção e nós vamos estudar as melhores alternativas para formalização. Pode pôr então estudar as alternativas para formalização da [PARTNER_Q]. E daí daí você vai dizer bem assim. Eco de não sei o que lá, você põe entre parênteses."
 4520.0,1,"Entendeu? Daí é toda aquela dúvida que você pois não vamos discutir na carta de intenção, né? Nós vamos discutir. Depois que a carta de intenção tivesse nada, né? isso aí"
 4573.0,2,a gente tem a
 4578.0,1,você tem mais algum ponto aí para
@@ -318,10 +318,10 @@ onset_seconds,speaker_id,text
 4654.0,1,"É nós, temos seria 10:30, né? Atrasou um pouquinho a gente pode seguir um pouquinho mais a próxima reunião que eu tenho tem 15 minutos, então a gente pode usar um pouco desses 15 minutos aí tranquilo. o que que mais a gente teria aí para"
 4672.0,2,"Engano sobre isso, né?"
 4682.0,5,"Reunião que a gente tem mais próxima é a do [UNRESOLVED_ENTITY], né? Não sei se tem alguma coisa para discutir para ele."
-4691.0,1,"Eu achei aqui uma explicaçãozinha da [UNRESOLVED_ENTITY] sobre a tarifa de energia meio. Tá bem didático aqui eu passei ali no grupo para vocês tá? Só para vocês darem uma olhadinha e começarem a pensar. Inclusive. Lembrei aqui que vocês podem comprar a energia no mercado livre de energia, provavelmente sabe nos QG de vocês dependendo da potência. E no mercado e no mercado livre de energia. Se vocês forem comprar é mais barato normalmente, né?"
-4726.0,2,Compra hoje do mercado livre de energia.
-4733.0,1,"É que o [UNRESOLVED_ENTITY] assim, ele tem que ser um fornecimento em alta tensão, né? Que hoje é só consumidores de alta tensão que estão no [UNRESOLVED_ENTITY], né? e tem um acho que tem alguma potência lá acima de tantos quilowatts, a gente vai depender daí do Da capacidade do QG de vocês a possibilidade de ir para o mercado livre. Que daí a energia fica mais barato isso é?"
-4760.0,5,"Parece também que o [UNRESOLVED_ENTITY] pelo menos o que a gente ouviu aqui em [LOCATION_B], é que vai abrir para consumidor Residencial, né? Então de baixa tensão."
+4691.0,1,"Eu achei aqui uma explicaçãozinha da [UNRESOLVED_ENTITY] sobre a tarifa de energia meio. Tá bem didático aqui eu passei ali no grupo para vocês tá? Só para vocês darem uma olhadinha e começarem a pensar. Inclusive. Lembrei aqui que vocês podem comprar a energia no [PARTNER_N] de energia, provavelmente sabe nos QG de vocês dependendo da potência. E no mercado e no [PARTNER_N] de energia. Se vocês forem comprar é mais barato normalmente, né?"
+4726.0,2,Compra hoje do [PARTNER_N] de energia.
+4733.0,1,"É que o [PARTNER_N] assim, ele tem que ser um fornecimento em alta tensão, né? Que hoje é só consumidores de alta tensão que estão no [PARTNER_N], né? e tem um acho que tem alguma potência lá acima de tantos quilowatts, a gente vai depender daí do Da capacidade do QG de vocês a possibilidade de ir para o [PARTNER_N]. Que daí a energia fica mais barato isso é?"
+4760.0,5,"Parece também que o [PARTNER_N] pelo menos o que a gente ouviu aqui em [LOCATION_B], é que vai abrir para consumidor Residencial, né? Então de baixa tensão."
 4770.0,1,Isso essa notícia já tava lá desde.
 4770.0,5,"Bem parecido, né? Dá uma ansiedade aí de não sabe para onde ir para onde vai"
 4775.0,1,"2000 e pouco sabe mais de 20 anos essa notícia? Só que assim como agora o [UNRESOLVED_ENTITY]. Tá no Poder, ele nunca vai liberar o mercado, né? O [UNRESOLVED_ENTITY] não é deliberação do mercado. Eles não são deliberar, né? E então nunca conseguiu sabe sempre na primeira reforma previsto lá que se eu não me engano a partir do ano 2000, qualquer coisa todos os consumidores iam ser livres. [UNRESOLVED_ENTITY] escolher o fornecedor. Mas uma hora vai chegar eu tenho certeza, só que tá demorando."
@@ -332,7 +332,7 @@ onset_seconds,speaker_id,text
 4852.0,1,com os próximos
 4853.0,2,"Tranquilos assim vou falar da minha parte um pouquinho ansioso. Acho que é normal, né? Não sabe a gente não sabe o que vai acontecer o nosso desejo é que a gente continue. Nem forma pivotada ou não, mas trabalhando com algo nesse sentido então gera um pouquinho de ansiedade, mas a gente está seguro que foi feito até agora, né?"
 4879.0,1,"E eu encaminhamento tá deixando vocês. tranquilos, não tem nenhum ponto aí que"
-4884.0,2,"Não o trabalho o projeto em si sim agora os rumos que vão. Que as coisas vão tomar dentro da [PARTNER_A] para a gente ainda é muito obscuro, né? Isso não é uma crítica companhia. Na verdade tem muito mais coisa para falar bem do programa do que o contrário mas É um pouco falta um pouco de [UNRESOLVED_ENTITY] sobre os próximos passos, né? Por exemplo a gente tem uma reunião com o [UNRESOLVED_ENTITY] que a gente esperava esclarecedora."
+4884.0,2,"Não o trabalho o projeto em si sim agora os rumos que vão. Que as coisas vão tomar dentro da [PARTNER_A] para a gente ainda é muito obscuro, né? Isso não é uma crítica companhia. Na verdade tem muito mais coisa para falar bem do programa do que o contrário mas É um pouco falta um pouco de [UNRESOLVED_ENTITY] sobre os próximos passos, né? Por exemplo a gente tem uma reunião com o [DEPT_B] que a gente esperava esclarecedora."
 4912.0,2,"Acabou sendo uma reunião só protocolar bem política, né? Aquelas respostas não podemos garantir nada ocorrerão discussões reunião que não precisava ter tido sabe? Então essas coisas vão deixando a gente talvez até um pouco mais ansioso, mas nada que [UNRESOLVED_ENTITY] né? A gente entende também que uma empresa grande tem muito interesse a ser. Atendido aí que algumas discussões sobre o futuro disso foge completamente da nossa alçada."
 4940.0,1,"E o [PERSON_F] e o [PERSON_E], como é que estão aí?"
 4949.0,5,"né? E se vai aliás rola um sentimento também que é isso. A gente tá no meio do ano aí parece que ninguém tem muito orçamento dentro da área e fica meio nebuloso isso porque parece que ninguém quer se comprometer muito, né? Acho que o sentimento é um pouco que apesar da gente ter muita gente gosta do projeto. Ver valor mas o sentimento é que ninguém abraçou no ponto de falar não vocês podem ficar tranquilos podem vir para minha área que tá tudo certo, mas"

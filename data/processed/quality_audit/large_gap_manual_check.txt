@@ -1,0 +1,33 @@
+====================================================================================================
+2024.10.14startup_b
+largest_gap_seconds=376.0
+prev_onset=5615.0 prev_speaker=1 prev_text=Deixa eu vou esvaziar.
+next_onset=5991.0 next_speaker=1 next_text=Mas eu tô pronto.
+--- local context ---
+            onset=5461.0 speaker=2 gap_from_prev=0.0 text=Abraço, tchau, tchau.
+            onset=5521.0 speaker=1 gap_from_prev=60.0 text=Pior é que fiz. uma comida
+<GAP_AFTER> onset=5615.0 speaker=1 gap_from_prev=94.0 text=Deixa eu vou esvaziar.
+            onset=5991.0 speaker=1 gap_from_prev=376.0 text=Mas eu tô pronto.
+            onset=6044.0 speaker=1 gap_from_prev=53.0 text=Eu posso ir?
+====================================================================================================
+2025.03.31startup_a
+largest_gap_seconds=309.0
+prev_onset=0.0 prev_speaker=1 prev_text=É impressionante a fixação dele pelo antecessor pelo presidente, [UNRESOLVED_ENTITY], não tem mais o que fazer lá e os jornalistas que o acompanham nessa viagem seja um brasileiros ou mesmo de outros países agências internacionais. Será que não tem outras perguntas? Por exemplo o que eu acabei de dizer? Que tipo de acordo sairá dessa viagem, o que é que vocês estão assinando a economia brasileira? Vai para e as declarações do presidente dos [UNRESOLVED_ENTITY] [UNRESOLVED_ENTITY] sobre o [LOCATION_A] até que ponto o [LOCATION_A] está ou não preocupado com o que acontece no maior país na maior nação do planeta em um maior país do continente não ele parece obcecado pelo presente [UNRESOLVED_ENTITY], porque tudo o que ele quer é que o presente [UNRESOLVED_ENTITY] fique de fora do jogo eleitoral, não só inelegível, mas também o sonho dele e de todos os petistas e da esquerda tanto na política como nas redações da empresa tradicional é que o presidente [UNRESOLVED_ENTITY] seja preso porque sabe que ele é o maior cabo Eleitoral do país ou está no [UNRESOLVED_ENTITY] gastando de
+next_onset=309.0 next_speaker=2 next_text=Os meninos estão entrando já. O [PERSON_E] tá ligando aqui o computador e o [PERSON_F]
+--- local context ---
+<GAP_AFTER> onset=0.0 speaker=1 text=É impressionante a fixação dele pelo antecessor pelo presidente, [UNRESOLVED_ENTITY], não tem mais o que fazer lá e os jornalistas que o acompanham nessa viagem seja um brasileiros ou mesmo de outros países agências internacionais. Será que não tem outras perguntas? Por exemplo o que eu acabei de dizer? Que tipo de acordo sairá dessa viagem, o que é que vocês estão assinando a economia brasileira? Vai para e as declarações do presidente dos [UNRESOLVED_ENTITY] [UNRESOLVED_ENTITY] sobre o [LOCATION_A] até que ponto o [LOCATION_A] está ou não preocupado com o que acontece no maior país na maior nação do planeta em um maior país do continente não ele parece obcecado pelo presente [UNRESOLVED_ENTITY], porque tudo o que ele quer é que o presente [UNRESOLVED_ENTITY] fique de fora do jogo eleitoral, não só inelegível, mas também o sonho dele e de todos os petistas e da esquerda tanto na política como nas redações da empresa tradicional é que o presidente [UNRESOLVED_ENTITY] seja preso porque sabe que ele é o maior cabo Eleitoral do país ou está no [UNRESOLVED_ENTITY] gastando de
+            onset=309.0 speaker=2 gap_from_prev=309.0 text=Os meninos estão entrando já. O [PERSON_E] tá ligando aqui o computador e o [PERSON_F]
+            onset=309.0 speaker=1 gap_from_prev=0.0 text=Bom dia [PERSON_G], tudo bom? Tudo certinho também.
+            onset=318.0 speaker=2 gap_from_prev=9.0 text=tá subindo, mas só eles entrando o [PERSON_E] a gente.
+====================================================================================================
+2025.04.14startup_a
+largest_gap_seconds=278.0
+prev_onset=5643.0 prev_speaker=4 prev_text=[UNRESOLVED_ENTITY] [PERSON_A]. Até mais.
+next_onset=5921.0 next_speaker=1 next_text=Bom dia [UNRESOLVED_ENTITY]. Tudo ótimo e você? Que bom. isso É 200 eu vou fechar tá 234 com possibilidade de tirar quatro ali do seguro. Tá bem pouco, né? Poxa então com certeza vale a pena pegar o desconto lá de 4.000. Então tá. É isso. Então esse seguro eu eu continuando esse eu fico um seguro menor e ainda tem um descontinho lá. Então tá esse excelente é isso que eu gostaria de ouvir, eu estou ouvindo o que eu gostaria.
+--- local context ---
+            onset=5640.0 speaker=2 gap_from_prev=1.0 text=Valeu, tchau.
+            onset=5642.0 speaker=1 gap_from_prev=2.0 text=Grande abraço para vocês, hein?
+<GAP_AFTER> onset=5643.0 speaker=4 gap_from_prev=1.0 text=[UNRESOLVED_ENTITY] [PERSON_A]. Até mais.
+            onset=5921.0 speaker=1 gap_from_prev=278.0 text=Bom dia [UNRESOLVED_ENTITY]. Tudo ótimo e você? Que bom. isso É 200 eu vou fechar tá 234 com possibilidade de tirar quatro ali do seguro. Tá bem pouco, né? Poxa então com certeza vale a pena pegar o desconto lá de 4.000. Então tá. É isso. Então esse seguro eu eu continuando esse eu fico um seguro menor e ainda tem um descontinho lá. Então tá esse excelente é isso que eu gostaria de ouvir, eu estou ouvindo o que eu gostaria.
+            onset=6018.0 speaker=1 gap_from_prev=97.0 text=É puxa eu fui dar uma voltinha com ele lá, fiquei impressionado, viu? nossa Eu vou arriscar, né? Porque chinês e híbrido. Mas assim a gente tem aquela [PARTNER_C] que é o carro é uma delícia de um carro, né? Você dirigindo aquele ali é igual viu? E assim em termo de dirigibilidade e conforto o ruído até menor, né? Porque o ruído é menor ainda que eu. Que a gasolina né? Porque ele é motor elétrico, né? E o motor gasolina funciona lá de vez em quando e também muito silencioso também, não é tão daí é um motor 1.5 é menorzinho, né? Mas olha excelente assim de dirigir tecnologia e assim conforto interno, né? É lógico Ele ele é do tamanho até um pouquinho maior que o ovo xc40.
+            onset=6082.0 speaker=1 gap_from_prev=64.0 text=Eu acho que assim internamente. Ele parece um pouquinho, né? Mas eu vou dizer assim que seja equivalente, né? Agora é lógico que ele não é um [PARTNER_C], né, provavelmente lá a estrutura não é tão boa, né? Essas coisas a mais a diferença de preço é o seguinte se a gente fosse por um pouco era 430. É muito. 430 400 e 400 e 500 né? Então o preço tá muito competitivo. Agora, tem que saber provavelmente não é um certamente não é um povo. Nem a marca e nem a qualidade, talvez durabilidade. Eu acho que dá para conviver fácil e com isso dá para arriscar.

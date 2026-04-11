@@ -1,0 +1,88 @@
+================================================================================
+2024.11.04startup_a
+B1	ORG	2
+Bom	LOC	2
+Finanças	LOC	2
+NBA	ORG	2
+Tio Du	PER	2
+Vamos	PER	2
+Abel	PER	1
+Abraço	LOC	1
+Alienígena	PER	1
+Alternativa	PER	1
+Alternativa de plano b	PER	1
+Anotei	LOC	1
+B1	LOC	1
+BC	ORG	1
+Barreira	LOC	1
+Beach	ORG	1
+Beleza	PER	1
+Bill	PER	1
+Calaça	LOC	1
+Campo	LOC	1
+================================================================================
+2025.03.02startup_a
+Paulo	ORG	5
+Manchete	ORG	4
+Beach	LOC	3
+Paulo	PER	3
+Uber	LOC	3
+Deus	PER	2
+Igual	PER	2
+Redonda	LOC	2
+Vertentes	LOC	2
+linda	PER	2
+Adolfo	PER	1
+Aldeia	LOC	1
+Ali	PER	1
+América Latina Ninguém	LOC	1
+Boas	PER	1
+Bom	LOC	1
+CCR	ORG	1
+Caminhão	LOC	1
+Campinas	LOC	1
+Carlos	PER	1
+================================================================================
+2025.03.17startup_a
+QG	LOC	4
+Norte	LOC	3
+Porto	LOC	3
+Ajuda	LOC	2
+CESPE	LOC	2
+Eletro	ORG	2
+Maio	LOC	2
+PepsiCo	ORG	2
+Pitt	PER	2
+QG	ORG	2
+Tio Du	PER	2
+Óbvio	PER	2
+Acho	PER	1
+Amanhã	LOC	1
+América	LOC	1
+América Latina	LOC	1
+Anchieta	LOC	1
+Andrade	PER	1
+Anhanguera	LOC	1
+Boa	LOC	1
+================================================================================
+2025.03.31startup_a
+Jair bolsonaro	PER	4
+Paulo	ORG	3
+PT	ORG	2
+Paulo	PER	2
+QG	LOC	2
+Racha	LOC	2
+Abril	ORG	1
+Anchieta	LOC	1
+Atendimento	ORG	1
+Bank	ORG	1
+Boa	LOC	1
+Campinas	LOC	1
+Card	LOC	1
+Central hidrelétrica	LOC	1
+Deixaria	ORG	1
+Delivery	LOC	1
+Disse	PER	1
+Donald trump	PER	1
+EDP	ORG	1
+Eloi do serten	LOC	1

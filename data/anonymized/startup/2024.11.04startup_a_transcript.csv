@@ -6,7 +6,7 @@ onset_seconds,speaker_id,text
 38.0,2,O [PERSON_G] mandou no grupo que tá entrando aqui 3 minutinhos.
 43.0,1,"Eu vi ali, vamos esperamos né?"
 48.0,2,sim
-124.0,1,[UNRESOLVED_ENTITY] entrando Bom dia [UNRESOLVED_ENTITY].
+124.0,1,[PERSON_G] entrando [UNRESOLVED_ENTITY] dia [PERSON_G].
 138.0,3,"Bom dia Tosse chata, então causa que hoje [PERSON_A] da chuva?"
 148.0,1,Acho é Ontem choveu bastante aqui.
 151.0,3,É Tá um trânsito um caos fila em estacionamento tá meio caótico. Mas você tá bem?
@@ -16,13 +16,13 @@ onset_seconds,speaker_id,text
 180.0,3,"vamos Vamos pessoal, vamos começar pelo segue, né que são cinco minutos compartilhar as notícias. Quer comer alguém quer começar posso começar?"
 192.0,4,Pode começar.
 195.0,3,"Bom eu vou trazer uma notícia de um site que a gente teve na semana passada. O [PERSON_A] que a gente tava com muita dificuldade de abordar os estacionamentos. E aí falei pô. Quem opera o estacionamento da [PARTNER_A] é a [CLIENT_A] que é o maior que existe aqui em [LOCATION_B]. Talvez no [LOCATION_A]. Foi porque que a gente está batendo cabeça sendo que a [PARTNER_A] já tem relacionamento, né? Eu conseguimos descobrir quem era compradora da [PARTNER_A] que cuidava disso."
-227.0,3,"Ela foi super solícita e [UNRESOLVED_ENTITY], a [PARTNER_A] acabou de renovar o contrato acabou de ter concorrência. Ela não só nos atendeu por uma reunião presencial, como ela dividiu com a gente na sexta-feira. Todos os contatos não só da [CLIENT_A] como dos outros dois concorrentes que foram para a fase final desse processo. Que a [UNRESOLVED_ENTITY] e a [UNRESOLVED_ENTITY] a gente já tá com o telefone das pessoas com os contatos."
+227.0,3,"Ela foi super solícita e [UNRESOLVED_ENTITY], a [PARTNER_A] acabou de renovar o contrato acabou de ter concorrência. Ela não só nos atendeu por uma reunião presencial, como ela dividiu com a gente na sexta-feira. Todos os contatos não só da [CLIENT_A] como dos outros dois concorrentes que foram para a fase final desse processo. Que a [CLIENT_B] e a [CLIENT_C] a gente já tá com o telefone das pessoas com os contatos."
 258.0,3,Para atacar essa semana aí conseguir apertar uma mão aí para MVP.
 263.0,1,"Que [UNRESOLVED_ENTITY] ideia, hein sensacional? Eu acho que é esta página, não sei se não é aqui de [LOCATION_D]."
 274.0,3,Eles são gigantes.
 277.0,4,"Eles fazem a zona azul aqui de [LOCATION_B], né? Nossa os caras são."
 282.0,1,"Eu não lembro agora, eu sei que tem uns conhecidos nosso que tem uma rede de estacionamento. Mas agora não lembro já está parte. Mas pode ser que seja mesmo. Mas que bom isso daí já dá uma abertura enorme, né? Vocês olharam aquela. o Spin série lá para fazer as perguntas de problema de implicação de investigação"
-307.0,3,Toda a gente começou a fazer um para [UNRESOLVED_ENTITY] e a ideia é que toda a abordagem com esses estabelecimentos aí que a gente conseguiu contato. a gente já vai para reunião com o
+307.0,3,Toda a gente começou a fazer um para [PARTNER_L] e a ideia é que toda a abordagem com esses estabelecimentos aí que a gente conseguiu contato. a gente já vai para reunião com o
 319.0,1,com roteirinho
 319.0,3,Spin preparado vou ter usando o
 323.0,1,"Não chegaram a aplicar ele ainda, né?"
@@ -33,13 +33,13 @@ onset_seconds,speaker_id,text
 357.0,3,estabelecimentos
 364.0,1,mais alguma
 368.0,3,oferecemos
-370.0,4,"Essa semana a gente teve a reunião presencial com a plugin. Ela foi lá na fábrica deles. Onde eles fazem os tanto as baterias quanto as conversões de veículos né? Foi uma reunião bem boa a gente conseguiu aí. Falar o que a gente queria né que era emprestado o carro lá por duas semanas. Oferecemos a parceria com a [UNRESOLVED_ENTITY] também. O que assim parecia bem positivo, eles gostaram bastante dessa ideia então bom do lado da MVP com a Quatro Rodas, tá quase tudo certo, eu também já conversei lá com a [UNRESOLVED_ENTITY], eles gostaram de ser aqui em [LOCATION_B], então."
+370.0,4,"Essa semana a gente teve a reunião presencial com a plugin. Ela foi lá na fábrica deles. Onde eles fazem os tanto as baterias quanto as conversões de veículos né? Foi uma reunião bem boa a gente conseguiu aí. Falar o que a gente queria né que era emprestado o carro lá por duas semanas. Oferecemos a parceria com a [PARTNER_K] também. O que assim parecia bem positivo, eles gostaram bastante dessa ideia então bom do lado da MVP com a [PARTNER_K], tá quase tudo certo, eu também já conversei lá com a [PARTNER_K], eles gostaram de ser aqui em [LOCATION_B], então."
 418.0,3,Então a gente vai
 418.0,4,A gente vai acho que talvez essa semana ou a próxima é uma reunião aí para para a linha datas e tudo
 424.0,3,para alinhar
-425.0,4,mais né? Tanto com a plugin quanto com a Quatro Rodas o melhor dia para fazer isso. E provavelmente vai sair na edição
+425.0,4,mais né? Tanto com a plugin quanto com a [PARTNER_K] o melhor dia para fazer isso. E provavelmente vai sair na edição
 431.0,3,para a gente fechar o cego [PERSON_A]
-432.0,4,"de Janeiro a nossa essa matéria aí. E da questão do MVP da gente ficar emprestado o carro deles para os estacionamentos eles. Estamos em negociação, né do período, mas com essa carta da Quatro Rodas ele Se mostraram abertos da emprestar mesmo, né? Não só porque a gente tava até negociando a lugar e tal, mas provavelmente eles vão emprestar mesmo o carro por uma ou duas semanas para a gente fazer o MVP que os estacionamentos e da [UNRESOLVED_ENTITY]."
+432.0,4,"de Janeiro a nossa essa matéria aí. E da questão do MVP da gente ficar emprestado o carro deles para os estacionamentos eles. Estamos em negociação, né do período, mas com essa carta da [PARTNER_K] ele Se mostraram abertos da emprestar mesmo, né? Não só porque a gente tava até negociando a lugar e tal, mas provavelmente eles vão emprestar mesmo o carro por uma ou duas semanas para a gente fazer o MVP que os estacionamentos e da [PARTNER_L]."
 468.0,1,E ele tem a possibilidade de alugar também. Para vocês verem depois.
 477.0,4,"É assim, ele não falaram que não mas a ideia deles é o que eles mais caem na vida é vender o negócio, né? Mas não disseram que não também então é uma possibilidade."
 493.0,1,"E o preço deles, como é que é?"
@@ -61,7 +61,7 @@ onset_seconds,speaker_id,text
 740.0,4,"o ambiente, né?"
 744.0,3,"conseguiu subir meio ponto em Business Model. A gente já tá bem bem desenhado que a gente está propondo como a gente propõe fazer dinheiro. para ambas as partes então a gente considera aí hoje que a gente está no [UNRESOLVED_ENTITY] e meio propriedade intelectual a gente já tinha aquele acordo de não trabalhar nessa rock. [UNRESOLVED_ENTITY] a gente segue no dois e meio objetivo final é 3. A gente tem tudo de forma empírica, né? Que a gente precisa a gente precisa colocar só no papel a gente ainda não priorizou."
 778.0,3,Funk a gente acha que não entrou também a gente acha que talvez a gente chegue nesse três. tendo um aperto de mão para eliminar com essa tecnologia era que ainda não aconteceu então a gente mantém também no [UNRESOLVED_ENTITY] e meio quanto as métricas das rocks né a parte de operações que foi nosso foco até agora. Quer ter pelo menos uma opção de carregador e de Power Bank para MVP.
-806.0,3,"a gente considera que hoje a gente está em 70% dela uma vez aí que as conversas avançaram muito bem com a Com a plugin. Então na verdade só falta a gente assinar mesmo, né? Porque eles já concordaram em participar da matéria da Quatro Rodas e emprestar o veículo para o MVP. A gente só tá curando com eles. Aí o período que eles vão deixar esse carro com a gente etc."
+806.0,3,"a gente considera que hoje a gente está em 70% dela uma vez aí que as conversas avançaram muito bem com a Com a plugin. Então na verdade só falta a gente assinar mesmo, né? Porque eles já concordaram em participar da matéria da [PARTNER_K] e emprestar o veículo para o MVP. A gente só tá curando com eles. Aí o período que eles vão deixar esse carro com a gente etc."
 830.0,3,Para a gente ter esse aperto de mão aí e botar um 100% nessa métrica. Comercial e a parte tecnologia e
 836.0,4,"Cara mesma coisa com track, fala a"
 840.0,3,"Finanças, a gente colocou aí 25%, porque a gente colocou muito foco em ter a tecnologia disponível para o MVP. E aqui o [PERSON_F] já começou a rascunhar a parte de [UNRESOLVED_ENTITY] e a gente já tá com esses contatos que a gente mencionou hoje dos estacionamentos. A ideia é que essa semana com foco em ter essas conversas com os estabelecimentos. Essa parte comercial chega muito perto do sem também e a parte de [UNRESOLVED_ENTITY] vai ser uma prioridade."
@@ -90,10 +90,10 @@ onset_seconds,speaker_id,text
 1190.0,3,glúteo para a gente endereçar?
 1192.0,1,"Dá para imaginar assim, vamos imaginar vocês fazerem o kit para no final, né? E dizendo aqui ó. Temos uma possibilidade de fazer uma infraestrutura para caminhões desse tipo, né? E daí, vamos precisar investidores para investir nos pontos, né? Que podem ser Tais investidores. Inclusive a b u, né? Depois vocês podem pesquisar outros, né? Vamos dizer o grau, né? Sei lá entre chutando, né? Essas grandes redes se elas não podem ser um investidor para fazer um ponto ou outras que se especializam mais em receber [UNRESOLVED_ENTITY], né? Que tem a gente vê na estrada vários bem estruturadas, né? Esse daí é um plano [UNRESOLVED_ENTITY] aí muito promissor, viu?"
 1245.0,4,Acho que a gente pode colocar como fazer o spin para bu o spin para afinar trança.
-1254.0,3,"Então na Fenatran a gente sabe quem que a gente abordaria na Fenatran cabeludo foco, né? Nem vai conseguir dar muita atenção para gente na [UNRESOLVED_ENTITY], a gente tem que falar com a [UNRESOLVED_ENTITY] dentro da [PARTNER_A]. [UNRESOLVED_ENTITY] eles vão estar com foco total no cliente. Então, talvez o spin para [UNRESOLVED_ENTITY] e a gente fala cabelo depois."
+1254.0,3,"Então na [PARTNER_M] a gente sabe quem que a gente abordaria na [PARTNER_M] cabeludo foco, né? Nem vai conseguir dar muita atenção para gente na [PARTNER_M], a gente tem que falar com a [UNRESOLVED_ENTITY] dentro da [PARTNER_A]. [PARTNER_M] eles vão estar com foco total no cliente. Então, talvez o spin para [UNRESOLVED_ENTITY] e a gente fala cabelo depois."
 1280.0,4,Pode ser? Pode ser?
 1284.0,3,Que que você pensa [PERSON_E]?
-1286.0,2,"É um amigo falou que essa semana e os próximas semanas, eles vão estar focado em preparar assinatura e depois [UNRESOLVED_ENTITY] os frutos da Fenatran. Então, ele sugeriu até falar com eles a partir de dezembro só."
+1286.0,2,"É um amigo falou que essa semana e os próximas semanas, eles vão estar focado em preparar assinatura e depois [UNRESOLVED_ENTITY] os frutos da [PARTNER_M]. Então, ele sugeriu até falar com eles a partir de dezembro só."
 1301.0,3,Então a gente pode interessar aqui que a gente só consegue falar com a partir de dezembro. E deixa tudo viva ali e nesse período a gente montou [UNRESOLVED_ENTITY]. concordam
 1315.0,1,"É daí a tudo poderia ser montar o spin para conversar com a biu, né? Mas também não precisa ser. Bem dezembro daqui duas semanas. Deixa eu ver aqui."
 1355.0,3,montar para conversar com hoje é dia quatro do 11 a 12 Então eu tiro 18.
@@ -122,7 +122,7 @@ onset_seconds,speaker_id,text
 1769.0,1,"Daí eles vão eles vão entender dar uma nota três. Lógico que depois a gente argumenta sabe a gente faz aquele que eu sempre brinco, né? Nós temos que ser o advogado de [UNRESOLVED_ENTITY] do assassino, né? A gente defendeu assassino até tentar convencer que ele é cinco, né? Não vamos se entregar, né no nos argumentos, né? Se a gente tiver um argumentozinho para tentar chegar no 5 a gente usa, né? Para deixar eles com problema de decidir, né? Pois se a gente chegar lá e disse assim."
 1801.0,1,"Ah, não é só conseguirmos três mesmo. É a mesma coisa que o advogado dizer bem assim pouco, o cara é assassino mesmo. Ele tem que ir preso. Vocês não vão fazer isso, mas acho que estão indo super bem sabe a impressão que eu tenho aí que vocês conseguirem essa rock do jeito que vocês estão. Vai dar muita vai dar muita frente de trabalho aí para os próximos. Para as próximas."
 1834.0,1,Será que esclareceu?
-1834.0,3,legal [UNRESOLVED_ENTITY] para mim ficou [PARTNER_F] o [PERSON_F] que é o dono do dinheiro aí [UNRESOLVED_ENTITY]. Vamos trocar a tela de novo?
+1834.0,3,legal [UNRESOLVED_ENTITY] para mim ficou [PARTNER_F] o [PERSON_F] que é o dono do dinheiro aí [PERSON_J]. Vamos trocar a tela de novo?
 1846.0,1,"É eu vou dizer assim, se a gente não conseguir a gente pelo menos vai fazer um bom plano para testar nos próximos 12 meses depois da incubação, né? Vamos ter detalhes para dizer que é o plano pode ser assim, nós já testamos isso. Já sabemos isso a gente quer verificar isso, né? Então um bom plano. A gente vai ter. Por isso que eu digo a gente vai conseguir os cinco lá do jeito que vocês estão indo super bem."
 1879.0,3,"Bom a gente endereçou mais uma. A gente solucionou. Depois tem que ver solucionadas aqui para somar tudo certinho. bom tiramos as dúvidas de [UNRESOLVED_ENTITY] ver aqui a próxima vítima. Uma que talvez vale a pena discutir eu não sei o que o [PERSON_E] pensa. A gente tem até a [UNRESOLVED_ENTITY], mas eu"
 1926.0,2,Eu acho que a gente tinha que
@@ -182,17 +182,17 @@ onset_seconds,speaker_id,text
 2367.0,2,Agora sim precisa adicionar alguns problemas.
 2370.0,3,"Precisamos é eu acho que a gente discutiu coisas na semana passada que talvez sejam eixos importantes de declararem. Talvez mais importante do que que tá aqui, né? Quer puxar fila, [PERSON_E]?"
 2387.0,2,Qual seria?
-2405.0,3,"Declarada já quer conseguir o MVP com a [UNRESOLVED_ENTITY]. Se vocês me permitirem, eu tenho alguns pontos a falar a gente tem até a tio do 16 que aquela tildo de conseguir contactá-los e tal. A gente foi mais uma drywashi [PERSON_A] que tem um volume maior de movimento e um volume maior de veículos elétricos do que aqui do shopping [UNRESOLVED_ENTITY] foi a de [UNRESOLVED_ENTITY]. Falamos com o gerente da loja."
-2435.0,3,"E aquela mesma conversa, o cara falou que é super interessante para eles tal tal precisa falar com supervisor, só que a gente entendeu. Que a gente precisa falar com corporativo da [UNRESOLVED_ENTITY], não adianta falar com loja. A gente encontrou no [UNRESOLVED_ENTITY] o contato do pessoal. É todos os contatos que a gente conseguiu lá são aqueles que você precisa ter. Na sua rede de contato para conseguir mandar mensagem."
-2463.0,3,"Mandamos convite para todos ainda não. Fomos aceitos. e a gente está nessa peleja aí de conseguir viabilizar um contato com corporativo da [UNRESOLVED_ENTITY], eu acho que a gente continua sendo muito potencial, né? Principalmente depois da conversa com o pessoal das lojas. Mas hoje tá um potencial aí completamente represado, né que a gente não conseguiu falar com você."
-2495.0,1,"É o [UNRESOLVED_ENTITY] é o primeiro caminho sem dúvida nenhuma. Vocês já estão no caminho? Certo, né? Agora o [UNRESOLVED_ENTITY] é assim, não é todo mundo que responde rápido, né?"
+2405.0,3,"Declarada já quer conseguir o MVP com a [PARTNER_L]. Se vocês me permitirem, eu tenho alguns pontos a falar a gente tem até a tio do 16 que aquela tildo de conseguir contactá-los e tal. A gente foi mais uma drywashi [PERSON_A] que tem um volume maior de movimento e um volume maior de veículos elétricos do que aqui do shopping [UNRESOLVED_ENTITY] foi a de [UNRESOLVED_ENTITY]. Falamos com o gerente da loja."
+2435.0,3,"E aquela mesma conversa, o cara falou que é super interessante para eles tal tal precisa falar com supervisor, só que a gente entendeu. Que a gente precisa falar com corporativo da [PARTNER_L], não adianta falar com loja. A gente encontrou no [PARTNER_H] o contato do pessoal. É todos os contatos que a gente conseguiu lá são aqueles que você precisa ter. Na sua rede de contato para conseguir mandar mensagem."
+2463.0,3,"Mandamos convite para todos ainda não. Fomos aceitos. e a gente está nessa peleja aí de conseguir viabilizar um contato com corporativo da [PARTNER_L], eu acho que a gente continua sendo muito potencial, né? Principalmente depois da conversa com o pessoal das lojas. Mas hoje tá um potencial aí completamente represado, né que a gente não conseguiu falar com você."
+2495.0,1,"É o [PARTNER_H] é o primeiro caminho sem dúvida nenhuma. Vocês já estão no caminho? Certo, né? Agora o [PARTNER_H] é assim, não é todo mundo que responde rápido, né?"
 2509.0,4,A gente teve tem até um exemplo que
 2511.0,1,talvez
 2511.0,4,"é legal de compartilhar aí com você, [PERSON_A] que a gente a gente foi no [UNRESOLVED_ENTITY], né? Uma semana atrás que é uma. S palestras né basicamente ali sobre mobilidade elétrica e a gente queria tentar contatar o diretor de inovação, eu acho"
 2533.0,3,o [UNRESOLVED_ENTITY]
-2535.0,4,"É de dar 99 e no dia lá, a gente não conseguiu porque ele acabou indo embora antes de terminar o evento durante uma outra palestra. E aí o [UNRESOLVED_ENTITY] mandou uma mensagem pelo [UNRESOLVED_ENTITY] e ele não respondeu. E aí eu falei pô, deixa eu tentar"
+2535.0,4,"É de dar 99 e no dia lá, a gente não conseguiu porque ele acabou indo embora antes de terminar o evento durante uma outra palestra. E aí o [PERSON_G] mandou uma mensagem pelo [PARTNER_H] e ele não respondeu. E aí eu falei pô, deixa eu tentar"
 2550.0,3,E aí
-2551.0,4,"também pelo meu [UNRESOLVED_ENTITY] de repente, o cara tá online e acaba vendo né."
+2551.0,4,"também pelo meu [PARTNER_H] de repente, o cara tá online e acaba vendo né."
 2554.0,3,Aí eu encontro você controver a mensagem.
 2558.0,4,"É mesma mensagem, só que mandei pelo meu e aí ele respondeu e aí a gente conseguiu um contato com ele, ele mandou ele falar vou estar viajando nas próximas semanas, mas fala com essa menina aqui da minha"
 2570.0,3,Ele deu um contato que a gente vai
@@ -200,16 +200,16 @@ onset_seconds,speaker_id,text
 2570.0,3,ligar hoje também de uma menina da 99.
 2573.0,4,Foi bem bom então assim assim só um exemplo para compartilhar que
 2578.0,1,Não legal.
-2578.0,4,"realmente o [UNRESOLVED_ENTITY] às vezes demora, mas funciona."
+2578.0,4,"realmente o [PARTNER_H] às vezes demora, mas funciona."
 2581.0,3,"E a gente tem que ser um pouquinho insistente, né?"
 2585.0,1,"Vocês sabem. Que tem uma coisa que o pessoal sempre diz assim, vamos dizer assim, eu preciso falar com o [UNRESOLVED_ENTITY], vamos imaginar assim. Acho que você tá entre o papo e você tem sete pessoas."
 2602.0,3,"Sim, a teoria das sete pessoas, ela"
 2603.0,1,então
 2604.0,3,é [UNRESOLVED_ENTITY].
 2606.0,1,"Então vocês tem que pegar assim na loja lá, né? Com quem que eu falo no corporativo, né? Você tem o nome de alguém o telefone de alguém normalmente, ele tem alguém que pode indicar alguém que vai chegar lá sabe? Então, talvez pense nessa estratégia também, sabe de você e daí quando você [UNRESOLVED_ENTITY] para ele, né? Daí você tem uma secretária que elas têm assim uma. Um prazer de barragem, né? Parece que a função delas foi dizer assim, não passa em ninguém, né para mim que eu não quero falar com ninguém."
-2646.0,1,"E daí elas levam muito a sério isso e Elas Ficam super poderosa, né? Então você tem que muitas vezes chegar lá, né? Eu lembro uma vez um desses que a gente estava orientando, né? um cara deu uma dica lá, como é que você faz para para passar pela Pela secretária, né? Ah eu digo meu nome e o sobrenome eu digo aqui quem tá falando é o [UNRESOLVED_ENTITY]."
-2677.0,1,"Né um outro que era gozar dois assim. Ah então tá bom. Então, eu vou falar que eu sou [UNRESOLVED_ENTITY]. Mais ou menos assim, né? Então eles olha aqui quem tá falando é o [UNRESOLVED_ENTITY]. [UNRESOLVED_ENTITY] e Fulano me indicou para eu falar com ele sobre isso. Né, então você sempre na teoria das sete pessoas, você sempre diz assim, ó, aí você já é conhecido né? Você nunca conheceu o Fulano, né? Pode nem ter encontrado ele nenhuma vez."
-2706.0,1,"Daí você vai dizer assim, o Fulano da empresa tal me indicou para eu falar com ele sobre isso. Sabe daí você então, você deu duas autoridades, né? O nome o sobrenome né que você já tem né? Você já tem ali. O [UNRESOLVED_ENTITY] da [PARTNER_A] pulando me indicou a falar com ele sobre uma um projeto que a [PARTNER_A] está desenvolvendo. Então, aí você já você vai diminuir aquela? [UNRESOLVED_ENTITY] da secretária né então, mas tem que ter paciência não qualquer situação mesmo na secretária no e-mail no [UNRESOLVED_ENTITY], né? Mas é Talvez assim não pare, né? Fique sempre tentando."
+2646.0,1,"E daí elas levam muito a sério isso e Elas Ficam super poderosa, né? Então você tem que muitas vezes chegar lá, né? Eu lembro uma vez um desses que a gente estava orientando, né? um cara deu uma dica lá, como é que você faz para para passar pela Pela secretária, né? Ah eu digo meu nome e o sobrenome eu digo aqui quem tá falando é o [PERSON_K]."
+2677.0,1,"Né um outro que era gozar dois assim. Ah então tá bom. Então, eu vou falar que eu sou [PERSON_L]. Mais ou menos assim, né? Então eles olha aqui quem tá falando é o [PERSON_K]. [UNRESOLVED_ENTITY] e Fulano me indicou para eu falar com ele sobre isso. Né, então você sempre na teoria das sete pessoas, você sempre diz assim, ó, aí você já é conhecido né? Você nunca conheceu o Fulano, né? Pode nem ter encontrado ele nenhuma vez."
+2706.0,1,"Daí você vai dizer assim, o Fulano da empresa tal me indicou para eu falar com ele sobre isso. Sabe daí você então, você deu duas autoridades, né? O nome o sobrenome né que você já tem né? Você já tem ali. O [PERSON_G] da [PARTNER_A] pulando me indicou a falar com ele sobre uma um projeto que a [PARTNER_A] está desenvolvendo. Então, aí você já você vai diminuir aquela? [UNRESOLVED_ENTITY] da secretária né então, mas tem que ter paciência não qualquer situação mesmo na secretária no e-mail no [PARTNER_H], né? Mas é Talvez assim não pare, né? Fique sempre tentando."
 2754.0,1,"Que nem vocês fizeram [UNRESOLVED_ENTITY], né? Já percebemos que tem que fugir do cara temos que descobrir com quem que é, mas ele mesmo pode te indicar, né? Com quem que eu falo? Como é que eu falo com o cara daí quando você vai falar com o supervisor? Você vai dizer pô, o gerente da loja me indicou falar com você, né? O Fulano me indicou, né? Que daí você passa a ser conhecido do fulano."
 2780.0,3,"Interessante, vamos seguir."
 2780.0,1,E vocês estão bem na hora de fazer isso com todas essas possibilidades que vocês têm? Tem que tem que chegar no papo.
@@ -274,35 +274,35 @@ onset_seconds,speaker_id,text
 3455.0,2,"Colocou acho que não é em relação aquela conversa que a gente teve com Francisco. Ele é um cara de marketing, né? E ele falou assim, eu até um exemplo. Ilustrativo da boleira né que a boleira vende o bolo sem o bolo tá pronto. E na opinião dele a gente deveria investir uma vez que é tradicional o negócio demonstrar cliente a gente deveria investir em marketing, né? Assim que tivesse um MVP já rodou o primeiro já tem um plano de marketing."
 3495.0,2,Não sei se cabra aí de colocar alguma coisa neste sentido.
 3502.0,3,"Eu acho que cabe sim, eu acho que essa aí foi muito boa, porque eu acho que se a gente começar a discutir ela agora. a gente tem 25 minutos, né ainda eu acho que a gente começou agora a gente gasta os 25 minutos porque Ela é muito interessante e assim eu penso que quando a gente pensa em cliente final proprietário de veículo elétrico. Que a gente quer levar esse cara para os estabelecimentos que a gente vai ter como cliente."
-3529.0,3,"Esse cara tá no [UNRESOLVED_ENTITY] dá muito médico que o Francisco nos falou, só que por exemplo a gente captar estabelecimentos que querem estar na nossa plataforma. Eu não sei se o dono do"
+3529.0,3,"Esse cara tá no [PARTNER_I] dá muito médico que o Francisco nos falou, só que por exemplo a gente captar estabelecimentos que querem estar na nossa plataforma. Eu não sei se o dono do"
 3541.0,2,Inclusive esse Francisco ele tem um.
-3542.0,3,estabelecimento o cara que toma essa decisão sendo no [UNRESOLVED_ENTITY] que a gente vai achar ele.
+3542.0,3,estabelecimento o cara que toma essa decisão sendo no [PARTNER_I] que a gente vai achar ele.
 3547.0,4,"Não pelo que ele falou sim, né? É possível você ele falou. Ah, você quer procurar fazer que a sua propaganda chegue no prédios comerciais, pô, sim, né replicando o que ele falou coloca lá faz uma descrição desse personagem, né? E aí a gente tenta endereçar"
 3568.0,3,E aí a gente
 3570.0,4,"colocar lá nas métricas do anúncio e tudo mais é para de alguma forma chegar no perfil que é o [UNRESOLVED_ENTITY] de você de uma forma ou de outra, né? Então eu Pelo que eu entendi lá da conversa é bem possível. E pelos dois lados tanto para o [UNRESOLVED_ENTITY] para atingir os donos de estabelecimentos. Quando e final de fato que vai procurar o estabelecimento?"
 3608.0,3,boa
 3608.0,1,É uma boa.
 3610.0,3,"Eu coloquei isso aqui como é né? Como definir estratégia de marketing. E aí vamos pensar agora em desdobramento desse cara, né [UNRESOLVED_ENTITY] o que eu tinha comentado com Francisco era de repente a gente Ele trabalha com só para você entender [PERSON_A]. um dos serviços que ele presta é essa consultoria em [UNRESOLVED_ENTITY]"
-3634.0,1,"No [UNRESOLVED_ENTITY], é?"
+3634.0,1,"No [PARTNER_I], é?"
 3641.0,3,né
-3641.0,1,"O [UNRESOLVED_ENTITY] tá dominando o próprio um tempo atrás, parece que consulta no YouTube já tava passando de consultas do próprio [PARTNER_E], sabe? Porque as pessoas acabam assim, né? Eu quero comprar uma máquina de lavar louça, né? Daí você tá Electrolux modelo tal não sei o que lá, muitas vezes vai direto para o YouTube para ver se tem alguém falando explicando sobre ela já você já nem vai mais para o [PARTNER_E], sabe?"
-3672.0,3,A minha a minha esposa só veio o YouTube [UNRESOLVED_ENTITY] e [UNRESOLVED_ENTITY].
+3641.0,1,"O [PARTNER_I] tá dominando o próprio um tempo atrás, parece que consulta no YouTube já tava passando de consultas do próprio [PARTNER_E], sabe? Porque as pessoas acabam assim, né? Eu quero comprar uma máquina de lavar louça, né? Daí você tá Electrolux modelo tal não sei o que lá, muitas vezes vai direto para o YouTube para ver se tem alguém falando explicando sobre ela já você já nem vai mais para o [PARTNER_E], sabe?"
+3672.0,3,A minha a minha esposa só veio o YouTube [PARTNER_I] e [PARTNER_J].
 3676.0,1,Isso então essas Essas tecnologias
 3677.0,3,só
-3678.0,1,"aí eu não sei como é que tá agora, mas elas estavam já ultrapassando os mecanismos de busca tradicional, sabe só que daí não é mais [PARTNER_E] ADS. Agora virou o [PARTNER_E] Instagram Facebook, né? Então e como essas empresas estão ganhando dinheiro hoje, né? Próprio [PARTNER_E] próprio meta, né? Então é isso daí assim dá um exemplo para vocês. Imagine quando não tinha o Não tinha internet como é que você achava o cliente, né? Você tinha que fazer o teu anúncio aonde ele estava, né? E o que que era a revista que o cara [UNRESOLVED_ENTITY] né? Então muitas vezes."
-3727.0,1,"Ah é carro então [UNRESOLVED_ENTITY] [PARTNER_F] que era fazer propaganda na Quatro Rodas, né? Se a gente fosse fazer mesmo onde que a gente vai achar os cara de que querem carro elétrico. Eles leem Eles leem Quatro Rodas, né? E daí você faria um anúncio lá então era era uma antecipação da onde eles estariam. Ai que programa que eles vão ver na televisão muitas vezes não adiantava. Ou era muito caro, por exemplo você fazer lá no Fantástico, né? Que o fantástico pega um monte de gente é um anúncio super caro."
-3761.0,1,"Ah, mas de carro elétrico já não pegava tudo ficava caro demais, né? Aqui é a mesma coisa, né? Agora o mundo é virtual, onde que esse cara tá? O que que ele tá pesquisando, né? Quais são os assuntos de interesse dele e é isso que um especialista de [UNRESOLVED_ENTITY] de Words vai ajudar vocês a pensarem, né? Como é que eu acho esse cara que ele tá ele tá voando na internet e eu preciso achar ele, né?"
+3678.0,1,"aí eu não sei como é que tá agora, mas elas estavam já ultrapassando os mecanismos de busca tradicional, sabe só que daí não é mais [PARTNER_E] ADS. Agora virou o [PARTNER_E] [PARTNER_I] Facebook, né? Então e como essas empresas estão ganhando dinheiro hoje, né? Próprio [PARTNER_E] próprio meta, né? Então é isso daí assim dá um exemplo para vocês. Imagine quando não tinha o Não tinha internet como é que você achava o cliente, né? Você tinha que fazer o teu anúncio aonde ele estava, né? E o que que era a revista que o cara [UNRESOLVED_ENTITY] né? Então muitas vezes."
+3727.0,1,"Ah é carro então [UNRESOLVED_ENTITY] [PARTNER_F] que era fazer propaganda na [PARTNER_K], né? Se a gente fosse fazer mesmo onde que a gente vai achar os cara de que querem carro elétrico. Eles leem Eles leem [PARTNER_K], né? E daí você faria um anúncio lá então era era uma antecipação da onde eles estariam. Ai que programa que eles vão ver na televisão muitas vezes não adiantava. Ou era muito caro, por exemplo você fazer lá no Fantástico, né? Que o fantástico pega um monte de gente é um anúncio super caro."
+3761.0,1,"Ah, mas de carro elétrico já não pegava tudo ficava caro demais, né? Aqui é a mesma coisa, né? Agora o mundo é virtual, onde que esse cara tá? O que que ele tá pesquisando, né? Quais são os assuntos de interesse dele e é isso que um especialista de [PARTNER_I] de Words vai ajudar vocês a pensarem, né? Como é que eu acho esse cara que ele tá ele tá voando na internet e eu preciso achar ele, né?"
 3795.0,3,Pescar o cara né?
 3798.0,1,"Sim e por isso que eles chamam de Landing page, né? Vocês sabiam além de peixe, por que que além de impede? Porque lembrem aterrissagem, né? O cara tá voando na internet, né? Então vamos fazer uma lenda impede para ele."
 3814.0,3,Fazer o caráter.
-3815.0,1,"Para ele chegar na nossa para ele chegar no nosso. No Nossa pista aqui de ele ele aterrizar aqui com a gente, né? Então, por isso que você faz lá Instagram Facebook e YouTube e bota lá uma lenda impede que o cara chegou para vocês, né? Não é um site super rebuscado, né?"
+3815.0,1,"Para ele chegar na nossa para ele chegar no nosso. No Nossa pista aqui de ele ele aterrizar aqui com a gente, né? Então, por isso que você faz lá [PARTNER_I] Facebook e YouTube e bota lá uma lenda impede que o cara chegou para vocês, né? Não é um site super rebuscado, né?"
 3839.0,3,legal
 3842.0,1,É uma lenda impede para eu fazer contato com ele.
 3847.0,3,assim o MVP
 3847.0,1,"Só isso daí acho que vai ficar eu diria assim. Quanto antes começar é bom né? Mas eu acho que vocês têm coisas. Mais mais urgentes agora, né? Tipo que vocês estão com bastante coisa encaminhada, mas nada ainda bateu o martelo, né?"
-3869.0,3,"Até porque o que eu penso Eu até queria dividir isso com vocês eu vejo opiniões. É que para a gente tem um plano de marketing legal aí beleza? Vamos vender o bolo antes do bolo, tá? Pronto. Mas se a gente conseguir gerar um conteúdo bacana no MVP E na matéria com a [UNRESOLVED_ENTITY] todo esse conteúdo entra no nosso plano de marketing para chegar nessa Persona. A gente usa esse conteúdo no instagram a gente usa a matéria da compartilha a matéria da Quatro Rodas no instagram a gente vai usando isso."
+3869.0,3,"Até porque o que eu penso Eu até queria dividir isso com vocês eu vejo opiniões. É que para a gente tem um plano de marketing legal aí beleza? Vamos vender o bolo antes do bolo, tá? Pronto. Mas se a gente conseguir gerar um conteúdo bacana no MVP E na matéria com a [PARTNER_K] todo esse conteúdo entra no nosso plano de marketing para chegar nessa Persona. A gente usa esse conteúdo no [PARTNER_I] a gente usa a matéria da compartilha a matéria da [PARTNER_K] no [PARTNER_I] a gente vai usando isso."
 3903.0,3,"Para um conteúdo que vai atrair de fato o cara que a gente quer alcançar, né?"
-3909.0,4,"Eu acho que é legal só a gente já tem em mente isso, né de já ir criando conteúdo para quando a gente falar não [UNRESOLVED_ENTITY]. Agora a gente vai pagar para divulgar, né? Vai fazer o marketing é pago já ter alguma coisa estruturada. A gente já tem então, acho que é verdade. A gente tem que é mais para frente mesmo, mas é legal a gente já ter isso, né? Tipo gravar por exemplo, a gente vai fazer lá a matéria da Quatro Rodas."
+3909.0,4,"Eu acho que é legal só a gente já tem em mente isso, né de já ir criando conteúdo para quando a gente falar não [UNRESOLVED_ENTITY]. Agora a gente vai pagar para divulgar, né? Vai fazer o marketing é pago já ter alguma coisa estruturada. A gente já tem então, acho que é verdade. A gente tem que é mais para frente mesmo, mas é legal a gente já ter isso, né? Tipo gravar por exemplo, a gente vai fazer lá a matéria da [PARTNER_K]."
 3938.0,3,fazer um making off
 3939.0,4,E aí vai criando conteúdo?
 3945.0,3,Podemos fazer o making off lá fazer
@@ -323,7 +323,7 @@ onset_seconds,speaker_id,text
 4130.0,4,"virando uma influência nessa área assim, né?"
 4134.0,1,"E de vez em quando e para você conseguir uma matéria com ele de vez em quando é só você dizer que você tem o conteúdo, sabe? E ele nem cobra de você nessa fase porque ele precisa estar criando notícias, né? Por blog dele ser interessante que nem que nem o que a gente discutiu lá o Fazer matéria que você faz lá com a tua namorada, né? Como é que é para release né?"
 4160.0,4,Queima né?
-4162.0,1,"Então você também faz um pré-lise para o blog de nicho para ele ter mais audiência da mesma maneira que a Quatro Rodas precisa mais audiência por meio da tua notícia, né? É a mesma coisa então vocês têm que achar esses blog de nichos e começar a fazer contato com eles e começar a transformar notícias e postagens, mas daí é super legal que tem lá além de Né? Porque também agora vocês não tem absolutamente nada, né? Então é muito difícil você dizer."
+4162.0,1,"Então você também faz um pré-lise para o blog de nicho para ele ter mais audiência da mesma maneira que a [PARTNER_K] precisa mais audiência por meio da tua notícia, né? É a mesma coisa então vocês têm que achar esses blog de nichos e começar a fazer contato com eles e começar a transformar notícias e postagens, mas daí é super legal que tem lá além de Né? Porque também agora vocês não tem absolutamente nada, né? Então é muito difícil você dizer."
 4198.0,1,"Ah consegui, pô, os cara discutiram um monte lá, esse assunto ficaram três semanas discutindo pegou fogo viralizou então. E onde que era além de peixe para você estar recebendo os contatos, né? Então tem que dar uma pensada também nisso, por isso que vai na sequência, mas acho que Resumindo conteúdo e blog de nicho vocês têm que já ir pensando."
 4227.0,3,show
 4230.0,2,"Ele tem dentro da sala dele tem um estudo de Podcast, né? Onde ele grava com convidados e tudo mais. E ele e aí, eu não sei qual que é a frequência que eles podcast. Mas ele tem um outro conteúdo que chama café da manhã xpto."
@@ -333,7 +333,7 @@ onset_seconds,speaker_id,text
 4271.0,2,[UNRESOLVED_ENTITY].
 4274.0,1,"não sei se é agora mas não esqueça vocês tem que virar uma matéria fazer um podcast com vocês. nele Porque aí vocês vão conseguir estacionamento, vocês vão conseguir dono do carro elétrico. E normalmente é o mais barato que tem sabe mesmo. Quando ele cobrar alguma coisa, ele vai cobrar pouquinho."
 4306.0,3,"E o Francisco, ele fez esse convite para o ele tem esse modelo do café da manhã com carro elétrico, né? Café da manhã com oficina é uma coisa assim, o nome o público é bem lixado, né? Ele tenta fazer esse de forma mais leve não é no estúdio pode fazer online. E esse ele fez o convite para a gente participar e não cobraria nada, né? Esse seria."
-4329.0,1,"Então já coloca aí, eu acho que vocês estão assim a um passinho de fazer porque quando vocês conseguirem esquematizar a matéria com a Quatro Rodas. Você já tem a matéria com ele desenhada."
+4329.0,1,"Então já coloca aí, eu acho que vocês estão assim a um passinho de fazer porque quando vocês conseguirem esquematizar a matéria com a [PARTNER_K]. Você já tem a matéria com ele desenhada."
 4344.0,2,Sim já tem conteúdo para falar lá.
 4346.0,1,"É E você só tem que pensar. Qual que é action, né? Quem olhou a reportagem? Como é que acha vocês né? então, você pode dizer lá na entrevista lá os proprietários podem mandar um e-mail para nós aqui no e-mail tal aí dizendo onde que ele gostaria de Ter carregadores Qual que é o maior problema dele? Sei lá vocês podem já começar um. Contato com bastante dono de carro a partir desse desse contato, mas assim o bom é saber o que que vocês querem deles, né? Dono do estacionamento quem tem um estacionamento Quem opera um estacionamento que que vocês querem ver?"
 4394.0,3,Aí alcançando também o dono do carro elétrico.
@@ -342,14 +342,14 @@ onset_seconds,speaker_id,text
 4402.0,1,Você pode fazer uma estratégia de
 4402.0,3,"[UNRESOLVED_ENTITY] aqui, né que consegui"
 4404.0,1,pé de galinha indicando o outro não vai indicando o outro e vocês fazem tudo com indicações que é um canal. Obtém indicações. anotou essa eixo em
-4422.0,3,"participar do podcast de nicho Francisco. Eu não sei se a gente coloca uma agora acho que talvez a gente tem que discutir esse cara depois de rodar quatro rodas de MVP, né?"
+4422.0,3,"participar do podcast de nicho Francisco. Eu não sei se a gente coloca uma agora acho que talvez a gente tem que discutir esse cara depois de rodar [PARTNER_K] de MVP, né?"
 4435.0,2,O meu também 9 por conta do atraso.
 4438.0,1,"Seus contatos aí que estão muito quente aí para vocês, né? E eles dependem da gente."
 4442.0,3,principalmente
 4443.0,1,"Depende de todos, né? Acho que eu diria assim não colocaria essa semana nenhuma tudo para isso seja tão bem. bem esquematizados aí para semana com coisas que"
 4455.0,3,trabalho para semana
 4457.0,1,"E super importante vocês tem que eu sempre fico preocupado, né? O empreendedor tem uma uma esperança enorme que feche rápido o [UNRESOLVED_ENTITY] normalmente, ele mora mais um pouquinho é mais difícil do que vocês estão imaginando. Tomara que não seja mas eu não menosprezaria essa fase que vocês estão aí do quase fechado, sabe? Entre quase fechado e fechado de vez em quando tem algumas semanas. E vocês estão abrindo frente, né? Você veja novos estacionamentos."
-4496.0,1,"[PARTNER_A] Fazer o spin com outros possíveis parceiros aí né? Então vocês têm bastante coisa porque eu acho legal assim, ó, tá quase fechado com Fulano. Mas e se ele não for se ele não fechar, né? Qual que é a alternativo. Então já dá para começar a fazer o contato com a segunda alternativa também, né? Que o contato é aquele demorado, né? Primeiro tem que descobrir o cara no [UNRESOLVED_ENTITY]."
+4496.0,1,"[PARTNER_A] Fazer o spin com outros possíveis parceiros aí né? Então vocês têm bastante coisa porque eu acho legal assim, ó, tá quase fechado com Fulano. Mas e se ele não for se ele não fechar, né? Qual que é a alternativo. Então já dá para começar a fazer o contato com a segunda alternativa também, né? Que o contato é aquele demorado, né? Primeiro tem que descobrir o cara no [PARTNER_H]."
 4521.0,1,"Depois tem eu começo tudo de novo, né? Então até ele ficar quente igual o outro vai demorar algumas semanas, né? Mas tem que começar logo. Acho que vocês estão com essas frentes, aí eu diria que tá. só se fosse muito urgente e eu com certeza eu diria assim, não pode ser muito urgente porque vocês ainda tão definindo MVP tão Não adianta vocês receberem agora 50 comunicado de dono de carro."
 4554.0,1,Mais 10 estacionamento que que vocês vão fazer com isso?
 4558.0,3,É primeiro precisa endereçar o que a gente já tem.
@@ -397,7 +397,7 @@ onset_seconds,speaker_id,text
 4976.0,1,Não até o tio rico ia.
 4978.0,4,Não ia querer entrar.
 4980.0,1,"Ele ia desconfiar nessa fase, sabe? Mas como ele é rico e é tio. Talvez até você conseguir mas 100 mil. Ah não acho que vocês estão melhor que o tio rico aí com certeza. E vocês estão indo super bem a velocidade que vocês estão aqui, eu tô impressionado. Tô impressionado. Vamos ver 45 dias aí vem o [PERSON_A] bem também, ele olha de novo, eu acho e tem uma velocidade impressionante eu diria né? E vocês estão e vocês são muito abertos."
-5016.0,1,"Vocês são muito ligados com tecnologia [UNRESOLVED_ENTITY] tudo vocês. Daqui a pouco sai site daqui a pouco sai no [UNRESOLVED_ENTITY], vocês vão conseguir fazer muito rápido."
+5016.0,1,"Vocês são muito ligados com tecnologia [PARTNER_I] tudo vocês. Daqui a pouco sai site daqui a pouco sai no [PARTNER_I], vocês vão conseguir fazer muito rápido."
 5027.0,3,show de bola show
 5028.0,1,Então esse E se eu tivesse alguma coisa Dizer para vocês melhorarem. Eu diria mas no momento eu não tenho eu só tenho motivos aí para vocês
 5038.0,3,Show de bola obrigado [PERSON_A].

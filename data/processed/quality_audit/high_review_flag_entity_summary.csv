@@ -1,0 +1,355 @@
+meeting_id,entity_text,entity_label,count
+2024.11.04startup_a,Instagram,PER,8
+2024.11.04startup_a,Linkedin,ORG,6
+2024.11.04startup_a,Quatro Rodas,LOC,3
+2024.11.04startup_a,Tiago,PER,3
+2024.11.04startup_a,drywash,PER,3
+2024.11.04startup_a,B1,ORG,2
+2024.11.04startup_a,Fenatran,ORG,2
+2024.11.04startup_a,Finanças,LOC,2
+2024.11.04startup_a,LinkedIn,ORG,2
+2024.11.04startup_a,NBA,ORG,2
+2024.11.04startup_a,Robson,LOC,2
+2024.11.04startup_a,Tio Du,PER,2
+2024.11.04startup_a,Vamos,PER,2
+2024.11.04startup_a,Abel,PER,1
+2024.11.04startup_a,Abraço,LOC,1
+2024.11.04startup_a,Alienígena,PER,1
+2024.11.04startup_a,Alternativa,PER,1
+2024.11.04startup_a,Alternativa de plano b,PER,1
+2024.11.04startup_a,Anotei,LOC,1
+2024.11.04startup_a,B1,LOC,1
+2024.11.04startup_a,BC,ORG,1
+2024.11.04startup_a,Barreira,LOC,1
+2024.11.04startup_a,Beach,ORG,1
+2024.11.04startup_a,Beleza,PER,1
+2024.11.04startup_a,Bill,PER,1
+2024.11.04startup_a,Bom,LOC,1
+2024.11.04startup_a,Calaça,PER,1
+2024.11.04startup_a,Campo,LOC,1
+2024.11.04startup_a,Carol,PER,1
+2024.11.04startup_a,Defesa,ORG,1
+2024.11.04startup_a,Deus,PER,1
+2024.11.04startup_a,Doctor,PER,1
+2024.11.04startup_a,Dois,LOC,1
+2024.11.04startup_a,Dois,PER,1
+2024.11.04startup_a,Drywalt,LOC,1
+2024.11.04startup_a,Dudu,PER,1
+2024.11.04startup_a,Edna,LOC,1
+2024.11.04startup_a,Edson,PER,1
+2024.11.04startup_a,Eles,ORG,1
+2024.11.04startup_a,Endereçar,LOC,1
+2024.11.04startup_a,Escolheu,PER,1
+2024.11.04startup_a,Espetacular,LOC,1
+2024.11.04startup_a,Fantástico,PER,1
+2024.11.04startup_a,Finding,LOC,1
+2024.11.04startup_a,Flávio Calaça,PER,1
+2024.11.04startup_a,Framework do Gabriel,LOC,1
+2024.11.04startup_a,Fui,PER,1
+2024.11.04startup_a,Gostei,PER,1
+2024.11.04startup_a,Inclusive,PER,1
+2024.11.04startup_a,Isaac,PER,1
+2024.11.04startup_a,Ixi,LOC,1
+2024.11.04startup_a,Ixi,PER,1
+2024.11.04startup_a,Janelinha,PER,1
+2024.11.04startup_a,Já,LOC,1
+2024.11.04startup_a,Karen,PER,1
+2024.11.04startup_a,Li,PER,1
+2024.11.04startup_a,Lia,PER,1
+2024.11.04startup_a,MBA,LOC,1
+2024.11.04startup_a,MMC de graça,ORG,1
+2024.11.04startup_a,Marginal,LOC,1
+2024.11.04startup_a,Matriz switter,LOC,1
+2024.11.04startup_a,Max Park,LOC,1
+2024.11.04startup_a,Me,PER,1
+2024.11.04startup_a,Metrópole,LOC,1
+2024.11.04startup_a,Motoristas de Caminhão,LOC,1
+2024.11.04startup_a,Papa,PER,1
+2024.11.04startup_a,Parecida,LOC,1
+2024.11.04startup_a,Pinterest,PER,1
+2024.11.04startup_a,Pouquinho,PER,1
+2024.11.04startup_a,Quem,PER,1
+2024.11.04startup_a,Red de inovação,ORG,1
+2024.11.04startup_a,Retorno dos Bombeiros,PER,1
+2024.11.04startup_a,Rey Park,LOC,1
+2024.11.04startup_a,Rico,PER,1
+2024.11.04startup_a,Rock,LOC,1
+2024.11.04startup_a,Sheila,LOC,1
+2024.11.04startup_a,Spin,PER,1
+2024.11.04startup_a,São Caetano,LOC,1
+2024.11.04startup_a,Síndico,ORG,1
+2024.11.04startup_a,Tava,LOC,1
+2024.11.04startup_a,Telefona,PER,1
+2024.11.04startup_a,Tiago Tavares,PER,1
+2024.11.04startup_a,Time,ORG,1
+2024.11.04startup_a,Venturi,LOC,1
+2024.11.04startup_a,Vision,ORG,1
+2024.11.04startup_a,Zinho,PER,1
+2024.11.04startup_a,b to be,ORG,1
+2024.11.04startup_a,b u,PER,1
+2024.11.04startup_a,bacana Boa,LOC,1
+2024.11.04startup_a,bess,ORG,1
+2024.11.04startup_a,bu [LOCATION_A,LOC,1
+2024.11.04startup_a,drywot,LOC,1
+2024.11.04startup_a,fantástica,LOC,1
+2024.11.04startup_a,fundinho,LOC,1
+2024.11.04startup_a,graça,LOC,1
+2024.11.04startup_a,kodomo ali,PER,1
+2024.11.04startup_a,pa pa,ORG,1
+2024.11.04startup_a,real,ORG,1
+2024.11.04startup_a,summit,ORG,1
+2024.11.04startup_a,Ó.,LOC,1
+2024.11.04startup_a,Óbvio,PER,1
+2025.03.02startup_a,Paulo,ORG,5
+2025.03.02startup_a,Manchete,ORG,4
+2025.03.02startup_a,Angels,ORG,3
+2025.03.02startup_a,Beach,LOC,3
+2025.03.02startup_a,Paulo,PER,3
+2025.03.02startup_a,Deus,PER,2
+2025.03.02startup_a,Igual,PER,2
+2025.03.02startup_a,Ivan,PER,2
+2025.03.02startup_a,Paulo Moraes,PER,2
+2025.03.02startup_a,Redonda,LOC,2
+2025.03.02startup_a,Uber,LOC,2
+2025.03.02startup_a,Vertentes,LOC,2
+2025.03.02startup_a,linda,PER,2
+2025.03.02startup_a,tecnogera,PER,2
+2025.03.02startup_a,Adolfo,PER,1
+2025.03.02startup_a,Aldeia,LOC,1
+2025.03.02startup_a,Ali,PER,1
+2025.03.02startup_a,América Latina Ninguém,LOC,1
+2025.03.02startup_a,Angels?,ORG,1
+2025.03.02startup_a,Boas,PER,1
+2025.03.02startup_a,Bom,LOC,1
+2025.03.02startup_a,CCR,ORG,1
+2025.03.02startup_a,Caminhão,LOC,1
+2025.03.02startup_a,Campinas,LOC,1
+2025.03.02startup_a,Carlos,PER,1
+2025.03.02startup_a,Charlie,PER,1
+2025.03.02startup_a,Comprido,LOC,1
+2025.03.02startup_a,Corporação,ORG,1
+2025.03.02startup_a,Demonstrar,LOC,1
+2025.03.02startup_a,Discutimos,LOC,1
+2025.03.02startup_a,Ecovias,PER,1
+2025.03.02startup_a,Elite,ORG,1
+2025.03.02startup_a,Finanças,LOC,1
+2025.03.02startup_a,Fritz,PER,1
+2025.03.02startup_a,GAP,ORG,1
+2025.03.02startup_a,Gerais,LOC,1
+2025.03.02startup_a,Harder,PER,1
+2025.03.02startup_a,Ilha,LOC,1
+2025.03.02startup_a,Inovação,LOC,1
+2025.03.02startup_a,Isadora,PER,1
+2025.03.02startup_a,João,PER,1
+2025.03.02startup_a,Linda,PER,1
+2025.03.02startup_a,Linkedin,ORG,1
+2025.03.02startup_a,Oi,ORG,1
+2025.03.02startup_a,PJ,ORG,1
+2025.03.02startup_a,Pagava,PER,1
+2025.03.02startup_a,Paulo,LOC,1
+2025.03.02startup_a,Pinha,LOC,1
+2025.03.02startup_a,Ponha,LOC,1
+2025.03.02startup_a,Povo,ORG,1
+2025.03.02startup_a,Próprio Ronaldo,PER,1
+2025.03.02startup_a,Quatro Rodas,LOC,1
+2025.03.02startup_a,Racha,LOC,1
+2025.03.02startup_a,Receita,ORG,1
+2025.03.02startup_a,Roda,LOC,1
+2025.03.02startup_a,Ryder,ORG,1
+2025.03.02startup_a,Santa Catarina,LOC,1
+2025.03.02startup_a,Sim,PER,1
+2025.03.02startup_a,Tem,ORG,1
+2025.03.02startup_a,Tempo,LOC,1
+2025.03.02startup_a,Teoricamente,PER,1
+2025.03.02startup_a,Traz,LOC,1
+2025.03.02startup_a,Uber,PER,1
+2025.03.02startup_a,Vai,LOC,1
+2025.03.02startup_a,Vazando,PER,1
+2025.03.02startup_a,Veridiana veridiane,PER,1
+2025.03.02startup_a,Vil,LOC,1
+2025.03.02startup_a,Vão,LOC,1
+2025.03.02startup_a,bom anotinha,LOC,1
+2025.03.02startup_a,butchamp,LOC,1
+2025.03.02startup_a,katerinar,LOC,1
+2025.03.02startup_a,location,LOC,1
+2025.03.17startup_a,porto de Santos,LOC,5
+2025.03.17startup_a,QG,LOC,4
+2025.03.17startup_a,Norte,LOC,3
+2025.03.17startup_a,Porto,LOC,3
+2025.03.17startup_a,Ajuda,LOC,2
+2025.03.17startup_a,CESPE,LOC,2
+2025.03.17startup_a,Eletro,ORG,2
+2025.03.17startup_a,JV,ORG,2
+2025.03.17startup_a,Maio,LOC,2
+2025.03.17startup_a,PepsiCo,ORG,2
+2025.03.17startup_a,Pitt,PER,2
+2025.03.17startup_a,QG,ORG,2
+2025.03.17startup_a,Tio Du,PER,2
+2025.03.17startup_a,tecnogera,PER,2
+2025.03.17startup_a,Óbvio,PER,2
+2025.03.17startup_a,Acho,PER,1
+2025.03.17startup_a,Amanhã,LOC,1
+2025.03.17startup_a,América,LOC,1
+2025.03.17startup_a,América Latina,LOC,1
+2025.03.17startup_a,Anchieta,LOC,1
+2025.03.17startup_a,Andrade,PER,1
+2025.03.17startup_a,Anhanguera,LOC,1
+2025.03.17startup_a,Boa,LOC,1
+2025.03.17startup_a,Botequim,LOC,1
+2025.03.17startup_a,Campinas,LOC,1
+2025.03.17startup_a,Carlos,PER,1
+2025.03.17startup_a,Cheio,LOC,1
+2025.03.17startup_a,Claras,LOC,1
+2025.03.17startup_a,Cliente,LOC,1
+2025.03.17startup_a,Clube,ORG,1
+2025.03.17startup_a,Cristina,PER,1
+2025.03.17startup_a,Dani,PER,1
+2025.03.17startup_a,Dele,PER,1
+2025.03.17startup_a,Desculpe,PER,1
+2025.03.17startup_a,Domo,LOC,1
+2025.03.17startup_a,Doni,PER,1
+2025.03.17startup_a,Douglas,PER,1
+2025.03.17startup_a,Duque,PER,1
+2025.03.17startup_a,Eixo,ORG,1
+2025.03.17startup_a,Eloy,PER,1
+2025.03.17startup_a,Ena,ORG,1
+2025.03.17startup_a,Engenheiro,LOC,1
+2025.03.17startup_a,Enya,ORG,1
+2025.03.17startup_a,Espetacular,ORG,1
+2025.03.17startup_a,Estimativa,LOC,1
+2025.03.17startup_a,Europa,LOC,1
+2025.03.17startup_a,Foco,LOC,1
+2025.03.17startup_a,Fora,PER,1
+2025.03.17startup_a,Funil,LOC,1
+2025.03.17startup_a,GV,ORG,1
+2025.03.17startup_a,House,LOC,1
+2025.03.17startup_a,Imparcial,PER,1
+2025.03.17startup_a,Instagram,PER,1
+2025.03.17startup_a,Inter,ORG,1
+2025.03.17startup_a,Jorge,ORG,1
+2025.03.17startup_a,Josélia,PER,1
+2025.03.17startup_a,Joy Ventura,ORG,1
+2025.03.17startup_a,LK,ORG,1
+2025.03.17startup_a,Limpo,LOC,1
+2025.03.17startup_a,Logístico,PER,1
+2025.03.17startup_a,Loto,ORG,1
+2025.03.17startup_a,Luca,PER,1
+2025.03.17startup_a,Nicolas,PER,1
+2025.03.17startup_a,Novas,LOC,1
+2025.03.17startup_a,Padrinho,PER,1
+2025.03.17startup_a,Palácio do Ex,LOC,1
+2025.03.17startup_a,Papa,PER,1
+2025.03.17startup_a,Paulo Moraes,PER,1
+2025.03.17startup_a,Pavuna,LOC,1
+2025.03.17startup_a,Porque,LOC,1
+2025.03.17startup_a,Prefeitura,LOC,1
+2025.03.17startup_a,Preparar,LOC,1
+2025.03.17startup_a,Q3,ORG,1
+2025.03.17startup_a,Quatro Rodas,LOC,1
+2025.03.17startup_a,Red Lines,ORG,1
+2025.03.17startup_a,Ribeirão Preto,LOC,1
+2025.03.17startup_a,Rio de Janeiro,LOC,1
+2025.03.17startup_a,Rocker review,ORG,1
+2025.03.17startup_a,Sansão,LOC,1
+2025.03.17startup_a,Socorro,LOC,1
+2025.03.17startup_a,Usina,LOC,1
+2025.03.17startup_a,Vale,LOC,1
+2025.03.17startup_a,Vinhedo,LOC,1
+2025.03.17startup_a,Virtuoso,PER,1
+2025.03.17startup_a,biodie,LOC,1
+2025.03.17startup_a,biometriano,LOC,1
+2025.03.17startup_a,bu,ORG,1
+2025.03.17startup_a,caduda,LOC,1
+2025.03.17startup_a,eletra,LOC,1
+2025.03.17startup_a,kwid,PER,1
+2025.03.17startup_a,liçãozinha,LOC,1
+2025.03.17startup_a,plog,PER,1
+2025.03.17startup_a,rockmith,PER,1
+2025.03.17startup_a,Ênio,PER,1
+2025.03.17startup_a,Ó.,LOC,1
+2025.03.31startup_a,Jair bolsonaro,PER,4
+2025.03.31startup_a,Angels,ORG,3
+2025.03.31startup_a,Mercado Livre,LOC,3
+2025.03.31startup_a,Paulo,ORG,3
+2025.03.31startup_a,RH,ORG,3
+2025.03.31startup_a,Joy Venturi,ORG,2
+2025.03.31startup_a,LK,ORG,2
+2025.03.31startup_a,PT,ORG,2
+2025.03.31startup_a,Paulo,PER,2
+2025.03.31startup_a,Paulo Moraes,PER,2
+2025.03.31startup_a,Paulo Morais,PER,2
+2025.03.31startup_a,QG,LOC,2
+2025.03.31startup_a,Racha,LOC,2
+2025.03.31startup_a,Ultragaz,LOC,2
+2025.03.31startup_a,Unicamp,LOC,2
+2025.03.31startup_a,tecnogera,PER,2
+2025.03.31startup_a,Abril,ORG,1
+2025.03.31startup_a,Anchieta,LOC,1
+2025.03.31startup_a,Atendimento,ORG,1
+2025.03.31startup_a,Bank,ORG,1
+2025.03.31startup_a,Boa,LOC,1
+2025.03.31startup_a,Business Angels,ORG,1
+2025.03.31startup_a,Campinas,LOC,1
+2025.03.31startup_a,Card,LOC,1
+2025.03.31startup_a,Central hidrelétrica,LOC,1
+2025.03.31startup_a,Deixaria,ORG,1
+2025.03.31startup_a,Delivery,LOC,1
+2025.03.31startup_a,Disse,PER,1
+2025.03.31startup_a,Donald trump,PER,1
+2025.03.31startup_a,EDP,ORG,1
+2025.03.31startup_a,Eloi do serten,LOC,1
+2025.03.31startup_a,Engenheiro,LOC,1
+2025.03.31startup_a,Estado,LOC,1
+2025.03.31startup_a,Estados Unidos,LOC,1
+2025.03.31startup_a,Fuja do Controle,LOC,1
+2025.03.31startup_a,Garanta,LOC,1
+2025.03.31startup_a,Hard,ORG,1
+2025.03.31startup_a,Hélio,PER,1
+2025.03.31startup_a,JV,ORG,1
+2025.03.31startup_a,Japão,LOC,1
+2025.03.31startup_a,Joy vento,ORG,1
+2025.03.31startup_a,Leonas,LOC,1
+2025.03.31startup_a,Limpo,LOC,1
+2025.03.31startup_a,LinkedIn,ORG,1
+2025.03.31startup_a,Lotus,ORG,1
+2025.03.31startup_a,Meio,PER,1
+2025.03.31startup_a,Mesa,LOC,1
+2025.03.31startup_a,Mineradora,LOC,1
+2025.03.31startup_a,Oi,ORG,1
+2025.03.31startup_a,Onde,LOC,1
+2025.03.31startup_a,Paraná,LOC,1
+2025.03.31startup_a,Parceria,LOC,1
+2025.03.31startup_a,Pará,LOC,1
+2025.03.31startup_a,Paulo,LOC,1
+2025.03.31startup_a,Perguntar,PER,1
+2025.03.31startup_a,Peça do Porto,LOC,1
+2025.03.31startup_a,Pitz,PER,1
+2025.03.31startup_a,Podiam,PER,1
+2025.03.31startup_a,Porto,LOC,1
+2025.03.31startup_a,Porto Seguro,LOC,1
+2025.03.31startup_a,R Porque,ORG,1
+2025.03.31startup_a,Remo,ORG,1
+2025.03.31startup_a,Resgate,ORG,1
+2025.03.31startup_a,Rude map,PER,1
+2025.03.31startup_a,Sai,LOC,1
+2025.03.31startup_a,Santos,LOC,1
+2025.03.31startup_a,Sul,LOC,1
+2025.03.31startup_a,TAM,ORG,1
+2025.03.31startup_a,Tiago Pega,PER,1
+2025.03.31startup_a,Towner,LOC,1
+2025.03.31startup_a,Transparência,ORG,1
+2025.03.31startup_a,VP de Souza,PER,1
+2025.03.31startup_a,Vai,LOC,1
+2025.03.31startup_a,Vale,LOC,1
+2025.03.31startup_a,Valeu,LOC,1
+2025.03.31startup_a,Vinculativa,PER,1
+2025.03.31startup_a,agendinha,PER,1
+2025.03.31startup_a,anoto,PER,1
+2025.03.31startup_a,bu,LOC,1
+2025.03.31startup_a,jayvi,PER,1
+2025.03.31startup_a,joyventury,ORG,1
+2025.03.31startup_a,minas gerais,LOC,1
+2025.03.31startup_a,porto de Santos,LOC,1
+2025.03.31startup_a,tildo,LOC,1
+2025.03.31startup_a,zano,LOC,1
+2025.03.31startup_a,zaynmarketing,PER,1

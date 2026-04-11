@@ -1,0 +1,25 @@
+{
+  "entity_list": "data/raw/entity_list.csv",
+  "processed_meetings": [
+    "2024.11.04startup_a",
+    "2025.03.02startup_a",
+    "2025.03.17startup_a",
+    "2025.03.31startup_a"
+  ],
+  "remaining_flags_for_subset": 353,
+  "remaining_flags_by_meeting": {
+    "2024.11.04startup_a": 91,
+    "2025.03.02startup_a": 82,
+    "2025.03.17startup_a": 104,
+    "2025.03.31startup_a": 76
+  },
+  "replacement_counts": {
+    "person": 126,
+    "location": 45,
+    "client": 8,
+    "partner": 246,
+    "investor": 8,
+    "department": 6,
+    "startup": 1
+  }
+}
