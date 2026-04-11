@@ -1,280 +1,435 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, Iterable, List
 
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from scipy import stats
 
 BASE_DIR = Path("/home/ubuntu/small-groups-comm-metrics")
 METRICS_DIR = BASE_DIR / "data/processed/metrics"
 OUTPUT_DIR = BASE_DIR / "data/processed/inflection_points"
 FIGURES_DIR = BASE_DIR / "figures/04_inflection_points"
+AUDIT_PATH = BASE_DIR / "data/processed/sample_inventory_audit.csv"
 README_PATH = BASE_DIR / "analysis/04_inflection_points/README.md"
 
-METRICS = ["entropy", "pct_det", "rmse"]
-SHIFT_WINDOW = 30
-SMOOTH_WINDOW = 15
-MIN_SEPARATION = 60
-MIN_VALID_METRICS = 2
-THRESHOLD_QUANTILE = 0.95
-THRESHOLD_Z = 2.5
-TOP_N_PER_MEETING = 10
+ALPHA_LEVEL = 0.05
+T_CRIT_QUANTILE = 0.95  # one-tailed alpha=0.05
+MIN_PEAK_SEPARATION_SECONDS = 60
+WINDOW_RADIUS = 30
+MIN_WINDOW_VALID_SECONDS = 10
+QUALITY_ORDER = ["include", "include_with_caution"]
+QUALITY_COLORS = {"include": "#1f77b4", "include_with_caution": "#ff7f0e", "unknown": "#7f7f7f"}
 
 
-def robust_scale(values: pd.Series) -> float:
-    clean = values.replace([np.inf, -np.inf], np.nan).dropna().astype(float)
-    if clean.empty:
-        return 1.0
-    median = float(clean.median())
-    mad = float((clean - median).abs().median())
-    if np.isfinite(mad) and mad > 1e-9:
-        return 1.4826 * mad
-    std = float(clean.std(ddof=0))
-    if np.isfinite(std) and std > 1e-9:
-        return std
-    return 1.0
+def load_quality_labels() -> pd.DataFrame:
+    audit = pd.read_csv(AUDIT_PATH)
+    if "meeting_id" not in audit.columns or "quality_label" not in audit.columns:
+        raise ValueError("sample_inventory_audit.csv must contain 'meeting_id' and 'quality_label' columns")
+    return audit[["meeting_id", "quality_label"]].drop_duplicates(subset=["meeting_id"])
 
 
-def smooth_metric(series: pd.Series) -> pd.Series:
-    return series.astype(float).rolling(SMOOTH_WINDOW, center=True, min_periods=5).median()
-
-
-def compute_shift_signal(series: pd.Series) -> pd.Series:
-    left = series.shift(1).rolling(SHIFT_WINDOW, min_periods=max(5, SHIFT_WINDOW // 3)).mean()
-    right = series[::-1].shift(1).rolling(SHIFT_WINDOW, min_periods=max(5, SHIFT_WINDOW // 3)).mean()[::-1]
-    return right - left
-
-
-def local_maxima(mask: np.ndarray, values: np.ndarray) -> np.ndarray:
-    out = np.zeros_like(mask, dtype=bool)
-    idx = np.where(mask)[0]
-    for i in idx:
-        left = values[i - 1] if i - 1 >= 0 else -np.inf
-        right = values[i + 1] if i + 1 < len(values) else -np.inf
-        if values[i] >= left and values[i] >= right:
-            out[i] = True
-    return out
-
-
-def select_peaks(df: pd.DataFrame, threshold: float) -> pd.DataFrame:
-    score = df["composite_score"].to_numpy(dtype=float)
-    valid_mask = np.isfinite(score) & (score >= threshold)
-    maxima_mask = local_maxima(valid_mask, score)
-    peak_idx = np.where(maxima_mask)[0]
-    if peak_idx.size == 0:
-        return df.iloc[[]].copy()
-
-    order = peak_idx[np.argsort(score[peak_idx])[::-1]]
-    selected: List[int] = []
-    for idx in order:
-        second = int(df.iloc[idx]["second"])
-        if all(abs(second - int(df.iloc[j]["second"])) >= MIN_SEPARATION for j in selected):
-            selected.append(int(idx))
-
-    selected = sorted(selected, key=lambda j: float(df.iloc[j]["composite_score"]), reverse=True)
-    peaks = df.iloc[selected].copy()
-    peaks["rank_within_meeting"] = np.arange(1, len(peaks) + 1)
-    return peaks
-
-
-def top_contributors(row: pd.Series) -> str:
-    parts = []
-    for metric in METRICS:
-        value = row.get(f"{metric}_shift_z", np.nan)
-        raw = row.get(f"{metric}_shift", np.nan)
-        if pd.notna(value):
-            direction = "increase" if pd.notna(raw) and raw > 0 else "decrease"
-            parts.append((abs(float(value)), f"{metric}:{direction}"))
-    if not parts:
-        return ""
-    parts.sort(reverse=True)
-    return "; ".join(label for _, label in parts[:3])
-
-
-def process_meeting(path: Path) -> tuple[pd.DataFrame, pd.DataFrame, Dict[str, float]]:
-    meeting_id = path.name.replace("_metrics.csv", "")
-    df = pd.read_csv(path)
-    if "second" not in df.columns:
-        raise ValueError(f"Missing 'second' column in {path.name}")
-
-    score_df = df[["second", "edge_window"] + METRICS].copy()
-    valid_metric_counts = np.zeros(len(score_df), dtype=int)
-    z_columns: List[str] = []
-
-    for metric in METRICS:
-        raw = score_df[metric].astype(float)
-        smoothed = smooth_metric(raw)
-        shift = compute_shift_signal(smoothed)
-        valid = raw.notna() & smoothed.notna() & shift.notna() & (~score_df["edge_window"].astype(bool))
-        scale = robust_scale(shift.loc[valid])
-        z = (shift / scale).where(valid)
-        score_df[f"{metric}_smoothed"] = smoothed
-        score_df[f"{metric}_shift"] = shift.where(valid)
-        score_df[f"{metric}_shift_z"] = z
-        valid_metric_counts += z.notna().to_numpy(dtype=int)
-        z_columns.append(f"{metric}_shift_z")
-
-    abs_z = score_df[z_columns].abs()
-    score_df["valid_metric_count"] = valid_metric_counts
-    score_df["composite_score"] = abs_z.mean(axis=1, skipna=True)
-    score_df.loc[score_df["valid_metric_count"] < MIN_VALID_METRICS, "composite_score"] = np.nan
-
-    clean_scores = score_df["composite_score"].dropna()
-    if clean_scores.empty:
-        threshold = np.nan
-    else:
-        median = float(clean_scores.median())
-        scale = robust_scale(clean_scores)
-        adaptive = median + THRESHOLD_Z * scale
-        quantile = float(clean_scores.quantile(THRESHOLD_QUANTILE))
-        threshold = max(quantile, adaptive)
-
-    score_df["threshold"] = threshold
-    if np.isfinite(threshold):
-        peaks = select_peaks(score_df, float(threshold))
-    else:
-        peaks = score_df.iloc[[]].copy()
-
-    if peaks.empty:
-        score_df["is_candidate"] = False
-        score_df["rank_within_meeting"] = np.nan
-    else:
-        score_df["is_candidate"] = score_df["second"].isin(peaks["second"])
-        ranks = peaks.set_index("second")["rank_within_meeting"].to_dict()
-        score_df["rank_within_meeting"] = score_df["second"].map(ranks)
-
-    candidate_cols = [
-        "second",
-        "composite_score",
-        "threshold",
-        "rank_within_meeting",
-        "valid_metric_count",
-    ] + [f"{metric}_shift" for metric in METRICS] + [f"{metric}_shift_z" for metric in METRICS]
-    peaks = peaks[candidate_cols].copy()
-    peaks.insert(0, "meeting_id", meeting_id)
-    peaks["top_contributors"] = peaks.apply(top_contributors, axis=1)
-
-    meeting_summary = {
-        "meeting_id": meeting_id,
-        "n_seconds": int(len(score_df)),
-        "valid_seconds": int(score_df["composite_score"].notna().sum()),
-        "candidate_count": int(len(peaks)),
-        "threshold": float(threshold) if np.isfinite(threshold) else np.nan,
-        "max_composite_score": float(clean_scores.max()) if not clean_scores.empty else np.nan,
-        "median_composite_score": float(clean_scores.median()) if not clean_scores.empty else np.nan,
-    }
-    return score_df, peaks, meeting_summary
-
-
-def save_meeting_figure(score_df: pd.DataFrame, peaks: pd.DataFrame, meeting_id: str) -> None:
-    fig, axes = plt.subplots(4, 1, figsize=(18, 10), sharex=True, constrained_layout=True)
-    colors = {"entropy": "#1f77b4", "pct_det": "#2ca02c", "rmse": "#d62728"}
-
-    for ax, metric in zip(axes[:3], METRICS):
-        ax.plot(score_df["second"], score_df[metric], color=colors[metric], linewidth=1.0, alpha=0.35, label=f"{metric} raw")
-        ax.plot(score_df["second"], score_df[f"{metric}_smoothed"], color=colors[metric], linewidth=1.3, label=f"{metric} smoothed")
-        for second in peaks["second"].tolist():
-            ax.axvline(second, color="#444444", linewidth=0.8, alpha=0.35)
-        ax.set_ylabel(metric)
-        ax.legend(loc="upper right", frameon=False)
-
-    axes[3].plot(score_df["second"], score_df["composite_score"], color="#6a3d9a", linewidth=1.4, label="composite score")
-    if peaks.shape[0] > 0 and np.isfinite(float(peaks["threshold"].iloc[0])):
-        axes[3].axhline(float(peaks["threshold"].iloc[0]), color="#ff7f00", linestyle="--", linewidth=1.2, label="candidate threshold")
-    for _, row in peaks.iterrows():
-        second = int(row["second"])
-        axes[3].axvline(second, color="#444444", linewidth=0.9, alpha=0.45)
-        axes[3].text(second, float(row["composite_score"]), f"#{int(row['rank_within_meeting'])}", fontsize=8, ha="left", va="bottom")
-    axes[3].set_ylabel("score")
-    axes[3].set_xlabel("Second")
-    axes[3].legend(loc="upper right", frameon=False)
-
-    fig.suptitle(f"Step 04 candidate inflection points: {meeting_id}", y=1.02)
-    fig.savefig(FIGURES_DIR / f"{meeting_id}_inflection_points.png", dpi=180, bbox_inches="tight")
-    plt.close(fig)
-
-
-def update_readme(summary_df: pd.DataFrame, candidates_df: pd.DataFrame) -> None:
-    meeting_count = int(summary_df.shape[0])
-    total_candidates = int(candidates_df.shape[0])
-    mean_candidates = float(summary_df["candidate_count"].mean()) if not summary_df.empty else float("nan")
-    median_candidates = float(summary_df["candidate_count"].median()) if not summary_df.empty else float("nan")
-    max_candidates = int(summary_df["candidate_count"].max()) if not summary_df.empty else 0
-
-    if total_candidates > 0:
-        top_row = candidates_df.sort_values(["composite_score", "meeting_id"], ascending=[False, True]).iloc[0]
-        top_text = (
-            f"Highest-scoring candidate: `{top_row['meeting_id']}` at second `{int(top_row['second'])}` "
-            f"with composite score `{float(top_row['composite_score']):.3f}`."
-        )
-    else:
-        top_text = "No candidates exceeded the adaptive threshold."
-
-    readme = f"""# 04_inflection_points
-
-This directory contains the code and documentation for the **inflection points** stage of the reproducible analysis pipeline.
-
-## Step 4 — Candidate Inflection Points
-
-Input: `data/processed/metrics/*_metrics.csv`  
-Output: `data/processed/inflection_points/`, `figures/04_inflection_points/`
-
-### Detection logic
-
-For each meeting, the pipeline smooths the second-by-second Entropy, %DET, and RMSE series with a centered rolling median (`{SMOOTH_WINDOW}` s). It then computes a **local shift signal** for each metric as the difference between the mean of the following `{SHIFT_WINDOW}` seconds and the mean of the preceding `{SHIFT_WINDOW}` seconds. These shift signals are robustly standardized within meeting, combined into a composite magnitude score, and filtered so that a second must have at least `{MIN_VALID_METRICS}` valid metrics to be eligible.
-
-Candidate inflection points are selected as local maxima of the composite score that exceed an **adaptive threshold** defined as the larger of the meeting-specific `{THRESHOLD_QUANTILE:.0%}` quantile and `median + {THRESHOLD_Z:.1f} × robust scale`. Nearby peaks are merged with a minimum separation of `{MIN_SEPARATION}` seconds.
-
-### Results
-
-Meetings processed: `{meeting_count}`  
-Total candidate inflection points: `{total_candidates}`  
-Mean candidates per meeting: `{mean_candidates:.2f}`  
-Median candidates per meeting: `{median_candidates:.2f}`  
-Maximum candidates in a single meeting: `{max_candidates}`
-
-{top_text}
-
-### Files
-
-| File | Purpose |
-|---|---|
-| `main.py` | Detects candidate inflection points from the dynamic metric series and exports summary tables plus diagnostic figures. |
-| `data/processed/inflection_points/meeting_inflection_summary.csv` | One row per meeting with thresholds, valid coverage, and candidate counts. |
-| `data/processed/inflection_points/all_inflection_candidates.csv` | Pooled table of candidate seconds, scores, and top contributing metrics across meetings. |
-| `data/processed/inflection_points/*_inflection_scores.csv` | Per-second inflection scores and candidate flags for each meeting. |
-| `figures/04_inflection_points/*_inflection_points.png` | Meeting-level diagnostic panels showing raw metrics, smoothed metrics, and selected candidate points. |
-"""
-    README_PATH.write_text(readme)
-
-
-def main() -> None:
+def clean_output_directories() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     FIGURES_DIR.mkdir(parents=True, exist_ok=True)
 
-    metric_files = sorted(METRICS_DIR.glob("*_metrics.csv"))
-    if not metric_files:
+    for path in OUTPUT_DIR.glob("*.csv"):
+        path.unlink()
+    for path in FIGURES_DIR.glob("*.png"):
+        path.unlink()
+
+
+def contiguous_runs(seconds: Iterable[int]) -> List[tuple[int, int]]:
+    seconds = sorted(int(x) for x in seconds)
+    if not seconds:
+        return []
+    runs: List[tuple[int, int]] = []
+    start = seconds[0]
+    previous = seconds[0]
+    for second in seconds[1:]:
+        if second == previous + 1:
+            previous = second
+            continue
+        runs.append((start, previous))
+        start = second
+        previous = second
+    runs.append((start, previous))
+    return runs
+
+
+def select_peaks_with_minimum_separation(events: List[Dict[str, float]], min_separation: int) -> List[Dict[str, float]]:
+    if not events:
+        return []
+    ordered = sorted(events, key=lambda row: (-float(row["peak_rmse"]), int(row["peak_second"])))
+    kept: List[Dict[str, float]] = []
+    for event in ordered:
+        peak_second = int(event["peak_second"])
+        if all(abs(peak_second - int(existing["peak_second"])) >= min_separation for existing in kept):
+            kept.append(event)
+    kept.sort(key=lambda row: int(row["peak_second"]))
+    return kept
+
+
+def compute_window_mean(df: pd.DataFrame, metric: str, start_second: int, end_second: int) -> tuple[float, int]:
+    mask = (
+        (df["second"] >= start_second)
+        & (df["second"] <= end_second)
+        & (~df["edge_window"])
+        & df[metric].notna()
+    )
+    subset = df.loc[mask, metric].astype(float)
+    if subset.empty:
+        return np.nan, 0
+    return float(subset.mean()), int(subset.shape[0])
+
+
+def process_meeting(path: Path, quality_lookup: pd.DataFrame) -> tuple[pd.DataFrame, Dict[str, float], pd.DataFrame]:
+    meeting_id = path.name.replace("_metrics.csv", "")
+    df = pd.read_csv(path)
+    required_columns = {"second", "entropy", "pct_det", "rmse", "edge_window"}
+    missing = required_columns.difference(df.columns)
+    if missing:
+        raise ValueError(f"{path.name} is missing required columns: {sorted(missing)}")
+
+    df = df.copy()
+    df["second"] = pd.to_numeric(df["second"], errors="coerce")
+    for metric in ["entropy", "pct_det", "rmse"]:
+        df[metric] = pd.to_numeric(df[metric], errors="coerce")
+    df["edge_window"] = df["edge_window"].astype(str).str.lower().map({"true": True, "false": False})
+    df["edge_window"] = df["edge_window"].fillna(False).astype(bool)
+    df = df.dropna(subset=["second"]).sort_values("second").reset_index(drop=True)
+    df["second"] = df["second"].astype(int)
+
+    quality_match = quality_lookup.loc[quality_lookup["meeting_id"] == meeting_id, "quality_label"]
+    quality_label = quality_match.iloc[0] if not quality_match.empty else "unknown"
+
+    valid_rmse = df.loc[(~df["edge_window"]) & df["rmse"].notna(), "rmse"].astype(float)
+    n_valid = int(valid_rmse.shape[0])
+    meeting_duration_seconds = int(df["second"].max()) + 1 if not df.empty else 0
+
+    if n_valid >= 2:
+        rmse_mean = float(valid_rmse.mean())
+        rmse_sd = float(valid_rmse.std(ddof=1))
+        t_crit = float(stats.t.ppf(T_CRIT_QUANTILE, df=n_valid - 1))
+        ucl = float(rmse_mean + t_crit * rmse_sd) if np.isfinite(rmse_sd) else np.nan
+    else:
+        rmse_mean = np.nan
+        rmse_sd = np.nan
+        t_crit = np.nan
+        ucl = np.nan
+
+    candidate_seconds = df.loc[(~df["edge_window"]) & df["rmse"].notna() & (df["rmse"] > ucl), "second"].tolist() if np.isfinite(ucl) else []
+    runs = contiguous_runs(candidate_seconds)
+
+    preliminary_events: List[Dict[str, float]] = []
+    for onset_second, offset_second in runs:
+        run_df = df.loc[(df["second"] >= onset_second) & (df["second"] <= offset_second) & df["rmse"].notna(), ["second", "rmse"]].copy()
+        if run_df.empty:
+            continue
+        peak_row = run_df.sort_values(["rmse", "second"], ascending=[False, True]).iloc[0]
+        preliminary_events.append(
+            {
+                "meeting_id": meeting_id,
+                "onset_second": int(onset_second),
+                "offset_second": int(offset_second),
+                "peak_second": int(peak_row["second"]),
+                "peak_rmse": float(peak_row["rmse"]),
+                "alpha_level": ALPHA_LEVEL,
+                "ucl": float(ucl) if np.isfinite(ucl) else np.nan,
+                "temporal_position": float(int(peak_row["second"]) / meeting_duration_seconds) if meeting_duration_seconds > 0 else np.nan,
+                "quality_label": quality_label,
+            }
+        )
+
+    retained_events = select_peaks_with_minimum_separation(preliminary_events, MIN_PEAK_SEPARATION_SECONDS)
+
+    entropy_sd = float(df.loc[(~df["edge_window"]) & df["entropy"].notna(), "entropy"].astype(float).std(ddof=1))
+    pct_det_sd = float(df.loc[(~df["edge_window"]) & df["pct_det"].notna(), "pct_det"].astype(float).std(ddof=1))
+
+    inflection_rows: List[Dict[str, float]] = []
+    for event in retained_events:
+        peak_second = int(event["peak_second"])
+        pre_entropy, pre_entropy_n = compute_window_mean(df, "entropy", peak_second - WINDOW_RADIUS, peak_second - 1)
+        post_entropy, post_entropy_n = compute_window_mean(df, "entropy", peak_second + 1, peak_second + WINDOW_RADIUS)
+        pre_pct_det, pre_pct_det_n = compute_window_mean(df, "pct_det", peak_second - WINDOW_RADIUS, peak_second - 1)
+        post_pct_det, post_pct_det_n = compute_window_mean(df, "pct_det", peak_second + 1, peak_second + WINDOW_RADIUS)
+
+        delta_entropy = abs(post_entropy - pre_entropy) if np.isfinite(pre_entropy) and np.isfinite(post_entropy) else np.nan
+        delta_pct_det = abs(post_pct_det - pre_pct_det) if np.isfinite(pre_pct_det) and np.isfinite(post_pct_det) else np.nan
+
+        z_delta_entropy = delta_entropy / entropy_sd if np.isfinite(delta_entropy) and np.isfinite(entropy_sd) and entropy_sd > 0 else np.nan
+        z_delta_pct_det = delta_pct_det / pct_det_sd if np.isfinite(delta_pct_det) and np.isfinite(pct_det_sd) and pct_det_sd > 0 else np.nan
+
+        sufficient_windows = all(
+            count >= MIN_WINDOW_VALID_SECONDS
+            for count in [pre_entropy_n, post_entropy_n, pre_pct_det_n, post_pct_det_n]
+        )
+        combined_delta = (
+            float(np.nanmean([z_delta_entropy, z_delta_pct_det]))
+            if sufficient_windows and (np.isfinite(z_delta_entropy) or np.isfinite(z_delta_pct_det))
+            else np.nan
+        )
+
+        inflection_rows.append(
+            {
+                **event,
+                "combined_delta": combined_delta,
+                "pre_entropy": pre_entropy,
+                "post_entropy": post_entropy,
+                "delta_entropy": delta_entropy,
+                "z_delta_entropy": z_delta_entropy,
+                "pre_pct_det": pre_pct_det,
+                "post_pct_det": post_pct_det,
+                "delta_pct_det": delta_pct_det,
+                "z_delta_pct_det": z_delta_pct_det,
+            }
+        )
+
+    inflections_df = pd.DataFrame(
+        inflection_rows,
+        columns=[
+            "meeting_id",
+            "onset_second",
+            "offset_second",
+            "peak_second",
+            "peak_rmse",
+            "alpha_level",
+            "ucl",
+            "temporal_position",
+            "combined_delta",
+            "pre_entropy",
+            "post_entropy",
+            "delta_entropy",
+            "z_delta_entropy",
+            "pre_pct_det",
+            "post_pct_det",
+            "delta_pct_det",
+            "z_delta_pct_det",
+            "quality_label",
+        ],
+    )
+
+    summary_row = {
+        "meeting_id": meeting_id,
+        "quality_label": quality_label,
+        "n_inflection_points": int(inflections_df.shape[0]),
+        "mean_peak_rmse": float(inflections_df["peak_rmse"].mean()) if not inflections_df.empty else np.nan,
+        "mean_combined_delta": float(inflections_df["combined_delta"].mean()) if not inflections_df.empty else np.nan,
+        "mean_temporal_position": float(inflections_df["temporal_position"].mean()) if not inflections_df.empty else np.nan,
+        "ucl": float(ucl) if np.isfinite(ucl) else np.nan,
+        "meeting_duration_seconds": meeting_duration_seconds,
+    }
+
+    metadata_row = {
+        "meeting_id": meeting_id,
+        "quality_label": quality_label,
+        "meeting_duration_seconds": meeting_duration_seconds,
+        "valid_rmse_seconds": n_valid,
+        "ucl": float(ucl) if np.isfinite(ucl) else np.nan,
+        "rmse_mean": rmse_mean,
+        "rmse_sd": rmse_sd,
+        "t_crit": t_crit,
+    }
+
+    return inflections_df, summary_row, pd.DataFrame([metadata_row])
+
+
+def save_rmse_ucl_distribution(valid_rmse_df: pd.DataFrame, metadata_df: pd.DataFrame) -> None:
+    fig, axes = plt.subplots(1, 2, figsize=(16, 6), sharey=True, constrained_layout=True)
+    for ax, quality_label in zip(axes, QUALITY_ORDER):
+        subset = valid_rmse_df.loc[valid_rmse_df["quality_label"] == quality_label, "rmse"].astype(float)
+        mean_ucl = metadata_df.loc[metadata_df["quality_label"] == quality_label, "ucl"].astype(float).mean()
+        ax.hist(subset, bins=40, color=QUALITY_COLORS[quality_label], alpha=0.75, edgecolor="white")
+        if np.isfinite(mean_ucl):
+            ax.axvline(mean_ucl, color="#222222", linestyle="--", linewidth=1.5, label=f"mean UCL = {mean_ucl:.3f}")
+            ax.legend(frameon=False, loc="upper right")
+        ax.set_title(quality_label)
+        ax.set_xlabel("RMSE")
+        ax.set_ylabel("Per-second count")
+    fig.suptitle("Pooled per-second RMSE distributions with mean UCL by quality label")
+    fig.savefig(FIGURES_DIR / "rmse_ucl_distribution.png", dpi=180, bbox_inches="tight")
+    plt.close(fig)
+
+
+def save_inflection_points_per_meeting(summary_df: pd.DataFrame) -> None:
+    plot_df = summary_df.sort_values(["n_inflection_points", "meeting_id"], ascending=[False, True]).reset_index(drop=True)
+    colors = [QUALITY_COLORS.get(label, QUALITY_COLORS["unknown"]) for label in plot_df["quality_label"]]
+
+    fig, ax = plt.subplots(figsize=(18, 7), constrained_layout=True)
+    ax.bar(plot_df["meeting_id"], plot_df["n_inflection_points"], color=colors)
+    ax.set_ylabel("Inflection points")
+    ax.set_xlabel("Meeting ID")
+    ax.set_title("Inflection points per meeting")
+    ax.tick_params(axis="x", rotation=90)
+
+    legend_handles = [
+        plt.Line2D([0], [0], color=QUALITY_COLORS[label], lw=8, label=label)
+        for label in QUALITY_ORDER
+        if label in plot_df["quality_label"].values
+    ]
+    if "unknown" in plot_df["quality_label"].values:
+        legend_handles.append(plt.Line2D([0], [0], color=QUALITY_COLORS["unknown"], lw=8, label="unknown"))
+    if legend_handles:
+        ax.legend(handles=legend_handles, frameon=False)
+
+    fig.savefig(FIGURES_DIR / "inflection_points_per_meeting.png", dpi=180, bbox_inches="tight")
+    plt.close(fig)
+
+
+def save_temporal_position_distribution(inflections_df: pd.DataFrame) -> None:
+    fig, ax = plt.subplots(figsize=(10, 6), constrained_layout=True)
+    values = inflections_df["temporal_position"].astype(float).dropna()
+    ax.hist(values, bins=20, color="#6a3d9a", alpha=0.8, edgecolor="white")
+    ax.set_xlabel("Temporal position")
+    ax.set_ylabel("Inflection point count")
+    ax.set_title("Distribution of retained inflection-point temporal positions")
+    fig.savefig(FIGURES_DIR / "temporal_position_distribution.png", dpi=180, bbox_inches="tight")
+    plt.close(fig)
+
+
+def save_combined_delta_distribution(inflections_df: pd.DataFrame) -> None:
+    fig, ax = plt.subplots(figsize=(10, 6), constrained_layout=True)
+    values = inflections_df["combined_delta"].astype(float).dropna()
+    ax.hist(values, bins=20, color="#2ca02c", alpha=0.8, edgecolor="white")
+    mean_value = float(values.mean()) if not values.empty else np.nan
+    if np.isfinite(mean_value):
+        ax.axvline(mean_value, color="#222222", linestyle="--", linewidth=1.5, label=f"mean = {mean_value:.3f}")
+        ax.legend(frameon=False)
+    ax.set_xlabel("Combined delta")
+    ax.set_ylabel("Inflection point count")
+    ax.set_title("Distribution of combined_delta across retained inflection points")
+    fig.savefig(FIGURES_DIR / "combined_delta_distribution.png", dpi=180, bbox_inches="tight")
+    plt.close(fig)
+
+
+def save_example_meeting_panel(metric_paths: List[Path], inflections_df: pd.DataFrame, summary_df: pd.DataFrame, metadata_df: pd.DataFrame) -> str:
+    if summary_df.empty:
+        raise ValueError("No meetings available to create example_meeting_panel.png")
+
+    median_count = float(summary_df["n_inflection_points"].median())
+    example_row = summary_df.assign(distance=(summary_df["n_inflection_points"] - median_count).abs()).sort_values(
+        ["distance", "n_inflection_points", "meeting_id"], ascending=[True, True, True]
+    ).iloc[0]
+    meeting_id = str(example_row["meeting_id"])
+
+    metrics_path = next(path for path in metric_paths if path.name == f"{meeting_id}_metrics.csv")
+    df = pd.read_csv(metrics_path)
+    df["second"] = pd.to_numeric(df["second"], errors="coerce")
+    for metric in ["entropy", "pct_det", "rmse"]:
+        df[metric] = pd.to_numeric(df[metric], errors="coerce")
+    df = df.dropna(subset=["second"]).sort_values("second").reset_index(drop=True)
+    df["minute"] = df["second"] / 60.0
+
+    retained = inflections_df.loc[inflections_df["meeting_id"] == meeting_id].copy()
+    ucl = float(metadata_df.loc[metadata_df["meeting_id"] == meeting_id, "ucl"].iloc[0])
+
+    fig, axes = plt.subplots(3, 1, figsize=(16, 10), sharex=True, constrained_layout=True)
+    metric_specs = [
+        ("entropy", "#1f77b4", "Entropy"),
+        ("pct_det", "#2ca02c", "%DET"),
+        ("rmse", "#d62728", "RMSE"),
+    ]
+
+    for ax, (metric, color, label) in zip(axes, metric_specs):
+        ax.plot(df["minute"], df[metric], color=color, linewidth=1.2)
+        for peak_second in retained["peak_second"].tolist():
+            ax.axvline(float(peak_second) / 60.0, color="#b22222", linestyle="-", linewidth=1.0, alpha=0.8)
+        if metric == "rmse" and np.isfinite(ucl):
+            ax.axhline(ucl, color="#222222", linestyle="--", linewidth=1.2, label=f"UCL = {ucl:.3f}")
+            ax.legend(frameon=False, loc="upper right")
+        ax.set_ylabel(label)
+
+    axes[-1].set_xlabel("Time (minutes)")
+    fig.suptitle(f"Example meeting panel: {meeting_id}")
+    fig.savefig(FIGURES_DIR / "example_meeting_panel.png", dpi=180, bbox_inches="tight")
+    plt.close(fig)
+    return meeting_id
+
+
+def format_console_report(summary_df: pd.DataFrame, inflections_df: pd.DataFrame, metadata_df: pd.DataFrame) -> str:
+    meetings_processed = int(summary_df.shape[0])
+    total_inflection_points = int(inflections_df.shape[0])
+    mean_per_meeting = float(summary_df["n_inflection_points"].mean()) if not summary_df.empty else np.nan
+    sd_per_meeting = float(summary_df["n_inflection_points"].std(ddof=1)) if summary_df.shape[0] > 1 else 0.0
+    min_points = int(summary_df["n_inflection_points"].min()) if not summary_df.empty else 0
+    max_points = int(summary_df["n_inflection_points"].max()) if not summary_df.empty else 0
+    mean_peak_rmse = float(inflections_df["peak_rmse"].mean()) if not inflections_df.empty else np.nan
+    mean_ucl = float(metadata_df["ucl"].mean()) if not metadata_df.empty else np.nan
+    mean_combined_delta = float(inflections_df["combined_delta"].mean()) if not inflections_df.empty else np.nan
+    sd_combined_delta = float(inflections_df["combined_delta"].std(ddof=1)) if inflections_df["combined_delta"].notna().sum() > 1 else 0.0
+    meetings_with_zero = int((summary_df["n_inflection_points"] == 0).sum()) if not summary_df.empty else 0
+
+    include_mean = float(summary_df.loc[summary_df["quality_label"] == "include", "n_inflection_points"].mean())
+    caution_mean = float(summary_df.loc[summary_df["quality_label"] == "include_with_caution", "n_inflection_points"].mean())
+
+    return "\n".join(
+        [
+            "=== Step 4: Inflection Point Identification (UCL method) ===",
+            "Algorithm: RMSE > UCL (t-distribution, alpha=0.05, per-meeting)",
+            f"Meetings processed: {meetings_processed}",
+            f"Total inflection points: {total_inflection_points}",
+            f"Mean per meeting: {mean_per_meeting:.2f} (SD={sd_per_meeting:.2f}, range={min_points}–{max_points})",
+            f"Mean peak RMSE: {mean_peak_rmse:.3f}",
+            f"Mean UCL: {mean_ucl:.3f}",
+            f"Mean combined_delta: {mean_combined_delta:.3f} (SD={sd_combined_delta:.3f})",
+            f"Meetings with 0 inflection points: {meetings_with_zero}",
+            f"  include meetings — mean {include_mean:.2f} inflection points",
+            f"  include_with_caution — mean {caution_mean:.2f} inflection points",
+        ]
+    )
+
+
+def main() -> None:
+    clean_output_directories()
+    quality_lookup = load_quality_labels()
+    metric_paths = sorted(METRICS_DIR.glob("*_metrics.csv"))
+    if not metric_paths:
         raise FileNotFoundError(f"No metrics files found in {METRICS_DIR}")
 
-    all_candidates: List[pd.DataFrame] = []
+    all_inflections: List[pd.DataFrame] = []
     summary_rows: List[Dict[str, float]] = []
+    metadata_rows: List[pd.DataFrame] = []
+    valid_rmse_rows: List[pd.DataFrame] = []
 
-    for path in metric_files:
-        score_df, peaks, meeting_summary = process_meeting(path)
-        meeting_id = meeting_summary["meeting_id"]
-        score_df.to_csv(OUTPUT_DIR / f"{meeting_id}_inflection_scores.csv", index=False)
-        save_meeting_figure(score_df, peaks, meeting_id)
-        all_candidates.append(peaks)
-        summary_rows.append(meeting_summary)
+    for path in metric_paths:
+        inflections_df, summary_row, metadata_df = process_meeting(path, quality_lookup)
+        meeting_id = summary_row["meeting_id"]
 
+        raw_df = pd.read_csv(path)
+        raw_df["rmse"] = pd.to_numeric(raw_df["rmse"], errors="coerce")
+        raw_df["edge_window"] = raw_df["edge_window"].astype(str).str.lower().map({"true": True, "false": False}).fillna(False).astype(bool)
+        valid_rmse = raw_df.loc[(~raw_df["edge_window"]) & raw_df["rmse"].notna(), ["rmse"]].copy()
+        valid_rmse.insert(0, "meeting_id", meeting_id)
+        valid_rmse.insert(1, "quality_label", summary_row["quality_label"])
+        valid_rmse_rows.append(valid_rmse)
+
+        all_inflections.append(inflections_df)
+        summary_rows.append(summary_row)
+        metadata_rows.append(metadata_df)
+
+    inflections_all = pd.concat(all_inflections, ignore_index=True) if all_inflections else pd.DataFrame()
+    if "quality_label" in inflections_all.columns:
+        inflections_output = inflections_all.drop(columns=["quality_label"])
+    else:
+        inflections_output = inflections_all
     summary_df = pd.DataFrame(summary_rows).sort_values("meeting_id").reset_index(drop=True)
-    candidates_df = pd.concat(all_candidates, ignore_index=True) if all_candidates else pd.DataFrame()
+    metadata_df = pd.concat(metadata_rows, ignore_index=True).sort_values("meeting_id").reset_index(drop=True)
+    valid_rmse_df = pd.concat(valid_rmse_rows, ignore_index=True)
 
-    summary_df.to_csv(OUTPUT_DIR / "meeting_inflection_summary.csv", index=False)
-    candidates_df.to_csv(OUTPUT_DIR / "all_inflection_candidates.csv", index=False)
-    update_readme(summary_df, candidates_df)
+    inflections_output.to_csv(OUTPUT_DIR / "inflection_points.csv", index=False)
+    summary_df.to_csv(OUTPUT_DIR / "inflection_points_summary.csv", index=False)
+
+    save_rmse_ucl_distribution(valid_rmse_df, metadata_df)
+    save_inflection_points_per_meeting(summary_df)
+    save_temporal_position_distribution(inflections_all)
+    save_combined_delta_distribution(inflections_all)
+    example_meeting_id = save_example_meeting_panel(metric_paths, inflections_all, summary_df, metadata_df)
+
+    console_report = format_console_report(summary_df, inflections_all, metadata_df)
+    print(console_report)
+    print(f"Example meeting panel source: {example_meeting_id}")
 
 
 if __name__ == "__main__":
