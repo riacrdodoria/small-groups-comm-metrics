@@ -1,0 +1,30 @@
+=== Step 5: LLM Event Classification ===
+Total inflection points processed: 595
+Successful classifications: 595
+Parse errors: 0
+No transcript: 0
+Low confidence: 1 (0.2%)
+
+smm_impact distribution:
+  disrupts: 61 (10.3%)
+  proposes: 322 (54.1%)
+  updates: 202 (33.9%)
+  neutral: 10 (1.7%)
+  parse_error: 0 (0.0%)
+  no_transcript: 0 (0.0%)
+
+smm_perturbation:
+  TRUE: 383 (64.4%) -> candidate triggers
+  FALSE: 212 (35.6%)
+
+perturbation_type distribution (among TRUE):
+  factual_correction: 36 (9.4%)
+  role_challenge: 6 (1.6%)
+  goal_reframe: 12 (3.1%)
+  constraint_revelation: 64 (16.7%)
+  generative_tension: 265 (69.2%)
+
+confidence distribution:
+  high: 593 (99.7%)
+  medium: 1 (0.2%)
+  low: 1 (0.2%)
