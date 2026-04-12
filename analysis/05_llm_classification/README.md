@@ -1,112 +1,80 @@
-# 05_llm_classification
+# Step 05: LLM event classification
 
-This stage classifies each **Step 04 inflection point** with an LLM using the **shared mental model (SMM)** coding schema specified for the project. For every inflection point, the pipeline extracts a transcript segment centered on the detected `peak_second`, formats the local interaction context, sends that context to the model, validates the returned JSON, and writes a reproducible event-level classification table.
+Step 05 classifies each **Entropy-UCL inflection-point event** as either **Cognitive Pivot (CP)** or **Frame Reinforcement (FR)** using an LLM and a fixed transcript window centered on the event peak. This stage is intentionally split into two parts. First, the pipeline runs a constrained **20-case calibration sample** for human inspection. Second, and only after explicit approval, the same method is applied to the remaining events in the approved Step 05 universe.
 
 | Item | Path |
 |---|---|
-| Input 1 | `data/processed/inflection_points/inflection_points.csv` |
-| Input 2 | `data/anonymized/{meeting_id}/{meeting_id}_transcript.csv` |
-| Output | `data/processed/llm_classification/llm_classifications.csv` |
-| Checkpoint | `data/processed/llm_classification/llm_classifications_checkpoint.csv` |
-| Console summary | `data/processed/llm_classification/step05_console_summary.txt` |
+| Primary event input | `data/processed/inflection_points/inflection_points.csv` |
+| Transcript input | `data/anonymized/{meeting_id}_transcript.csv` and equivalent anonymized transcript paths already stored under `data/anonymized/` |
+| Step 05 redesign brief | `analysis/05_llm_classification/STEP05_ENTROPY_REDESIGN.md` |
+| Calibration script | `analysis/05_llm_classification/classify_calibration_sample.py` |
+| External full-run handoff | `analysis/05_llm_classification/EXTERNAL_FULL_RUN_HANDOFF.md` |
+| Approved calibration sample | `data/processed/step05_calibration/calibration_sample.csv` |
+| Calibration output target | `data/processed/step05_calibration/calibration_classifications.csv` |
+| Calibration review report | `data/processed/step05_calibration/calibration_report.md` |
+| Full-run output folder | `data/processed/step05_classification/` |
 
-The pipeline keeps the transcript content in its original language during extraction, including Portuguese segments, but requires the model to return all classification fields in **English**. To reduce the risk of losing progress during a long run across 595 events, the script saves an intermediate checkpoint every 50 classifications.
+The current Step 05 design no longer uses the earlier 595-event workflow documented in older drafts. The approved event universe for this paper is the **176-event Entropy-UCL set**, and the classification target is no longer the broader SMM-impact schema used in earlier exploratory versions. Instead, the approved production workflow uses the more focused **CP-versus-FR codebook** described in the redesign brief.
 
-## Context window
+## Approved redesign
 
-The event context window is centered on the detected inflection-point peak.
+The redesigned calibration sample was approved after the initial sample was rejected for over-concentration within a single meeting and poor temporal balance. The current approved sample satisfies the project constraints and serves as the only valid entry point for Step 05 execution.
 
-| Parameter | Value |
+| Calibration design criterion | Approved target |
 |---|---|
-| `CONTEXT_BEFORE` | `120` seconds |
-| `CONTEXT_AFTER` | `120` seconds |
-| Effective segment window | `peak_second ± 120 s` |
-| Minimum context size | `3` transcript turns |
+| Calibration sample size | `20` cases |
+| Maximum cases per meeting | `2` |
+| Distinct meetings represented | `18` |
+| Middle or late events | `12` |
+| `quality_label = include` | `12` |
+| `joint_corroborated = TRUE` | `10` |
+| `joint_corroborated = FALSE` | `10` |
+| Stop rule | Do not run the remaining `156` events until calibration is reviewed and approved |
 
-Each extracted segment is formatted as timestamped speaker turns such as `[Speaker 2, t=52s]: ...`, preserving event order by `onset_seconds`.
+Methodological consistency is the main requirement of this stage. Every event must be classified from a transcript segment centered on the event peak, the transcript content must remain in the **source language**, and all model-returned labels, summaries, and justifications must be written in **English**.
 
-## SMM schema
+## Context window and classification target
 
-The model returns one JSON object per inflection point using the project schema below.
+| Parameter | Approved value |
+|---|---|
+| Event universe | `176` Entropy-UCL events |
+| Event anchor | `peak_second` |
+| Transcript window | `peak_second ± 180 seconds` |
+| Primary labels | `CP` = Cognitive Pivot; `FR` = Frame Reinforcement |
+| Required carry-through field | `joint_corroborated` |
+| Execution order | Calibration first, then human review, then full run |
 
-| Field | Allowed values | Meaning |
+The transcript window must be extracted deterministically from the anonymized transcript file for the corresponding `meeting_id`. The production script is expected to preserve event-level metadata needed for later summaries and modeling, including timing, corroboration, and event-strength fields.
+
+## Inputs and outputs
+
+The calibration stage and the full run must remain separated for reproducibility and auditability. Calibration artifacts must never be overwritten by the later full-run script.
+
+| Stage | Required inputs | Required outputs |
 |---|---|---|
-| `smm_impact` | `disrupts`, `proposes`, `updates`, `neutral` | Whether the event challenged, introduced, refined, or did not materially affect the team’s shared mental model |
-| `smm_dimension` | `task_understanding`, `strategy`, `roles`, `constraints`, `goals`, `none` | Which aspect of the shared mental model was affected |
-| `smm_perturbation` | `TRUE` / `FALSE` | `TRUE` when `smm_impact` is `disrupts` or `proposes` |
-| `perturbation_type` | `factual_correction`, `role_challenge`, `goal_reframe`, `constraint_revelation`, `generative_tension`, `none` | Type of perturbation when applicable |
-| `trigger_content_summary` | One sentence | Short English description of the content that drove the structural change |
-| `confidence` | `high`, `medium`, `low` | Confidence in the classification |
+| Calibration | `inflection_points.csv`, anonymized transcripts, `calibration_sample.csv`, `classify_calibration_sample.py` | `calibration_classifications.csv`, `calibration_report.md` |
+| Full run | `inflection_points.csv`, anonymized transcripts, approved Step 05 method | `step05_classification/inflection_points_classified.csv`, `step05_classification/classification_summary.md`, `step05_classification/prompt_log.jsonl` |
 
-The implementation also includes two explicit fallback behaviors required for robust batch processing. First, if the model returns invalid JSON that cannot be salvaged, the event is marked as `parse_error`. Second, if the meeting transcript is missing, the event is marked as `no_transcript`. In the corrected rerun, neither fallback was needed. In addition, the script now enforces a **non-empty `trigger_content_summary`** and supplies a deterministic fallback sentence if the model omits that field.
+The calibration output file is intentionally separate from the eventual full-run output table. This makes it possible to inspect classification behavior on the approved sample before spending resources on the remaining 156 events.
 
-## Output schema
+## Current execution status
 
-The final CSV contains one row per Step 04 inflection point.
+At the moment, the **repository contains the approved calibration sample, the calibration script, and the external handoff materials**, but the actual Step 05 model run remains blocked in this environment. The Manus proxy endpoint currently returns route failures, so the production LLM classification cannot be completed here until the endpoint is restored or the same workflow is executed in another environment.
 
-| Column | Description |
+| Operational item | Current status |
 |---|---|
-| `meeting_id` | Meeting identifier |
-| `peak_second` | Peak second of the detected inflection point |
-| `onset_second` | Event onset second from Step 04 |
-| `offset_second` | Event offset second from Step 04 |
-| `combined_delta` | Step 04 event magnitude summary |
-| `smm_impact` | SMM impact label |
-| `smm_dimension` | SMM dimension label |
-| `smm_perturbation` | Boolean perturbation flag |
-| `perturbation_type` | Perturbation subtype |
-| `trigger_content_summary` | One-sentence content summary |
-| `confidence` | Classification confidence |
-| `segment_n_turns` | Number of turns extracted in the transcript segment |
-| `segment_duration_seconds` | Nominal transcript window duration |
+| Approved calibration sample | Ready |
+| Calibration script | Ready |
+| Full-run handoff instructions | Ready |
+| Local Step 05 execution in Manus | Blocked by unavailable proxy route |
+| Recommended workaround | Run the same workflow externally using `EXTERNAL_FULL_RUN_HANDOFF.md` |
 
-## Validated rerun results
+The file `EXTERNAL_FULL_RUN_HANDOFF.md` explains how to reproduce the Step 05 full run outside Manus without redesigning the method. If you use Claude Code or another external coding agent, that document is the authoritative handoff for creating and running the full 176-event classifier while preserving the approved Step 05 logic.
 
-The corrected rerun completed successfully across the full Step 04 event set.
+## Important note on current calibration artifacts
 
-> === Step 5: LLM Event Classification ===
-> Total inflection points processed: 595
-> Successful classifications: 595
-> Parse errors: 0
-> No transcript: 0
-> Low confidence: 1 (0.2%)
-
-### `smm_impact` distribution
-
-| Label | Count | Share |
-|---|---:|---:|
-| `disrupts` | 61 | 10.3% |
-| `proposes` | 322 | 54.1% |
-| `updates` | 202 | 33.9% |
-| `neutral` | 10 | 1.7% |
-| `parse_error` | 0 | 0.0% |
-| `no_transcript` | 0 | 0.0% |
-
-### `smm_perturbation`
-
-| Flag | Count | Share |
-|---|---:|---:|
-| `TRUE` | 383 | 64.4% |
-| `FALSE` | 212 | 35.6% |
-
-### `perturbation_type` distribution among `TRUE`
-
-| Type | Count | Share |
-|---|---:|---:|
-| `factual_correction` | 36 | 9.4% |
-| `role_challenge` | 6 | 1.6% |
-| `goal_reframe` | 12 | 3.1% |
-| `constraint_revelation` | 64 | 16.7% |
-| `generative_tension` | 265 | 69.2% |
-
-### Confidence distribution
-
-| Level | Count | Share |
-|---|---:|---:|
-| `high` | 593 | 99.7% |
-| `medium` | 1 | 0.2% |
-| `low` | 1 | 0.2% |
+The files under `data/processed/step05_calibration/` are versioned so that the approved sample design and current execution state are fully documented. However, if a local run failed because the model endpoint was unavailable or unauthorized, those outputs should be treated as **execution artifacts rather than substantive classification evidence**. The correct next action is to rerun the approved 20-case calibration with a working model endpoint, inspect the resulting report, and only then decide whether to launch the remaining 156 events.
 
 ## Next step
 
-Step 06 will compute **Cohen’s kappa** on a stratified random sample of events to assess agreement between the LLM coding and a human-coded benchmark.
+The next valid milestone is to execute the approved 20-case calibration with a working LLM endpoint, generate a clean calibration report, and pause for review. Only after that review should the project create the final full-run outputs for the complete 176-event Step 05 dataset.
